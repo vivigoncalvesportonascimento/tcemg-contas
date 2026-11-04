@@ -1,0 +1,34 @@
+Este projeto objetiva criar um repositório com documentações do tribunal de contas e sua equipe técnica Cfamge para poder criar um contexto de documentação para consulta e para resposta a novos questionamentos e pedido de informações do tribunal de contas de minas gerais.
+Para gerenciar este projeto quero que utilize o poetry, então instale o que for necessário para ele funcionar.
+Feito isso e outras instalações necessárias, como por exemplo para consultar e analisar a documentação que esta salva em formato pdf nas pastas que estão dentro da pasta data vamos começar a trabalhar na primeira demanda deste projeto.
+
+1) Demanda 01 - Responder aos apontamentos que estão no Ofício SEF/STE nº. 288/2026 no caminho data\demandas-resposta\SEI_152570480_Oficio_288.pdf . As demandas foram compiladas para o arquivo data\demandas-resposta\oficio_sef_288_2026_quadro_recomendacoes_determinacoes.csv
+
+Antes de selecionar o que deve ser analisado/respondido, analise o conteúdo da coluna SPLOR - Direcionamento do arquivo data\demandas-resposta\oficio_sef_288_2026_quadro_recomendacoes_determinacoes.csv
+
+Analisar e responder as que contem estas informações "Responder" ou "Verificar antes de responder se deve ser recomendado a SUGESP/SEPLAG e SEF" ou "Responder, mas verificar se esbarra em competência da SPLOR/SEPLAG"
+
+Estamos respondendo como Subsecretaria de Planejamento e Orçamento - SPLOR/SEPLAG, então para verificar se temos competência e obrigação de responder, pode analisar o conteúdo do Decreto 48.636/2023, contido no caminho data\legislacao-basica\Decreto nº 48.636, de 19_06_2023.pdf  . Tem também o Decreto  nº 48.680 que versa sobre competências da SEF (data\legislacao-basica\Decreto nº 48.680, de 30_08_2023.pdf)
+Demandas sobre os Acordos de Brumadinho e Rio Doce e projetos estratégicos não são com a SPLOR por exemplo. O restante é importante analisar a questão da competência também para verificar se devem ser feitas outras recomendações de envio para outras áreas.
+
+Agora vamos ao passo a passo do que tem que fazer:
+
+1) Analise o conteúdo do  Ofício SEF/STE nº. 288/2026 no caminho data\demandas-resposta\SEI_152570480_Oficio_288.pdf . As demandas foram compiladas para o arquivo data\demandas-resposta\oficio_sef_288_2026_quadro_recomendacoes_determinacoes.csv
+
+2) Identifique o que tem que ser respondido por meio da classificação na coluna SPLOR - Direcionamento do arquivo data\demandas-resposta\oficio_sef_288_2026_quadro_recomendacoes_determinacoes.csv . 
+Analisar e responder as que contem estas informações "Responder" ou "Verificar antes de responder se deve ser recomendado a SUGESP/SEPLAG e SEF" ou "Responder, mas verificar se esbarra em competência da SPLOR/SEPLAG"
+
+3) Analisar e resumir a explicação para a demanda do TCEMG que parte principalmente destes dois arquivos data\analise-contas\2025_tcemg_analise_contas.pdf e data\analise-contas\2025_tcemg_analise_defesa_estado.pdf para as demandas de 2025, para os demais anos também devem ser consultados o que esta na pasta data\analise-contas de acordo com os anos das recomendações e determinações.
+
+4) Verificar e compilar as duas ultimas respostas (se tiver) da SPLOR para recomendações, determinações e apontamentos contidos no arquivo que vamos responder (data\demandas-resposta\SEI_152570480_Oficio_288.pdf e data\demandas-resposta\oficio_sef_288_2026_quadro_recomendacoes_determinacoes.csv), consultando as respostas anteriores que estão na pasta data\respostas-Splor . Para consultar e trazer as duas ultimas respostas pode ser de apontamentos similares que guardem alguma relação, não precisa ser exatamente.
+No arquivo data\analise-contas\2025_tcemg_analise_defesa_estado.pdf e outros arquivos de analise da defesa do estado contidos na pasta data\analise-contas deve ter também as últimas manifestações do Estado de MG sobre os temas
+
+5) Sugerir uma resposta para cada apontamento. Para isso utilize as respostas anteriores e também os documentos que estão dispostos nas pastas data\documentacao-complementar e data\legislacao-basica e outras consultas que fizer em normativos diversos, manifestações tecncias e o que mais encontrar que possa subsidiar a resposta. Caso seja necessário que inclua no repositório alguma base de dados de execução orçamentária ou previsão orçamentária informar para que possa incluir.
+
+6) Prepare um documento profissional com layout e disposição clara para poder compartilhar com a equipe, contendo:
+Apontamento a ser respondido
+Breve resumo do que se trata o apontamento se possível indicando a pagina nos relatórios do TCEMG que tratam do tema
+Duas ultimas respostas do Governo de MG quando houver (verificar respostas-Splor e o que o próprio tribunal traz nos seus relatórios como citação de resposta do Estado de MG)
+Sugestão de resposta ao tribunal a demanda.
+Este documento deve ser em word editável.
+
