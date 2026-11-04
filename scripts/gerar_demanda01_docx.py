@@ -255,6 +255,12 @@ def introducao(doc) -> None:
         "Para cada apontamento, a ficha traz: o texto do apontamento; um resumo do tema, com as páginas dos "
         "relatórios do TCEMG; a análise de competência; as duas últimas respostas do Governo de MG; a minuta "
         "de resposta sugerida; os pontos de atenção que a equipe precisa validar antes do envio.",
+        "As respostas anteriores foram levantadas por varredura de todo o acervo data/respostas-splor (119 "
+        "documentos, de 2023 a 21/10/2026), por palavras-chave do tema, com o script "
+        "scripts/buscar_respostas_anteriores.py. Não se limitaram aos ofícios de monitoramento: incluem os "
+        "relatórios temáticos, as defesas dos Balanços, alertas e representações. Para cada ficha, a tabela traz "
+        "as duas manifestações mais recentes sobre o tema, mesmo que relativas a apontamento similar, e a linha "
+        "seguinte lista as demais manifestações relacionadas encontradas, para consulta da equipe.",
     ]
     for t in textos:
         p = doc.add_paragraph(t)
@@ -337,7 +343,7 @@ def ficha(doc, n: int, it: dict) -> None:
     p = doc.add_paragraph(it["competencia"])
     p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
 
-    subtitulo(doc, "Duas últimas respostas do Governo de MG")
+    subtitulo(doc, "Duas últimas respostas da SPLOR/Governo de MG sobre o tema")
     cab = ["Documento", "Data", "Status informado", "Síntese"]
     t = doc.add_table(rows=1, cols=4)
     t.style = "Table Grid"
@@ -350,6 +356,15 @@ def ficha(doc, n: int, it: dict) -> None:
             texto_celula(linha[i], v, tamanho=8.5)
     nao_quebrar_linhas(t)
     larguras(t, [4.0, 1.9, 2.3, 8.8])
+    if it.get("outras"):
+        p = doc.add_paragraph()
+        r = p.add_run("Outras manifestações relacionadas no acervo (data/respostas-splor): ")
+        r.bold = True
+        r.font.size = Pt(9)
+        r.font.color.rgb = AZUL
+        r2 = p.add_run(it["outras"])
+        r2.font.size = Pt(9)
+        p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     doc.add_paragraph().paragraph_format.space_after = Pt(2)
 
     subtitulo(doc, "Sugestão de resposta ao TCEMG")
@@ -403,8 +418,8 @@ def anexos(doc) -> None:
     fontes = [
         "Ofício SEF/STE nº 288/2026 e quadro de controle (data/demandas-resposta).",
         "TCEMG – Relatório sobre a Macrogestão e Contas do Governador, exercícios 2023, 2024 e 2025; "
-        "Relatório de Análise da Defesa do Estado, exercício 2025 (data/analise-contas).",
-        "Respostas SPLOR: Nota Técnica nº 21/2026; Memorandos nº 195/2025 e 198/2025; Ofício nº 13/2025; Nota "
+        "Relatório de Análise da Defesa do Estado, exercício 2025; Of. TCEMG 21465/2026 – Decreto NE 673/2026 (data/analise-contas).",
+        "Respostas SPLOR: Nota Técnica nº 21/2026; Memorandos nº 149/2026, 195/2025 e 198/2025; Ofício nº 13/2025; Nota "
         "Técnica nº 38/2024 (data/respostas-splor).",
         "Relatório de Transição SPLOR 2026, versão de 28/10/2026; RGF 2026 – 2º quadrimestre "
         "(data/documentacao-complementar).",

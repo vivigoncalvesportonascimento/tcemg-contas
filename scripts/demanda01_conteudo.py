@@ -38,15 +38,12 @@ ITENS = [
                        "citando SEGOV e SEF como parceiras. Atenção: no OF SPLOR 13/2025, a SPLOR encaminhou à "
                        "SEGOV o item correlato R7/2022 (indicador contábil de emendas). Convém manter coerência.",
         "respostas": [
-            ("Memo SEPLAG/SPLOR nº 195/2025", "19/12/2025", "Sem novidade",
-             "Reiterou a NT 38/2024: não há capacidade operacional para novos IPUs no sistema atual. Com o "
-             "GRP-Minas, o IPU ganhará um dígito adicional, o que permitirá códigos específicos por tipo de "
-             "emenda."),
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024", "11/10/2024", "Em tratamento",
-             "Informou que as 10 variações do IPU já estão em uso. As emendas federais passaram a ser "
-             "segregadas por novas fontes de recursos em 2023 (01, 02, 03, 04, 07, 08, 62 a 65). As emendas "
-             "estaduais (IPU 8) dependem do GRP-Minas."),
+            ('Memo SEPLAG/SPLOR nº 125/2026 (ADPF 854 – rastreabilidade de emendas)', '09/09/2026', 'Não se aplica',
+             'Em resposta à determinação do STF (ADPF 854) de identificar e rastrear emendas a partir da LOA 2027: o Siafi-MG não comporta novos campos e códigos, e alterações teriam reflexos no SIGCON e no Portal de Compras. Os mecanismos devem ser incorporados ao GRP-Minas. Na transição, propôs articulação com a SEGOV e encaminhamento à SEF.'),
+            ('Memo SEPLAG/SPLOR nº 195/2025', '19/12/2025', 'Sem novidade',
+             'Reiterou a NT 38/2024: não há capacidade operacional para novos IPUs no sistema atual. O GRP-Minas trará dígito adicional ao IPU, permitindo identificadores por tipo de emenda.'),
         ],
+        "outras": 'NT 38/2024 (DEA5, Em tratamento: fontes de emendas federais criadas em 2023); OF SPLOR 13/2025 (R7/2022 encaminhado à SEGOV); Memo SPLOR 14/2025 (proposta da UPG, citado no BGE 2024); Memo 01/2024 (dados de execução de emendas: competência SEGOV/Casa Civil).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -56,6 +53,10 @@ ITENS = [
             "módulo de Programação Orçamentária, que a SEPLAG desenvolve com a SEF. No GRP, o IPU passará a "
             "ter um dígito adicional, o que permitirá criar identificadores próprios para emendas individuais, "
             "de bloco e de bancada.",
+            "A medida converge com a determinação do STF na ADPF 854, que exige mecanismos objetivos de "
+            "identificação e rastreabilidade das emendas parlamentares a partir da LOA 2027. Conforme já informado "
+            "no Memo SEPLAG/SPLOR nº 125/2026, essa determinação também será atendida na parametrização do "
+            "GRP-Minas.",
             "Até a implantação, a SPLOR mantém, em articulação com a SEGOV, a identificação do tipo de emenda "
             "pela Unidade de Programação do Gasto (UPG), consultável no Armazém de Informações – Siafi, e a "
             "divulgação no Portal de Emendas.",
@@ -98,14 +99,12 @@ ITENS = [
         "competencia": "Competência da SPLOR: elaboração, monitoramento e avaliação do planejamento e do "
                        "orçamento (arts. 35, 37 e 39 do Decreto 48.636/2023).",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (D21 e D39/2021)", "19/06/2026", "Atendida",
-             "Informou a evolução do IAP, que chegou a 51,04% em 2025 (43,13% em 2021), como evidência do "
-             "aperfeiçoamento do planejamento. Para a D39, remeteu à D21."),
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024 (D39/2021)", "11/10/2024", "Atendida",
-             "Comparou crédito inicial e despesa empenhada. Excluída a fonte 20 (mudança de metodologia das "
-             "transferências a municípios), a execução de 2022 ficou 1,19% acima do planejado. Em 2023, ficou "
-             "0,68% abaixo."),
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026 (D21 e D39/2021)', '19/06/2026', 'Atendida',
+             'Evolução do IAP para 51,04% em 2025 (43,13% em 2021) como evidência do aperfeiçoamento do planejamento. Para a D39, remeteu à D21.'),
+            ('Memo SEPLAG/SPLOR nº 198/2025 (D5/2022 – programação × execução)', '22/12/2025', 'Atendido',
+             'A LOA não é rígida e admite adequações por créditos adicionais nos limites legais. Os desvios entre o planejado e o executado são monitorados e justificados bimestralmente. Compromisso de otimizar a elaboração para mitigar decretos de programação.'),
         ],
+        "outras": "NT 38/2024 (D39, Atendida: crédito inicial × empenho 2022-2023); OF SPLOR 13/2025 (D5/2022: OBZ, COFIN e indicador 'Sucesso do Planejamento Orçamentário' de 89,96% em 2024); OF SPLOR 19/2025 e Memo 179/2025 (Relatórios Temáticos de Planejamento 2025).",
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento (aprimoramento contínuo).",
@@ -153,15 +152,12 @@ ITENS = [
         "competencia": "Competência da SPLOR: normas e metodologias de elaboração, revisão e monitoramento do "
                        "PPAG (art. 39, I e III, do Decreto 48.636/2023).",
         "respostas": [
-            ("Memo SEPLAG/SPLOR nº 198/2025 (R3 e D6/2020)", "22/12/2025", "Atendida (D6)",
-             "Descreveu a vinculação aos ODS desde 2017, o Sapp-MG (Decreto 48.298/2021), o Relatório de "
-             "Percurso da FJP, as oficinas de 2022 e 2024, o benchmarking e o painel em Power BI 'em fase de "
-             "estruturação'. Atenção: classificou a D6 como 'Atendida', embora o texto informe que o painel "
-             "não estava concluído."),
-            ("Ofício SEPLAG/SPLOR nº 13/2025", "19/05/2025", "Em tratamento",
-             "Mesmos fundamentos: vinculação aos ODS, Sapp-MG, Relatório FJP, capacitações (6º Ciclo de "
-             "Assessoramento – Mapa de Indicadores) e PL 335/2019 na ALMG."),
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026 (D18/2021, mesmo tema)', '19/06/2026', 'Em tratamento',
+             'Painel interativo em desenvolvimento com dados oficiais para dar transparência aos indicadores ODS e ao alinhamento programas × ODS. Capacitações e conferência sobre a Agenda 2030 sediada em MG em 2026.'),
+            ('Memo SEPLAG/SPLOR nº 198/2025 (R3 e D6/2020)', '22/12/2025', 'Atendida (D6)',
+             "Vinculação aos ODS desde 2017, Sapp-MG, Relatório de Percurso da FJP, oficinas, benchmarking e painel em Power BI 'em fase de estruturação'. Atenção: status 'Atendida', embora o painel não estivesse concluído."),
         ],
+        "outras": 'OF SPLOR 13/2025 (R3, Em tratamento); NT 38/2024 (D6 e REA16, Em tratamento); Memo 03/2024 (Relatório Temático 41/2023 – Planejamento).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -210,13 +206,12 @@ ITENS = [
                        "programação (art. 37, III e VI, do Decreto 48.636/2023). A sustentação e as regras do "
                        "Siafi/GRP são da SEF, que deve ser citada como corresponsável pela solução sistêmica.",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024 (R1/2021, mesmo objeto)", "11/10/2024", "Atendida",
-             "Informou que os decretos orçamentários passaram a trazer, no art. 2º, fonte de recurso, origem e "
-             "valor, mesmo quando há uma única fonte e origem."),
-            ("Manifestação SEPLAG no RCI 2023 (citada no BGE 2023/2024)", "2024", "Em tratamento",
-             "Aprimoramento dos controles para evitar erros formais nas suplementações. A limitação do Siafi "
-             "para registrar a suplementação de crédito especial será tratada no GRP-Minas."),
+            ('Memo SEPLAG/SPLOR nº 170/2025 (Relatório Temático 32/2025 – Créditos Adicionais)', '06/11/2025', 'Não se aplica',
+             'A Cfamge apontou divergências entre decretos (nº 577 e 632/2025) e os valores do Siafi. A SPLOR esclareceu que os decretos foram corretamente elaborados e publicados no Diário Oficial e que o erro material estava na publicação do sítio da ALMG. Evidência de conferência decreto × Siafi.'),
+            ('Nota Técnica SEPLAG/SPLOR nº 38/2024 (R1/2021, mesmo objeto)', '11/10/2024', 'Atendida',
+             'Os decretos orçamentários passaram a trazer, no art. 2º, fonte de recurso, origem e valor, mesmo com uma única fonte e origem.'),
         ],
+        "outras": 'Manifestação da SEPLAG no RCI 2023 (citada no BGE 2023, p. 591, e BGE 2024, p. 616: limitação do Siafi para suplementação de crédito especial); OF SPLOR 40/2024 e 63/2024 (Relatórios Temáticos de Créditos Adicionais 2024).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -266,11 +261,12 @@ ITENS = [
                        "contribui no monitoramento de indicadores fiscais (art. 37, IV). Recomenda-se responder "
                        "informando o fluxo conjunto e encaminhar à SUGESP e à SEF para complementação.",
         "respostas": [
-            ("Memo SEPLAG/SPLOR nº 198/2025", "22/12/2025", "Não informado",
+            ('Memo SEPLAG/SPLOR nº 200/2025 (BGE 2024 – C12)', '30/12/2025', 'Não informado',
+             'Ao pedido de informar as medidas corretivas para recondução ao limite de pessoal, remeteu à SUGESP, conforme o Memo SPLOR 82/2025.'),
+            ('Memo SEPLAG/SPLOR nº 198/2025', '22/12/2025', 'Não informado',
              "'Matéria de competência da SEF.'"),
-            ("Ofício SEPLAG/SPLOR nº 13/2025", "19/05/2025", "Não informado",
-             "'Demanda deve ser respondida pela Secretaria de Estado de Fazenda.'"),
         ],
+        "outras": "OF SPLOR 13/2025 ('deve ser respondida pela SEF'); Memo 170/2024 (Monitoramento das Contas de 2022 e 2023).",
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento (atuação conjunta SEF e SEPLAG).",
@@ -319,12 +315,12 @@ ITENS = [
                        "COFIN. O CSV indica 'Responder'. Sugere-se resposta da SPLOR sobre a parcela "
                        "orçamentária, complementada pela SUGESP.",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (R11/2021)", "19/06/2026", "Não informado",
-             "'A manifestação acerca do pagamento do piso nacional do magistério é de competência da SUGESP.'"),
-            ("Ofício SEPLAG/SPLOR nº 13/2025 (R30/2020)", "19/05/2025", "Não informado",
-             "'Demanda deve ser respondida pela Subsecretaria de Gestão de Pessoas.' Antes disso, a NT 38/2024 "
-             "transcreveu a AEI/SEPLAG: 'Atendida', sem reajustes em 2021."),
+            ('Memo SEPLAG/SPLOR nº 133/2026 (Alerta TCE – Processo 1.214.461)', '21/09/2026', 'Não se aplica',
+             'DTP de 48,10% da RCL no 1º quadrimestre de 2026, abaixo dos 66,65% de 2018. Reajustes do piso do magistério (Leis 24.383/2023 e 25.245/2025) e revisão geral de 5,4% (Lei 25.804/2026). A SPLOR acompanhará a DTP e adotará cautelas para compatibilizar execução e planejamento com a recondução abaixo do prudencial.'),
+            ('Memo SEPLAG/SPLOR nº 64/2026 (Alerta – RGF 3º quadrimestre de 2025)', '11/06/2026', 'Não se aplica',
+             'Medidas de contenção desde 2019. Redução de 66,65% (2018) para 48,10%. Reconhece que o índice supera o prudencial e que o Executivo segue as vedações da LRF.'),
         ],
+        "outras": 'NT 21/2026 (R11: competência da SUGESP); OF SPLOR 13/2025 (R30: SUGESP); NT 38/2024 (R11, Atendida, transcrição AEI); Memo 135/2026 (Relatório Temático 21/2026 – Pessoal); Memo 108/2024 (SUGESP).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -368,13 +364,12 @@ ITENS = [
                        "impedimento de competência para a SPLOR responder; basta citar a SEF na parte "
                        "sistêmica.",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024", "11/10/2024", "Atendido",
-             "Os decretos passaram a explicitar, no art. 2º, fonte de recurso, origem e valor, mesmo com uma "
-             "única fonte e origem, cumprindo o disposto na norma e no ato praticado."),
-            ("Manifestação SEPLAG no RCI 2023 (citada no BGE 2024, p. 616)", "2024", "Em tratamento",
-             "Controles aprimorados para mitigar erros formais. A limitação do Siafi para crédito especial será "
-             "solucionada no GRP-Minas."),
+            ('Memo SEPLAG/SPLOR nº 170/2025 (Relatório Temático 32/2025 – Créditos Adicionais)', '06/11/2025', 'Não se aplica',
+             'Divergências apontadas entre decretos e o Siafi decorreram de erro material na publicação da ALMG. Os decretos do Executivo estavam corretos no Diário Oficial e conferem com os registros do Siafi.'),
+            ('Nota Técnica SEPLAG/SPLOR nº 38/2024', '11/10/2024', 'Atendido',
+             'Os decretos passaram a explicitar, no art. 2º, fonte de recurso, origem e valor, mesmo com uma única fonte e origem, cumprindo o disposto na norma e no ato praticado.'),
         ],
+        "outras": 'Manifestação SEPLAG no RCI 2023 (BGE 2024, p. 616); OF SPLOR 40/2024 e 63/2024 (Créditos Adicionais 2024).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -413,13 +408,12 @@ ITENS = [
                        "art. 77 do Decreto 48.636/2023). A SPLOR responde pela parcela orçamentária e pelo "
                        "monitoramento fiscal (art. 37, IV).",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026", "19/06/2026", "Não informado",
-             "'A manifestação acerca das medidas adotadas com vistas à redução do percentual de despesas de "
-             "pessoal é de competência da SUGESP.'"),
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024 (transcrição AEI/SEPLAG)", "11/10/2024", "Atendida",
-             "Informou o cumprimento das vedações da LRF, a ausência de reajustes em 2021 e as restrições a "
-             "concursos, nomeações e contratações temporárias."),
+            ('Memo SEPLAG/SPLOR nº 135/2026 (Relatório Temático 21/2026 – Pessoal)', '23/09/2026', 'Não se aplica',
+             'Executivo em 48,10% da RCL. A trajetória reflete o ajuste fiscal, e a evolução recente decorre de reajustes legais (piso do magistério e revisão geral). A SPLOR seguirá acompanhando a DTP. Sugeriu encaminhamento à SUGESP e à SEF.'),
+            ('Memo SEPLAG/SPLOR nº 133/2026 (Alerta TCE – Processo 1.214.461)', '21/09/2026', 'Não se aplica',
+             'Redução de 66,65% (2018) para 48,10% (1º quadrimestre de 2026). Rigidez da despesa, crescimento vegetativo e leis de reajuste. Compromisso de compatibilizar o planejamento com a recondução abaixo do prudencial.'),
         ],
+        "outras": 'NT 21/2026 (R12: competência da SUGESP); Memo 64/2026 (alerta RGF 3º quadrimestre de 2025); NT 38/2024 (R12, Atendida, transcrição AEI).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -464,6 +458,7 @@ ITENS = [
              "Benchmarking da União e de outros estados. Priorização de painel em Power BI com microdados do "
              "IBGE e da FJPdados, por objetivo, indicador, órgão, programa e território."),
         ],
+        "outras": 'OF SPLOR 13/2025 (D6/D18, Em tratamento); NT 38/2024 (D18, Em tratamento).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -506,14 +501,12 @@ ITENS = [
         "competencia": "Competência da SPLOR: elaboração da LOA e de seus demonstrativos exigidos pela LDO "
                        "(art. 37, II, e art. 39, II e IV, do Decreto 48.636/2023).",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (D22 e C3)", "19/06/2026", "Em tratamento",
-             "Comprometeu-se a aperfeiçoar, já na LOA 2027, a seleção dos programas, priorizando os de impacto "
-             "mais direto e evitando despesas de relação apenas indireta. Também avaliaria explicitar a "
-             "metodologia de proporcionalização populacional e as estimativas por município."),
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024", "11/10/2024", "Atendida",
-             "Explicou a proporcionalização populacional dos localizadores genéricos e a retirada, a partir de "
-             "2025, das UOs 1915/1916 e das funções 28 e 99. Defendeu a manutenção de proventos de inativos."),
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026 (D22 e C3)', '19/06/2026', 'Em tratamento',
+             "Comprometeu-se a aperfeiçoar o demonstrativo 'já na LOA 2027', priorizando programas de impacto mais direto. Também avaliaria explicitar a metodologia de proporcionalização e as estimativas por município."),
+            ('Memo SEPLAG/SPLOR nº 179/2025 (Relatório Temático 31/2025 – item d)', '24/11/2025', 'Não se aplica',
+             'Detalhou os critérios do demonstrativo (despesas municipalizadas; localizadores genéricos proporcionalizados pela população do IBGE; exclusão das UOs 1915/1916 e das funções 28 e 99). Explicou que a proporcionalização é critério complementar e não substitui a regionalização efetiva.'),
         ],
+        "outras": 'OF SPLOR 19/2025 (Relatório Temático 02/2025, origem do pedido de estimativas por município); NT 38/2024 (D22, Atendida).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -568,14 +561,12 @@ ITENS = [
                        "37 e 39 do Decreto 48.636/2023), com dependência do sistema de folha (SUGESP) e do "
                        "GRP-Minas (SEF).",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026", "19/06/2026", "Em tratamento",
-             "Atribuiu o retrocesso à ação padronizada 2417, transitória por exigência da implantação do novo "
-             "sistema de pessoal no GRP. Sem a 2417, a concentração em atividades-meio seria 7,67% do crédito "
-             "inicial e 2,33% da despesa realizada, em vez de 45,08% e 39,71%. A apropriação seria "
-             "restabelecida após a implantação do GRP."),
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024", "11/10/2024", "Não tratado",
-             "Não abordou a D33 (o item foi incluído no monitoramento posteriormente)."),
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026 (D33)', '19/06/2026', 'Em tratamento',
+             'O retrocesso decorreu da ação padronizada 2417, transitória por exigência da implantação do novo sistema de pessoal no GRP. Sem a 2417, a concentração seria 7,67% do crédito inicial e 2,33% da despesa realizada.'),
+            ('Memo SEPLAG/SPLOR nº 194/2025 (Relatório Temático 54/2025 – Execução da LOA)', '18/12/2025', 'Não se aplica',
+             "Sem informação adicional. Registrou que a ação 2417 existe em virtude da implantação do GRP, questão 'já respondida anteriormente'."),
         ],
+        "outras": 'Não há outras manifestações da SPLOR sobre a D33 no acervo.',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -617,12 +608,12 @@ ITENS = [
         ],
         "competencia": "Competência da SPLOR (arts. 35, 37 e 39 do Decreto 48.636/2023).",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026", "19/06/2026", "Remete à D21 (Atendida)",
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026', '19/06/2026', 'Remete à D21 (Atendida)',
              "'Vide justificativa apresentada na D21': evolução do IAP para 51,04% em 2025."),
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024", "11/10/2024", "Atendida",
-             "Variação entre crédito inicial e empenho de +1,19% em 2022 (excluída a fonte 20) e de −0,68% em "
-             "2023."),
+            ('Memo SEPLAG/SPLOR nº 198/2025 (D5/2022 – programação × execução)', '22/12/2025', 'Atendido',
+             'Adequações da LOA são previstas em lei. Os desvios são monitorados e justificados bimestralmente.'),
         ],
+        "outras": 'NT 38/2024 (D39, Atendida: +1,19% em 2022 e −0,68% em 2023); OF SPLOR 13/2025 (D5/2022).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -660,6 +651,7 @@ ITENS = [
              "Esforços de equilíbrio, especialmente pelas tratativas de adesão ao Propag, com transparência e "
              "prudência nas estimativas."),
         ],
+        "outras": 'Memo 170/2024 (Monitoramento das Contas de 2022 e 2023); Relatório de Transição SPLOR 2026 (série de déficits previstos × resultados).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -708,6 +700,7 @@ ITENS = [
              "Janelas orçamentárias evitadas quando possível. Convênios e acordos seguem como desafio. 15% dos "
              "programas abaixo de 50% em 2024."),
         ],
+        "outras": 'Memo 170/2024 (Monitoramento das Contas de 2022 e 2023).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -762,14 +755,12 @@ ITENS = [
         "competencia": "Competência da SPLOR: elaboração da LOA e normas de programação (arts. 37 e 39 do "
                        "Decreto 48.636/2023).",
         "respostas": [
-            ("Memo SEPLAG/SPLOR nº 198/2025", "22/12/2025", "Em tratamento",
-             "Mecanismo essencial para receitas de previsão incerta (convênios, emendas, superávit). "
-             "Suplementar dotação existente é mais ágil que abrir crédito especial. Esforço para minimizar o "
-             "uso, como nos precatórios (ação 7004)."),
-            ("Ofício SEPLAG/SPLOR nº 13/2025", "19/05/2025", "Em tratamento",
-             "Mesma linha: finalidade estratégica, uso criterioso e excepcional, e a estimativa de receitas na "
-             "LDO feita em maio do ano anterior."),
+            ('Memo SEPLAG/SPLOR nº 179/2025 (Relatório Temático 31/2025 – item a)', '24/11/2025', 'Não se aplica',
+             "Sobre a Ação 1081 – Invista em Minas (janela de R$ 1 mil com execução física sem despesa): a SEDE reclassificará a ação como 'não orçamentária' a partir de 2027, conforme o Manual do PPAG. Exemplo de revisão de janela."),
+            ('Memo SEPLAG/SPLOR nº 198/2025', '22/12/2025', 'Em tratamento',
+             'Janelas são essenciais para receitas de previsão incerta (convênios, emendas, superávit). Suplementar dotação existente é mais ágil que abrir crédito especial. Esforço para minimizar o uso, como nos precatórios (ação 7004).'),
         ],
+        "outras": 'OF SPLOR 13/2025 (R40, Em tratamento); Memo 187/2025 (Orçamento de Investimento); OF SPLOR 55/2024 e Memo 120/2024 (Relatório Temático 06/2024 – Planejamento); Memo 170/2024.',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -825,14 +816,12 @@ ITENS = [
                        "Decreto 48.636/2023), em conjunto com a SUGESP (sistema de folha) e a SEF (GRP-Minas e "
                        "sistema de custos).",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (D42)", "19/06/2026", "Não informado",
-             "A alteração decorreu da compatibilização com o novo sistema de pessoal no GRP. A apropriação "
-             "seria restabelecida 'tão logo o GRP esteja implantado e testado, e considerando a viabilidade do "
-             "sistema'."),
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (D33)", "19/06/2026", "Em tratamento",
-             "Caráter transitório, sem mudança na destinação efetiva dos recursos. Indicadores recalculados "
-             "sem a 2417."),
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026 (D42)', '19/06/2026', 'Não informado',
+             "A alteração decorreu da compatibilização com o novo sistema de pessoal no GRP. A apropriação seria restabelecida 'tão logo o GRP esteja implantado e testado'."),
+            ('Memo SEPLAG/SPLOR nº 194/2025 (Relatório Temático 54/2025 – Execução da LOA)', '18/12/2025', 'Não se aplica',
+             "Ação 2417 'existente em virtude da implantação do GRP', questão já respondida. Sem informações adicionais."),
         ],
+        "outras": 'NT 21/2026 (D33, mesmo tema: indicadores recalculados sem a 2417).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -887,14 +876,12 @@ ITENS = [
                        "Decreto 48.636/2023). A classificação da receita e a eventual aplicação da DRU envolvem "
                        "a SEF e a AGE. A execução envolve SEMAD, FEAM, IEF, PMMG e FFP/IPSEMG.",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (D44)", "19/06/2026", "Não informado",
-             "Defendeu a finalidade ambiental dos gastos da PMMG (Companhias de Meio Ambiente, cooperação com o "
-             "SISEMA) e a vinculação pelo IPU à UO 2091. Comprometeu-se a reavaliar o uso da Fonte 52 nos "
-             "inativos da FEAM."),
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (C33)", "19/06/2026", "Não informado",
-             "Informou que está sendo providenciada, ainda em 2026, a substituição da Fonte 52 por outra fonte "
-             "própria da FEAM na complementação das despesas com inativos."),
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026 (D44 e C33)', '19/06/2026', 'Não informado',
+             'Defendeu a finalidade ambiental dos gastos da PMMG e a vinculação pelo IPU à UO 2091. Comprometeu-se a substituir, ainda em 2026, a Fonte 52 nos inativos da FEAM e a reavaliar o uso da fonte.'),
+            ('Memo SEPLAG/SPLOR nº 200/2025 (BGE 2024 – C27)', '30/12/2025', 'Não se aplica',
+             'Sustentou que a TFAMG custeou despesas ligadas ao poder de polícia ambiental, ainda que executadas em outras UOs: policiamento ambiental da PMMG, TIC da SEPLAG e almoxarifado virtual da EGE-SEPLAG, por economia de escala. Disse que os inativos da FEAM são despesa da Fundação executada no FFP.'),
         ],
+        "outras": 'OF SPLOR 32/2024 (previsão de receita da Fonte 52 – FEAM); Memo 51/2024 (Auditoria Operacional – Fiscalização Ambiental); Memo 198/2025 (RIII.2.2: dívida ativa das fontes 52/72, competência SEF).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -923,6 +910,11 @@ ITENS = [
             "empenhados. O TCE verá isso no BGE 2026. Avaliar se ainda é possível corrigir a fonte em 2026 e "
             "preparar a justificativa.",
             "Confirmar a fonte que substituiu a Fonte 52 nos inativos da FEAM em 2026.",
+            "Coerência com o Memo SPLOR 200/2025 (BGE 2024, C27): naquela resposta, a SPLOR defendeu o uso da "
+            "TFAMG pela PMMG, pela TIC da SEPLAG e pelo almoxarifado da EGE-SEPLAG. A minuta atual muda de "
+            "posição: restringe a fonte a SEMAD, FEAM e IEF a partir de 2027. Convém dizer isso de forma "
+            "explícita, como acolhimento da determinação, e não como reconhecimento de irregularidade passada. "
+            "Validar a redação com a AGE.",
             "A decisão entre restringir a fonte ou formalizar a DRU (art. 76-A) é estratégica e precisa da SEF e "
             "da AGE. Não assumir as duas opções sem decisão.",
         ],
@@ -949,8 +941,15 @@ ITENS = [
             "da UO 1991, somando R$ 1.166,23 milhões, mais que o dobro de 2025. Em 32 deles, a anulação da "
             "Reserva aparece junto com outras anulações e remanejamentos no mesmo ato, exatamente a situação "
             "criticada pela Cfamge. Três decretos concentram 74,8% do valor: na numeração do Siafi, o 110 "
-            "(22/06/2026, R$ 527,0 mi para a UO Participação no Aumento de Capital de Empresas), o 38 "
-            "(11/03/2026, R$ 228,6 mi para o DER-MG) e o 108 (17/06/2026, R$ 116,7 mi para a SEINFRA).",
+            "(R$ 527,0 mi), o 38 (11/03/2026, R$ 228,6 mi para o DER-MG) e o 108 (17/06/2026, R$ 116,7 mi para a "
+            "SEINFRA).",
+            "O Siafi 110 é o Decreto com Numeração Especial nº 673, de 19/06/2026. Ele suplementou "
+            "R$ 1.209,34 mi na ação 7700 (Participação no Aumento de Capital de Empresas, UO 1915) para aporte "
+            "na MGI, financiados por R$ 526,98 mi da Reserva de Contingência e R$ 687,36 mi do FFP-MG (ação "
+            "7957, Fonte 10). A Cfamge identificou o uso da Reserva nesse decreto pelo Armazém Siafi e pediu "
+            "esclarecimentos (Of. 21465/2026, de 15/10/2026, data/analise-contas). Os questionamentos foram o "
+            "limite de suplementação, a adequação das fontes (Reserva e FFP) e as finalidades do aporte. A "
+            "SPLOR respondeu pelo Memo SEPLAG/SPLOR nº 149/2026.",
         ],
         "competencia": "Competência da SPLOR: elaboração dos decretos de alteração orçamentária (art. 37, III "
                        "e VI, do Decreto 48.636/2023).",
@@ -958,9 +957,14 @@ ITENS = [
             ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (R49)", "19/06/2026", "Não informado",
              "A utilização da Reserva já é identificada de forma específica: o anexo do decreto evidencia "
              "individualmente a dotação da UO 1991. Entendeu que a sistemática atende à transparência."),
-            ("Nota Técnica SEPLAG/SPLOR nº 38/2024 (R1/2021, prática análoga)", "11/10/2024", "Atendido",
-             "Precedente: o art. 2º dos decretos passou a explicitar fonte, origem e valor do recurso."),
+            ("Memo SEPLAG/SPLOR nº 149/2026 (Decreto NE 673/2026 – MGI)", "21/10/2026", "Não se aplica",
+             "Em resposta ao Of. TCE 21465/2026: o crédito onerou o limite de 30% do Orçamento Fiscal (art. 9º "
+             "da LOA 2026), e não o de 10% do Orçamento de Investimento (art. 11). O uso da Reserva tem amparo "
+             "no art. 43, § 1º, III, da Lei 4.320/64 e no art. 12 da LDO 2026 (Lei 25.440/2025). A anulação no "
+             "FFP atingiu apenas Fonte 10, sem recursos previdenciários. O anexo do decreto identifica as "
+             "dotações anuladas."),
         ],
+        "outras": 'NT 38/2024 (R1/2021: art. 2º dos decretos com fonte, origem e valor); Memo 170/2025 (conferência decreto × Siafi); Memo 84/2026 (Representação 1.214.624 – crédito suplementar por excesso de arrecadação).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento, com implementação a partir de [data, por exemplo, 01/12/2026].",
@@ -969,6 +973,10 @@ ITENS = [
             "próprio e destacado com o montante anulado da UO 1991 – Reserva de Contingência. Esse montante "
             "ficará separado das demais anulações de dotações. Exemplo de redação: 'II – anulação de dotação "
             "da Reserva de Contingência (UO 1991), no valor de R$ ...'.",
+            "A utilização da Reserva de Contingência como fonte de créditos adicionais tem amparo no art. 43, "
+            "§ 1º, III, da Lei 4.320/1964 e no art. 12 da LDO 2026 (Lei 25.440/2025), como já esclarecido ao "
+            "TCEMG no Memo SEPLAG/SPLOR nº 149/2026. A recomendação trata apenas da forma de evidenciação desse "
+            "uso nos atos.",
             "A rastreabilidade já existe no sistema. No Siafi-MG, toda suplementação financiada pela Reserva de "
             "Contingência é registrada com código de origem próprio (origem 19 – Anulação da Reserva de "
             "Contingência Livre – Fonte 10), distinto das demais origens. Em 2026, até 30/10, essas "
@@ -994,16 +1002,20 @@ ITENS = [
             "sustenta todos os números (lista completa em "
             "entregas/demanda-01/analises/reserva_contingencia_decretos_2026.csv). A numeração da base é a do "
             "Siafi, não a do decreto publicado.",
-            "Vale identificar o normativo publicado de quatro decretos. O Siafi 110 (22/06/2026) é o maior "
-            "(45% do total, R$ 527 mi para Participação no Aumento de Capital de Empresas), deve chamar a "
-            "atenção do TCE e convém conhecer o objeto. Os Siafi 38 (DER-MG, R$ 228,6 mi) e 108 (SEINFRA, "
-            "R$ 116,7 mi), que com o 110 somam 74,8%. Por fim, o Siafi 31 (28/02/2026, R$ 13 mi para o Gabinete "
-            "Militar), um dos três decretos financiados só pela Reserva, para comparar a redação de decreto "
-            "'puro' com a de decreto misto. Se a equipe quiser anexar um exemplo do novo modelo, usar o primeiro "
-            "decreto publicado após a mudança.",
-            "Ponto sensível: R$ 545,4 mi da Reserva (47% do total de 2026) foram para a UO Participação no "
-            "Aumento de Capital de Empresas. Confirmar o objeto (empresa beneficiada) antes do envio, pois a "
-            "Cfamge pode questionar o uso da Reserva de Contingência para aporte de capital.",
+            "Siafi 110 identificado: Decreto NE nº 673/2026 (MGI), já objeto do Of. TCE 21465/2026 e do Memo "
+            "SPLOR 149/2026. A resposta ao R49 deve ser coerente com o Memo 149: a legalidade do uso da Reserva "
+            "foi defendida, e a recomendação trata só da evidenciação. O NE 673 é exemplo concreto de decreto "
+            "misto (Reserva + FFP + remanejamento da AGE). Vale mostrar que, com o novo modelo, o valor da "
+            "Reserva (R$ 526,98 mi) apareceria em inciso próprio.",
+            "O Memo 149 respondeu aos dois primeiros questionamentos do TCE. O terceiro, sobre as razões e "
+            "finalidades do aporte à MGI, não consta do memorando; presume-se que ficou com a SEF/MGI. Confirmar "
+            "se foi respondido, porque o tema reaparecerá no BGE 2026.",
+            "Ainda vale identificar o normativo publicado dos Siafi 38 (11/03/2026, DER-MG, R$ 228,6 mi) e 108 "
+            "(17/06/2026, SEINFRA, R$ 116,7 mi), que com o NE 673 somam 74,8%. Também o do Siafi 31 (28/02/2026, "
+            "Gabinete Militar, R$ 13 mi), financiado só pela Reserva, para comparar a redação com a de um "
+            "decreto misto. A identificação é útil, mas não indispensável para responder.",
+            "Ponto sensível: R$ 545,4 mi da Reserva em 2026 (47% do total) foram para aumento de capital de "
+            "empresas, a maior parte no NE 673 (MGI). O TCE já está questionando esse ponto.",
         ],
     },
     # ------------------------------------------------------------------ 19
@@ -1029,16 +1041,12 @@ ITENS = [
                        "conduz a parte técnica do diagnóstico. A SPLOR pode responder como secretaria executiva, "
                        "com insumos da SEDESE.",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (R51)", "19/06/2026", "Não informado",
-             "Histórico: 4ª reunião (14/11/2024), com o Estudo Multidimensional da Pobreza; 9ª reunião "
-             "(25/06/2025), que deliberou acompanhar o Fórum Técnico Minas Sem Miséria; relatório final em "
-             "tramitação na ALMG."),
-            ("Ofício SEPLAG/SPLOR nº 08/2025 (ao CEAS)", "07/03/2025", "Não informado",
-             "Em resposta ao pedido do CEAS de priorizar o Plano em 2025, relatou a reestruturação do Grupo "
-             "Coordenador (agosto de 2024), o Regimento Interno e o Estudo Multidimensional da Pobreza. "
-             "Informou o acordo de iniciar a discussão do Plano a partir dos pilares de atuação e de um "
-             "cronograma de elaboração, e o esforço de reuniões mais frequentes."),
+            ('Memo SEPLAG/SPLOR nº 146/2026 (Relatório Temático R28/2026 – Assistência Social)', '20/10/2026', 'Não se aplica',
+             "Postergação do Plano por três fatores: espera do relatório final do Fórum, prioridade às demandas orçamentárias emergenciais (chuvas na Zona da Mata) e consolidação do colegiado. 'Ainda não há cronograma com datas aprovadas.' Previu quatro etapas: subsídios do Fórum e diagnóstico da SEDESE; metodologia e escopo; articulação com os executores; implementação e monitoramento."),
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026 (R51)', '19/06/2026', 'Não informado',
+             'Histórico: 4ª reunião (Estudo Multidimensional da Pobreza) e 9ª reunião (deliberou acompanhar o Fórum Técnico). Relatório final em tramitação na ALMG.'),
         ],
+        "outras": 'OF SPLOR 08/2025 (ao CEAS, 07/03/2025: acordo de iniciar o Plano pelos pilares e cronograma); NT 24/2025 e Memos 168 e 169/2025 (Representação TCE 1.167.055 – FEM); NT 16/2026 (Representação 1.204.152 – FEM).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -1076,6 +1084,10 @@ ITENS = [
             "(receita do FEM) termina em 31/12/2026 se não houver prorrogação (PL em tramitação na ALMG). Sem "
             "prorrogação, a programação de 2027 (R$ 627 mi) e o próprio Plano ficam sem fonte. Avaliar se "
             "convém mencionar.",
+            "Coerência: o Memo SPLOR 146/2026 (20/10/2026), resposta mais recente ao TCE sobre o tema, afirmou que "
+            "'ainda não há cronograma com datas aprovadas' e previu quatro etapas de elaboração. A minuta usa "
+            "essas mesmas etapas e as apresenta com datas propostas, sem afirmar que o cronograma já está "
+            "aprovado.",
             "O TCE já rejeitou o argumento de 'aguardar o Fórum' (Defesa 2025, p. 87). A resposta precisa trazer "
             "datas. O cronograma é uma proposta e deve ser pautado e validado pelo Grupo Coordenador, "
             "idealmente na reunião de 04/12/2026, que pode ser citada como evidência.",
@@ -1110,13 +1122,12 @@ ITENS = [
                        "LOA (art. 39 do Decreto 48.636/2023). O ementário de receitas e o cálculo de ASPS/MDE "
                        "ficam com a SEF.",
         "respostas": [
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (R52)", "19/06/2026", "Não informado",
-             "A Lei 19.990/2011 não fixa percentuais em ASPS/MDE, que podem ser cumpridos com outras fontes. O "
-             "Siafi não permite criar novas fontes, o que só será possível no GRP."),
-            ("Nota Técnica SEPLAG/SPLOR nº 21/2026 (C26)", "19/06/2026", "Não informado",
-             "A execução do FEM já tem controles por fonte, programação, órgão, programa e ação, com "
-             "aperfeiçoamento contínuo das informações gerenciais sobre o público atendido."),
+            ('Nota Técnica SEPLAG/SPLOR nº 16/2026 (Representação TCE nº 1.204.152 – FEM)', '13/05/2026', 'Não se aplica',
+             "Defendeu que o adicional de ICMS do FEM integra a base de MDE (25%) e ASPS (12%), após a destinação ao Fundeb, entendimento reforçado pela Cfamge e pelo MPC na Mesa de Conciliação. Sobre o Fundeb: o passivo decorre 'da parcela desses recursos que, à época, deveria ter sido destinada ao Fundeb e não o foi', que superavaliou o saldo do FEM. Por isso, o uso do superávit do Fundo é compatível com a natureza da obrigação (Recomendação 41/PP 2020; 9 parcelas, total de R$ 770,5 mi)."),
+            ('Nota Técnica SEPLAG/SPLOR nº 21/2026 (R52)', '19/06/2026', 'Não informado',
+             'A Lei 19.990/2011 não fixa percentuais de ASPS/MDE, e o Siafi não permite criar novas fontes, o que só será possível no GRP. O TCE considerou que o argumento não enfrentou o ponto central.'),
         ],
+        "outras": 'Memo 146/2026 (mecanismos de acompanhamento da Fonte 71 – Relatório Temático R28/2026); NT 21/2026 (C26: controles por fonte, programa e ação); NT 24/2025 e Memos 168 e 169/2025 (Representação 1.167.055); NT 04/2025 (Acesso Eletivo – FEM); Memo 30/2024 (MPMG – FEM e transporte escolar).',
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
@@ -1144,17 +1155,32 @@ ITENS = [
             "orçamentária própria, a SPLOR apresentará ao Grupo Coordenador estudo comparando o modelo atual "
             "(execução descentralizada pelos órgãos setoriais, com controle por fonte e deliberação prévia do "
             "Grupo) e a criação de UO específica, para decisão antes do PLOA 2028.",
+            "Esse entendimento já foi exposto ao TCEMG na Nota Técnica SEPLAG/SPLOR nº 16/2026 (Representação nº "
+            "1.204.152) e foi reforçado pela Cfamge e pelo Ministério Público de Contas na Mesa de Conciliação "
+            "sobre ASPS e MDE.",
             "Pelo mesmo fundamento, os recursos da Fonte 71 vêm sendo usados na recomposição do Fundeb. Entre "
             "2012 e 2020, a parcela de 20% da arrecadação do adicional de ICMS devida ao Fundeb não foi "
             "repassada. A receita, que deveria ter sido destinada ao Fundo da educação básica, permaneceu "
             "indevidamente no FEM e gerou superávit financeiro. Trata-se, portanto, de recurso da própria Fonte "
             "71, arrecadado e retido de forma equivocada à época, que agora é incorporado ao Fundeb, seu "
             "destinatário constitucional. Não se trata de financiar com o FEM uma despesa alheia às suas "
-            "finalidades. A recomposição atende à determinação do TCEMG (D34 do Parecer Prévio de 2021, BGE "
-            "2025, p. 705-706) e ao cronograma pactuado pelo Estado, em discussão na Mesa de Conciliação "
-            "(Processo 1.192.382). Foi aprovada pelo Grupo Coordenador: R$ 87,4 milhões em 2025 (13ª reunião) e "
-            "R$ 237 milhões em 2026 (19ª reunião), ambos por superávit financeiro, sem redução das políticas já "
-            "aprovadas. Desde 2021, o repasse ao Fundeb sobre o adicional de ICMS é feito regularmente.",
+            "finalidades. O próprio TCEMG assim qualificou a obrigação: a determinação 18 do Parecer Prévio de "
+            "2021 manda repassar ao Fundeb R$ 774,703 milhões 'relativo aos recursos decorrentes da alíquota "
+            "adicional do ICMS, prevista no § 1º do art. 82 do ADCT', referentes a 2012-2020 (BGE 2025, p. "
+            "713). A D34/2021 trata do mesmo tema (p. 705-706).",
+            "Por isso, a recomposição não tem dotação inicial nas leis orçamentárias, inclusive no PLOA 2027. Os "
+            "valores não correspondem a receita nova do exercício, mas à receita arrecadada nos exercícios "
+            "anteriores que deveria ter sido repassada ao Fundeb e permaneceu no saldo financeiro do FEM. A "
+            "forma juridicamente adequada de executá-la é a abertura de crédito suplementar com base no "
+            "superávit financeiro apurado em balanço (art. 43, § 1º, I, da Lei 4.320/1964), na própria Fonte 71. "
+            "Isso preserva a identidade entre a receita retida e o pagamento ao Fundeb, sem comprometer a "
+            "receita corrente do Fundo destinada às políticas aprovadas para o exercício.",
+            "O passivo reconhecido em 2023 (R$ 770,5 milhões) vem sendo quitado dessa forma, na ação 2049 da "
+            "EGE-SEF, com aprovação do Grupo Coordenador. Foram R$ 23,09 milhões em 2023, R$ 36,23 milhões em 2024, R$ 87,41 milhões em 2025 e "
+            "R$ 215,48 milhões em 2026, todos integralmente empenhados e pagos. O total acumulado é de "
+            "R$ 362,22 milhões, cerca de 47% do passivo reconhecido. O cronograma foi encurtado de 7 para 4 anos "
+            "após a adesão ao Propag e está em discussão na Mesa de Conciliação (Processo 1.192.382). Desde "
+            "2021, o repasse ao Fundeb sobre o adicional de ICMS é feito regularmente, como reconheceu a Cfamge.",
             "Plano de ação: (1) documentar a memória de cálculo da parcela da Fonte 71 nos mínimos de MDE e ASPS "
             "e publicá-la nos Relatórios do FEM (SPLOR e SEF, 1º trimestre de 2027); (2) prever no GRP-Minas a "
             "segregação das origens não tributárias do FEM (SPLOR/DCPPN e SEF, 2027); (3) apresentar estudo "
@@ -1168,12 +1194,17 @@ ITENS = [
             "Confirmado pela equipe: a Fonte 71 entra na base de cálculo dos 25% (MDE) e dos 12% (ASPS). A "
             "metodologia foi contestada pela sociedade civil e pela ALMG na 12ª reunião. A resposta deve "
             "apresentá-la com fundamento técnico e jurídico claro.",
-            "Passivo do Fundeb: a execução pela EGE-SEF (ação 2049, Fonte 71) foi de R$ 87,4 mi em 2025 e "
-            "R$ 215,5 mi empenhados em 2026, até 30/10/2026. A parcela aprovada na 19ª reunião é de R$ 237 mi, "
-            "e a diferença deve ser confirmada com a SEF. Harmonizar o período citado: o TCE (D34/2021) fala em "
-            "2012 a 2020, a ata da 13ª reunião em 2010 a 2021 e a transcrição da 19ª reunião em 'quase 10 anos' "
-            "desde 2011. A minuta adota o período do TCE. Confirmar o número de parcelas restantes (a "
-            "transcrição menciona recomposições em 2026, 2027 e 2028).",
+            "Histórico do Fundeb: data/dados/fem_regularizacao_fundeb.csv (ação 2049, Fonte 71, IPU 1). O "
+            "crédito inicial é zero em todos os anos, como esperado, porque a execução se dá por suplementação "
+            "do superávit financeiro de exercícios anteriores. A 19ª reunião aprovou R$ 237 mi "
+            "para 2026, mas foram executados R$ 215,48 mi. Confirmar com a SEF se a diferença é atualização ou "
+            "saldo a pagar.",
+            "Saldo do passivo: R$ 770,5 mi reconhecidos menos R$ 362,22 mi pagos dá cerca de R$ 408 mi em "
+            "valores nominais, sem atualização monetária. Confirmar com a SEF o saldo atualizado e as parcelas "
+            "de 2027 e 2028, e se o superávit financeiro da Fonte 71 vinculado ao acordo é suficiente para elas "
+            "(a transcrição da 19ª reunião cita cerca de 50% do superávit já vinculado ao Fundeb).",
+            "Período: a minuta adota 2012-2020, como o TCE (D18 e D34/2021). A ata da 13ª reunião cita "
+            "2010-2021.",
             "Evitar repetir o argumento de 'percentuais de ASPS/MDE': o TCE disse expressamente que ele não "
             "enfrenta o ponto.",
         ],
@@ -1210,8 +1241,10 @@ BASES_NECESSARIAS = [
     "[Incluída] Relatório de Avaliação do PPAG 2025, Volume 2 (justificativas de desempenho por ação, item R6) e "
     "bases auxiliares de classificação orçamentária (data/dados/auxiliares).",
     "[Incluída] Alterações orçamentárias 2026 por decreto Siafi e origem do crédito "
-    "(data/dados/alteracao_orcamentaria_2026.csv), usadas no R49. Pendente: número do normativo publicado dos "
-    "decretos Siafi 110, 38, 108 e 31.",
+    "(data/dados/alteracao_orcamentaria_2026.csv), Of. TCE 21465/2026 e Memo SPLOR 149/2026 (Decreto NE "
+    "673/2026), usados no R49. Opcional: normativos publicados dos Siafi 38, 108 e 31.",
+    "[Incluída] Histórico 2023-2026 da regularização do Fundeb com a Fonte 71 "
+    "(data/dados/fem_regularizacao_fundeb.csv), usado no R52.",
     "[Incluída] Transcrição da 19ª reunião do Grupo Coordenador do FEM (03/09/2026). A ata oficial ainda está "
     "pendente.",
         "[Futuro] RGF do 3º quadrimestre de 2026, quando publicado (R28/2020).",
