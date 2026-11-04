@@ -21,6 +21,8 @@ O `corpus/` replica a estrutura de `data/` em arquivos `.txt`, com marcadores `=
 |---|---|
 | `data/analise-contas` | Relatórios do TCEMG sobre as contas do Governador e análises da defesa do Estado |
 | `data/balanco` | Balanços Gerais do Estado |
+| `data/dados` | Bases de execução (Armazém Siafi), QDD do PLOA, bases do PPAG |
+| `data/atas-fem` | Atas do Grupo Coordenador do FEM |
 | `data/demandas-resposta` | Demandas em aberto (ofícios e quadros de controle) |
 | `data/respostas-splor` | Respostas anteriores da SPLOR (memorandos, ofícios, notas técnicas) |
 | `data/documentacao-complementar` | RGF, RREO, relatório de transição etc. |
@@ -35,3 +37,4 @@ O `corpus/` replica a estrutura de `data/` em arquivos `.txt`, com marcadores `=
   - Conteúdo editável: `scripts/demanda01_conteudo.py`
   - Gerar o Word: `poetry run python scripts/gerar_demanda01_docx.py`
   - Saída: `entregas/demanda-01/Demanda01_Oficio_SEF_288_2026_minuta_respostas_SPLOR.docx`
+  - Análises quantitativas: `poetry run python scripts/analise_demanda01.py` → `entregas/demanda-01/analises/`

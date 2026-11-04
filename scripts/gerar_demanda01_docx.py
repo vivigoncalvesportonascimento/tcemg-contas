@@ -377,14 +377,16 @@ def anexos(doc) -> None:
     nao_quebrar_linhas(t)
     larguras(t, [3.4, 5.0, 2.4, 6.2])
 
-    doc.add_heading("4. Bases de dados sugeridas para inclusão no repositório", level=1)
-    doc.add_paragraph("Para completar as minutas com números atualizados (trechos entre colchetes), "
-                      "recomenda-se incluir no repositório:")
+    doc.add_heading("4. Bases de dados utilizadas e pendentes", level=1)
     for b in BASES_NECESSARIAS:
         doc.add_paragraph(b, style="List Bullet")
 
-    doc.add_heading("5. Observações sobre respostas anteriores", level=1)
+    doc.add_heading("5. Observações sobre respostas anteriores e compromissos assumidos", level=1)
     for t_ in [
+        "Compromissos da NT 21/2026 verificados nas bases: (i) D44: a Fonte 52 saiu do FFP e da PMMG no PLOA "
+        "2027 (cumprido na programação), mas houve execução pela PMMG em 2026; (ii) D22: as melhorias no "
+        "demonstrativo do IMRS 'já na LOA 2027' não constam do PLOA 2027 (não cumprido); (iii) D42/D33: a Ação "
+        "2417 foi mantida e ampliada no PLOA 2027.",
         "O Memo SEPLAG/SPLOR nº 198/2025 contém, ao final da resposta ao item R1 (relatório 2023), a frase "
         "residual 'Se quiser, posso deixar o texto mais técnico ou mais sintético.' Recomenda-se revisão final "
         "cuidadosa dos textos antes da assinatura.",
@@ -406,8 +408,11 @@ def anexos(doc) -> None:
         "Técnica nº 38/2024 (data/respostas-splor).",
         "Relatório de Transição SPLOR 2026, versão de 28/10/2026; RGF 2026 – 2º quadrimestre "
         "(data/documentacao-complementar).",
-        "Decreto nº 48.636/2023 (SEPLAG); Decreto nº 48.680/2023 (SEF); LC 101/2000; Lei 19.990/2011 "
+        "Decreto nº 48.636/2023 (SEPLAG); Decreto nº 48.680/2023 (SEF); LC 101/2000; Lei 19.990/2011; "
+        "Classificador Econômico da Despesa (07/10/2026); LOA 2026 e PLOA 2027, volumes 1 e 5 "
         "(data/legislacao-basica).",
+        "Execução orçamentária 2025 e 2026 (Armazém Siafi) e QDD fiscal do PLOA 2027 (data/dados), "
+        "processados por scripts/analise_demanda01.py.",
     ]
     for f in fontes:
         doc.add_paragraph(f, style="List Bullet")

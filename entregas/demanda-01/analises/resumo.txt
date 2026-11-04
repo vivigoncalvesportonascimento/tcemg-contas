@@ -1,0 +1,93 @@
+UOs consideradas destinatárias da TFAMG: [1371, 2091, 2101]
+
+== R6/2022 – Programas com execução (empenho/autorizado) < 50% – 2025
+Programas com crédito autorizado: 165; abaixo de 50%: 26 (15,76%)
+Pelo liquidado: 47 (28,48%)
+Peso dos programas < 50% no autorizado: 4,16%
+    24 DESENVOLVIMENTO SOCIOECONOMICO                               aut         R$ 0,00 mi  emp   0,00%
+    20 FOMENTO E INCENTIVO DE INVESTIMENTOS                         aut        R$ 10,00 mi  emp   0,00%
+   126 EXPLORACAO DE JOGOS LOTERICOS E SIMILARES                    aut         R$ 1,97 mi  emp   0,00%
+   704 MODERNIZACAO INSTITUCIONAL                                   aut         R$ 6,00 mi  emp   0,00%
+   764 ASSISTENCIA COMPLEMENTAR                                     aut         R$ 0,00 mi  emp   0,00%
+   767 RESERVA DE BENEFICIOS                                        aut        R$ 23,60 mi  emp   0,00%
+   999 RESERVA DE CONTINGENCIA                                      aut       R$ 510,30 mi  emp   0,00%
+    40 RECUPERACAO AMBIENTAL E GESTAO DE BARRAGENS                  aut         R$ 6,06 mi  emp   6,90%
+    21 SANEAMENTO E RESIDUOS ESPECIAIS                              aut       R$ 170,56 mi  emp   9,26%
+    37 VALORIZACAO E SAUDE DO SERVIDOR                              aut        R$ 70,60 mi  emp  13,46%
+   155 REPARACAO DOS DANOS DOS ROMPIMENTOS EM BRUMADINHO E MARIANA  aut        R$ 15,34 mi  emp  15,95%
+    85 PROMOCAO DE CONCESSOES E PARCERIAS                           aut     R$ 3.777,28 mi  emp  19,60%
+    31 PROTECAO DAS AREAS AMBIENTALMENTE CONSERVADAS, DA FAUNA E DA aut       R$ 267,73 mi  emp  21,56%
+   106 PROTECAO E SALVAGUARDA DE ACERVOS E BENS CULTURAIS           aut         R$ 7,38 mi  emp  22,75%
+   116 INOVA AGRO GERAIS                                            aut         R$ 0,07 mi  emp  24,56%
+    47 SUPORTE AS ACOES DE COMBATE E RESPOSTA AOS DANOS CAUSADOS PE aut        R$ 28,04 mi  emp  29,91%
+   128 PROGRAMA DE APOIO A AMPLIACAO E A MELHORIA DOS SISTEMAS PRIS aut        R$ 31,51 mi  emp  33,03%
+   132 MINAS EMPREENDEDORA: ESTADO MAIS SIMPLES E LIVRE PARA SE EMP aut        R$ 20,79 mi  emp  33,14%
+    56 DESENVOLVIMENTO DA INFRAESTRUTURA DO NORTE E NORDESTE DE MIN aut       R$ 169,73 mi  emp  36,66%
+    41 REGULARIZACAO AMBIENTAL                                      aut         R$ 2,57 mi  emp  37,28%
+   117 MOBILIDADE, TRANSPORTES E LOGISTICA                          aut       R$ 222,84 mi  emp  40,67%
+   765 APOIO HABITACIONAL                                           aut        R$ 18,00 mi  emp  41,46%
+    66 POLITICAS DE TRABALHO E EMPREGO                              aut        R$ 31,08 mi  emp  41,92%
+   108 ACESSO A MERCADOS                                            aut         R$ 8,41 mi  emp  46,08%
+    25 MONITORAMENTO, CONTROLE E FISCALIZACAO AMBIENTAL             aut         R$ 9,15 mi  emp  46,82%
+   125 POLITICA DE REGULARIZACAO FUNDIARIA E DE GESTAO DE IMOVEIS   aut       R$ 668,83 mi  emp  48,90%
+  Saldo não empenhado desses programas por fonte (top 8):
+    fonte  24:     R$ 1.805,39 mi (38,29%)
+    fonte  95:     R$ 1.384,20 mi (29,36%)
+    fonte  10:       R$ 721,79 mi (15,31%)
+    fonte  80:       R$ 571,67 mi (12,13%)
+    fonte  60:        R$ 84,34 mi (1,79%)
+    fonte  57:        R$ 35,73 mi (0,76%)
+    fonte  72:        R$ 21,00 mi (0,45%)
+    fonte  31:        R$ 20,09 mi (0,43%)
+
+== R29/D39 – Indicadores globais 2025
+Inicial R$ 137.544,34 mi | Autorizado R$ 146.271,15 mi | Empenhado R$ 131.563,98 mi | Liquidado R$ 127.112,59 mi
+Liquidado/Autorizado ('Sucesso do Planejamento Orçamentário'): 86,90%
+Empenhado/Inicial: 95,65% (variação -4,35%)
+
+== R40 – Janelas orçamentárias (ação/UO com crédito inicial ≤ R$ 1 mil) – LOA 2025
+Ações (UO×ação) com dotação inicial: 950; janelas: 115 (12,11%)
+Janelas suplementadas no exercício: 29 (R$ 1.056,33 mi autorizados); com empenho: 25 (R$ 405,00 mi)
+  Fontes das dotações-janela (top 8): {10: 85, 60: 12, 71: 10, 91: 4, 72: 2, 59: 2}
+
+== R40 – Janelas orçamentárias (ação/UO com crédito inicial ≤ R$ 1 mil) – LOA 2026
+Ações (UO×ação) com dotação inicial: 959; janelas: 121 (12,62%)
+  Fontes das dotações-janela (top 8): {10: 89, 71: 10, 60: 10, 95: 4, 59: 2, 32: 1, 29: 1, 72: 1}
+
+== R40 – Janelas orçamentárias (ação/UO com crédito inicial ≤ R$ 1 mil) – PLOA 2027
+Ações (UO×ação) com dotação inicial: 959; janelas: 130 (13,56%)
+  Fontes das dotações-janela (top 8): {10: 91, 60: 15, 71: 11, 59: 5, 33: 2, 72: 2, 91: 1, 83: 1}
+
+== D44 – Fonte 52 (TFAMG) – 2025 [Empenhado] total R$ 20,40 mi; fora de SEMAD/FEAM/IEF: R$ 15,18 mi (74,40%)
+    UO 1251 PMMG                         ação 4374 POLICIAMENTO ESPECIALIZADO                         R$ 10,63 mi
+    UO 4711 FFP - MG                     ação 7428 BENEFICIOS PREVIDENCIARIOS - FEAM                   R$ 4,52 mi
+    UO 1941 EGE-SEPLAG                   ação 4488 IMPLANTACAO E OPERACAO DO ALMOXARIFADO VIRTUA       R$ 0,04 mi
+
+== D44 – Fonte 52 (TFAMG) – 2026 (até a extração) [Empenhado] total R$ 8,48 mi; fora de SEMAD/FEAM/IEF: R$ 8,48 mi (100,00%)
+    UO 1251 PMMG                         ação 4374 POLICIAMENTO ESPECIALIZADO                          R$ 7,83 mi
+    UO 1501 SEPLAG                       ação 4466 GESTAO DE TECNOLOGIA DA INFORMACAO E COMUNICA       R$ 0,58 mi
+    UO 4711 FFP - MG                     ação 7428 BENEFICIOS PREVIDENCIARIOS - FEAM                   R$ 0,07 mi
+
+== D44 – Fonte 52 (TFAMG) – LOA 2026 [Crédito Inicial] total R$ 24,74 mi; fora de SEMAD/FEAM/IEF: R$ 6,49 mi (26,24%)
+    UO 4711 FFP - MG                     ação 7428 BENEFICIOS PREVIDENCIARIOS - FEAM                   R$ 4,86 mi
+    UO 1501 SEPLAG                       ação 4466 GESTAO DE TECNOLOGIA DA INFORMACAO E COMUNICA       R$ 1,63 mi
+
+== D44 – Fonte 52 (TFAMG) – PLOA 2027 [Crédito Inicial] total R$ 23,65 mi; fora de SEMAD/FEAM/IEF: R$ 0,00 mi (0,00%)
+
+== D42/D33 – Ação 2417 – LOA 2025 [Crédito Inicial]: R$ 12.585,45 mi em 49 UOs; 14,89% do grupo 1 (pessoal) de todo o orçamento; 9,15% do total
+  Programas: {'705 APOIO AS POLITICAS PUBLICAS': 'R$ 12.585,45 mi'}
+
+== D42/D33 – Ação 2417 – 2025 [Empenhado]: R$ 12.956,59 mi em 49 UOs; 15,60% do grupo 1 (pessoal) de todo o orçamento; 9,85% do total
+  Programas: {'705 APOIO AS POLITICAS PUBLICAS': 'R$ 12.956,59 mi'}
+
+== D42/D33 – Ação 2417 – LOA 2026 [Crédito Inicial]: R$ 14.107,52 mi em 49 UOs; 15,50% do grupo 1 (pessoal) de todo o orçamento; 9,60% do total
+  Programas: {'705 APOIO AS POLITICAS PUBLICAS': 'R$ 14.107,52 mi'}
+
+== D42/D33 – Ação 2417 – PLOA 2027 [Crédito Inicial]: R$ 15.426,00 mi em 50 UOs; 16,11% do grupo 1 (pessoal) de todo o orçamento; 9,92% do total
+  Programas: {'705 APOIO ÀS POLÍTICAS PÚBLICAS': 'R$ 15.426,00 mi'}
+
+== R49 – UO 1991 Reserva de Contingência – 2025: inicial R$ 1.053,10 mi, autorizado R$ 510,30 mi, anulado (inicial − autorizado) R$ 542,79 mi
+
+== R49 – UO 1991 Reserva de Contingência – 2026: inicial R$ 1.177,57 mi, autorizado R$ 11,34 mi, anulado (inicial − autorizado) R$ 1.166,23 mi
+
+PLOA 2027 – total QDD fiscal: R$ 155.501,68 mi

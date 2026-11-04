@@ -106,9 +106,7 @@ ITENS = [
             "Status: Em tratamento (aprimoramento contínuo).",
             "O Estado mantém trajetória consistente de melhoria da aderência entre programação e execução. O "
             "Índice de Avaliação do Planejamento (IAP) consolidado passou de 43,13 em 2021 para 50,57 em 2025, "
-            "conforme apurado pela própria Cfamge. A SEPLAG acompanha ainda, no PPAG 2024-2027, o indicador "
-            "'Sucesso do Planejamento Orçamentário' (Programa 0157), que mede a despesa liquidada em relação ao "
-            "crédito autorizado e atingiu 89,96% em 2024 [atualizar 2025].",
+            "conforme apurado pela própria Cfamge.",
             "Os desvios entre o planejado e o executado são monitorados e justificados bimestralmente no "
             "Sigplan e divulgados nos Relatórios Institucionais de Monitoramento. O Orçamento Base Zero está "
             "aplicado em todos os órgãos. Com a implantação do GRP-Minas em 2027, o módulo de Programação "
@@ -120,8 +118,12 @@ ITENS = [
         "atencao": [
             "Harmonizar o valor do IAP 2025: a NT 21/2026 informou 51,04%, e o TCE apurou 50,57. Usar o valor do "
             "TCE ou explicar a diferença.",
-            "Atualizar o indicador 'Sucesso do Planejamento Orçamentário' para 2025 (dado não disponível no "
-            "repositório).",
+            "Dados de 2025 apurados na base data/dados/execucao_2025.csv: a razão liquidado/autorizado foi "
+            "86,90% (R$ 127,11 bi / R$ 146,27 bi), abaixo dos 89,96% informados para 2024. O empenhado ficou "
+            "4,35% abaixo do crédito inicial (−0,68% em 2023). Esses números não favorecem a resposta, por isso "
+            "foram retirados da minuta. Se a equipe quiser citar o indicador 'Sucesso do Planejamento "
+            "Orçamentário', confirmar antes a metodologia oficial (escopo de Poderes e intraorçamentárias), "
+            "porque a base inclui todos os Poderes.",
         ],
     },
     # ------------------------------------------------------------------ 3
@@ -510,21 +512,33 @@ ITENS = [
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
-            "Em cumprimento ao compromisso assumido na defesa do BGE 2025, o demonstrativo que acompanha o PLOA "
-            "2027 foi aperfeiçoado [descrever as mudanças efetivamente feitas no PLOA 2027, por exemplo: "
-            "exclusão de programas de remuneração de pessoal como o Programa 162; inclusão de nota "
-            "metodológica sobre a proporcionalização populacional; anexo com estimativas por município].",
-            "Os critérios do demonstrativo passam a ser: (1) despesas municipalizadas nos 50 municípios; (2) "
-            "despesas em localizadores genéricos, proporcionalizadas pela população (estimativas oficiais do "
-            "IBGE); (3) exclusão das UOs 1915 e 1916, das funções 28 e 99 e dos programas de natureza "
-            "predominantemente administrativa ou de remuneração de pessoal [confirmar]. A seleção será revista "
-            "anualmente, como recomendado pela Cfamge.",
+            "O demonstrativo que acompanha o PLOA 2027 (Volume 1, p. 247-248) foi atualizado com o IMRS 2024 da "
+            "Fundação João Pinheiro e com as estimativas populacionais de 2026 do IBGE/TCU. Foram mantidas as "
+            "exclusões já adotadas: função 28 (Encargos Especiais), função 99 (Reserva de Contingência) e UOs "
+            "1915 e 1916.",
+            "Em razão do calendário de elaboração do PLOA 2027, concluído em setembro de 2026, a revisão "
+            "qualitativa dos programas anunciada na defesa do BGE 2025 não pôde ser incorporada a esse projeto. "
+            "Ela será aplicada na elaboração do PLOA 2028, com os seguintes critérios adicionais: (i) exclusão "
+            "dos programas de natureza predominantemente administrativa ou de remuneração de pessoal, como os "
+            "Programas 162 e 705; (ii) inclusão de nota metodológica detalhando a proporcionalização "
+            "populacional dos localizadores genéricos; (iii) disponibilização, em anexo ou em dados abertos, das "
+            "estimativas por município. [Alternativa a avaliar: ajustar o demonstrativo ainda na tramitação do "
+            "PLOA 2027 na ALMG.]",
+            "Plano de ação: (1) aprovar os novos critérios do demonstrativo (SPLOR/DCPPN, até 31/03/2027); (2) "
+            "aplicá-los no PLOA 2028 e publicar as estimativas por município (SPLOR/DCPPN, setembro de 2027); "
+            "(3) rever anualmente o rol de programas, como recomendado pela Cfamge.",
         ],
         "atencao": [
-            "Item dependente de informação: verificar no PLOA 2027 (enviado à ALMG em 30/09/2026) o que mudou no "
-            "demonstrativo do IMRS. O texto entre colchetes deve refletir apenas o que foi feito.",
-            "Se o PLOA 2027 manteve o Programa 162, a resposta deve explicar o motivo ou programar a exclusão "
-            "para a LOA 2028.",
+            "Constatação no PLOA 2027 (Volume 1, p. 247-248): o compromisso da NT 21/2026 ('já na LOA 2027') não "
+            "foi cumprido. A nota metodológica é a mesma da LOA 2026, e o demonstrativo, de R$ 3,550 bi no "
+            "total, mantém o Programa 162 (Gestão de Pessoas da Rede Estadual de Ensino), que passou de "
+            "R$ 525,6 mi na LOA 2026 para R$ 825,8 mi. Inclui ainda o Programa 705 (Apoio às Políticas "
+            "Públicas, onde está a Ação 2417 de pessoal), com R$ 939,6 mi. Os dois somam cerca de 50% do "
+            "demonstrativo.",
+            "O TCE vai comparar com a promessa da defesa. A resposta precisa reconhecer isso e apresentar prazo "
+            "firme (PLOA 2028) ou um ajuste ainda em 2026. Decidir com a DCPPN.",
+            "Verificar se o PLOA2027_substitutivo altera o demonstrativo: a busca por 'IMRS' no substitutivo não "
+            "retornou ocorrências.",
         ],
     },
     # ------------------------------------------------------------------ 11
@@ -565,16 +579,20 @@ ITENS = [
             "exclusivamente de mudança na forma de apropriação da despesa de pessoal (Ação 2417), adotada de "
             "forma transitória para a migração da folha ao GRP-Minas. Não houve realocação efetiva de recursos "
             "das áreas finalísticas para as administrativas.",
-            "A apropriação da despesa de pessoal nas ações em que os servidores atuam será restabelecida "
-            "[informar se no PLOA 2027 ou em data definida, conforme decisão da SPLOR/SUGESP], após a "
-            "estabilização do GRP-Minas, prevista para 2027. Até lá, a SPLOR publicará [proposta] a distribuição "
-            "gerencial da despesa da Ação 2417 por programa e ação, com base na lotação dos servidores, no "
-            "Relatório Institucional de Monitoramento e na Avaliação Anual do PPAG. Assim fica preservada a "
-            "informação de custos exigida pelo art. 50, § 3º, da LRF. Ver também a resposta à D42/2025.",
+            "Como a LOA 2026 e o PLOA 2027 foram elaborados durante a migração para o GRP-Minas, a Ação 2417 "
+            "foi mantida nesses orçamentos. A apropriação da despesa de pessoal nas ações em que os servidores "
+            "atuam será restabelecida a partir do PLOA 2028 [confirmar com SPLOR/SUGESP], após a estabilização "
+            "do GRP-Minas em 2027. Até lá, a SPLOR publicará [proposta] a distribuição gerencial da despesa da "
+            "Ação 2417 por programa e ação, com base na lotação dos servidores, no Relatório Institucional de "
+            "Monitoramento e na Avaliação Anual do PPAG. Assim fica preservada a informação de custos exigida "
+            "pelo art. 50, § 3º, da LRF. Ver também a resposta à D42/2025.",
         ],
         "atencao": [
-            "Decisão necessária: o PLOA 2027 manteve a Ação 2417? A data de restabelecimento precisa ser "
-            "definida e informada, pois o TCE (Defesa 2025, p. 76) rejeitou justificativa sem prazo.",
+            "Constatação nas bases: a Ação 2417 foi mantida e ampliada. Foram R$ 12,585 bi na LOA 2025 (49 UOs) "
+            "e R$ 12,957 bi empenhados em 2025; R$ 14,108 bi na LOA 2026 (49 UOs); R$ 15,426 bi no PLOA 2027 "
+            "(50 UOs), equivalentes a 16,1% do grupo 1 e 9,9% do orçamento total. O indicador do TCE seguirá "
+            "'Não Atendido' em 2026 e 2027. A data de restabelecimento precisa ser definida e informada, pois o "
+            "TCE (Defesa 2025, p. 76) rejeitou justificativa sem prazo.",
             "A proposta de publicar o rateio gerencial responde à crítica do TCE de que não foram apresentadas "
             "medidas alternativas na transição. Validar a viabilidade com a SUGESP.",
         ],
@@ -655,8 +673,9 @@ ITENS = [
             "contingenciamento via COFIN.",
         ],
         "atencao": [
-            "Confirmar os números do PLOA 2027 com o texto final enviado à ALMG (fonte: Relatório de Transição "
-            "SPLOR de 28/10/2026).",
+            "Despesa conferida: o QDD fiscal do PLOA 2027 (data/dados/ploa2027_base_qdd_fiscal.xlsx) soma "
+            "R$ 155,502 bi, igual ao Relatório de Transição. Conferir a receita no Volume 1 do PLOA 2027 se for "
+            "citá-la.",
             "O déficit de 2027 (R$ 10,5 bi) é maior que o de 2026. Convém explicar a variação.",
         ],
     },
@@ -687,18 +706,33 @@ ITENS = [
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
-            "Em 2025, [X]% dos programas tiveram execução inferior a 50% do crédito autorizado, contra 16% em "
-            "2022 e 15% em 2024 [apurar no Armazém Siafi]. Os principais fatores são: (i) programas financiados "
-            "por convênios, acordos e operações de crédito, cuja execução depende do ingresso dos recursos e do "
-            "andamento de licitações e obras; (ii) dotações abertas por superávit financeiro no fim do exercício; "
-            "(iii) contingenciamentos determinados pelo COFIN conforme a disponibilidade financeira.",
+            "Em 2025, 25 dos 164 programas com crédito autorizado (15,2%, excluída a Reserva de Contingência) "
+            "tiveram empenho inferior a 50% do crédito autorizado, contra 16% em 2022 e 15% em 2024. Esses "
+            "programas representam apenas 4,2% do crédito autorizado total.",
+            "Os fatores se concentram nas fontes de financiamento. Do saldo não empenhado desses programas, "
+            "38,3% corresponde à Fonte 24 (convênios com a União), 29,4% à Fonte 95 (Acordo de Reparação de "
+            "Brumadinho) e 12,1% à Fonte 80 (Acordo de Repactuação do Rio Doce). Ou seja, cerca de 80% do saldo "
+            "vem de recursos de convênios e acordos judiciais, cuja execução segue cronogramas próprios de "
+            "ingresso dos recursos, licitação e obras, com créditos abertos ao longo do exercício por excesso de "
+            "arrecadação ou superávit financeiro. Apenas 15,3% do saldo é de recursos ordinários (Fonte 10). "
+            "O caso mais relevante é o Programa 85 – Promoção de Concessões e Parcerias (R$ 3,78 bi autorizados, "
+            "19,6% empenhados). O saldo se concentra no Metrô da RMBH (ação 4346, R$ 1,48 bi da Fonte 24 – "
+            "convênio com a União) e no Rodoanel Metropolitano (ação 4220, R$ 728 mi da Fonte 95 – Acordo de "
+            "Brumadinho). São empreendimentos de grande porte com cronograma físico-financeiro plurianual e "
+            "aporte vinculado a marcos contratuais.",
             "As justificativas por ação são registradas bimestralmente no Sigplan e analisadas pela SEPLAG, que "
             "orienta os órgãos a qualificá-las. A partir de 2027, a integração entre programação e execução no "
             "GRP-Minas deve permitir o realinhamento mais tempestivo de dotações.",
         ],
         "atencao": [
-            "Base de dados necessária: execução orçamentária 2025 por programa (crédito autorizado × empenhado), "
-            "do Armazém Siafi, para calcular o percentual e listar os programas.",
+            "Fonte dos números: data/dados/execucao_2025.csv, processada por scripts/analise_demanda01.py "
+            "(lista completa em entregas/demanda-01/analises/programas_execucao_2025.csv). Incluindo a Reserva "
+            "de Contingência (Programa 999), são 26 de 165 programas (15,76%).",
+            "Critério adotado: empenhado/crédito autorizado. Pelo liquidado, seriam 47 programas (28,5%). "
+            "Confirmar que o TCE usou o empenho no BGE 2022.",
+            "Confirmar com SEINFRA e a área de Parcerias o motivo da não execução do Metrô RMBH (Fonte 24) e do "
+            "Rodoanel (Fonte 95) em 2025, para citar o fato concreto (por exemplo, cronograma de aporte e marcos "
+            "contratuais).",
         ],
     },
     # ------------------------------------------------------------------ 15
@@ -730,18 +764,31 @@ ITENS = [
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
-            "O Executivo restringe as janelas orçamentárias às ações financiadas por receitas cujo ingresso não "
-            "pode ser estimado com segurança na elaboração da LOA: convênios, emendas parlamentares federais, "
-            "doações, operações de crédito em contratação e superávit financeiro. Nesses casos, a dotação "
-            "simbólica preserva a especificidade da ação e a rastreabilidade da execução, evitando a criação "
-            "posterior de créditos especiais.",
-            "No PLOA 2027, [N] ações foram programadas com dotação simbólica, contra [N] na LOA 2026 [apurar]. "
-            "Para ações de recursos ordinários e Projetos Estratégicos, a orientação da SPLOR é programar dotação "
-            "compatível com o custo estimado.",
+            "As janelas orçamentárias são utilizadas para ações cuja necessidade ou cujo financiamento não pode "
+            "ser estimado com segurança na elaboração da LOA. É o caso de convênios, emendas parlamentares "
+            "federais, doações, operações de crédito em contratação, superávit financeiro, precatórios e "
+            "sentenças judiciárias. Também entram ações a serem reforçadas conforme a disponibilidade de "
+            "recursos ao longo do exercício. Nesses casos, a dotação simbólica preserva a especificidade da "
+            "ação e a rastreabilidade da execução, evitando a criação posterior de créditos especiais.",
+            "Na LOA 2025, 115 das 950 ações (UO × ação) tinham dotação inicial de até R$ 1 mil. Ao longo do "
+            "exercício, 29 delas foram suplementadas (R$ 1,06 bi autorizados) e 25 tiveram empenho (R$ 405 mi). "
+            "Isso evidencia a função das janelas: receber recursos cuja disponibilidade se confirma durante o "
+            "ano. Entre as janelas há dotações para precatórios e sentenças judiciárias (16 em 2025 e 20 no "
+            "PLOA 2027), cujo montante depende de requisições judiciais.",
+            "Plano de ação: na elaboração do PLOA 2028, a SPLOR revisará as janelas financiadas com recursos "
+            "ordinários (Fonte 10) que não se refiram a precatórios, sentenças ou contrapartidas. A orientação "
+            "será programar dotação compatível com o custo estimado ou consolidar a ação, com especial atenção "
+            "às ações de Projetos Estratégicos (17 janelas com IAG no PLOA 2027). Responsável: SPLOR/SCPO e "
+            "DCPPN. Prazo: setembro de 2027.",
         ],
         "atencao": [
-            "Base de dados necessária: quantidade de ações com dotação inicial de R$ 1 mil na LOA 2026 e no PLOA "
-            "2027, por fonte, para dar evidência objetiva.",
+            "Constatação desfavorável nas bases: o número de janelas cresceu, de 115 (LOA 2025) para 121 (LOA "
+            "2026) e 130 (PLOA 2027), cerca de 12% a 14% das ações. A maioria é financiada pela Fonte 10 "
+            "(recursos ordinários): 91 das dotações-janela no PLOA 2027, o que enfraquece o argumento de que "
+            "janelas servem só a receitas incertas. Por isso a minuta não afirma redução e propõe uma revisão "
+            "com prazo. Lista em entregas/demanda-01/analises/janelas_*.csv.",
+            "Critério: ação (UO × ação) com crédito inicial total entre R$ 1 e R$ 1.000. Ajustar se a SPLOR usa "
+            "outro conceito.",
             "Alinhar com a resposta da SUGER à R46/2025 (Projetos Estratégicos) para não haver contradição.",
         ],
     },
@@ -785,9 +832,10 @@ ITENS = [
             "ser processada [descrever o motivo técnico concreto, por exemplo: sem o vínculo de cada servidor a "
             "uma funcional programática, exigido pela integração automática com a execução orçamentária]. "
             "Essa é a razão pela qual a sistemática anterior não pôde ser mantida.",
-            "O restabelecimento da apropriação nos programas e ações em que os servidores atuam está programado "
-            "para [LOA 2027 / LOA 2028 – definir], após a estabilização do GRP-Minas, cuja entrada em operação "
-            "está prevista para janeiro de 2027.",
+            "A LOA 2026 e o PLOA 2027 foram elaborados ainda nesse contexto de transição e mantiveram a Ação "
+            "2417. O restabelecimento da apropriação nos programas e ações em que os servidores atuam está "
+            "programado para o PLOA 2028 [confirmar], a ser elaborado em 2027, após a entrada em operação do "
+            "GRP-Minas (janeiro de 2027) e a estabilização do módulo de pessoal.",
             "Como medida alternativa durante a transição, a SEPLAG publicará [proposta] a distribuição gerencial "
             "da despesa da Ação 2417 por programa e ação do PPAG, com base na lotação dos servidores, nos "
             "Relatórios Institucionais de Monitoramento e na Avaliação Anual do PPAG. Assim fica assegurada a "
@@ -800,8 +848,9 @@ ITENS = [
             "Ponto mais sensível desta demanda: o TCE já rejeitou justificativa genérica (Defesa 2025, p. 76). "
             "Sem a explicação técnica concreta e sem prazo, a determinação tende a ser aprovada pelo Pleno e "
             "avaliada como não atendida.",
-            "Verificar se o PLOA 2027 manteve a Ação 2417. Se a manteve, o restabelecimento ficará, no mínimo, "
-            "para a LOA 2028.",
+            "Confirmado nas bases: o PLOA 2027 manteve a Ação 2417 (R$ 15,426 bi em 50 UOs, Programa 705), "
+            "acima da LOA 2026 (R$ 14,108 bi) e da LOA 2025 (R$ 12,585 bi). O restabelecimento só pode ocorrer, "
+            "no mínimo, na LOA 2028. Definir com SUGESP e SEF se esse prazo é factível.",
             "Validar com a SUGESP e a SEF a viabilidade do rateio gerencial antes de assumir o compromisso.",
         ],
     },
@@ -840,13 +889,17 @@ ITENS = [
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
-            "Inativos da FEAM: conforme compromisso assumido na defesa, a utilização da Fonte 52 na Ação 7428 "
-            "foi substituída por outra fonte de recursos próprios da FEAM [confirmar: data e decreto de "
-            "alteração orçamentária em 2026]. No PLOA 2027, essa despesa não está programada com a Fonte 52 "
-            "[confirmar].",
-            "Demais execuções fora de SEMAD, FEAM e IEF: no PLOA 2027, a Fonte 52 foi programada exclusivamente "
-            "nas unidades orçamentárias de SEMAD, FEAM e IEF [confirmar]. As despesas da PMMG com policiamento "
-            "ambiental serão financiadas por outras fontes. Alternativamente, caso o Estado opte pela "
+            "Conforme compromisso assumido na defesa, o Projeto de LOA 2027 programa a Fonte 52 exclusivamente "
+            "nas unidades destinatárias previstas na Lei 14.940/2003. São R$ 23,65 milhões: R$ 13,65 milhões na "
+            "SEMAD (ação 4038 – Fiscalização Ambiental) e R$ 10,00 milhões na FEAM (remuneração do pessoal "
+            "ativo). Não há programação da fonte para o FFP (inativos da FEAM), para a PMMG ou para outras "
+            "unidades.",
+            "Inativos da FEAM: em 2026, dos R$ 4,86 milhões da Fonte 52 programados na Ação 7428 (FFP), foram "
+            "empenhados apenas R$ 67 mil, com a complementação transferida para outra fonte [confirmar fonte e "
+            "ato]. Para 2027, essa despesa já não está programada com recursos da TFAMG.",
+            "Durante a execução de 2027, a SPLOR não acolherá créditos que destinem a Fonte 52 a unidades "
+            "diversas de SEMAD, FEAM e IEF. As despesas da PMMG com policiamento ambiental serão financiadas por "
+            "outras fontes. Alternativamente, caso o Estado opte pela "
             "desvinculação de que trata o art. 76-A do ADCT, a medida será formalizada e evidenciada nos "
             "registros orçamentários e contábeis, conforme orientação da Cfamge, em articulação com a SEF e a "
             "AGE.",
@@ -855,8 +908,12 @@ ITENS = [
             "aplicação formal do art. 76-A do ADCT (SEF e AGE, 1º trimestre de 2027).",
         ],
         "atencao": [
-            "Confirmar com a SCPO/DCPPN a alocação da Fonte 52 no PLOA 2027 e se a troca de fonte dos inativos "
-            "da FEAM foi efetivada em 2026.",
+            "Constatação nas bases (data/dados): a prática continuou em 2026. A PMMG empenhou R$ 7,83 mi da Fonte "
+            "52 na ação 4374 (Policiamento Especializado), via crédito de R$ 13 mi anulado da ação 4038 da "
+            "SEMAD. A LOA 2026 também programou R$ 1,63 mi na SEPLAG (ação 4466 – TI), com R$ 0,58 mi "
+            "empenhados. O TCE verá isso no BGE 2026. Avaliar se ainda é possível corrigir a fonte em 2026 e "
+            "preparar a justificativa.",
+            "Confirmar a fonte que substituiu a Fonte 52 nos inativos da FEAM em 2026.",
             "A decisão entre restringir a fonte ou formalizar a DRU (art. 76-A) é estratégica e precisa da SEF e "
             "da AGE. Não assumir as duas opções sem decisão.",
         ],
@@ -905,6 +962,9 @@ ITENS = [
         "atencao": [
             "Medida de baixo custo e alta chance de 'Atendida': recomenda-se que a DCPPN altere o modelo de "
             "decreto antes do envio da resposta e que a resposta já traga um decreto como evidência.",
+            "Relevância em 2026: até a data de extração da base, a UO 1991 teve R$ 1,166 bi anulados (inicial "
+            "de R$ 1,178 bi, autorizado de R$ 11,3 mi), mais que o dobro de 2025 (R$ 542,8 mi, valor que confere "
+            "com o apurado pelo TCE). O BGE 2026 deve repetir o apontamento se os decretos não mudarem.",
         ],
     },
     # ------------------------------------------------------------------ 19
@@ -1034,17 +1094,21 @@ ENCAMINHAMENTOS = [
     ("R34 (2022)", "Legalidade da ação 4554 – Rodovias – Reparação Brumadinho", "SUGER (e CGE/DER)",
      "Acordo de Brumadinho e controle interno."),
     ("R46 (2025)", "Projetos Estratégicos com dotação compatível e sem janelas", "SUGER",
-     "Defesa 2025, p. 80-82. Recomenda-se alinhar com a resposta da SPLOR à R40/2022 (janelas)."),
+     "Defesa 2025, p. 80-82. Informar à SUGER que o PLOA 2027 tem 17 ações com IAG de Projeto Estratégico "
+     "com dotação de até R$ 1 mil (7 na LOA 2025). Alinhar com a resposta da SPLOR à R40/2022."),
 ]
 
 BASES_NECESSARIAS = [
-    "Execução orçamentária 2025 por programa e ação (crédito inicial, autorizado, empenhado, liquidado), "
-    "extraída do Armazém Siafi: para o item R6/2022 (percentual de programas abaixo de 50%) e para atualizar "
-    "o indicador 'Sucesso do Planejamento Orçamentário' (R29/D39).",
-    "LOA 2026 e PLOA 2027 em base de dados (QDD), com dotação por ação, fonte e IPU: para contar as janelas "
-    "orçamentárias (R40/2022), verificar a Fonte 52 (D44/2025) e a Ação 2417 (D42/2025 e D33/2021).",
-    "Demonstrativo dos 50 municípios com pior IMRS que acompanha o PLOA 2027 (D22/2021).",
-    "Decretos de alteração orçamentária de 2026 que utilizaram a UO 1991 – Reserva de Contingência (R49/2025).",
-    "Atas do Grupo Coordenador do FEM de 2026 e situação do relatório do Fórum Técnico Minas Sem Miséria (R51/2025).",
-    "Relatórios de Gestão Fiscal do 3º quadrimestre de 2026, quando publicados (R28/2020).",
+    "[Incluída] Execução 2025 e 2026 (data/dados/execucao_2025.csv e execucao_2026.csv) e QDD fiscal do PLOA "
+    "2027 (data/dados/ploa2027_base_qdd_fiscal.xlsx), usados nos itens R6, R29/D39, R40, D33/D42, D44 e R49. "
+    "Resultados em entregas/demanda-01/analises/ (gerados por scripts/analise_demanda01.py).",
+    "[Incluída] Volumes do PLOA 2027 e do PPAG 2027 (data/legislacao-basica), com o demonstrativo do IMRS no "
+    "Volume 1, p. 247-248 (D22/2021).",
+    "[Em inclusão] Atas do Grupo Coordenador do FEM (data/atas-fem) e situação do relatório do Fórum Técnico "
+    "Minas Sem Miséria. Os itens R51/2025 e R52/2025 serão aprimorados quando a inclusão terminar.",
+    "[Pendente] Decretos de alteração orçamentária de 2026 que utilizaram a UO 1991 (R49/2025), para anexar "
+    "como evidência após a mudança do modelo.",
+    "[Pendente] Data de extração da base execucao_2026.csv, para citar os números de 2026 com a referência "
+    "temporal correta.",
+    "[Futuro] RGF do 3º quadrimestre de 2026, quando publicado (R28/2020).",
 ]
