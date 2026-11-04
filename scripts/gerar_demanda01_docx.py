@@ -435,6 +435,7 @@ def anexos(doc) -> None:
         "Ofício SEF/STE nº 288/2026 e quadro de controle (data/demandas-resposta).",
         "TCEMG – Relatório sobre a Macrogestão e Contas do Governador, exercícios 2023, 2024 e 2025; "
         "Relatório de Análise da Defesa do Estado, exercício 2025; Of. TCEMG 21465/2026 – Decreto NE 673/2026 (data/analise-contas).",
+        "TCEMG – Relatórios Temáticos de Créditos Adicionais R32/2025 e R34/2026, 2º quadrimestre (data/relatorio_tematico).",
         "Respostas SPLOR: Nota Técnica nº 21/2026; Memorandos nº 149/2026, 195/2025 e 198/2025; Ofício nº 13/2025; Nota "
         "Técnica nº 38/2024 (data/respostas-splor).",
         "Relatório de Transição SPLOR 2026, versão de 28/10/2026; RGF 2026 – 2º quadrimestre "

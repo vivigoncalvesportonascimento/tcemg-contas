@@ -18,7 +18,7 @@ from docx.table import Table
 from docx.text.paragraph import Paragraph
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from demanda01_sugestoes_revisadas import ATENCAO_EXTRA, OUTRAS, SUGESTOES  # noqa: E402
+from demanda01_sugestoes_revisadas import ATENCAO_EXTRA, ATENCAO_R34, OUTRAS, SUGESTOES  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parent.parent
 ARQ = RAIZ / "entregas" / "demanda-01" / "Demanda01_Oficio_SEF_288_2026_minuta_respostas_SPLOR_revisado_compacto.docx"
@@ -81,13 +81,18 @@ def main() -> None:
         modelo._p.getparent().remove(modelo._p)
         msg = f"{ref}: sugestão substituída ({len(SUGESTOES[ref])} parágrafos)"
 
-        if ref in ATENCAO_EXTRA:
-            at = next(t for t in tabs if len(t.rows) == 1 and t.cell(0, 0).text.startswith("Validar"))
+        extras = ATENCAO_EXTRA.get(ref, []) + ATENCAO_R34.get(ref, [])
+        at = next((t for t in tabs if len(t.rows) == 1 and t.cell(0, 0).text.startswith("Validar")), None)
+        if extras and at is None:
+            msg += "; sem caixa de atenção neste item (mantido como na revisão)"
+        elif extras:
+            existentes = {p.text.strip() for p in at.cell(0, 0).paragraphs}
+            novos = [x for x in extras if x.strip() not in existentes]
             ultimo = at.cell(0, 0).paragraphs[-1]
             ancora = ultimo._p
-            for texto in ATENCAO_EXTRA[ref]:
+            for texto in novos:
                 ancora = novo_paragrafo_apos(ultimo, ancora, texto, rotular=False)
-            msg += f"; +{len(ATENCAO_EXTRA[ref])} ponto(s) de atenção"
+            msg += f"; +{len(novos)} ponto(s) de atenção"
 
         if ref in OUTRAS:
             p = next(p for p in pars if p.text.startswith("Outras manifestações relacionadas"))

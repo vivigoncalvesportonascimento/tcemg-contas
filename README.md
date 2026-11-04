@@ -24,6 +24,7 @@ O `corpus/` replica a estrutura de `data/` em arquivos `.txt`, com marcadores `=
 | `data/dados` | Bases de execução (Armazém Siafi), QDD do PLOA, bases do PPAG |
 | `data/atas-fem` | Atas do Grupo Coordenador do FEM |
 | `data/demandas-resposta` | Demandas em aberto (ofícios e quadros de controle) |
+| `data/relatorio_tematico` | Relatórios temáticos do TCEMG (ex.: Créditos Adicionais) |
 | `data/respostas-splor` | Respostas anteriores da SPLOR (memorandos, ofícios, notas técnicas) |
 | `data/documentacao-complementar` | RGF, RREO, relatório de transição etc. |
 | `data/legislacao-basica` | CF, CE/MG, LRF, Lei 4.320, LDO, LOA, PPAG, decretos de competência |

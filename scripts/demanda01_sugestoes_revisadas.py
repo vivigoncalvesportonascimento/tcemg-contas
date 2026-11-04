@@ -17,6 +17,13 @@ SUGESTOES = {
         "corretos no Diário Oficial e que a divergência estava na transcrição do sítio da ALMG (Decretos 683 e "
         "690/2023 e 577 e 632/2025, Memo SEPLAG/SPLOR nº 170/2025), ou no registro tardio no Siafi, regularizado "
         "(Decreto 483/2024, OF SEPLAG/SPLOR nº 63/2024).",
+        "Evidência recente: o Relatório Temático R34/2026 – Créditos Adicionais (2º quadrimestre de 2026, de "
+        "22/10/2026) não registrou inconsistências entre os decretos publicados e os registros do Siafi. Os "
+        "relatórios anteriores traziam essa seção: o R32/2025 apontou os Decretos 577 e 632/2025, cuja "
+        "divergência estava na transcrição do sítio da ALMG. O mesmo relatório informa que todos os créditos "
+        "adicionais abertos até agosto de 2026 foram da modalidade suplementar. Assim, não se repetiu a "
+        "situação que originou a recomendação: reforço de crédito especial registrado como novo crédito "
+        "especial.",
         "Para dar a publicidade apontada pela Cfamge, toda retificação de decreto orçamentário passará a ser "
         "publicada no Diário Oficial e comunicada formalmente à ALMG para atualização do seu sítio. As "
         "ocorrências serão relacionadas na manifestação aos Relatórios Temáticos de Créditos Adicionais.",
@@ -49,6 +56,9 @@ SUGESTOES = {
         "serão corrigidas e, quando for o caso, retificadas com publicação no Diário Oficial. Esse é o controle "
         "por planilha admitido na própria recomendação. Ele vigorará até que o GRP-Minas incorpore as "
         "verificações ao sistema.",
+        "O resultado dos controles já adotados aparece na fiscalização mais recente: o Relatório Temático "
+        "R34/2026 – Créditos Adicionais, do 2º quadrimestre de 2026, não apontou inconsistências entre os "
+        "decretos e o Siafi, ao contrário dos relatórios de 2023 a 2025.",
         "Plano de ação: (1) elaborar a conciliação de 2026 (janeiro a outubro) e anexá-la como evidência "
         "(SPLOR/DCPPN e DCMEFO, até o envio ou até 31/12/2026); (2) conciliar mensalmente a partir de "
         "novembro de 2026; (3) migrar as verificações para o GRP-Minas em 2027.",
@@ -68,7 +78,11 @@ SUGESTOES = {
         "Evidenciação consolidada: a rastreabilidade já existe no Siafi-MG, que registra as suplementações "
         "financiadas pela Reserva com código de origem próprio (origem 19 – Anulação da Reserva de Contingência "
         "Livre). Em 2026, até 30/10, foram 35 decretos e R$ 1.166,23 milhões, valor idêntico ao anulado na UO "
-        "1991. A SEPLAG publicará em seu sítio eletrônico, quadrimestralmente, demonstrativo dos créditos "
+        "1991. Tanto é assim que o próprio Relatório Temático R34/2026 – Créditos Adicionais (2º quadrimestre "
+        "de 2026, p. 7-8), com dados do Armazém Siafi, já apresenta a Reserva de Contingência como fonte de "
+        "abertura segregada das demais anulações: R$ 1,151 bilhão, 6% do total até agosto. Isso não ocorria no "
+        "relatório equivalente de 2025. Para que a evidenciação consolidada também esteja disponível ao "
+        "cidadão, a SEPLAG publicará em seu sítio eletrônico, quadrimestralmente, demonstrativo dos créditos "
         "adicionais financiados pela Reserva de Contingência, por decreto, data, valor e unidade beneficiada. A "
         "primeira edição trará os decretos de 2026.",
         "Plano de ação: (1) ajustar o modelo de minuta de decreto (SPLOR/DCPPN, até [data]); (2) publicar a "
@@ -103,4 +117,27 @@ OUTRAS = {
                   "no RCI 2023 (BGE 2023, p. 591).",
     "R1 (2021)": "OF SPLOR 33/2024, 40/2024 e 63/2024 (inconsistências decreto × Siafi × ALMG em 2023-2024); "
                  "manifestação SEPLAG no RCI 2023 (BGE 2024, p. 616).",
+}
+
+
+# Pontos de atenção acrescentados após a análise dos Relatórios Temáticos R32/2025 e R34/2026.
+ATENCAO_R34 = {
+    "R10 (2020)": [
+        "Novos relatórios (data/relatorio_tematico): o R34/2026 não traz seção de inconsistências, e todos os "
+        "créditos de 2026 até agosto foram suplementares. O R32/2025 apontou os Decretos 577 e 632, já "
+        "esclarecidos no Memo SPLOR 170/2025. Confirmar se a ALMG corrigiu o texto desses decretos no seu sítio.",
+    ],
+    "R1 (2021)": [
+        "O R34/2026 usa a numeração de decretos da ALMG, enquanto a base Siafi usa numeração própria (por "
+        "exemplo, Decreto ALMG 673 = Siafi 110). A conciliação proposta deve trazer essa correspondência, que é "
+        "justamente o que permite ao TCE e à CGE conferir decreto × registro.",
+    ],
+    "R49 (2025)": [
+        "O R34/2026 (p. 7) informa que o tema Reserva de Contingência é 'pormenorizado em relatório "
+        "específico', que não está no repositório. Convém obtê-lo, pois pode trazer nova análise ou "
+        "recomendação sobre a Reserva em 2026.",
+        "O R34/2026 (p. 6) reitera a análise do Decreto NE 673/2026 (MGI): dotação simbólica de R$ 2 mil na LOA, "
+        "suplementação de R$ 1,209 bi e uso de R$ 687,4 mi do FFP. Registra que os esclarecimentos (Memo SPLOR "
+        "149/2026) 'serão analisados no Relatório Final'. Manter a coerência da resposta ao R49 com o Memo 149.",
+    ],
 }
