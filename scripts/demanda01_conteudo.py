@@ -777,9 +777,9 @@ ITENS = [
             "PLOA 2027), cujo montante depende de requisições judiciais.",
             "Plano de ação: na elaboração do PLOA 2028, a SPLOR revisará as janelas financiadas com recursos "
             "ordinários (Fonte 10) que não se refiram a precatórios, sentenças ou contrapartidas. A orientação "
-            "será programar dotação compatível com o custo estimado ou consolidar a ação, com especial atenção "
-            "às ações de Projetos Estratégicos (17 janelas com IAG no PLOA 2027). Responsável: SPLOR/SCPO e "
-            "DCPPN. Prazo: setembro de 2027.",
+            "será programar dotação compatível com o custo estimado ou consolidar a ação. As janelas em ações "
+            "de Projetos Estratégicos serão avaliadas pela SUGER, responsável pela definição dos valores anuais "
+            "dessas ações. Responsável: SPLOR/SCPO e DCPPN. Prazo: setembro de 2027.",
         ],
         "atencao": [
             "Constatação desfavorável nas bases: o número de janelas cresceu, de 115 (LOA 2025) para 121 (LOA "
@@ -789,7 +789,8 @@ ITENS = [
             "com prazo. Lista em entregas/demanda-01/analises/janelas_*.csv.",
             "Critério: ação (UO × ação) com crédito inicial total entre R$ 1 e R$ 1.000. Ajustar se a SPLOR usa "
             "outro conceito.",
-            "Alinhar com a resposta da SUGER à R46/2025 (Projetos Estratégicos) para não haver contradição.",
+            "As janelas em Projetos Estratégicos (17 no PLOA 2027) ficam com a SUGER, que define os valores anuais "
+            "dessas ações. Ver o R46/2025, encaminhado à SUGER.",
         ],
     },
     # ------------------------------------------------------------------ 16
@@ -1226,8 +1227,9 @@ ENCAMINHAMENTOS = [
     ("R34 (2022)", "Legalidade da ação 4554 – Rodovias – Reparação Brumadinho", "SUGER (e CGE/DER)",
      "Acordo de Brumadinho e controle interno."),
     ("R46 (2025)", "Projetos Estratégicos com dotação compatível e sem janelas", "SUGER",
-     "Defesa 2025, p. 80-82. Informar à SUGER que o PLOA 2027 tem 17 ações com IAG de Projeto Estratégico "
-     "com dotação de até R$ 1 mil (7 na LOA 2025). Alinhar com a resposta da SPLOR à R40/2022."),
+     "Defesa 2025, p. 80-82. A SUGER define os valores anuais dos Projetos Estratégicos e deve avaliar por que "
+     "estão orçados via janela. Subsídio: o PLOA 2027 tem 17 ações com IAG de Projeto Estratégico com dotação "
+     "de até R$ 1 mil (7 na LOA 2025)."),
 ]
 
 BASES_NECESSARIAS = [

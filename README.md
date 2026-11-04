@@ -38,3 +38,5 @@ O `corpus/` replica a estrutura de `data/` em arquivos `.txt`, com marcadores `=
   - Gerar o Word: `poetry run python scripts/gerar_demanda01_docx.py`
   - Saída: `entregas/demanda-01/Demanda01_Oficio_SEF_288_2026_minuta_respostas_SPLOR.docx`
   - Análises quantitativas: `poetry run python scripts/analise_demanda01.py` → `entregas/demanda-01/analises/`
+  - Itens de outras áreas (validação da chefia): `poetry run python scripts/gerar_demanda01_encaminhamentos_docx.py` → `entregas/demanda-01/Demanda01_Oficio_SEF_288_2026_itens_outras_areas.docx`
+- Busca no acervo de respostas anteriores: `poetry run python scripts/buscar_respostas_anteriores.py "termo1" "termo2"`
