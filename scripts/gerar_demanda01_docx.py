@@ -22,6 +22,9 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from demanda01_conteudo import BASES_NECESSARIAS, ENCAMINHAMENTOS, ITENS, PRAZO  # noqa: E402
 from demanda01_resumos_revisados import ROTULOS  # noqa: E402
 
+ROTULOS_SUGESTAO = ("Plano de ação", "Atos publicados:", "Registro sistêmico:", "Evidenciação no ato:",
+                    "Evidenciação consolidada:")
+
 RAIZ = Path(__file__).resolve().parent.parent
 SAIDA = RAIZ / "entregas" / "demanda-01" / "Demanda01_Oficio_SEF_288_2026_minuta_respostas_SPLOR.docx"
 
@@ -145,7 +148,7 @@ def caixa(doc, titulo: str, paragrafos: list[str], cor_fundo: str, marcadores=Fa
         if not marcadores and texto.lower().startswith("status:"):
             rr = par.add_run(texto)
             rr.bold = True
-        elif not marcadores and texto.lower().startswith("plano de ação"):
+        elif not marcadores and texto.startswith(ROTULOS_SUGESTAO):
             rotulo, _, resto = texto.partition(":")
             rr = par.add_run(rotulo + ":")
             rr.bold = True
