@@ -90,4 +90,13 @@ Ações (UO×ação) com dotação inicial: 959; janelas: 130 (13,56%)
 
 == R49 – UO 1991 Reserva de Contingência – 2026: inicial R$ 1.177,57 mi, autorizado R$ 11,34 mi, anulado (inicial − autorizado) R$ 1.166,23 mi
 
+== R49 – Decretos 2026 (Siafi) com anulação da UO 1991: 35 decretos, R$ 1.166,23 mi; suplementações com origem 19 (Anulação Reserva Contingência): R$ 1.166,23 mi
+  Decretos mistos (reserva + outras anulações): 32, R$ 1.139,95 mi; 3 maiores = 74,79%
+    Siafi  110 (2026-06-22):     R$ 526,98 mi → PARTICIPAÇÃO EMPRESAS 526.98 mi
+    Siafi   38 (2026-03-11):     R$ 228,62 mi → DER-MG 228.62 mi
+    Siafi  108 (2026-06-17):     R$ 116,67 mi → SEINFRA 116.67 mi
+    Siafi    4 (2026-01-28):      R$ 57,25 mi → SEJUSP 52.00 mi; PARTICIPAÇÃO EMPRESAS 5.25 mi
+    Siafi  130 (2026-07-10):      R$ 40,03 mi → PMMG 40.00 mi; SEPLAG 0.03 mi
+    Siafi  104 (2026-06-15):      R$ 35,00 mi → SEDE 35.00 mi
+
 PLOA 2027 – total QDD fiscal: R$ 155.501,68 mi

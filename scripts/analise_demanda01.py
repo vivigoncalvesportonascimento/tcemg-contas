@@ -141,6 +141,39 @@ def reserva(df: pd.DataFrame, ano: int) -> None:
           f"{fmt(r['Crédito Inicial'] - r['Crédito Autorizado'])}")
 
 
+def reserva_por_decreto(arquivo: Path) -> None:
+    """Decretos (numeração Siafi) com anulação da UO 1991 – base de alterações orçamentárias."""
+    d = pd.read_csv(arquivo, sep=";", encoding="cp1252", decimal=",")
+    d.columns = [c.strip() for c in d.columns]
+    decs = d.loc[d["Uo Cod."] == 1991, "Num. Decreto"].unique()
+    linhas = []
+    for n in decs:
+        x = d[d["Num. Decreto"] == n]
+        o19 = x[x["Origem Credito"] == 19]
+        benef = o19.groupby("Uo Sigla")["Suplementação"].sum().sort_values(ascending=False)
+        linhas.append({
+            "decreto_siafi": n, "data_registro": str(x["Data Registro"].iloc[0])[:10],
+            "lei": x["Lei Aprovação"].iloc[0],
+            "anulacao_reserva": x.loc[x["Uo Cod."] == 1991, "Anulação"].sum(),
+            "suplementacao_origem19": o19["Suplementação"].sum(),
+            "suplementacao_total_decreto": x["Suplementação"].sum(),
+            "outras_anulacoes_decreto": x.loc[x["Uo Cod."] != 1991, "Anulação"].sum(),
+            "uos_beneficiadas": "; ".join(f"{k} {v / 1e6:.2f} mi" for k, v in benef.items()),
+        })
+    r = pd.DataFrame(linhas).sort_values("anulacao_reserva", ascending=False)
+    r["decreto_misto"] = r["outras_anulacoes_decreto"] > 500
+    r.to_csv(SAIDA / "reserva_contingencia_decretos_2026.csv", sep=";", decimal=",", index=False, encoding="utf-8-sig")
+    tot = r["anulacao_reserva"].sum()
+    o19_total = d.loc[d["Origem Credito"] == 19, "Suplementação"].sum()
+    print(f"\n== R49 – Decretos 2026 (Siafi) com anulação da UO 1991: {len(r)} decretos, {fmt(tot)}; "
+          f"suplementações com origem 19 (Anulação Reserva Contingência): {fmt(o19_total)}")
+    print(f"  Decretos mistos (reserva + outras anulações): {int(r['decreto_misto'].sum())}, "
+          f"{fmt(r.loc[r['decreto_misto'], 'anulacao_reserva'].sum())}; 3 maiores = "
+          f"{pct(r['anulacao_reserva'].head(3).sum() / tot)}")
+    for _, x in r.head(6).iterrows():
+        print(f"    Siafi {x['decreto_siafi']:>4} ({x['data_registro']}): {fmt(x['anulacao_reserva']):>16} → {x['uos_beneficiadas']}")
+
+
 def main() -> None:
     SAIDA.mkdir(parents=True, exist_ok=True)
     e25, e26, p27 = carregar_execucao(2025), carregar_execucao(2026), carregar_ploa2027()
@@ -165,6 +198,7 @@ def main() -> None:
         acao2417(p27, "PLOA 2027", "Crédito Inicial")
         reserva(e25, 2025)
         reserva(e26, 2026)
+        reserva_por_decreto(DADOS / "alteracao_orcamentaria_2026.csv")
         print(f"\nPLOA 2027 – total QDD fiscal: {fmt(p27['Crédito Inicial'].sum())}")
     texto = buf.getvalue()
     (SAIDA / "resumo.txt").write_text(texto, encoding="utf-8")

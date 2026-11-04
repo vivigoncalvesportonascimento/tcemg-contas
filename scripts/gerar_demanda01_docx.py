@@ -411,7 +411,7 @@ def anexos(doc) -> None:
         "Decreto nº 48.636/2023 (SEPLAG); Decreto nº 48.680/2023 (SEF); LC 101/2000; Lei 19.990/2011; "
         "Classificador Econômico da Despesa (07/10/2026); LOA 2026 e PLOA 2027, volumes 1 e 5 "
         "(data/legislacao-basica).",
-        "Execução orçamentária 2025 e 2026 (Armazém Siafi) e QDD fiscal do PLOA 2027 (data/dados), "
+        "Execução orçamentária 2025 e 2026, alterações orçamentárias 2026 (Armazém Siafi) e QDD fiscal do PLOA 2027 (data/dados), "
         "processados por scripts/analise_demanda01.py.",
     ]
     for f in fontes:

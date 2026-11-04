@@ -945,6 +945,12 @@ ITENS = [
             "Na defesa (p. 84-85), a Cfamge reconheceu que a informação pode ser rastreada nos anexos dos "
             "decretos (UO 1991). Manteve a recomendação porque a informação não aparece de forma destacada ou "
             "consolidada no ato.",
+            "Situação em 2026 (base de alterações orçamentárias até 30/10/2026): 35 decretos anularam dotações "
+            "da UO 1991, somando R$ 1.166,23 milhões, mais que o dobro de 2025. Em 32 deles, a anulação da "
+            "Reserva aparece junto com outras anulações e remanejamentos no mesmo ato, exatamente a situação "
+            "criticada pela Cfamge. Três decretos concentram 74,8% do valor: na numeração do Siafi, o 110 "
+            "(22/06/2026, R$ 527,0 mi para a UO Participação no Aumento de Capital de Empresas), o 38 "
+            "(11/03/2026, R$ 228,6 mi para o DER-MG) e o 108 (17/06/2026, R$ 116,7 mi para a SEINFRA).",
         ],
         "competencia": "Competência da SPLOR: elaboração dos decretos de alteração orçamentária (art. 37, III "
                        "e VI, do Decreto 48.636/2023).",
@@ -963,6 +969,14 @@ ITENS = [
             "próprio e destacado com o montante anulado da UO 1991 – Reserva de Contingência. Esse montante "
             "ficará separado das demais anulações de dotações. Exemplo de redação: 'II – anulação de dotação "
             "da Reserva de Contingência (UO 1991), no valor de R$ ...'.",
+            "A rastreabilidade já existe no sistema. No Siafi-MG, toda suplementação financiada pela Reserva de "
+            "Contingência é registrada com código de origem próprio (origem 19 – Anulação da Reserva de "
+            "Contingência Livre – Fonte 10), distinto das demais origens. Em 2026, até 30/10, essas "
+            "suplementações somam R$ 1.166,23 milhões, valor idêntico ao anulado na UO 1991, em 35 decretos. "
+            "Para dar a evidenciação consolidada apontada pela Cfamge, a SEPLAG passará a publicar, "
+            "quadrimestralmente em seu sítio eletrônico, demonstrativo dos créditos adicionais financiados pela "
+            "Reserva de Contingência, por decreto, data, valor e unidade orçamentária beneficiada. O "
+            "demonstrativo será gerado a partir desse código de origem.",
             "A medida segue a prática já adotada no art. 2º dos decretos, que explicita fonte, origem e valor. "
             "Exige apenas ajuste no modelo de minuta da DCPPN, o que permite a implementação imediata. A partir "
             "de 2027, o GRP-Minas permitirá também a consulta consolidada dos créditos financiados pela Reserva "
@@ -974,13 +988,22 @@ ITENS = [
             "Relevância em 2026: até 30/10/2026, a UO 1991 teve R$ 1,166 bi anulados (inicial "
             "de R$ 1,178 bi, autorizado de R$ 11,3 mi), mais que o dobro de 2025 (R$ 542,8 mi, valor que confere "
             "com o apurado pelo TCE). O BGE 2026 deve repetir o apontamento se os decretos não mudarem.",
-            "O TCE não citou números de decreto. No BGE 2025 (p. 232), apresentou apenas a distribuição dos "
-            "R$ 542,8 mi por UO reforçada: FES 51,86%, GDPE-SEF 20,27%, Funapec 5,62%, Ipsemg 5,26%, PCMG "
-            "4,04%, entre outras. As bases do repositório (execução por UO/ação/fonte) não trazem o número do "
-            "decreto, por isso os decretos de 2026 que anularam a UO 1991 não puderam ser identificados. Para "
-            "anexá-los como evidência, extrair do Armazém Siafi a consulta de alterações orçamentárias (documento "
-            "ou decreto × UO anulada = 1991) de 2026, ou pesquisar os decretos publicados no Diário Oficial ou "
-            "no portal da ALMG.",
+            "O TCE não citou números de decreto. No BGE 2025 (p. 232), apresentou apenas a distribuição por UO "
+            "reforçada (FES 51,86%, GDPE-SEF 20,27% etc.).",
+            "A resposta não depende dos decretos publicados: a base data/dados/alteracao_orcamentaria_2026.csv "
+            "sustenta todos os números (lista completa em "
+            "entregas/demanda-01/analises/reserva_contingencia_decretos_2026.csv). A numeração da base é a do "
+            "Siafi, não a do decreto publicado.",
+            "Vale identificar o normativo publicado de quatro decretos. O Siafi 110 (22/06/2026) é o maior "
+            "(45% do total, R$ 527 mi para Participação no Aumento de Capital de Empresas), deve chamar a "
+            "atenção do TCE e convém conhecer o objeto. Os Siafi 38 (DER-MG, R$ 228,6 mi) e 108 (SEINFRA, "
+            "R$ 116,7 mi), que com o 110 somam 74,8%. Por fim, o Siafi 31 (28/02/2026, R$ 13 mi para o Gabinete "
+            "Militar), um dos três decretos financiados só pela Reserva, para comparar a redação de decreto "
+            "'puro' com a de decreto misto. Se a equipe quiser anexar um exemplo do novo modelo, usar o primeiro "
+            "decreto publicado após a mudança.",
+            "Ponto sensível: R$ 545,4 mi da Reserva (47% do total de 2026) foram para a UO Participação no "
+            "Aumento de Capital de Empresas. Confirmar o objeto (empresa beneficiada) antes do envio, pois a "
+            "Cfamge pode questionar o uso da Reserva de Contingência para aporte de capital.",
         ],
     },
     # ------------------------------------------------------------------ 19
@@ -1186,10 +1209,9 @@ BASES_NECESSARIAS = [
     "R52.",
     "[Incluída] Relatório de Avaliação do PPAG 2025, Volume 2 (justificativas de desempenho por ação, item R6) e "
     "bases auxiliares de classificação orçamentária (data/dados/auxiliares).",
-    "[Pendente] Relação dos decretos de 2026 que anularam dotações da UO 1991 – Reserva de Contingência "
-    "(R49/2025). O TCE não cita números de decreto, e a base de execução não traz essa informação. Sugestão: "
-    "consulta do Armazém Siafi por documento de alteração orçamentária ou pesquisa no Diário Oficial ou no "
-    "portal da ALMG.",
+    "[Incluída] Alterações orçamentárias 2026 por decreto Siafi e origem do crédito "
+    "(data/dados/alteracao_orcamentaria_2026.csv), usadas no R49. Pendente: número do normativo publicado dos "
+    "decretos Siafi 110, 38, 108 e 31.",
     "[Incluída] Transcrição da 19ª reunião do Grupo Coordenador do FEM (03/09/2026). A ata oficial ainda está "
     "pendente.",
         "[Futuro] RGF do 3º quadrimestre de 2026, quando publicado (R28/2020).",
