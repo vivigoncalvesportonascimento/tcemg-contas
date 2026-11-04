@@ -974,6 +974,13 @@ ITENS = [
             "Relevância em 2026: até 30/10/2026, a UO 1991 teve R$ 1,166 bi anulados (inicial "
             "de R$ 1,178 bi, autorizado de R$ 11,3 mi), mais que o dobro de 2025 (R$ 542,8 mi, valor que confere "
             "com o apurado pelo TCE). O BGE 2026 deve repetir o apontamento se os decretos não mudarem.",
+            "O TCE não citou números de decreto. No BGE 2025 (p. 232), apresentou apenas a distribuição dos "
+            "R$ 542,8 mi por UO reforçada: FES 51,86%, GDPE-SEF 20,27%, Funapec 5,62%, Ipsemg 5,26%, PCMG "
+            "4,04%, entre outras. As bases do repositório (execução por UO/ação/fonte) não trazem o número do "
+            "decreto, por isso os decretos de 2026 que anularam a UO 1991 não puderam ser identificados. Para "
+            "anexá-los como evidência, extrair do Armazém Siafi a consulta de alterações orçamentárias (documento "
+            "ou decreto × UO anulada = 1991) de 2026, ou pesquisar os decretos publicados no Diário Oficial ou "
+            "no portal da ALMG.",
         ],
     },
     # ------------------------------------------------------------------ 19
@@ -1013,19 +1020,23 @@ ITENS = [
         "sugestao": [
             "Status: Em tratamento.",
             "A elaboração do Plano Mineiro de Combate à Miséria está na pauta do Grupo Coordenador do FEM desde "
-            "a sua reinstalação, em outubro de 2024. Desde então, foram realizadas 18 reuniões, até 26/06/2026. "
+            "a sua reinstalação, em outubro de 2024. Desde então, foram realizadas 19 reuniões, até 03/09/2026. "
             "Os insumos já disponíveis são o Estudo Multidimensional da Pobreza, apresentado pela SEDESE na 4ª "
             "reunião (14/11/2024), e as propostas do Fórum Técnico Minas Sem Miséria da ALMG. Na 9ª reunião "
             "(25/06/2025), o Grupo deliberou incorporar as propostas do Fórum ao Plano. O documento final do "
             "Fórum estava em aprovação na Comissão de Direitos Humanos da ALMG em maio de 2026 (17ª reunião, "
-            "11/05/2026) e ainda aguardava a conclusão dos trâmites em junho de 2026 (18ª reunião).",
+            "11/05/2026). Na 19ª reunião (03/09/2026), o relatório ainda contava apenas com o parecer da Comissão "
+            "de Direitos Humanos, sem versão final aprovada. Nessa reunião, o Grupo deliberou retomar a "
+            "elaboração do Plano a partir do relatório disponível, sem aguardar a versão final, e incluí-la na "
+            "pauta da próxima reunião ordinária.",
             "Enquanto o Plano não é concluído, o Grupo Coordenador adotou uma medida intermediária de "
             "planejamento. Na 18ª reunião (26/06/2026), validou previamente a carteira de programas prioritários "
             "que poderão receber recursos do FEM em 2027, apresentada por SEDESE, IDENE, SEAPA, SEE, SES e "
             "pelas unidades de encargos gerais. A carteira considerou as contribuições da sociedade civil e o "
             "relatório preliminar do Fórum, compartilhado pela SEDESE com suas áreas finalísticas. O Grupo também "
-            "aprovou o orçamento de 2026 antes da publicação da LOA (12ª reunião, 12/09/2025) e estabeleceu "
-            "calendário anual de reuniões ordinárias (26/06, 11/09 e 04/12/2026).",
+            "aprovou os orçamentos do FEM antes do envio dos projetos de LOA: o de 2026 na 12ª reunião "
+            "(12/09/2025) e o de 2027, de R$ 627 milhões, na 19ª reunião (03/09/2026), com a programação de "
+            "cada órgão executor. Estabeleceu ainda calendário anual de reuniões ordinárias.",
             "Plano de ação proposto ao Grupo Coordenador: (1) apresentação, pela SEDESE, da estrutura e do "
             "cronograma de elaboração do Plano, incorporando o relatório do Fórum Técnico (reunião ordinária de "
             "04/12/2026); (2) elaboração da minuta do Plano (SEDESE, com apoio da SEPLAG; 1º semestre de 2027); "
@@ -1035,10 +1046,13 @@ ITENS = [
             "secretaria executiva. [Validar prazos com SEDESE e Grupo Coordenador.]",
         ],
         "atencao": [
-            "Fonte: atas da 1ª à 18ª reunião do Grupo Coordenador (data/atas-fem). A última ata disponível é a "
-            "da 18ª reunião, de 26/06/2026. Verificar se a reunião ordinária de 11/09/2026 ocorreu (19ª), o que "
-            "deliberou sobre o orçamento de 2027 e se o relatório do Fórum foi concluído. Se sim, atualizar a "
-            "minuta.",
+            "Fontes: atas da 1ª à 18ª reunião e transcrição da 19ª reunião (03/09/2026; ata ainda não "
+            "lavrada), em data/atas-fem. Ao citar a 19ª reunião na resposta oficial, preferir a ata assinada, se "
+            "disponível até o envio.",
+            "Risco a considerar: na 19ª reunião, a SEPLAG alertou que a cobrança do adicional de 2 p.p. do ICMS "
+            "(receita do FEM) termina em 31/12/2026 se não houver prorrogação (PL em tramitação na ALMG). Sem "
+            "prorrogação, a programação de 2027 (R$ 627 mi) e o próprio Plano ficam sem fonte. Avaliar se "
+            "convém mencionar.",
             "O TCE já rejeitou o argumento de 'aguardar o Fórum' (Defesa 2025, p. 87). A resposta precisa trazer "
             "datas. O cronograma é uma proposta e deve ser pautado e validado pelo Grupo Coordenador, "
             "idealmente na reunião de 04/12/2026, que pode ser citada como evidência.",
@@ -1090,8 +1104,9 @@ ITENS = [
             "82, § 1º, do ADCT). Não há ingresso das demais origens admitidas pelo art. 2º da Lei 19.990/2011, "
             "como concursos de prognósticos, doações e transferências. Por isso, toda a receita da Fonte 71 é de "
             "natureza tributária e homogênea quanto ao tratamento nos mínimos constitucionais.",
-            "Essa receita, por integrar a arrecadação de impostos, eleva a base de cálculo dos mínimos de MDE "
-            "(25%) e ASPS (12%), depois das deduções do Fundeb (20%) e da DREM (30%, art. 76-A do ADCT). Por "
+            "Essa receita integra a base de cálculo dos mínimos de MDE (25%) e ASPS (12%), por se tratar de "
+            "receita de imposto. Sobre ela incidem ainda a destinação ao Fundeb (20%) e a DREM (30%, art. 76-A do "
+            "ADCT). Por "
             "decisão do COFIN, apresentada ao Grupo Coordenador na 12ª reunião (12/09/2025), parte da própria "
             "Fonte 71 é alocada em ações de educação e saúde voltadas ao público do Fundo. Assim, a obrigação "
             "constitucional adicional gerada pelo FEM é coberta pela própria fonte que a origina. No PLOA 2027, "
@@ -1106,6 +1121,17 @@ ITENS = [
             "orçamentária própria, a SPLOR apresentará ao Grupo Coordenador estudo comparando o modelo atual "
             "(execução descentralizada pelos órgãos setoriais, com controle por fonte e deliberação prévia do "
             "Grupo) e a criação de UO específica, para decisão antes do PLOA 2028.",
+            "Pelo mesmo fundamento, os recursos da Fonte 71 vêm sendo usados na recomposição do Fundeb. Entre "
+            "2012 e 2020, a parcela de 20% da arrecadação do adicional de ICMS devida ao Fundeb não foi "
+            "repassada. A receita, que deveria ter sido destinada ao Fundo da educação básica, permaneceu "
+            "indevidamente no FEM e gerou superávit financeiro. Trata-se, portanto, de recurso da própria Fonte "
+            "71, arrecadado e retido de forma equivocada à época, que agora é incorporado ao Fundeb, seu "
+            "destinatário constitucional. Não se trata de financiar com o FEM uma despesa alheia às suas "
+            "finalidades. A recomposição atende à determinação do TCEMG (D34 do Parecer Prévio de 2021, BGE "
+            "2025, p. 705-706) e ao cronograma pactuado pelo Estado, em discussão na Mesa de Conciliação "
+            "(Processo 1.192.382). Foi aprovada pelo Grupo Coordenador: R$ 87,4 milhões em 2025 (13ª reunião) e "
+            "R$ 237 milhões em 2026 (19ª reunião), ambos por superávit financeiro, sem redução das políticas já "
+            "aprovadas. Desde 2021, o repasse ao Fundeb sobre o adicional de ICMS é feito regularmente.",
             "Plano de ação: (1) documentar a memória de cálculo da parcela da Fonte 71 nos mínimos de MDE e ASPS "
             "e publicá-la nos Relatórios do FEM (SPLOR e SEF, 1º trimestre de 2027); (2) prever no GRP-Minas a "
             "segregação das origens não tributárias do FEM (SPLOR/DCPPN e SEF, 2027); (3) apresentar estudo "
@@ -1116,14 +1142,15 @@ ITENS = [
             "FEM, de 12/09/2025 (deduções Fundeb e DREM e decisão do COFIN sobre MDE/ASPS); QDD do PLOA 2027; "
             "NT 38/2024 (memórias de MDE e ASPS com a fonte 71). Nota: a ata menciona 'RCL' como base, mas os "
             "mínimos incidem sobre a receita de impostos. A minuta usa o termo correto.",
-            "Validar com a SEF se o adicional de ICMS do FEM integra a base de cálculo de MDE/ASPS no "
-            "entendimento do Estado e do TCE. Esse é o fundamento da decisão do COFIN e foi contestado pela "
-            "sociedade civil e pela ALMG (12ª reunião).",
-            "Risco correlato: o FEM financiou o passivo do Fundeb pela EGE-SEF (ação 2049): R$ 87,4 mi em 2025 "
-            "e R$ 215,5 mi em 2026, até 30/10/2026. O item foi aprovado como prioridade de 2027 (18ª reunião), "
-            "embora o PLOA 2027 não tenha dotação inicial na ação 2049 com Fonte 71. O TCE pode questionar a "
-            "aderência às finalidades do art. 4º da Lei 19.990/2011. Não citar na resposta sem alinhamento com "
-            "a SEF.",
+            "Confirmado pela equipe: a Fonte 71 entra na base de cálculo dos 25% (MDE) e dos 12% (ASPS). A "
+            "metodologia foi contestada pela sociedade civil e pela ALMG na 12ª reunião. A resposta deve "
+            "apresentá-la com fundamento técnico e jurídico claro.",
+            "Passivo do Fundeb: a execução pela EGE-SEF (ação 2049, Fonte 71) foi de R$ 87,4 mi em 2025 e "
+            "R$ 215,5 mi empenhados em 2026, até 30/10/2026. A parcela aprovada na 19ª reunião é de R$ 237 mi, "
+            "e a diferença deve ser confirmada com a SEF. Harmonizar o período citado: o TCE (D34/2021) fala em "
+            "2012 a 2020, a ata da 13ª reunião em 2010 a 2021 e a transcrição da 19ª reunião em 'quase 10 anos' "
+            "desde 2011. A minuta adota o período do TCE. Confirmar o número de parcelas restantes (a "
+            "transcrição menciona recomposições em 2026, 2027 e 2028).",
             "Evitar repetir o argumento de 'percentuais de ASPS/MDE': o TCE disse expressamente que ele não "
             "enfrenta o ponto.",
         ],
@@ -1156,10 +1183,14 @@ BASES_NECESSARIAS = [
     "[Incluída] Volumes do PLOA 2027 e do PPAG 2027 (data/legislacao-basica), com o demonstrativo do IMRS no "
     "Volume 1, p. 247-248 (D22/2021).",
     "[Incluída] Atas da 1ª à 18ª reunião do Grupo Coordenador do FEM (data/atas-fem), usadas nos itens R51 e "
-    "R52. Pendente: ata da reunião de 11/09/2026 (19ª), se realizada.",
+    "R52.",
     "[Incluída] Relatório de Avaliação do PPAG 2025, Volume 2 (justificativas de desempenho por ação, item R6) e "
     "bases auxiliares de classificação orçamentária (data/dados/auxiliares).",
-    "[Pendente] Decretos de alteração orçamentária de 2026 que utilizaram a UO 1991 (R49/2025), para anexar "
-    "como evidência após a mudança do modelo.",
+    "[Pendente] Relação dos decretos de 2026 que anularam dotações da UO 1991 – Reserva de Contingência "
+    "(R49/2025). O TCE não cita números de decreto, e a base de execução não traz essa informação. Sugestão: "
+    "consulta do Armazém Siafi por documento de alteração orçamentária ou pesquisa no Diário Oficial ou no "
+    "portal da ALMG.",
+    "[Incluída] Transcrição da 19ª reunião do Grupo Coordenador do FEM (03/09/2026). A ata oficial ainda está "
+    "pendente.",
         "[Futuro] RGF do 3º quadrimestre de 2026, quando publicado (R28/2020).",
 ]
