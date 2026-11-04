@@ -20,6 +20,7 @@ from docx.shared import Cm, Pt, RGBColor
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from demanda01_conteudo import BASES_NECESSARIAS, ENCAMINHAMENTOS, ITENS, PRAZO  # noqa: E402
+from demanda01_resumos_revisados import ROTULOS  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parent.parent
 SAIDA = RAIZ / "entregas" / "demanda-01" / "Demanda01_Oficio_SEF_288_2026_minuta_respostas_SPLOR.docx"
@@ -155,6 +156,19 @@ def caixa(doc, titulo: str, paragrafos: list[str], cor_fundo: str, marcadores=Fa
         if not marcadores:
             par.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
     doc.add_paragraph().paragraph_format.space_after = Pt(2)
+
+
+def paragrafo_rotulado(p, texto: str) -> None:
+    """Escreve o texto no parágrafo; se começar por um rótulo conhecido, o trecho até ':' fica em negrito."""
+    if texto.startswith(ROTULOS) and ":" in texto:
+        rotulo, _, resto = texto.partition(":")
+        r = p.add_run(rotulo + ":")
+        r.bold = True
+        r.font.color.rgb = AZUL
+        p.add_run(resto)
+    else:
+        p.add_run(texto)
+    p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
 
 
 def subtitulo(doc, texto: str) -> None:
@@ -336,8 +350,7 @@ def ficha(doc, n: int, it: dict) -> None:
 
     subtitulo(doc, "Resumo do tema (relatórios do TCEMG)")
     for par in it["resumo"]:
-        p = doc.add_paragraph(par)
-        p.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
+        paragrafo_rotulado(doc.add_paragraph(), par)
 
     subtitulo(doc, "Análise de competência")
     p = doc.add_paragraph(it["competencia"])
