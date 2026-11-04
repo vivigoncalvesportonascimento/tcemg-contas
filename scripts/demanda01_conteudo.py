@@ -72,6 +72,11 @@ ITENS = [
             "estava 'em discussão').",
             "O TCE critica a dependência reiterada do GRP. Prazos firmes reduzem o risco de nova avaliação "
             "'Não Atendida'.",
+            "Ponto sensível (data/dados/auxiliares/auxiliar_ipu.csv): o IPU 0 hoje identifica 'Recursos do "
+            "Estado aplicados nos investimentos relativos à LC 212/2025 – Propag', ou seja, um código foi "
+            "redefinido recentemente. O TCE pode alegar que a 'impossibilidade sistêmica' não impediu essa "
+            "reutilização. Preparar a explicação: por que não foi possível reaproveitar ou subdividir códigos "
+            "para emendas, ou por que a UPG é a solução transitória.",
         ],
     },
     # ------------------------------------------------------------------ 2
@@ -718,8 +723,12 @@ ITENS = [
             "O caso mais relevante é o Programa 85 – Promoção de Concessões e Parcerias (R$ 3,78 bi autorizados, "
             "19,6% empenhados). O saldo se concentra no Metrô da RMBH (ação 4346, R$ 1,48 bi da Fonte 24 – "
             "convênio com a União) e no Rodoanel Metropolitano (ação 4220, R$ 728 mi da Fonte 95 – Acordo de "
-            "Brumadinho). São empreendimentos de grande porte com cronograma físico-financeiro plurianual e "
-            "aporte vinculado a marcos contratuais.",
+            "Brumadinho). As justificativas constam do Relatório de Avaliação do PPAG 2025 (Volume 2). No Metrô, "
+            "a dotação previa eventuais valores devidos à concessionária e a partida e contrapartida de termo de "
+            "repasse em negociação com a União para ampliar o serviço. A execução foi afetada pelo limite do "
+            "decreto de programação orçamentária e pela negativa da União em celebrar o instrumento (p. 624). "
+            "No Rodoanel, os aportes da PPP dependem da comprovação do avanço físico-financeiro da concessão e "
+            "serão realizados à medida que os avanços forem atestados (p. 636).",
             "As justificativas por ação são registradas bimestralmente no Sigplan e analisadas pela SEPLAG, que "
             "orienta os órgãos a qualificá-las. A partir de 2027, a integração entre programação e execução no "
             "GRP-Minas deve permitir o realinhamento mais tempestivo de dotações.",
@@ -730,9 +739,9 @@ ITENS = [
             "de Contingência (Programa 999), são 26 de 165 programas (15,76%).",
             "Critério adotado: empenhado/crédito autorizado. Pelo liquidado, seriam 47 programas (28,5%). "
             "Confirmar que o TCE usou o empenho no BGE 2022.",
-            "Confirmar com SEINFRA e a área de Parcerias o motivo da não execução do Metrô RMBH (Fonte 24) e do "
-            "Rodoanel (Fonte 95) em 2025, para citar o fato concreto (por exemplo, cronograma de aporte e marcos "
-            "contratuais).",
+            "Justificativas do Metrô RMBH e do Rodoanel extraídas do Relatório de Avaliação do PPAG 2025, "
+            "Volume 2, p. 624 e 636 (numeração impressa). Não é necessário consultar a SEINFRA, salvo se a "
+            "equipe quiser informar a situação atual (2026) do termo de repasse do Metrô.",
         ],
     },
     # ------------------------------------------------------------------ 15
@@ -894,7 +903,7 @@ ITENS = [
             "SEMAD (ação 4038 – Fiscalização Ambiental) e R$ 10,00 milhões na FEAM (remuneração do pessoal "
             "ativo). Não há programação da fonte para o FFP (inativos da FEAM), para a PMMG ou para outras "
             "unidades.",
-            "Inativos da FEAM: em 2026, dos R$ 4,86 milhões da Fonte 52 programados na Ação 7428 (FFP), foram "
+            "Inativos da FEAM: em 2026 (até 30/10), dos R$ 4,86 milhões da Fonte 52 programados na Ação 7428 (FFP), foram "
             "empenhados apenas R$ 67 mil, com a complementação transferida para outra fonte [confirmar fonte e "
             "ato]. Para 2027, essa despesa já não está programada com recursos da TFAMG.",
             "Durante a execução de 2027, a SPLOR não acolherá créditos que destinem a Fonte 52 a unidades "
@@ -908,7 +917,7 @@ ITENS = [
             "aplicação formal do art. 76-A do ADCT (SEF e AGE, 1º trimestre de 2027).",
         ],
         "atencao": [
-            "Constatação nas bases (data/dados): a prática continuou em 2026. A PMMG empenhou R$ 7,83 mi da Fonte "
+            "Constatação nas bases (data/dados): a prática continuou em 2026. Até 30/10/2026, a PMMG empenhou R$ 7,83 mi da Fonte "
             "52 na ação 4374 (Policiamento Especializado), via crédito de R$ 13 mi anulado da ação 4038 da "
             "SEMAD. A LOA 2026 também programou R$ 1,63 mi na SEPLAG (ação 4466 – TI), com R$ 0,58 mi "
             "empenhados. O TCE verá isso no BGE 2026. Avaliar se ainda é possível corrigir a fonte em 2026 e "
@@ -962,7 +971,7 @@ ITENS = [
         "atencao": [
             "Medida de baixo custo e alta chance de 'Atendida': recomenda-se que a DCPPN altere o modelo de "
             "decreto antes do envio da resposta e que a resposta já traga um decreto como evidência.",
-            "Relevância em 2026: até a data de extração da base, a UO 1991 teve R$ 1,166 bi anulados (inicial "
+            "Relevância em 2026: até 30/10/2026, a UO 1991 teve R$ 1,166 bi anulados (inicial "
             "de R$ 1,178 bi, autorizado de R$ 11,3 mi), mais que o dobro de 2025 (R$ 542,8 mi, valor que confere "
             "com o apurado pelo TCE). O BGE 2026 deve repetir o apontamento se os decretos não mudarem.",
         ],
@@ -994,28 +1003,47 @@ ITENS = [
              "Histórico: 4ª reunião (14/11/2024), com o Estudo Multidimensional da Pobreza; 9ª reunião "
              "(25/06/2025), que deliberou acompanhar o Fórum Técnico Minas Sem Miséria; relatório final em "
              "tramitação na ALMG."),
-            ("Ofício SEPLAG/SPLOR nº 08/2025 (à SEDESE/CEAS)", "2025", "Não informado",
-             "Tratou do FEM e do Plano Mineiro de Combate à Miséria com a SEDESE [consultar o documento para "
-             "detalhar]."),
+            ("Ofício SEPLAG/SPLOR nº 08/2025 (ao CEAS)", "07/03/2025", "Não informado",
+             "Em resposta ao pedido do CEAS de priorizar o Plano em 2025, relatou a reestruturação do Grupo "
+             "Coordenador (agosto de 2024), o Regimento Interno e o Estudo Multidimensional da Pobreza. "
+             "Informou o acordo de iniciar a discussão do Plano a partir dos pilares de atuação e de um "
+             "cronograma de elaboração, e o esforço de reuniões mais frequentes."),
         ],
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
             "A elaboração do Plano Mineiro de Combate à Miséria está na pauta do Grupo Coordenador do FEM desde "
-            "a sua reinstalação, em outubro de 2024. Os insumos técnicos já disponíveis incluem o Estudo "
-            "Multidimensional da Pobreza, apresentado pela SEDESE em 14/11/2024, e as contribuições do Fórum "
-            "Técnico Minas Sem Miséria, cujo relatório final [informar situação atual na ALMG].",
-            "Para priorizar o tema, propõe-se o seguinte cronograma ao Grupo Coordenador: (1) apresentação da "
-            "minuta do Plano pela SEDESE, incorporando as propostas do Fórum Técnico [data]; (2) deliberação e "
-            "aprovação pelo Grupo Coordenador [data, preferencialmente antes da elaboração do PLOA 2028]; (3) "
-            "uso do Plano como referência obrigatória para a programação da Fonte 71 a partir da LOA 2028. "
+            "a sua reinstalação, em outubro de 2024. Desde então, foram realizadas 18 reuniões, até 26/06/2026. "
+            "Os insumos já disponíveis são o Estudo Multidimensional da Pobreza, apresentado pela SEDESE na 4ª "
+            "reunião (14/11/2024), e as propostas do Fórum Técnico Minas Sem Miséria da ALMG. Na 9ª reunião "
+            "(25/06/2025), o Grupo deliberou incorporar as propostas do Fórum ao Plano. O documento final do "
+            "Fórum estava em aprovação na Comissão de Direitos Humanos da ALMG em maio de 2026 (17ª reunião, "
+            "11/05/2026) e ainda aguardava a conclusão dos trâmites em junho de 2026 (18ª reunião).",
+            "Enquanto o Plano não é concluído, o Grupo Coordenador adotou uma medida intermediária de "
+            "planejamento. Na 18ª reunião (26/06/2026), validou previamente a carteira de programas prioritários "
+            "que poderão receber recursos do FEM em 2027, apresentada por SEDESE, IDENE, SEAPA, SEE, SES e "
+            "pelas unidades de encargos gerais. A carteira considerou as contribuições da sociedade civil e o "
+            "relatório preliminar do Fórum, compartilhado pela SEDESE com suas áreas finalísticas. O Grupo também "
+            "aprovou o orçamento de 2026 antes da publicação da LOA (12ª reunião, 12/09/2025) e estabeleceu "
+            "calendário anual de reuniões ordinárias (26/06, 11/09 e 04/12/2026).",
+            "Plano de ação proposto ao Grupo Coordenador: (1) apresentação, pela SEDESE, da estrutura e do "
+            "cronograma de elaboração do Plano, incorporando o relatório do Fórum Técnico (reunião ordinária de "
+            "04/12/2026); (2) elaboração da minuta do Plano (SEDESE, com apoio da SEPLAG; 1º semestre de 2027); "
+            "(3) deliberação e aprovação pelo Grupo Coordenador antes da elaboração do PLOA 2028 (até "
+            "julho/2027); (4) uso do Plano como referência para a programação da Fonte 71 a partir da LOA 2028. "
             "Responsáveis: Grupo Coordenador do FEM, com a SEDESE na coordenação técnica e a SEPLAG/SPLOR na "
-            "secretaria executiva.",
+            "secretaria executiva. [Validar prazos com SEDESE e Grupo Coordenador.]",
         ],
         "atencao": [
-            "Obter com a SEDESE e a secretaria executiva do FEM a situação atual do Fórum Técnico e das reuniões "
-            "do Grupo Coordenador em 2026 (atas da 13ª reunião em diante).",
-            "O cronograma precisa ser validado pelo Grupo Coordenador. Na resposta, apresentá-lo como proposta.",
+            "Fonte: atas da 1ª à 18ª reunião do Grupo Coordenador (data/atas-fem). A última ata disponível é a "
+            "da 18ª reunião, de 26/06/2026. Verificar se a reunião ordinária de 11/09/2026 ocorreu (19ª), o que "
+            "deliberou sobre o orçamento de 2027 e se o relatório do Fórum foi concluído. Se sim, atualizar a "
+            "minuta.",
+            "O TCE já rejeitou o argumento de 'aguardar o Fórum' (Defesa 2025, p. 87). A resposta precisa trazer "
+            "datas. O cronograma é uma proposta e deve ser pautado e validado pelo Grupo Coordenador, "
+            "idealmente na reunião de 04/12/2026, que pode ser citada como evidência.",
+            "A 'carteira de programas prioritários 2027' é um avanço concreto, mas não substitui o Plano. "
+            "Apresentá-la como medida intermediária.",
         ],
     },
     # ------------------------------------------------------------------ 20
@@ -1055,24 +1083,47 @@ ITENS = [
         "status": "Em tratamento",
         "sugestao": [
             "Status: Em tratamento.",
-            "Responde-se ao ponto central levantado pela Cfamge: a rastreabilidade das diferentes origens de "
-            "recursos do FEM. Atualmente, a principal origem de recursos da Fonte 71 é o adicional de alíquota "
-            "do ICMS destinado ao Fundo [confirmar composição com a SEF]. As receitas de cada origem são "
-            "identificadas por naturezas de receita específicas no Ementário da Receita, o que já permite "
-            "segregá-las na arrecadação.",
-            "Para o lado da despesa, a SPLOR propõe, no GRP-Minas (2027), um detalhamento da Fonte 71 por "
-            "origem prevista no art. 2º da Lei 19.990/2011. Esse detalhamento será ativado sempre que ingressar "
-            "receita de origem distinta do adicional de ICMS. Isso garante a identificação correta na base de "
-            "cálculo de ASPS e MDE. Será avaliada também, para o PLOA 2028, a criação de unidade orçamentária "
-            "própria do FEM, ponderando o modelo de execução descentralizada pelos órgãos setoriais.",
-            "Plano de ação: (1) mapear as origens de receita da Fonte 71 e seu tratamento no cálculo de ASPS/MDE "
-            "(SPLOR e SEF, 1º trimestre de 2027); (2) parametrizar no GRP o detalhamento da fonte por origem "
-            "(SPLOR/DCPPN e SEF, 2027); (3) apresentar ao Grupo Coordenador do FEM estudo sobre UO própria "
-            "(SPLOR, até a elaboração do PLOA 2028).",
+            "Responde-se ao ponto central levantado pela Cfamge: a rastreabilidade das origens de recursos do FEM "
+            "e sua compatibilidade com a apuração de ASPS e MDE.",
+            "A Fonte 71 tem hoje origem única. Conforme o Classificador Econômico da Despesa, ela abriga "
+            "exclusivamente os recursos do adicional de até dois pontos percentuais na alíquota do ICMS (art. "
+            "82, § 1º, do ADCT). Não há ingresso das demais origens admitidas pelo art. 2º da Lei 19.990/2011, "
+            "como concursos de prognósticos, doações e transferências. Por isso, toda a receita da Fonte 71 é de "
+            "natureza tributária e homogênea quanto ao tratamento nos mínimos constitucionais.",
+            "Essa receita, por integrar a arrecadação de impostos, eleva a base de cálculo dos mínimos de MDE "
+            "(25%) e ASPS (12%), depois das deduções do Fundeb (20%) e da DREM (30%, art. 76-A do ADCT). Por "
+            "decisão do COFIN, apresentada ao Grupo Coordenador na 12ª reunião (12/09/2025), parte da própria "
+            "Fonte 71 é alocada em ações de educação e saúde voltadas ao público do Fundo. Assim, a obrigação "
+            "constitucional adicional gerada pelo FEM é coberta pela própria fonte que a origina. No PLOA 2027, "
+            "dos R$ 627,4 milhões da Fonte 71, R$ 156,9 milhões estão na função Educação (Trilhas de Futuro) e "
+            "R$ 75,3 milhões na função Saúde (Rede de Cuidado à Pessoa com Deficiência). As regras de apuração "
+            "de MDE e ASPS identificam essas despesas pela combinação fonte × função × UO, e as memórias de "
+            "cálculo foram apresentadas na NT SEPLAG/SPLOR nº 38/2024.",
+            "Para assegurar a rastreabilidade caso novas origens passem a ingressar no Fundo, a SPLOR criará, no "
+            "Classificador de Fontes do GRP-Minas (em operação a partir de janeiro de 2027), fonte ou "
+            "detalhamento de fonte específico para cada origem não tributária prevista no art. 2º da Lei "
+            "19.990/2011. Essas origens não serão computadas na base de MDE e ASPS. Quanto à unidade "
+            "orçamentária própria, a SPLOR apresentará ao Grupo Coordenador estudo comparando o modelo atual "
+            "(execução descentralizada pelos órgãos setoriais, com controle por fonte e deliberação prévia do "
+            "Grupo) e a criação de UO específica, para decisão antes do PLOA 2028.",
+            "Plano de ação: (1) documentar a memória de cálculo da parcela da Fonte 71 nos mínimos de MDE e ASPS "
+            "e publicá-la nos Relatórios do FEM (SPLOR e SEF, 1º trimestre de 2027); (2) prever no GRP-Minas a "
+            "segregação das origens não tributárias do FEM (SPLOR/DCPPN e SEF, 2027); (3) apresentar estudo "
+            "sobre UO própria ao Grupo Coordenador (SPLOR, até julho de 2027).",
         ],
         "atencao": [
-            "Confirmar com a SEF a composição atual das receitas da Fonte 71 (naturezas de receita) e se o GRP "
-            "comporta detalhamento de fonte.",
+            "Fontes: Classificador/auxiliar_fonte.csv (Fonte 71 = adicional de ICMS); Ata da 12ª reunião do "
+            "FEM, de 12/09/2025 (deduções Fundeb e DREM e decisão do COFIN sobre MDE/ASPS); QDD do PLOA 2027; "
+            "NT 38/2024 (memórias de MDE e ASPS com a fonte 71). Nota: a ata menciona 'RCL' como base, mas os "
+            "mínimos incidem sobre a receita de impostos. A minuta usa o termo correto.",
+            "Validar com a SEF se o adicional de ICMS do FEM integra a base de cálculo de MDE/ASPS no "
+            "entendimento do Estado e do TCE. Esse é o fundamento da decisão do COFIN e foi contestado pela "
+            "sociedade civil e pela ALMG (12ª reunião).",
+            "Risco correlato: o FEM financiou o passivo do Fundeb pela EGE-SEF (ação 2049): R$ 87,4 mi em 2025 "
+            "e R$ 215,5 mi em 2026, até 30/10/2026. O item foi aprovado como prioridade de 2027 (18ª reunião), "
+            "embora o PLOA 2027 não tenha dotação inicial na ação 2049 com Fonte 71. O TCE pode questionar a "
+            "aderência às finalidades do art. 4º da Lei 19.990/2011. Não citar na resposta sem alinhamento com "
+            "a SEF.",
             "Evitar repetir o argumento de 'percentuais de ASPS/MDE': o TCE disse expressamente que ele não "
             "enfrenta o ponto.",
         ],
@@ -1104,11 +1155,11 @@ BASES_NECESSARIAS = [
     "Resultados em entregas/demanda-01/analises/ (gerados por scripts/analise_demanda01.py).",
     "[Incluída] Volumes do PLOA 2027 e do PPAG 2027 (data/legislacao-basica), com o demonstrativo do IMRS no "
     "Volume 1, p. 247-248 (D22/2021).",
-    "[Em inclusão] Atas do Grupo Coordenador do FEM (data/atas-fem) e situação do relatório do Fórum Técnico "
-    "Minas Sem Miséria. Os itens R51/2025 e R52/2025 serão aprimorados quando a inclusão terminar.",
+    "[Incluída] Atas da 1ª à 18ª reunião do Grupo Coordenador do FEM (data/atas-fem), usadas nos itens R51 e "
+    "R52. Pendente: ata da reunião de 11/09/2026 (19ª), se realizada.",
+    "[Incluída] Relatório de Avaliação do PPAG 2025, Volume 2 (justificativas de desempenho por ação, item R6) e "
+    "bases auxiliares de classificação orçamentária (data/dados/auxiliares).",
     "[Pendente] Decretos de alteração orçamentária de 2026 que utilizaram a UO 1991 (R49/2025), para anexar "
     "como evidência após a mudança do modelo.",
-    "[Pendente] Data de extração da base execucao_2026.csv, para citar os números de 2026 com a referência "
-    "temporal correta.",
-    "[Futuro] RGF do 3º quadrimestre de 2026, quando publicado (R28/2020).",
+        "[Futuro] RGF do 3º quadrimestre de 2026, quando publicado (R28/2020).",
 ]

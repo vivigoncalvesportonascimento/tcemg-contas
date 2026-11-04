@@ -156,7 +156,7 @@ def main() -> None:
         janelas(e26, "LOA 2026", False)
         janelas(p27, "PLOA 2027", False)
         fonte52(e25, "2025", "Empenhado")
-        fonte52(e26, "2026 (até a extração)", "Empenhado")
+        fonte52(e26, "2026 (até 30-10-2026)", "Empenhado")
         fonte52(e26, "LOA 2026", "Crédito Inicial")
         fonte52(p27, "PLOA 2027", "Crédito Inicial")
         acao2417(e25, "LOA 2025", "Crédito Inicial")

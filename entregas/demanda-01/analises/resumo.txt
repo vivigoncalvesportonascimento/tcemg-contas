@@ -63,7 +63,7 @@ Ações (UO×ação) com dotação inicial: 959; janelas: 130 (13,56%)
     UO 4711 FFP - MG                     ação 7428 BENEFICIOS PREVIDENCIARIOS - FEAM                   R$ 4,52 mi
     UO 1941 EGE-SEPLAG                   ação 4488 IMPLANTACAO E OPERACAO DO ALMOXARIFADO VIRTUA       R$ 0,04 mi
 
-== D44 – Fonte 52 (TFAMG) – 2026 (até a extração) [Empenhado] total R$ 8,48 mi; fora de SEMAD/FEAM/IEF: R$ 8,48 mi (100,00%)
+== D44 – Fonte 52 (TFAMG) – 2026 (até 30-10-2026) [Empenhado] total R$ 8,48 mi; fora de SEMAD/FEAM/IEF: R$ 8,48 mi (100,00%)
     UO 1251 PMMG                         ação 4374 POLICIAMENTO ESPECIALIZADO                          R$ 7,83 mi
     UO 1501 SEPLAG                       ação 4466 GESTAO DE TECNOLOGIA DA INFORMACAO E COMUNICA       R$ 0,58 mi
     UO 4711 FFP - MG                     ação 7428 BENEFICIOS PREVIDENCIARIOS - FEAM                   R$ 0,07 mi
