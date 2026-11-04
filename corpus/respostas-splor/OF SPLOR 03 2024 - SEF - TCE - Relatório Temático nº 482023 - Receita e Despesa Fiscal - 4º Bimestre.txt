@@ -1,0 +1,132 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Planejamento e Gestão​
+Subsecretaria de Planejamento e Orçamento
+ 
+Ofício SEPLAG/SPLOR nº. 3/2024
+Belo Horizonte, 05 de janeiro de 2024.
+Ilmo. Sr.
+Fábio Rodrigo Amaral de Assunção
+Subsecretario do Tesouro Estadual
+Secretaria de Estado de Fazenda - SEF
+Capital
+  
+Assunto: Cfamge/TCEMG - Relatório Temático nº 48/2023 - Receita e Despesa Fiscal
+Referência: [Caso responda este Ofício, indicar expressamente o Processo nº 1190.01.0020695/2023-74].
+  
+Senhor Subsecretário,
+ 
+Com meus cordiais cumprimentos e em atenção ao Ofício SEF/STE nº. 84/2023, que
+encaminha para manifestação da Subsecretaria de Planejamento e Orçamento - SPLOR, o Relatório
+Temático nº 48/2023 - Receita e Despesa Fiscal (79229749), apresento a seguir os esclarecimentos desta
+unidade, quanto aos apontamentos afetos a nossas competências:
+ 
+1) Estrutura padronizada de fontes de recursos - Solicitam-se esclarecimentos sobre
+quando a estrutura padronizada será implantada, tendo em vista a expiração do prazo estabelecido
+pela Secretaria;
+O Governo Federal, por meio da Portaria Conjunta STN/SOF Nº 20 (23/02/21), estabeleceu
+a padronização das fontes de recurso a serem utilizadas pelos entes da federação em sua execução
+financeira e orçamentária. Em decorrência das determinações da União, foi criado em Minas Gerais o
+Grupo de Trabalho das Fontes de Recurso (GTFR), envolvendo membros das secretarias de Estado da
+Fazenda (SEF) e do Planejamento (SEPLAG), para avaliar os impactos trazidos pelas alterações.
+Após extensa avaliação das alterações e considerando também o quadro atual de defasagem
+do Siafi-MG, foi deliberado, no contexto do GTFR, que as adequações necessárias para atender a nova
+padronização de fontes de recurso ocorreriam com a implementação do GRP Minas – novo sistema
+orçamentário e financeiro que vem sendo desenvolvido no Estado e que substituirá o Siafi-MG.
+Atualmente, uma série de testes vem sendo realizados para viabilizar a liberação do novo sistema, que já
+está sendo adaptado para contemplar a nova estrutura de fontes de recurso. A previsão atual é de que a
+entrada do GRP Minas em operação ocorra em 2025, ano em que o orçamento estadual poderá ser
+executado no novo sistema conforme estabelecido pelas portarias federais.
+Cumpre ressaltar que, até que isso ocorra, o Estado precisará prestar contas de sua execução
+orçamentária e financeira à União por meio de uma matriz de correspondências entre a estrutura de fontes
+atualmente utilizada e a estrutura padronizada. Essa matriz foi desenvolvida no âmbito do GTFR e
+explicita os critérios utilizados para a realização das associações entre as fontes de recurso.
+Ressalta-se que esses critérios foram empregados na elaboração do Projeto de Lei
+Ofício 3 (79990964)         SEI 1190.01.0020695/2023-74 / pg. 1
+
+=== PÁGINA 2 ===
+Orçamentária Anual (PLOA) referente a 2024 para a construção do Volume Auxiliar da PLOA, em que
+são apresentados o quadro geral da receita e o demonstrativo das despesas por órgão e entidade de acordo
+com a padronização de fontes estabelecida pela STN.
+ 
+2) Desmembramento da Fonte 10 - Questiona-se o caráter das receitas registradas
+como Rec. Intra. – Outras Transferências dos Estados e DF (R$ 1,732 bilhão), Outras Restituições
+(R$ 115,306 milhões), Restituição de Convênios (R$ 7,098 milhões), Restituição de Despesas de
+Exercícios Anteriores (R$ 1,501 milhão) e Rec. Intra. – Outras Restituições (R$ 25 mil), para que se
+possa compreender sua classificação em uma fonte específica para impostos.
+No caso das receitas registradas como Rec. Intra. – Outras Transferências dos Estados e
+DF, elas dizem respeito às transferências realizadas pelo Fundo Estadual de Saúde (FES) para fins do
+cumprimento da Lei Complementar 141/2012. Segundo essa norma federal, as despesas a serem
+computadas para fins de apuração do mínimo constitucional em ações e serviços de saúde (ASPS) devem
+ser financiadas com recursos movimentados por meio dos fundos de saúde.
+Considerando a conhecida excepcionalidade de Minas Gerais em relação à
+operacionalização do mínimo ASPS em Unidades Orçamentárias (UO’s) diversas do FES, os gastos
+nessas outras UO’s são feitos por intermédio do referido repasse do FES. Esse repasse resulta em uma
+receita intraorçamentária, de igual valor, registrada nessas outras UO’s em natureza de receita pertencente
+à matriz Rec. Intra. – Outras Transferências dos Estados e DF. A codificação, em específico, é a seguinte:
+7729.99.0.1.25.000 - Rec. Intra. - Outras Transf. Estados DF - Princ. - Repasse do Fundo
+Estadual de Saúde - FES - LC Federal nº 141/12
+Considerando que a aplicação do mínimo constitucional em ASPS deve ser realizada com
+recursos de impostos e transferências de impostos (Fonte 10), entende-se que o registro da receita
+intraorçamentária nas UO´s que recebem repasse do FES deve ser realizado na mesma Fonte de Recurso.
+Já no caso da existência de receitas de restituições na Fonte de Recurso 10, isso se deve ao
+cumprimento de orientação contida no manual promulgado pela Secretaria do Tesouro Nacional (STN),
+denominado Orientações para utilização do padrão de Fontes ou Destinações de Recursos por Estados,
+DF e Municípios, publicado no dia 09 de julho de 2021.
+Nesse documento, em resposta ao questionamento 8, há a orientação de que “se houver o
+reingresso dos valores como receitas de restituições, e sendo constatado que esses valores permanecem
+vinculados a finalidade específica, não há duplicidade de contabilização da receita, já que a nova
+entrada será com codificação distinta, mas os valores devem ser classificados na fonte de recurso”
+(STN, 2021, item 8, grifos nossos).
+Aplicando essa orientação também para os casos de Fontes de Recursos não vinculadas,
+bem como compreendendo o conceito de restituição enquanto reingresso de valores pagos indevidamente
+– de acordo com o Ementário de Natureza de Receitas também promulgado pela STN –, a regra geral
+aplicada, no caso das restituições, é de que elas devem recompor, e serem registradas enquanto receita, nas
+suas fontes originárias.
+As diferentes matrizes de restituições utilizadas se devem às distintas naturezas jurídico-
+fiscais das restituições, sejam elas decorrentes de convênio, sejam elas derivadas de despesas do próprio
+Estado, dentre outras. Em comum, porém, todas apresentam a seguinte característica associada aos seus
+respectivos fatos geradores: decorrem do reingresso de uma despesa indevida.
+ 
+Adicionalmente, apresentamos esclarecimentos quanto ao ponto abaixo também
+mencionado no Relatório Temático:
+3 - Informa que conforme Nota Técnica SEI nº 50857/2022/ME, emitida pelo
+Ministério da Economia, que estabeleceu orientações para contabilização da compensação das
+perdas de arrecadação do ICMS dos Estados e Distrito Federal, a transferência da cota-parte dos
+municípios deve ocorrer por meio de execução da despesa. Em 2022, o Estado seguiu essas
+orientações, mas alterou o procedimento para 2023, passando a contabilizar a transferência como
+dedução da receita e não mais como despesa. Dessa forma, solicitam-se esclarecimentos sobre a
+Ofício 3 (79990964)         SEI 1190.01.0020695/2023-74 / pg. 2
+
+=== PÁGINA 3 ===
+mudança na forma de reconhecimento da transferência da cota-parte dos municípios.
+Informamos que a Nota Técnica 50857/2022/ME foi revogada pela Nota Técnica
+1740/2023/ME. Segue abaixo os trechos extraídos das NT 50875/2022 e 1740/2023, respectivamente,
+relativos ao registro orçamentário da transferência da cota-parte dos municípios:
+“Dessa forma, os estados deverão registrar receita orçamentária em codificação da
+classificação por natureza que será criada para essa finalidade, sendo que os valores devidos aos
+municípios deverão ser transferidos por meio de execução da despesa orçamentária de outras despesas
+correntes – contribuições. ” (NT 50857/2022/ME, página 6 – revogada pela NT 1740/2023/ME)
+“Os valores devidos aos municípios deverão ser transferidos como repartição dessa
+receita, portanto, deverão ser registrados como dedução da receita indicada, tendo em vista a orientação
+apresentada no MCASP para o registro das transferências constitucionais ou legais, quando o ente
+arrecada, mas possui obrigação de transferir a outros entes por disposição constitucional ou legal.” (NT
+1740/2023/ME)
+Portanto, a mudança no procedimento de registro das transferências da cota-parte dos
+municípios relativa à compensação das perdas de arrecadação do ICMS, de 2022 para 2023, está de acordo
+com alteração normativa da STN.
+ 
+Atenciosamente, 
+  
+Documento assinado eletronicamente por Felipe Magno Parreiras de Sousa, Subsecretário(a), em
+08/01/2024, às 16:26, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto
+nº 47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 79990964 e o
+código CRC A65EBDA6.
+Referência: Processo nº 1190.01.0020695/2023-74
+SEI nº 79990964
+Rodovia Papa João Paulo II, nº 4001  - Bairro Serra Verde - Belo Horizonte - CEP 31630-901​
+Ofício 3 (79990964)         SEI 1190.01.0020695/2023-74 / pg. 3

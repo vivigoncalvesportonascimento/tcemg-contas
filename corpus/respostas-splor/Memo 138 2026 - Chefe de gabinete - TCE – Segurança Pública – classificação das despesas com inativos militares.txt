@@ -1,0 +1,106 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTÃO
+SEPLAG/SPLOR - Subsecretaria de Planejamento e Orçamento
+Memorando SEPLAG/SPLOR nº. 138/2026
+Belo Horizonte, 30 de setembro de 2026.
+Para: Sarah Cristina de Sales Mourão
+          Chefe de Gabinete – SEPLAG
+  
+  Assunto: TCE – Segurança Pública – classificação das despesas com inativos militares
+  Referência: [Caso responda este documento, indicar expressamente o Processo nº 26.0.000009733-0].
+  
+Senhora Chefe de Gabinete,
+ 
+Com meus cordiais cumprimentos, em atenção ao Ofício SEF/STE nº 221/2026 (150265938), que encaminha solicitação do Tribunal de Contas do Estado de
+Minas Gerais – TCEMG acerca dos fundamentos que justificam a atual sistemática de classificação das despesas com inativos militares na Função 06 – Segurança Pública,
+apresentamos os seguintes esclarecimentos.
+Inicialmente, cumpre registrar que a matéria já foi objeto de manifestação desta Subsecretaria, por meio do Memorando SEPLAG/SPLOR nº 7/2025
+(105350896), no qual foi analisada a classificação das despesas executadas na Ação 7007 – Proventos de Inativos Militares, pelas unidades orçamentárias da Polícia Militar de
+Minas Gerais – PMMG e do Corpo de Bombeiros Militar de Minas Gerais – CBMMG, no âmbito do o Relatório Temático nº 43/2024 - Execução da LOA - 2º quadrimestre,
+elaborado pela Cfamge/TCEMG.
+Naquela oportunidade, concluiu-se pela manutenção da classificação dessas despesas na Função 06 – Segurança Pública, considerando a natureza específica do
+Sistema de Proteção Social dos Militares – SPSM, a competência institucional das corporações e as peculiaridades da carreira militar e da inatividade.
+ 
+1. Distinção entre o RPPS e o Sistema de Proteção Social dos Militares
+O primeiro aspecto a ser considerado é que o Sistema de Proteção Social dos Militares não se confunde com o Regime Próprio de Previdência Social – RPPS
+dos servidores civis.
+O art. 24-E do Decreto-Lei nº 667, de 2 de julho de 1969, incluído pela Lei Federal nº 13.954, de 16 de dezembro de 2019, estabelece que o Sistema de Proteção
+Social dos Militares dos Estados deve ser regulado por legislação específica e dispõe expressamente, em seu parágrafo único, que não se aplica ao SPSM a legislação dos
+regimes próprios de previdência social dos servidores públicos.
+No âmbito de Minas Gerais, essa distinção também se reflete na estrutura institucional. Enquanto os servidores civis estão submetidos ao regime previdenciário
+próprio disciplinado pela legislação estadual, os militares estão submetidos ao Sistema de Proteção Social específico, com tratamento jurídico próprio.
+O IPSM, por sua vez, possui atribuições relacionadas às prestações previdenciárias e assistenciais previstas em sua legislação, tais como pensão e assistência à
+saúde. Já as despesas com a remuneração dos militares em atividade e com os proventos dos militares da reserva remunerada e reformados são executadas no âmbito das
+próprias corporações militares.
+Portanto, a utilização do elemento de despesa “Aposentadorias, Reserva Remunerada e Reformas”, por si só, não determina que a despesa deva ser classificada
+na Função 09 – Previdência Social.
+ 
+2. Fundamentos para a manutenção da Função 06 – Segurança Pública
+A classificação funcional tem por finalidade identificar a área de atuação governamental em que a despesa é realizada.
+Nos termos da Portaria MOG nº 42/1999, a função representa o maior nível de agregação das diversas áreas de despesa que competem ao setor público. A
+classificação funcional, portanto, não decorre exclusivamente da natureza econômica da despesa, devendo ser considerada também a área de atuação e a competência
+institucional do órgão.
+Nesse sentido, a despesa com os militares inativos das corporações permanece vinculada institucionalmente à PMMG e ao CBMMG, órgãos cuja missão
+constitucional e legal está diretamente relacionada à Segurança Pública.
+Além disso, a inatividade militar possui características próprias que a diferenciam da aposentadoria dos servidores civis. Destaca-se, especialmente, a reserva
+remunerada, na qual o militar permanece sujeito às hipóteses legais de convocação para o serviço ativo.
+O Estatuto dos Militares do Estado de Minas Gerais – Lei nº 5.301/1969 – prevê, inclusive, a possibilidade de designação ou convocação de militares da reserva
+remunerada para o serviço ativo em situações específicas.
+Essa peculiaridade reforça a vinculação entre a despesa e a própria carreira militar, cuja finalidade institucional está associada à Segurança Pública.
+Dessa forma, a manutenção da Função 06 não decorre apenas do fato de a despesa ser executada pela PMMG e pelo CBMMG, mas da conjugação entre a
+natureza jurídica própria do SPSM, a competência institucional das corporações e as especificidades da inatividade militar.
+ 
+3. A utilização da Função 09 e a subfunção 274 – Previdência Especial
+Por outro lado, a análise dos referenciais atualmente utilizados pela Secretaria do Tesouro Nacional demonstra que existe tratamento específico das despesas
+com inativos e pensionistas militares no âmbito das informações previdenciárias.
+O Manual de Demonstrativos Fiscais – MDF prevê, no Anexo de Receitas e Despesas Previdenciárias do RREO, quadro específico denominado “Receitas e
+Despesas Associadas às Pensões e aos Inativos Militares (Sistema de Proteção Social dos Militares)”.
+O MDF também orienta que, para o correto preenchimento das informações relativas à inatividade e às pensões militares, seja utilizada a subfunção 274 –
+Previdência Especial.
+Assim, embora as despesas do SPSM sejam evidenciadas no demonstrativo de receitas e despesas previdenciárias, isso não significa, necessariamente, que a
+execução orçamentária deva ser realizada na Função 09 – Previdência Social.
+Memorando 138 (150470311)         SEI 26.0.000009733-0 / pg. 1
+
+=== PÁGINA 2 ===
+A própria estrutura dos demonstrativos fiscais permite distinguir as despesas do SPSM das despesas previdenciárias relativas aos servidores civis, garantindo
+maior transparência sem que seja necessária, necessariamente, a alteração da função atualmente utilizada.
+ 
+4. Mensuração dos recursos efetivamente destinados às ações finalísticas
+Quanto ao apontamento específico do TCEMG, relativo à necessidade de conferir maior fidedignidade à mensuração dos recursos efetivamente destinados às
+ações finalísticas de Segurança Pública, entende-se que a questão merece ser tratada de forma distinta da definição da função orçamentária.
+Com efeito, a classificação na Função 06 pode incluir despesas que, embora vinculadas institucionalmente à Segurança Pública, não representam aplicação
+direta nas atividades operacionais e finalísticas executadas no exercício, como é o caso dos proventos de militares inativos.
+Nesse sentido, para fins de análise dos recursos efetivamente destinados às ações finalísticas de Segurança Pública, mostra-se adequado que as despesas com
+inativos e pensionistas militares sejam evidenciadas de forma segregada, permitindo distinguir os gastos com pessoal em atividade daqueles relacionados à inatividade e ao
+Sistema de Proteção Social dos Militares.
+Essa segregação possibilita preservar a classificação funcional atualmente adotada e, simultaneamente, evitar que o montante destinado aos inativos seja
+interpretado como equivalente aos recursos diretamente aplicados nas ações de policiamento, defesa civil, informação e inteligência e demais atividades finalísticas.
+ 
+5. Conclusão
+Diante do exposto, esta Subsecretaria entende que:
+a) o Sistema de Proteção Social dos Militares possui disciplina jurídica própria e não se confunde com o Regime Próprio de Previdência Social dos servidores
+civis;
+b) a utilização do elemento de despesa “Aposentadorias, Reserva Remunerada e Reformas” não determina, isoladamente, a classificação da despesa na Função
+09 – Previdência Social;
+c) a manutenção das despesas com inativos militares na Função 06 – Segurança Pública encontra fundamento na vinculação institucional das despesas à PMMG
+e ao CBMMG, na natureza própria do SPSM e nas peculiaridades da carreira militar, especialmente da reserva remunerada;
+d) a utilização da subfunção 274 – Previdência Especial, associada à estrutura específica do RREO, permite identificar e dar transparência às despesas
+relacionadas ao SPSM, inclusive aquelas custeadas diretamente pelo Tesouro;
+e) embora as despesas com inativos e pensionistas militares sejam apresentadas de forma destacada no demonstrativo de receitas e despesas previdenciárias, não
+se identifica determinação normativa que imponha, de forma automática, a utilização da Função 09 em substituição à Função 06; e
+f) para fins de mensuração dos recursos efetivamente destinados às ações finalísticas de Segurança Pública, considera-se pertinente a segregação das despesas
+com inativos e pensionistas militares, de modo que sua inclusão na Função 06 não seja interpretada como aplicação direta em atividades operacionais das corporações.
+Assim, entende-se que a atual sistemática de classificação possui fundamentos jurídicos, institucionais e orçamentários que justificam sua manutenção, sem
+prejuízo do aprimoramento da evidenciação e segregação das despesas com inativos e pensionistas militares para fins de análise da efetiva aplicação de recursos nas ações
+finalísticas de Segurança Pública.
+Atenciosamente,
+ 
+Documento assinado eletronicamente por Felipe Magno Parreiras de Sousa, Subsecretário (a), em 30/09/2026, às 19:03, conforme horário oficial de Brasília, com fundamento
+no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017 .
+A autenticidade deste documento pode ser conferida no site http://sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0, informando
+o código verificador 150470311 e o código CRC EA8C9211.
+Referência: Processo nº 26.0.000009733-0
+SEI nº 150470311
+Memorando 138 (150470311)         SEI 26.0.000009733-0 / pg. 2

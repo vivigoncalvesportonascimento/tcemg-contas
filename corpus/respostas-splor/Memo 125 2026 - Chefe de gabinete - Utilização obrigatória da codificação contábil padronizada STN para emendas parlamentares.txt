@@ -1,0 +1,60 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+SECRETARIA DE ESTADO DE PLANEJAMENTO E GESTÃO
+SEPLAG/SPLOR - Subsecretaria de Planejamento e Orçamento
+Memorando SEPLAG/SPLOR nº. 125/2026
+Belo Horizonte, 09 de setembro de 2026.
+Para: Sarah Cristina de Sales Mourão 
+         Chefe de Gabinete
+  
+  Assunto: utilização obrigatória da codificação contábil padronizada STN para emendas parlamentares
+  Referência: [Caso responda este documento, indicar expressamente o Processo nº 1630.01.0002224/2024-02].
+  
+Senhora Chefe de Gabinete, 
+ 
+Com meus cordiais cumprimentos, em atenção ao Despacho SEPLAG/GAB SECRETÁRIO à SPLOR (148129453), que encaminha o Ofício
+AGE/GAB/ASSGAB nº 1214/2026, relativo à decisão proferida pelo Supremo Tribunal Federal nos autos da ADPF 854, esta Subsecretaria informa que está ciente da
+determinação quanto à adoção de mecanismos objetivos de identificação e rastreabilidade das emendas parlamentares a partir da LOA 2027.
+Para a implementação do nível de identificação e rastreabilidade requerido, faz-se necessária a criação de novos campos e códigos específicos nos sistemas
+corporativos, de forma a permitir o adequado registro e acompanhamento das emendas parlamentares. Contudo, o sistema atualmente utilizado pelo Estado, SIAFI-MG, não
+comporta a criação dos novos campos e códigos necessários para essa finalidade, de modo que não é possível, por meio dos sistemas corporativos atualmente
+disponíveis, implementar diretamente o mecanismo de acompanhamento requerido.
+Ressalta-se, ainda, que eventual alteração na estrutura de codificação não se restringiria ao SIAFI-MG, uma vez que os códigos e classificações utilizados nos
+processos de planejamento, execução orçamentária e financeira possuem reflexos em outros sistemas corporativos e processos integrados, a exemplo do SIGCON e do Portal
+de Compras, entre outros. Dessa forma, a criação de novos códigos demandaria análise dos impactos nos sistemas relacionados, bem como amplo alinhamento e atuação
+coordenada entre os órgãos responsáveis, além de eventuais adequações nas respectivas integrações e funcionalidades.
+Nesse contexto, considerando que os esforços técnicos e operacionais dos órgãos envolvidos encontram-se direcionados à implementação do novo sistema
+corporativo, o GRP-Minas, atualmente em fase final de implementação, não se mostra oportuno promover alterações estruturais de codificação no sistema vigente, que se
+encontra em processo de substituição.
+Entende-se, portanto, que os mecanismos necessários à identificação e rastreabilidade das emendas parlamentares deverão ser avaliados e incorporados ao GRP-
+Minas, de modo que o novo sistema contemple, em sua estrutura e parametrização, as funcionalidades necessárias ao atendimento das determinações decorrentes da decisão do
+Supremo Tribunal Federal, considerando, inclusive, os impactos e as integrações com os demais sistemas corporativos. Nesse sentido até a completa migração para o novo
+sistema, é necessário avaliar medidas que possibilitem o atendimento da determinação durante o período de transição, da mesma forma que atualmente o Estado
+atende às determinações da Portaria 710, que criou campos adicionais às fontes de recursos do orçamento público.
+Para tanto, considerando que a gestão das emendas parlamentares se insere no âmbito de atuação da SEGOV, entende-se pertinente a articulação com
+aquele órgão para avaliar a possibilidade de adoção de mecanismo de controle e acompanhamento das emendas enquanto as funcionalidades sistêmicas necessárias não
+estiverem disponíveis. Embora a SPLOR não disponha, nos sistemas corporativos atualmente vigentes, de condições técnicas para realizar diretamente o controle no nível de
+detalhamento requerido, a SEGOV, em razão das informações sob sua gestão, poderá avaliar a forma mais adequada de disponibilização de informações detalhadas acerca dos
+recursos decorrentes de emendas, para fins de atendimento da demanda.
+Diante do exposto, recomenda-se:
+I – o encaminhamento à Secretaria de Estado de Fazenda – SEF, para conhecimento e manifestação quanto às providências relacionadas à implementação,
+no GRP-Minas, dos mecanismos necessários à identificação e rastreabilidade das emendas parlamentares, considerando os impactos nos demais sistemas corporativos e o
+cronograma previsto para a entrada em operação do novo sistema;
+II – a articulação com a Secretaria de Estado de Governo – SEGOV, para avaliação da possibilidade de adoção de mecanismo de controle e
+disponibilização das informações relativas às emendas parlamentares durante o período de transição, até que as funcionalidades necessárias estejam disponíveis no GRP-
+Minas.
+A SPLOR permanece à disposição para prestar o apoio técnico necessário, no âmbito de suas competências, para a avaliação e adequação dos procedimentos às
+determinações aplicáveis.
+ 
+Atenciosamente,
+ 
+Felipe Magno Parreiras de Sousa
+Subsecretário de Planejamento e Orçamento
+Documento assinado eletronicamente por Felipe Magno Parreiras de Sousa, Subsecretário (a), em 01/10/2026, às 11:15, conforme horário oficial de Brasília, com fundamento
+no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017 .
+A autenticidade deste documento pode ser conferida no site http://sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0, informando
+o código verificador 148825438 e o código CRC E4B89E84.
+Referência: Processo nº 1630.01.0002224/2024-02
+SEI nº 148825438
+Memorando 125 (148825438)         SEI 1630.01.0002224/2024-02 / pg. 1

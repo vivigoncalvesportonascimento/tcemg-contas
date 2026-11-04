@@ -1,0 +1,258 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Planejamento e Gestão​
+Subsecretaria de Planejamento e Orçamento
+Memorando.SEPLAG/SPLOR.nº 170/2024
+Belo Horizonte, 25 de novembro de 2024.
+Para: Silvia Caroline Listgarten Dias
+          Chefe de Gabinete - SEPLAG
+  
+  Assunto: TCE - Monitoramento das recomendações e determinações constantes no Parecer Prévio 2022
+  Referência: [Caso responda este documento, indicar expressamente o Processo nº 1190.01.0019363/2024-48].
+  
+Senhora Chefe de Gabinete,
+ 
+ 
+Com meus cordiais cumprimentos e em atenção ao Despacho SEPLAG/GAB SECRETÁRIO à SPLOR, que encaminha para apreciação da Subsecretaria de
+Planejamento e Orçamento - SPLOR, o Ofício SEF/STE nº. 211/2024, que solicita manifestação quanto às recomendações e determinações do Tribunal de Contas do Estado
+de Minas Gerais, relativos às Contas de 2022 e 2023, apresento a seguir os esclarecimentos quanto às determinações e recomendações de responsabilidade da Subsecretaria de
+Planejamento e Orçamento - SPLOR:
+Ano de referências: 2022
+D5 - Busque maior adequação entre a programação e a execução orçamentária, para que o orçamento seja instrumento de programação impositiva das
+ações públicas a serem desenvolvidas pelo Estado
+Situação: Em tratamento
+Evitar discrepâncias entre o planejamento inicial do orçamento e a execução orçamentária das despesas, é um desafio que se coloca anualmente para todos os
+gestores.
+Considerando que a peça orçamentária começa a ser pensada entre os meses de junho e setembro do exercício anterior, e só será executado a partir de janeiro do
+ano subsequente, temos que o contexto no qual as políticas públicas foram pensadas pode de fato sofrer algumas mudanças.
+Algumas destas adequações são mitigadas pelas alterações orçamentárias, mas outras tendem a afetar o ritmo de execução das despesas.
+De toda forma, entendendo a relevância de se aproximar o planejado do de fato executado, o Estado tem tomado medidas, como a adoção do orçamento base
+zero, análise do fluxo de caixa, além das discussões na esfera do Comitê de Orçamento e Finanças – COFIN, para elaborar uma peça orçamentária cada vez mais factível de
+execução no ano seguinte.
+E se analisarmos o planejado x executado nos dois últimos anos, por grupo de despesa, excluído o grupo 9 – Reserva de Contingência, podemos observar uma
+melhoria no % total de execução em relação ao programado inicial.
+Tabela 1 - Situação do Crédito Inicial, Crédito Autorizado e Despesa Empenhada por Grupo de Despesa - 2022-2023
+Fonte: Armazém de Informações - SIAFI
+ 
+D7 - Observe o correto código para lançamento de despesa como Recursos para Cobertura de Insuficiências Financeiras no aporte de recursos para o
+RPPS
+Situação: Atendida.
+Em relação à determinação para que o Estado de Minas Gerais corrija o lançamento da despesa de aporte de recursos para o RPPS como Recursos para
+Cobertura de Insuficiências Financeiras, cabe informar que, desde 2023, o Estado aporta diretamente no Fundo Financeiro de Previdência do Estado de Minas Gerais – FFP
+MG (UO 4711) os recursos do Tesouro Estadual de Fonte 10 (Recursos Ordinários – Recursos não vinculados de Impostos).
+Nesse sentido, não há mais a utilização da Fonte 58 (Recursos para a cobertura de Insuficiência Financeira do RPPS) e nem a utilização do Elemento de
+Despesa 97 (Aporte para Cobertura do Déficit Atuarial do RPPS) para o pagamento de despesas previdenciárias do RRPS. Portanto, considera-se plenamente atendida a
+determinação sob análise, uma vez que não há mais a execução de despesa no referido Elemento 97 desde 2023.
+ 
+DII.2 - Determinar ao Poder Executivo e à ALMG que, quando da elaboração e da aprovação do PLOA, aprofundem o nível de discriminação do
+crédito, sem prejuízo de eventuais alterações, ao longo do exercício, por meio de créditos adicionais ou realocações orçamentárias
+Situação: Não compete ao Executivo, mas à ALMG
+Memorando 170 (102341477)         SEI 1190.01.0019363/2024-48 / pg. 1
+
+=== PÁGINA 2 ===
+A determinação deve ser apreciada pela Assembleia Legislativa do Estado de Minas Gerais – ALMG, considerando que os valores previstos na LOA na
+modalidade 99, com exceção da reserva de contingência, são relativas as emendas parlamentares (IPU 8). Assim, cabe à ALMG enviar para o Executivo o detalhamento da
+modalidade correta de execução para que esta esteja refletida na Lei Orçamentária Anual aprovada.
+Tabela 2 - Crédito Inicial da modalidade 99 na Lei Orçamentária Anual de 2024, por identificador de procedência e uso (IPU)
+Fonte: Armazém de Informações - SIAFI
+ 
+ 
+R1 - Busque o equilíbrio fiscal e orçamentário nos projetos de Lei Orçamentária Anual – LOA que venham a ser apresentados
+Situação: Em tratamento
+O Governo de Minas tem buscado o equilíbrio fiscal ativamente, o que pode ser observado nos três últimos três anos no qual foi apurado superavit, apesar do
+cenário fiscal delicado.
+Contudo, para além de se buscar um orçamento mais equilibrado, também é premissa do Governo elaborar uma peça orçamentária condizente com a realidade,
+com uma previsão de receita e fixação de despesas alinhadas com o que se tem de dados para o próximo exercício.
+Neste sentido, ainda não foi possível apresentar uma proposta de lei orçamentária 100% equilibrada.
+Para a PLOA 2025, em tramitação na Assembleia Legislativa do Estado de Minas Gerais – ALMG, por exemplo, ainda é apresentado um déficit orçamentário.
+Este déficit decorre de alguns fatores tais como: (a) aumento da despesa de pessoal, como atualização dos valores do piso do magistério; (b) aumento da previsão de despesa
+dos Outros Poderes; (c) aumento das despesas com precatórios, de acordo com informações enviadas pelo Tribunal de Justiça; (d) aumento das despesas a serem realizadas
+para os Constitucionais Saúde e Educação, decorrentes de empenho de RP cancelados e regularização de passivo.
+R3 - Envide esforços para que o seu orçamento reflita, da forma mais aproximada possível, a realidade, abstendo-se de fazer previsões muito distantes
+do factível, atendo-se, principalmente, aos dados históricos e à legislação vigente ou, alternativamente, apresente notas explicativas justificando fatos excepcionais e
+imprevisíveis que fizeram acentuadamente subestimadas as projeções das receitas.
+Situação: Em tratamento
+Em relação às receitas de competência dos demais órgãos e entidades do Estado, a Subsecretaria de Planejamento e Orçamento – SPLOR/SEPLAG, no início
+dos trabalhos de elaboração do Projeto de Lei de Diretrizes Orçamentárias - LDO, encaminha um documento com orientações gerais, além de uma base de dados com a
+execução dos últimos anos, para auxiliar os órgãos/entidades a realizarem a previsão da receita para o exercício seguinte.
+Além disso, foi elaborado uma rotina automatizada de acompanhamento das receitas estimadas pelos órgãos/entidades na LDO, identificando se receitas
+comumente arrecadadas ainda não foram estimadas ou se os valores previstos são discrepantes dos arrecadados em exercícios anteriores, dentre outros alertas. A partir dessa
+análise, os órgãos são acionados para realizar ajustes nas previsões de receita para o próximo exercício ou para justificar eventuais valores discrepantes, buscando uma maior
+aderência entre os valores previstos na LDO e a execução orçamentária e financeira.
+Figura 1 - Painel de Acompanhamento e Monitoramento das Receitas do Estado
+Memorando 170 (102341477)         SEI 1190.01.0019363/2024-48 / pg. 2
+
+=== PÁGINA 3 ===
+Fonte: Diretoria de Análise Fiscal/DCAF/SPLOR/SEPLAG
+Por fim, uma iniciativa que a equipe se propõe a adotar na elaboração dos projetos de leis orçamentárias dos próximos exercícios é a inclusão de recomendação
+específica, no documento com as regras de estimativa, orientando que os órgãos insiram justificativa e/ou nota explicativa quando da previsão de valores discrepantes em
+relação às séries históricas de receita de natureza semelhante. Essa justificativa deverá ser inserida no momento da inclusão da previsão da receita no SISOR sempre que a
+estimativa apresentar valores discrepantes.
+Conforme orientado anteriormente, as informações sobre as previsões de receita do Estado devem ser apresentadas pela Secretaria de Estado de Fazenda – SEF
+e aquelas relativas a convênios, acordos e termos pela Secretaria de Estado da Casa Civil.
+R6 - Realize um planejamento mais assertivo ou pelo menos esclareça fatores que conduziram a 16% dos programas terem execução inferior a 50%,
+de acordo com dados do Siafi.
+Situação: Em tratamento
+Aproximar a execução orçamentária do planejado inicial é um desafio que se coloca para todos os gestores, sobretudo pelo lapso temporal entre a elaboração da
+peça orçamentária (junho-setembro do exercício anterior a execução) e a execução propriamente dita no exercício subsequente.
+Quando buscamos analisar programado x executado, por programa, temos, em 2023, os dados apresentados na planilha em anexo (102275308).
+Como é possível perceber dos 301 programas listados, 61 deles apresentaram uma execução abaixo dos 50%.
+Dentre estes programas temos 15 que tiveram como crédito autorizado apenas uma janela orçamentária de R$1.000,00.
+Além disso, tivemos 36 programas que tiveram como fontes de financiamentos recursos de convênios e acordos, recursos que dependem de um fluxo
+diferenciado de arrecadação e execução, o que pode impactar a discrepância entre o crédito autorizado e o valor efetivamente realizado.
+De toda forma, o Governo de Minas tem buscado aprimorar suas ferramentas de elaboração da peça orçamentária, tanto do ponto de vista da previsão de
+receitas quanto da fixação das despesas, além de melhorar a definição de limites orçamentários e o monitoramento da execução, para aproximar cada vez mais o planejado do
+realizado anualmente.
+R9 - Ao identificar erro material em decretos de abertura de crédito suplementar, proceda à sua retificação no mesmo exercício, devendo fazer constar
+nas notas explicativas no balanço eventuais alterações.
+A elaboração de decretos de abertura de crédito suplementar é realizada por meio da combinação das informações da minuta proveniente do Siafi, constando as
+dotações provenientes do sistema, com a elaboração textual do decreto. Quando há eventuais necessidades de retificações, trata-se correções textuais, não envolvendo
+alterações nas dotações orçamentárias constantes no decreto e, portanto, não afetando os lançamentos contábeis correspondentes. As necessidades de correções textuais,
+sempre que identificadas, tem sua retificação solicitada de imediato e ocorrem dentro do mesmo exercício. Ressalta-se que a redação dos atos passa por processos de
+conferência que envolvem não somente a SEPLAG, mas também a SEGOV, responsável pela publicação no diário.
+Quanto a publicidade das retificações, a mesma é dada pela publicação no Diário Oficial, assim como as suplementações.
+R10 - Compute qualquer crédito adicional, mesmo o criado por lei específica, no limite máximo de suplementação fixado na LOA.
+Utilizando-se de prerrogativa constitucional, o Poder Executivo propõe limite de suplementações na LOA, sendo esta iniciativa própria. No entanto, ao propor
+nova lei solicitando ao legislativo autorização para abertura de novos créditos suplementares, é concedida autorização distinta e específica, a exemplo do que ocorreu com a
+Lei nº 24.725/2024, que em virtude de fato novo e superveniente, autorizou suplementação por excesso de arrecadação de recursos do FEM. Desse  modo entende-se que leis
+específicas trazem autorizações distintas do cômputo previsto no art 9º da LOA.
+R33 - Envide esforços para que, nos próximos exercícios, as despesas sejam proporcionais ao montante arrecadado a título de Compensação
+Financeira pela Exploração de Recursos Minerais (Cfem).
+Situação: Atendida
+Os recursos da Compensação Financeira pela Exploração de Recursos Mineiras – CFEM, sobretudo pela sua particularidade de aplicação, ao longo de alguns
+anos, apresentou uma execução aquém do volume de recursos arrecadados.
+Visando mitigar esta questão e empregar o recurso público de acordo com está disposto na lei e assim aprimorar o desenvolvimento dos municípios mineradores
+do Estado, tem se procurado não só aplicar toda a receita arrecadada no exercício, quanto mitigar o passivo, empregando o saldo financeiro acumulado ao longo dos anos.
+Esta tendência pode ser observada nos últimos dois anos de execução dos recursos da CFEM, conforme disposto na Tabela 03.
+Tabela 3 - Receita Arrecadada e Despesa Empenhada com recursos da Compensação Financeira pela Exploração de Recursos Mineiras – CFEM -
+2019 a 2023
+Fonte: Armazém de Informações - SIAFI
+Memorando 170 (102341477)         SEI 1190.01.0019363/2024-48 / pg. 3
+
+=== PÁGINA 4 ===
+R40 - Evite a utilização de dotações orçamentárias com valores inferiores aos custos de implementação da respectiva ação governamental, as chamadas
+“janelas orçamentárias”.
+Situação: Em tratamento
+As chamadas “janelas orçamentária” são dotações cujos valores são significativamente inferiores ao necessário para a implementação das políticas, muitas vezes
+demandando futuras suplementações.
+A prática de inclusão das janelas tem sido recorrentemente desencorajada pela SEPLAG junto aos órgãos executores da política no momento de elaboração e
+revisão do Plano Plurianual de Ação Governamental – PPAG e da Lei Orçamentária Anual – LOA.
+Esta orientação tem sido positiva, se observamos a redução do quantitativo de ações, orçadas com o valor simbólico de R$1.000,00, nos últimos 4 anos,
+conforme disposto na tabela 04. Porém, existem casos em que a janela orçamentária é necessária, especificamente se a fonte de financiamento de alguma política pública será
+proveniente de recursos de superávit financeiro de exercícios anteriore, de emendas parlamentares, ou de captação de recursos em andamento. Para todos esses casos, não há
+receita estimada para a Lei Orçamentária, e não há que se falar em fixar despesas com fontes distintas daquelas que financiarão a ação durante a execução orçamentária.
+Tabela 4 - Quantitativo de ações orçadas com valor de R$1.000,00 na Lei Orçamentária Anual - 2021 a 2024
+Fonte: Armazém de Informações - SIAFI
+ 
+Ano de referência: 2023
+ 
+D1 - Considerando que o Estado não estabeleceu, durante a vigência do art. 155, § 5º, da CE/89, percentual não inferior a 1% da receita orçamentária
+corrente ordinária para o atendimento das propostas priorizadas nas audiências públicas regionais, determinação para que, no próximo projeto de LOA, seja
+destinada parte da receita orçamentária corrente ordinária para o atendimento retroativo dessas propostas.
+Situação: Atendida
+Considerando a promulgação da EC 113/2023, esta unidade entende que não há que se falar mais em quaisquer obrigatoriedades de destinação de recursos nos
+instrumentos orçamentários para o atendimento de demandas priorizadas em audiências públicas regionais.
+Conforme o entendimento expresso pela Cfamge/TCEMG, na análise das contas de 2022, quando os dispositivos constitucionais foram revogados, entende-se
+que ocorreu perda de objeto das determinações/recomendações exaradas sobre a temática.
+Isso não significa que políticas públicas que visem atender regionalmente a população não serão preconizadas. Os diversos órgãos e entidades do Estado
+buscam anualmente na elaboração da lei orçamentária anual e do Plano Plurianual de Ação Governamental – PPAG desenhar políticas e alocar recursos que visem atender a
+população mineira em diversos municípios.
+Com a vantagem em relação a proposta de determinação, de que como estes instrumentos são elaborados/revistados todo ano é possível adequar as políticas a
+realidade atual, enquanto a determinação apresentada no Relatório, visa o atendimento retroativo de propostas preconizadas no passado que podem não condizer mais com o
+atual cenário mineiro.
+Outro ponto importante a ser mencionado, é que a própria Assembleia Legislativa do Estado de Minas Gerais – ALMG supriu o vácuo deixado, em relação as
+demandas regionais da população, dado que foi ampliada consideravelmente a destinação de recursos para as emendas parlamentares do chamado Orçamento Impositivo.
+No âmbito do Estado de Minas Gerais, o "Orçamento Impositivo" foi instituído e regulamentado por meio das Emendas Constitucionais 96/18, 100/19, 101/19 e
+112/13, que alteraram os artigos 159 e 160 e acrescentaram o artigo 160-A à Constituição Estadual – CE/89 e os artigos 139 a 142, 159 e 160 ao Ato das Disposições
+Constitucionais Transitórias – ADCT. Tais normativos dispõem sobre os parâmetros para a realização das emendas parlamentares individuais – desde 2019 – e de bloco e de
+bancada – a partir de 2020 –, as quais são de execução orçamentária e financeira obrigatória pelo Poder Executivo.
+Quanto as emendas individuais, foi estabelecida uma progressão de destinação ao longo dos anos, conforme disposto abaixo:
+· 2019 – 0,70% da Receita Corrente Líquida – RCL;
+· 2020 – 0,80% da Receita Corrente Líquida – RCL;
+· 2021 – 0,90% da Receita Corrente Líquida – RCL;
+· 2022 – 1,00% da Receita Corrente Líquida – RCL;
+· 2023 – 1,00% da Receita Corrente Líquida – RCL;
+· 2024 – 1,50% da Receita Corrente Líquida – RCL e
+· 2025 e anos seguintes – 2,00% da Receita Corrente Líquida – RCL
+O aumento do percentual verificado para os exercícios de 2024 em diante, derivam da EC 112 de 24/4/2023, que aumentou de 1% para 2% o valor das referidas
+emendas.
+Além das emendas individuais, também são de execução obrigatória, as emendas de bloco ou de bancada, que também, conforme disposto no artigo 141 do
+ADCT, devem ser aplicados nos percentuais abaixo, de acordo com os anos:
+· 2020 – 0,0017% da Receita Corrente Líquida – RCL;
+· 2021 – 0,0033% da Receita Corrente Líquida – RCL e
+· 2022 e anos seguintes – 0,0041% da Receita Corrente Líquida – RCL
+Finalmente, é importante mencionar os desafios atinentes a questão da obrigatoriedade de destinar recursos, na próxima PLOA, para o atendimento retroativo de
+propostas oriundas de audiências públicas.
+Memorando 170 (102341477)         SEI 1190.01.0019363/2024-48 / pg. 4
+
+=== PÁGINA 5 ===
+O primeiro deles, é relativo a questão fiscal. É sabido que o Estado de Minas Gerais ainda se encontra em um cenário orçamentário e financeiro deficitário, com
+dificuldades para arcar com as despesas obrigatórias e as discricionárias que são elencadas para serem financiadas de acordo com as demandas vigentes. Acrescer a
+necessidade de atendimento de despesas que não foram realizadas em exercícios anteriores acarretará um desequilíbrio ainda maior das contas públicas.
+A questão é ainda mais delicada se consideramos a adesão do Estado ao Regime de Recuperação Fiscal, o que impõe uma serie de restrições e regras à
+ampliação de despesas.
+Outro desafio importante, pauta de diversas discussões sobre a realização das audiências, ainda quando o preceito constitucional estava vigente, trata-se do
+desafio logístico e operacional de se realizar, mandatoriamente, audiências regionais em um Estado, com a dimensão territorial de MG, com seus 853 municípios e
+diversidades econômicas e sociais.
+R1 - Divulgar base de dados relacionada ao monitoramento dos programas e ações do PPAG de um bimestre até o fim do bimestre subsequente.
+Situação: Atendida
+A Subsecretaria de Planejamento e Orçamento – SPLOR analisou a sugestão de prazos apresentada e acata a sugestão para o 2º, 3º, 4º e 5º bimestres.
+Contudo, para o 1º e 6º bimestre, entende ser mais oportuno manter o prazo disposto no Art. 53, inciso II da Lei de Diretrizes Orçamentárias de 2025 (Lei nº
+24.945, de 02/08/2024).
+ 
+Os demais apontamentos abaixo, conforme informado no Memorando.SEPLAG/SPLOR.nº 152/2024, não competem a Subsecretaria de Planejamento e
+Orçamento - SPLOR.
+D1 - Proceda ao aprimoramento do Plano Mineiro de Desenvolvimento Integrado - PMDI atual, com a devida inclusão de novos indicadores e revisão
+de metas que possibilitem mensurar a evolução das políticas públicas de forma mais abrangente
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 148/2024 (101058504), solicitando que a unidade se manifeste, diretamente para o Gabinete da SEPLAG,
+dentro do prazo estabelecido no Ofício SEF/STE nº. 211/2024.
+D23 - Não utilize recursos recebidos por Danos Advindos de Desastres Socioambientais em desconformidade com o disposto no art. 11, § 2º, da Lei
+Federal n. 4.320/1964
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 151/2024 (101060455), solicitando que a unidade se manifeste, diretamente para o Gabinete da SEPLAG,
+dentro do prazo estabelecido no Ofício SEF/STE nº. 211/2024.  Como a competência era conjunta com a SPLOR, o Felipe assinou o Memorando.SEPLAG/RAM - CB.nº
+61/2024 (102132714) que tem a resposta especifica sobre esta demanda.
+D26 - Crie o Conselho de Usuários do Serviço Público, conforme previsto nos arts. 18 e 22 da Lei Federal n. 13.460/2017 – Código de Defesa do Usuário
+do Serviço Público
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 149/2024 (101058525), solicitando que a unidade se manifeste, diretamente para o Gabinete da SEPLAG,
+dentro do prazo estabelecido no Ofício SEF/STE nº. 211/2024. Resposta dada por meio do Memorando.SEPLAG/SUBDIGITAL.nº 65/2024 (101189853).
+R34 - Apure, por meio da unidade de Controle Interno competente, a legalidade da execução da despesa na ação 4554 – Construção e Adequação de
+Rodovias – Reparação Brumadinho, bem como de sua liquidação e pagamento, e monitore se o cronograma de desembolso financeiro da obra contratada está
+compatível com a programação orçamentária.
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 151/2024 (101060455), solicitando que a unidade se manifeste, diretamente para o Gabinete da SEPLAG,
+dentro do prazo estabelecido no Ofício SEF/STE nº. 211/2024.
+R35 - Cumpra o limite máximo de 30% de remanejamento de recursos entre os projetos contidos no anexo da Lei n. 23.830/2021, referenciados no
+valor de R$ 11,060 bilhões.
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 151/2024 (101060455), solicitando que a unidade se manifeste, diretamente para o Gabinete da SEPLAG,
+dentro do prazo estabelecido no Ofício SEF/STE nº. 211/2024.
+R36 - Aprofunde a demonstração, de forma clara e precisa, de que as alterações orçamentárias nas ações fixadas na Lei n. 23.830/2021 estão em
+conformidade com as normas que regem as realocações orçamentárias prevista naquela Lei, na Lei n. 4.320/1964, e na LOA correspondente.
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 151/2024 (101060455), solicitando que a unidade se manifeste, diretamente para o Gabinete da SEPLAG,
+dentro do prazo estabelecido no Ofício SEF/STE nº. 211/2024.
+R38 - Revise o posicionamento do Comitê Gestor Pró-Brumadinho quanto ao papel das Deliberações do Conselho Superior a fim de que a execução
+dos recursos provenientes do Acordo seja previamente fixada na LOA e, havendo necessidade de alteração, sejam utilizados os devidos instrumentos jurídicos,
+conforme explicitado neste parecer.
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 151/2024 (101060455), solicitando que a unidade se manifeste, diretamente para o Gabinete da SEPLAG,
+dentro do prazo estabelecido no Ofício SEF/STE nº. 211/2024.
+R39 - Abstenha-se de fazer, por meio do Comitê Gestor Pro-Brumadinho, remanejamentos de recursos entre projetos de anexos diferentes do Acordo,
+podendo lançar mão de tais remanejamentos apenas se justificar de forma clara, objetiva, suficiente e prévia, que sem o remanejamento haverá desperdício de
+recursos
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 151/2024 (101060455), solicitando que a unidade se manifeste, diretamente para o Gabinete da SEPLAG,
+dentro do prazo estabelecido no Ofício SEF/STE nº. 211/2024.
+RIII.5 - Recomendar ao Conselho Estadual de Educação, ao Departamento de Trânsito de Minas Gerais – Detran, à Secretaria de Estado de Educação
+– SEE e à Fundação Centro de Hematologia e Hemoterapia do Estado de Minas Gerais – Hemominas que digitalizem os serviços que possuem potencial de
+digitalização, tendo em vista os ganhos em eficiência e economia gerados.
+Foi elaborado o Memorando.SEPLAG/SPLOR.nº 150/2024 (101058575) para a CET/SEPLAG para se manifestar no que se refere as competências do extinto
+DETRAN. Resposta do órgão por meio do Memorando.CET/GAB.nº 315/2024 (102205021).
+ 
+Atenciosamente,
+Documento assinado eletronicamente por Felipe Magno Parreiras de Sousa, Subsecretário(a), em 26/11/2024, às 13:15, conforme horário oficial de Brasília, com fundamento
+no art. 6º, § 1º, do Decreto nº 47.222, de 26 de julho de 2017 .
+Memorando 170 (102341477)         SEI 1190.01.0019363/2024-48 / pg. 5
+
+=== PÁGINA 6 ===
+A autenticidade deste documento pode ser conferida no site http://sei.mg.gov.br/sei/controlador_externo.php?acao=documento_conferir&id_orgao_acesso_externo=0, informando
+o código verificador 102341477 e o código CRC AF877EAD.
+Referência: Processo nº 1190.01.0019363/2024-48
+SEI nº 102341477
+Memorando 170 (102341477)         SEI 1190.01.0019363/2024-48 / pg. 6

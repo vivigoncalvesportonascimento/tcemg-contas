@@ -1,0 +1,304 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Planejamento e Gestão​
+Subsecretaria de Planejamento e Orçamento
+ 
+Ofício SEPLAG/SPLOR nº. 19/2025
+Belo Horizonte, 10 de julho de 2025.
+ 
+Ilmo. Sr. 
+Fábio Rodrigo Amaral de Assunção
+Subsecretário do Tesouro Estadual
+Secretaria de Estado de Fazenda - SEF
+  
+Assunto: TCE - Relatório Temático nº 02/2025 - Planejamento Governamental e Orçamento - 1º
+quadrimestre
+Referência: Of. 14576/2025 - GABCGD/CFAMGE (117257871)
+  
+Senhor Subsecretário, 
+ 
+Com meus cordiais cumprimentos, e em atenção ao Ofício SEF/STE nº. 120/2025
+(117262269), apresento na sequência análise e manifestação desta Subsecretaria acerca dos pontos
+destacados no Relatório Temático R02/2025 – Planejamento Governamental e Orçamento, referente ao 1º
+quadrimestre de 2025. 
+ 
+Planejamento Orçamentário dos Projetos Estratégicos no PPAG 
+a) O funcionamento do processo de planejamento para definição de quais ações
+serão caracterizadas como estratégicas, incluindo os critérios utilizados para a
+escolha desses projetos e os órgãos envolvidos nesse processo decisório;
+b) A ausência de execução orçamentária em projetos classificados como
+estratégicos, que foram eleitos como prioritários pela LDO e dos quais se esperam
+os melhores resultados;
+c) A existência de ações estratégicas em 2025 com dotações iniciais
+caracterizadas como janelas orçamentárias, que dependem de suplementações
+futuras para viabilizar sua implementação;
+Tópico encaminhado para manifestação da Subsecretaria de Gestão Estratégica e Reparação,
+conforme Memorando SEPLAG/SPLOR nº. 85/2025 (117900175). 
+ 
+ 
+Ausência de publicação tempestiva de informações do monitoramento do
+PPAG 
+Ofício 19 (117897922)         SEI 25.0.000006696-9 / pg. 1
+
+=== PÁGINA 2 ===
+d) A ausência de publicação dos relatórios referentes aos dois primeiros bimestres
+do exercício de 2025 no portal eletrônico da Seplag, conforme verificado em
+consulta realizada em 3/6/25;
+Em atenção ao disposto no art. 12 da Lei nº 24.677/2024, a Administração Estadual reconhece a
+importância da divulgação tempestiva das informações de monitoramento do PPAG como instrumento
+essencial de transparência, controle social e apoio à tomada de decisão.
+Contudo, conforme já reportado em ocasiões anteriores, o processo de consolidação das informações de
+monitoramento do PPAG é tecnicamente complexo e envolve múltiplas etapas e a atuação descentralizada
+de diversos órgãos e entidades da Administração Pública Estadual. Essa característica, por si só, já impõe
+desafios operacionais ao cumprimento rigoroso dos prazos legais.
+No caso específico do 1º bimestre do exercício, o trabalho de consolidação das informações é ainda mais
+custoso, pois exige a realização de conferências adicionais para garantir que os valores detalhados das
+ações estejam devidamente compatibilizados com os valores originalmente planejados. Essa etapa de
+verificação é essencial para assegurar a consistência dos dados, sobretudo no início do exercício, quando
+há maior sensibilidade quanto ao alinhamento entre planejamento e execução.
+Adicionalmente, no exercício de 2025, identificamos problemas operacionais no processo de extração de
+dados do sistema SIGPLAN, utilizado para o monitoramento do PPAG. Tais problemas decorreram da
+reescrita do código de extração, que se fez necessária devido ao fato de o sistema estar desenvolvido em
+linguagem ASP, atualmente defasada, o que demandou atualizações importantes para assegurar sua
+continuidade operacional.
+Durante esse processo de reescrita, o novo código apresentou diversos erros e inconsistências, o que
+inviabilizou a extração adequada das bases de dados dentro dos prazos inicialmente planejados. Apesar
+dos esforços das equipes técnicas, o retrabalho exigido atrasou significativamente a etapa de consolidação
+e conferência das informações.
+Superadas essas dificuldades, informamos que as bases de dados correspondentes ao 1º bimestre de 2025
+já foram publicadas no portal eletrônico da SEPLAG. Os dados do 2º bimestre encontram-se atualmente
+em fase final de conferência e validação, com previsão de publicação nos próximos dias.
+ 
+e) Quais medidas podem ser adotadas pelo Estado para assegurar maior
+regularidade e tempestividade na publicação dos próximos relatórios de
+monitoramento do PPAG;
+Com o objetivo de qualificar e conferir maior previsibilidade à divulgação dos relatórios de
+monitoramento do PPAG, o Estado de Minas Gerais está implementando e planejando as seguintes
+medidas:
+1. 
+Modernização tecnológica do SIGPLAN, com substituição da linguagem ASP por tecnologias mais
+modernas, seguras e compatíveis com os padrões atuais de desenvolvimento e interoperabilidade;
+2. 
+Reestruturação dos processos de extração e validação de dados, com foco na automação e na
+redução de etapas manuais que aumentam a margem de erro e o tempo de processamento das
+informações;
+3. 
+Revisão e formalização dos fluxos de monitoramento entre os órgãos e entidades da administração,
+com definição de prazos mais rígidos e mecanismos de responsabilização pelo cumprimento das
+etapas de alimentação e conferência de dados;
+4. 
+Fortalecimento das equipes técnicas envolvidas no processo, por meio de capacitações, melhoria nos
+canais de comunicação e ampliação do suporte técnico;
+5. 
+Revisão normativa e adequação de marcos legais e infralegais, com o objetivo de garantir coerência
+entre os prazos legais e a capacidade operacional das unidades gestoras envolvidas no
+monitoramento.
+Reiteramos o compromisso do Estado com os princípios da administração pública — em especial, a
+legalidade, publicidade e eficiência —, e reforçamos que as medidas adotadas têm como finalidade
+Ofício 19 (117897922)         SEI 25.0.000006696-9 / pg. 2
+
+=== PÁGINA 3 ===
+assegurar a plena conformidade legal e a qualidade das informações prestadas à sociedade e aos órgãos de
+controle.
+ 
+Ausência de ampla publicidade do relatório com as informações necessárias
+ao cumprimento do disposto no art. 45 da LRF 
+f) Informações sobre o envio do relatório previsto no art. 45, parágrafo único, da
+LRF ao Poder Legislativo, e à forma como se deu a divulgação desse documento;
+ 
+Em atenção ao disposto no art. 45 da Lei Complementar nº 101/2000 (LRF), e conforme os termos do art.
+8º da Lei de Diretrizes Orçamentárias do Estado de Minas Gerais para 2025 (Lei nº 24.945/2024),
+informamos que o relatório com as informações exigidas para fins de cumprimento do dispositivo foi
+elaborado e encaminhado à Assembleia Legislativa de Minas Gerais (ALMG), conforme OF.GAB.SEC.
+n.º 210/2024 e OF.GAB.SEC. n.º 218/2024, processo SEI nº 1500.01.0261037/2024-58 enviados por e-
+mail à ALMG.
+O referido relatório contém a relação das obras estaduais em andamento, paralisadas e a iniciar, dados
+necessários para verificar a adequação da inclusão de novos projetos no Projeto de Lei Orçamentária
+Anual, com base nos seguintes critérios estabelecidos pela LDO.
+A Secretaria de Estado de Planejamento e Gestão (SEPLAG) envia o relatório à ALMG, conforme
+determina a legislação. Já a publicização do relatório fica a cargo do Departamento de Estradas de
+Rodagem do Estado de Minas Gerais - DER-MG que mantem tais informações em seu sitio eletrônico
+(https://portal.der.mg.gov.br/obras-gov-map/#/map).
+ 
+g) Justificativa para a ausência de ampla divulgação dos dados exigidos, caso o
+relatório não tenha sido publicado, bem como a previsão para sua divulgação, em
+atendimento ao disposto na LRF;
+Tópico encaminhado para manifestação do Departamento de Estradas de Rodagem do Estado de Minas
+Gerais, com cópia à Secretaria de Estado de Infraestrutura, Mobilidade e Parcerias - SEINFRA, conforme
+Ofício SEPLAG/SPLOR nº. 18/2025 (117717644).
+ 
+ 
+Ausência de implementação da nova estrutura padronizada para a
+classificação por fonte ou destinação de recursos e a substituição do Siafi
+pelo GRP-Minas 
+h) Os motivos que levaram à não adoção da classificação padronizada por fonte
+de recursos; e o cronograma previsto para a implementação dessa nova estrutura
+no âmbito estadual, conforme exigido pelas Portarias STN/SOF 20/2021 e STN
+710/2021; 
+i) Estágio atual de desenvolvimento e implementação do GRP-Minas, incluindo o
+cronograma previsto para a substituição do Siafi; 
+j) Se há previsão de regulamentação específica ou de ajustes legislativos nas
+próximas edições do PPAG, LDO e LOA que abordem a transição de sistemas e
+suas implicações para a gestão das finanças públicas do Estado; 
+Conforme Ofício SEF/STE nº. 120/2025 será respondido pela Secretaria de Estado de Fazenda. 
+ 
+ 
+Ofício 19 (117897922)         SEI 25.0.000006696-9 / pg. 3
+
+=== PÁGINA 4 ===
+Demonstrativo dos recursos a serem aplicados no desenvolvimento social dos
+municípios classificados nas cinquenta últimas posições no relatório do
+IMRS 
+k) Os critérios utilizados para a seleção dos programas constantes do
+demonstrativo previsto na LDO, especialmente quanto à sua aderência ao objetivo
+de promover o desenvolvimento dos municípios mais vulneráveis;
+O processo de elaboração e revisão do Plano Plurianual de Ação Governamental (PPAG) é composto por
+algumas etapas. A primeira delas consiste no trabalho interno de órgãos e entidades estaduais na
+concepção, identificação e seleção dos desafios, compromissos e prioridades que estarão refletidas no
+plano através dos programas e ações governamentais. Nessa fase há a definição da estrutura programática
+dos órgãos e entidades. Como resultado, ao final dessa primeira fase há a definição do conjunto de
+programas, indicadores e ações que irão compor o planejamento da unidade para os próximos quatro anos.
+Dessa forma, temos a carteira de programas e ações que serão desenvolvidos no decorrer do exercício.
+Cada programa é composto por diversas ações, que trarão as estratégias de atuação para o enfrentamento
+do desafio identificado. Cada uma das ações orçamentárias tem funções orçamentárias, IAG e outras
+características orçamentárias e qualitativas que definem as estratégias de atuação. Além disso, cada ação
+precisa ser regionalizada, ou seja, os recursos programados são alocados nos municípios ou regiões
+intermediárias que se pretende executar tal ação durante o exercício, cabe aqui mencionar que o
+planejamento não é garantia de execução no referido localizador, podendo a execução ser ajustada de
+acordo com as necessidades vigentes. Além disso, é necessário ponderar que é possível a existência de
+programas governamentais cuja entrega/valor/benefício gerado contemplará, de forma indivisível, uma ou
+mais regiões ou o estado de Minas Gerais como um todo. Para tais casos não há que se falar em
+municipalização das metas orçamentárias. Sendo assim, a alocação espacial da programação e execução
+das metas físicas e orçamentárias contidas no PPAG pode ocorrer de três maneiras distintas: municipal,
+regional e estadual.
+Para a construção do Demonstrativo em questão, são selecionados os programas que possuem ações com
+programação e futuramente, execução, nos municípios classificados nas cinquenta últimas posições no
+relatório do IMRS, mas cabe aqui ressaltar que o valor dos recursos planejados e executados no
+localizador “Diversos Municípios – Estadual” e nas "Regiões Geográficas Intermediárias" são
+incorporados aos municípios, proporcionalmente às respectivas populações. Nesse ponto, a opção do
+Poder Executivo em proporcionalizar as metas planejadas e executadas nas regiões ou no estado de acordo
+com a população de cada município é apenas uma maneira de tornar divisível a entrega/valor/benefício
+que originalmente foi planejado e executado em localizadores mais genéricos.
+Desde a LOA de 2025, foi adotada nova metodologia, para aprimorar as informações apresentadas. Com o
+intuito de evidenciar, no demonstrativo relativo aos Municípios classificados nas cinquenta últimas
+posições do IMRS, projetos que possam efetivamente contribuir para o desenvolvimento dos Municípios
+mais carentes do Estado e reduzir as desigualdades regionais, a Seplag realizou alterações na forma de
+cálculo deste demonstrativo, retirando, a partir de 2025, tanto para a elaboração da LOA 2025 quanto para
+o monitoramento dos programas e ações, algumas despesas obrigatórias decorrentes de comandos
+constitucionais e legais, como as despesas referentes ao pagamento da dívida e ao aumento de capital
+social de empresas. Sendo assim, a partir de 2025 foram retiradas as ações relativas às Unidades
+Orçamentárias 1915 e 1916, Participação no Aumento do Capital social de Empresas e Gestão da Dívida
+Pública Estadual, respectivamente. Além disso, continuaram-se sendo retiradas a função 28 - Encargos
+Especiais e a função 99 - Reserva de Contingência.
+Em resumo, os critérios aplicados na elaboração do "Demonstrativo dos recursos a serem aplicados no
+desenvolvimento social dos municípios classificados nas cinquenta últimas posições no relatório do
+IMRS" são os seguintes:
+1. 
+seleção das despesas municipalizadas nos municípios classificados nas cinquenta últimas posições
+no relatório do IMRS;
+2. 
+seleção das ações e programas que possuem despesas nos localizadores genéricos, que são
+proporcionalizadas de acordo com a população de cada município, logo, incidindo também sobre os
+municípios classificados nas cinquenta últimas posições no relatório do IMRS;
+Ofício 19 (117897922)         SEI 25.0.000006696-9 / pg. 4
+
+=== PÁGINA 5 ===
+3. 
+do rol de programas resultantes dos processos 1 e 2, são excluídas:
+        3.1. ações que são de responsabilidade das UOS 915 e 1916, Participação no Aumento do
+Capital social de Empresas e Gestão da Dívida Pública Estadual, respectivamente;
+                3.2. ações cujas funções são: função 28 - Encargos Especiais e a função 99 - Reserva de
+Contingência.
+Ressalta-se, por fim, que o Estado segue envidando esforços contínuos para aprimorar a metodologia
+aplicada ao demonstrativo, com o objetivo de fornecer subsídios mais claros para o controle social e a
+avaliação da efetividade das ações governamentais voltadas à redução das desigualdades regionais.
+ 
+l) A inclusão de programas ou ações que envolvam despesas obrigatórias de
+natureza administrativa, a exemplo da remuneração de servidores, que não se
+configuram como políticas públicas voltadas diretamente à redução das
+desigualdades regionais;
+Conforme já esclarecido na resposta anterior, o demonstrativo considera todas as despesas
+municipalizadas que possuem alguma relação com os municípios de menor classificação no IMRS, exceto
+nos casos previamente excluídos da base conforme metodologia adotada (como despesas com encargos
+especiais, amortização da dívida, entre outros).
+Nesse sentido, entende-se que as despesas com remuneração de servidores ativos e inativos, apesar de ser
+de natureza obrigatória e administrativa, também contribuem — ainda que de forma indireta — para o
+desenvolvimento dos municípios onde são realizadas. Isso porque os pagamentos efetuados a servidores e
+aposentados residentes nessas localidades impactam diretamente na economia local, por meio da
+circulação de renda e consumo.
+Além disso, vale destacar que essas despesas podem estar alocadas em funções finalísticas (como saúde,
+educação e segurança), conforme a vinculação funcional do servidor, ou ainda relacionadas à previdência
+social, que é classificada como função social no orçamento público.
+Portanto, a inclusão dessas despesas no demonstrativo segue a lógica de mensurar todos os recursos
+efetivamente programados para os municípios mais vulneráveis, considerando não apenas o aspecto
+finalístico das ações, mas também o impacto orçamentário e econômico real nas localidades em questão.
+ 
+m) A avaliação da possibilidade de indicação dos valores regionalizados por
+município no demonstrativo, de forma a permitir a verificação da distribuição dos
+recursos entre os 50 municípios com pior desempenho no IMRS;
+A Secretaria de Estado de Planejamento e Gestão reconhece a importância de aprimorar a transparência e
+a granularidade das informações relativas à alocação de recursos públicos, especialmente no que se refere
+aos municípios em situação de maior vulnerabilidade socioeconômica.
+Contudo, é importante considerar que, durante a etapa de planejamento orçamentário, nem todas as
+despesas públicas estão regionalizadas com a precisão desejada. Isso ocorre, principalmente, em ações ou
+programas que, por sua natureza ou pela fase de formulação em que se encontram, são alocados
+em localizadores genéricos, como “Diversos Municípios – Estadual” ou “Diversos de cada Região
+Geográfica Intermediária”. Esses localizadores são utilizados para representar ações cuja distribuição
+geográfica exata será definida posteriormente, durante a execução orçamentária, com base em critérios
+técnicos, operacionais ou de conveniência administrativa.
+Para mitigar essa limitação e viabilizar a mensuração dos recursos nos 50 municípios com pior
+desempenho no IMRS, o Poder Executivo optou por proporcionalizar os valores das ações planejadas nos
+chamados “localizadores genéricos” (regional e estadual). Essa proporcionalização é realizada com base
+na participação populacional de cada município, e permite estimar, de forma técnica e razoável, o
+potencial impacto da política pública em cada município, mesmo quando a ação não esteja originalmente
+regionalizada no nível municipal.
+Essa metodologia não substitui a regionalização efetiva informada pelos órgãos setoriais, mas representa
+Ofício 19 (117897922)         SEI 25.0.000006696-9 / pg. 5
+
+=== PÁGINA 6 ===
+uma estratégia complementar de análise, voltada a garantir maior transparência e mensuração equitativa
+dos recursos públicos alocados. Trata-se, portanto, de um critério técnico que torna divisível uma entrega
+pública originalmente planejada em âmbito mais amplo, possibilitando sua visualização e avaliação sob a
+perspectiva municipal.
+Portanto, a opção pela proporcionalização representa uma alternativa metodológica consistente para
+atender à exigência de transparência e viabilizar a verificação da distribuição estimada de recursos entre os
+municípios mais vulneráveis, sem comprometer a coerência técnica do demonstrativo e respeitando a
+realidade operacional do ciclo orçamentário.
+ 
+n) A existência de medidas de monitoramento específicas, destinadas a avaliar a
+efetiva contribuição dos programas para o desenvolvimento dos municípios com
+maior vulnerabilidade socioeconômica no IMRS;
+O Monitoramento constitui o processo contínuo de acompanhamento bimestral da implementação dos
+programas e ações que compõem o Plano Plurianual, visando à obtenção de informações para subsidiar
+decisões e permitir a tempestiva identificação e superação de problemas, contribuindo para a obtenção dos
+resultados programados ao mesmo tempo em que torna transparente à sociedade o desempenho da
+administração pública. Ele visa potencializar o desempenho da administração na execução do PPAG,
+fornecendo informações gerenciais aos atores responsáveis pela gestão, execução e controle dos
+programas e ações do plano. Com o resultado desse monitoramento bimestral, elabora-se o demonstrativo
+dos recursos planejados e executados nos programas que atuam, conforme a metodologia explicitada
+anteriormente, nos municípios selecionados.  
+ 
+o) A avaliação da possibilidade de publicação do demonstrativo em formato
+aberto e acessível na base de dados da LOA.
+A Seplag está desenvolvendo o projeto "Orçamento Aberto: Bases orçamentárias do Estado de Minas
+Gerais em Formato aberto." que visa estruturar, padronizar e disponibilizar os dados orçamentários do
+Estado de Minas Gerais em formato aberto, conforme as diretrizes da Lei de Acesso à Informação (Lei
+12.527/2011). A iniciativa busca promover a transparência pública, fomentar a participação cidadã e
+oferecer uma base confiável para análise e tomada de decisão por parte da sociedade e dos gestores
+públicos. Tal projeto tem data de conclusão em dezembro de 2025.
+ 
+ 
+Atenciosamente, 
+  
+Documento assinado eletronicamente por Felipe Magno Parreiras de Sousa, Subsecretário(a), em
+10/07/2025, às 16:22, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto
+nº 47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 117897922 e
+o código CRC 72C250C2.
+Referência: Processo nº 25.0.000006696-9
+SEI nº 117897922
+Rodovia Papa João Paulo II, nº 4001  - Bairro Serra Verde - Belo Horizonte - CEP 31630-901​
+Ofício 19 (117897922)         SEI 25.0.000006696-9 / pg. 6

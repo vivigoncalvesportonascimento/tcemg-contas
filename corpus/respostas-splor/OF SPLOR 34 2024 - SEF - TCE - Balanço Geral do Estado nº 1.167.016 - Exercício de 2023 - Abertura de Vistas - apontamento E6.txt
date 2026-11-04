@@ -1,0 +1,96 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Planejamento e Gestão​
+Subsecretaria de Planejamento e Orçamento
+ 
+Ofício SEPLAG/SPLOR nº. 34/2024
+Belo Horizonte, 24 de maio de 2024.
+Ilmo. Sr. 
+Fábio Rodrigo Amaral de Assunção
+Subsecretário do Tesouro Estadual
+Secretaria de Estado de Fazenda - SEF
+  
+Assunto: TCE - Balanço Geral do Estado nº 1.167.016 - Exercício de 2023 - Abertura de Vistas -
+apontamento E6
+Referência: [Caso responda este Ofício, indicar expressamente o Processo nº 1190.01.0008578/2024-49].
+  
+Senhor Subsecretário,
+ 
+O Ofício SEF/STE nº. 122/2024 encaminha para análise e manifestação o apontamento E6, transcrito a
+seguir, em virtude da ponderação realizada pela Secretaria de Estado de Governo que,
+através Memorando.SEGOV/SCEPET.nº 15/2024 (88308230), pontua a atribuição dessa Secretaria de
+Estado de Planejamento e Gestão de criar um identificador orçamentário para monitoramento das despesas
+relacionadas às Ações e Serviços Públicos de Saúde (ASPS). 
+E6. Em relação à ausência de envio de planilha eletrônica com a execução
+mensal, de 2023, de Emendas Parlamentares de Execução Obrigatória, o que
+impossibilitou a identificação das emendas impositivas relacionadas às Ações
+e Serviços Públicos de Saúde – ASPS.
+Primeiro cumpre destacar a resposta encaminhada pela Secretaria de Estado de Governo sobre o
+apontamento. 
+"Em relação a este item, esclarecemos que a criação de um identificador
+orçamentário para monitoramento das despesas relacionadas às Ações e Serviços
+Públicos de Saúde - ASPS não é de competência da Secretaria de Estado de
+Governo de Minas Gerais.
+Conforme mencionado no Relatório sobre a Macrogestão e Contas do
+Governador (87988746), página 99, a Secretaria de Estado de Planejamento e
+Gestão (SEPLAG), em resposta ao Relatório da Análise da Defesa do Estado na
+Abertura de Vista 146, manifestou-se, em questão similar, da seguinte forma:
+"A Seplag esclareceu que a Secretaria do Tesouro Nacional – STN,
+por meio da Portaria 710/2021, criou o Código de Acompanhamento
+da Execução Orçamentária – CO, de implementação obrigatória
+pelos Estados e Municípios a partir de 2023. Esse código corresponde
+a “um marcador orçamentário de quatro dígitos cujo objetivo é
+identificar informações complementares relativas a determinadas
+receitas e despesas, dentre elas, a aplicação dos mínimos
+constitucionais em ASPS e MDE”. Contudo, devido às limitações dos
+Ofício 34 (89048910)         SEI 1190.01.0008578/2024-49 / pg. 1
+
+=== PÁGINA 2 ===
+atuais sistemas financeiros e orçamentários utilizados pelo Estado, o
+CO ainda não foi implementado". Dessa forma, sugere-se que tal
+apontamento seja encaminhado para nova manifestação daquela
+Secretaria.
+Na oportunidade, destacamos que a Superintendência Central de Emendas
+Parlamentares Estaduais e Transferências, com o intuito de facilitar o acesso aos
+dados, mantém atualizado no menu Transparência do Portal de Emendas as
+informações relativas às execuções de emendas parlamentares impositivas,
+incluindo a função orçamentária da despesa. Por fim, a SCEPET está à
+disposição dos demais órgãos para participar da construção de soluções para
+facilitar a identificação das emendas impositivas relacionadas às ASPS e irá
+levantar requisitos internos para atender a solicitação apresentada pelo TCE-
+MG."
+Nesse sentido, esclarece-se em função de limitações dos atuais sistemas financeiros e orçamentários
+utilizados pelo Estado de Minas Gerais, e tendo em vista o processo de implementação do GRP, em
+andamento, o CO ainda não foi implementado. Assim, até a implementação do novo sistema, é possível
+obter a memória das despesas executadas com recursos de emendas parlamentares estaduais e computadas
+na aplicação do mínimo constitucional em ASPS por meio dos seguintes filtros:
+Regra Geral
+Unidades Orçamentárias = 1451, 1481, 1541, 2071, 2261,
+2271, 2321, 4291; e
+Função = 10; e
+Fonte = 10, 71, 19; e
+Modalidades diferentes de 45, 46, 75, 76, 95, 96; e
+Elemento diferente de 59, 94; e
+Elementos-Item diferentes de 3925, 3928, 3930.
+Regra Específica do Corpo de
+Bombeiros de MG
+Unidade Orçamentária = 1401; e
+Função = 10; e
+Fonte = 10, 71, 19; e
+Ações = 1005, 4483; e 
+Modalidades diferentes de 45, 46, 75, 76, 95, 96
+ 
+Atenciosamente, 
+  
+Documento assinado eletronicamente por Felipe Magno Parreiras de Sousa, Subsecretário(a), em
+03/06/2024, às 15:42, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto
+nº 47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 89048910 e o
+código CRC 90633A3F.
+Referência: Processo nº 1190.01.0008578/2024-49
+SEI nº 89048910
+Rodovia Papa João Paulo II, nº 4001  - Bairro Serra Verde - Belo Horizonte - CEP 31630-901​
+Ofício 34 (89048910)         SEI 1190.01.0008578/2024-49 / pg. 2

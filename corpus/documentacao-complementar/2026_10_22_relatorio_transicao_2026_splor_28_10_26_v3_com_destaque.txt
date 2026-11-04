@@ -1,0 +1,304 @@
+
+
+
+RELATÓRIO DE TRANSIÇÃO DO SISTEMA DE XXXXXX
+
+
+
+Caderno de Entregas do Sistema
+
+
+2.1. Entregas Prioritárias
+
+Elaboração do novo Portal de Planejamento e Orçamento (PPO)
+
+Nome do órgão/entidade: Secretaria de Estado de Planejamento e Gestão - SEPLAG
+Descrição da Entrega: Desenvolvimento e implantação do novo Portal de Planejamento e Orçamento de Minas Gerais (PPO), concebido para modernizar e substituir o SIGPLAN e o SISOR, utilizados pelo Estado há mais de duas décadas. A plataforma integra e aprimora os processos de elaboração e revisão dos instrumentos de planejamento e orçamento e de monitoramento do planejamento governamental. Em 2026, foram disponibilizados os módulos de Orçamento da Receita, Planejamento e Orçamento, utilizados, respectivamente, na elaboração da Lei de Diretrizes Orçamentárias para 2027, na revisão do PPAG para 2027 e na elaboração da Lei Orçamentária Anual para 2027. A atuação da SPLOR compreendeu a definição das necessidades e regras de negócio, o acompanhamento das entregas, a realização de testes, a validação das funcionalidades e a identificação e priorização de correções e melhorias, em articulação com a Prodemge e com as áreas de planejamento e orçamento. Também foram elaborados manuais e materiais orientativos e promovidos treinamentos destinados aos órgãos e entidades estaduais, com orientações sobre o uso da plataforma e a execução dos procedimentos necessários à revisão do PPAG e à elaboração das leis orçamentárias. O PPO permanece em processo de manutenção e aprimoramento contínuo.
+Quantidade realizada: 01 sistema, com diversos módulos.
+Valor executado: R$ 6.697.822,44
+Data de início e fim: Desde 01/12/2023 até a presente data
+Status: Em andamento
+Enquadramento no critério de prioridade: (1) projetos estratégicos
+
+Apoio no desenvolvimento do módulo de Programação Orçamentária no GRP
+
+Nome do órgão/entidade: Secretaria de Estado de Planejamento e Gestão - SEPLAG
+Descrição da Entrega: Apoio prestado à Secretaria de Estado de Fazenda para o desenvolvimento do módulo de Programação Orçamentária no Sistema GRP, com adequação de funcionalidades, regras de negócio e parametrizações necessárias para viabilizar a futura implantação e operacionalização do sistema
+Quantidade realizada: 01 módulo no sistema (Programação Orçamentária)
+Valor executado: Sistema custeado pela SEF
+Data de início e fim: Desde 2014 até a presente data (conforme cronograma da SEF)
+Status: Em andamento
+Enquadramento no critério de prioridade: (4) demais entregas que gerem benefício direto para a população ou para a gestão pública
+
+
+2.2. Outras Entregas Relevantes 
+
+
+
+
+Políticas Públicas continuadas do Sistema
+
+
+3.1. Políticas Públicas Prioritárias
+Elaboração dos Instrumentos de Planejamento e Orçamento: PPAG, LDO e LOA
+Nome do órgão/entidade: Secretaria de Estado de Planejamento e Gestão - SEPLAG
+Descrição da Política Pública: Coordenação da elaboração e consolidação do PPAG, da LDO, da LOA e da Mensagem do Governador, abrangendo a definição de diretrizes, normas, metodologias e cronogramas; a orientação aos órgãos e entidades; a projeção e compatibilização de receitas e despesas; a consolidação das propostas setoriais; e o acompanhamento da tramitação legislativa.
+Resultados alcançados: Instrumentos orçamentários elaborados e encaminhados de forma tempestiva para a ALMG, garantindo a integração entre planejamento e orçamento, a compatibilidade entre receitas e despesas e as condições necessárias à programação e à execução das políticas públicas estaduais
+Valor executado: Não se aplica.
+Prejuízo de descontinuidade: Comprometimento do cumprimento dos prazos constitucionais e legais para elaboração e encaminhamento dos instrumentos de planejamento e orçamento, com riscos à definição das prioridades governamentais, à programação e alocação dos recursos públicos e à continuidade da execução orçamentária e das políticas públicas estaduais.
+
+
+Panorama da situação orçamentária e fiscal e Proposta Orçamentária - PLOA 2027
+
+Execução orçamentária no período de 2019 a 2025
+
+Figura 1 – Valor autorizado na LOA e despesa empenhada – 2019 a 2025
+
+
+Entre 2019 e 2025, a despesa empenhada manteve-se, em geral, próxima aos valores autorizados na Lei Orçamentária Anual. No período, o montante empenhado passou de R$ 108,2 bilhões para R$ 131,6 bilhões, crescimento de 21,6%, enquanto o valor previsto na LOA aumentou de R$ 111,8 bilhões para R$ 137,5 bilhões, elevação de 23,1%.
+As taxas de execução situaram-se entre 95,7% e 97,0% em 2019, 2020, 2024 e 2025. A principal exceção ocorreu em 2022, quando foram empenhados R$ 116,5 bilhões diante de uma previsão de R$ 137,4 bilhões, correspondendo a uma execução de 84,8%. Por sua vez, a despesa empenhada superou o valor inicialmente autorizado em 2021 e 2023, com taxas de execução de 105,7% e 100,7%, respectivamente.
+De modo geral, a série demonstra aderência entre o orçamento autorizado e a execução da despesa, especialmente nos dois últimos exercícios.
+
+Resultado fiscal no período de 2019 a 2025
+Figura 2 – Resultado fiscal previsto e resultado fiscal apurado – 2019 a 2025
+
+
+Entre 2019 e 2025, as Leis Orçamentárias Anuais foram aprovadas com previsão de déficit fiscal, em valores que variaram de R$ 3,6 bilhões, em 2023, a R$ 16,2 bilhões, em 2021. Em todos os exercícios, contudo, o resultado apurado foi superior ao inicialmente previsto.
+Em 2019 e 2020, os déficits efetivos foram de R$ 8,6 bilhões e R$ 2,9 bilhões, respectivamente, abaixo das previsões de R$ 11,4 bilhões e R$ 13,3 bilhões. A partir de 2021, apesar das previsões deficitárias, foram registrados superávits de R$ 103,7 milhões em 2021, R$ 2,2 bilhões em 2022, R$ 299,4 milhões em 2023, R$ 5,2 bilhões em 2024 e R$ 1,1 bilhão em 2025.
+A série evidencia, portanto, que os resultados fiscais apurados foram sistematicamente mais favoráveis que os projetados nas respectivas leis orçamentárias.
+
+Evolução da despesa com pessoal
+
+Figura 3 – Despesa total com pessoal e limites prudencial e máximo – 3º quadrimestre de 2018 ao 2º quadrimestre de 2026
+
+
+
+A evolução da despesa total com pessoal, apurada em relação à Receita Corrente Líquida, deve ser analisada à luz dos limites prudencial e máximo estabelecidos pela legislação fiscal. No 2º quadrimestre de 2026, o indicador alcançou 47,36%, permanecendo abaixo do limite máximo, mas ainda acima do limite prudencial.
+
+Figura 4 – Aplicação de recursos em MDE – 2018 a 2026
+
+
+
+Figura 5 – Aplicação de recursos em ASPS – 2018 a 2026
+
+
+
+
+Proposta Orçamentária 2027 - PLOA 2027
+
+A elaboração do PLOA 2027 teve como referência inicial as projeções econômicas utilizadas nas Metas Fiscais da Lei de Diretrizes Orçamentárias do Estado para 2027, instituída pela Lei nº 26.041/2026, que consideraram os parâmetros macroeconômicos da Lei de Diretrizes Orçamentárias da União para o mesmo exercício.
+Em relação às estimativas de receita, despesa e resultado orçamentário, destacam-se os seguintes aspectos:
+a) Receita total
+Para 2027, estima-se uma receita total de aproximadamente R$ 144,999 bilhões, ante os R$ 141,751 bilhões previstos na LOA 2026.
+O crescimento decorre principalmente do aumento de R$ 3,229 bilhões na receita tributária, com destaque para o incremento de R$ 1,818 bilhão na projeção do ICMS, dos quais R$ 1,629 bilhão se refere ao principal do imposto. Também estão previstos aumentos de R$ 346 milhões no Imposto de Renda Retido na Fonte e de R$ 307 milhões no IPVA.
+b) Despesa total
+A despesa total projetada para 2027 é de R$ 155,502 bilhões, dos quais R$ 15,899 bilhões correspondem a operações intraorçamentárias.
+Desconsideradas essas operações, os principais componentes são as despesas com pessoal do Poder Executivo, que representam 47,2% do total; as despesas dos demais Poderes, com 19,3%; as despesas constitucionais de custeio e capital, com 9,9%; e o serviço da dívida, com 5,4%.
+Quanto à categoria econômica, as despesas correntes correspondem a R$ 122,372 bilhões, ou 87,6% do total; as despesas de capital, a R$ 16,026 bilhões, ou 11,5%; e a reserva de contingência, a R$ 1,204 bilhão, ou 0,9%.
+Comparativamente à LOA 2026, a despesa projetada apresenta crescimento de R$ 8,532 bilhões, incluídas as operações intraorçamentárias. As principais variações são:
+despesas constitucionais: aumento de R$ 908 milhões, decorrente do crescimento das bases de cálculo dos mínimos constitucionais;
+juros e amortização da dívida: aumento líquido de R$ 1,209 bilhão, resultante da redução de R$ 208 milhões nos juros e do acréscimo de R$ 1,417 bilhão nas amortizações;
+emendas de blocos e bancadas: aumento de R$ 532 milhões, consideradas as alterações promovidas pela PEC nº 61/2026;
+demais despesas de custeio do Poder Executivo: aumento de R$ 1,011 bilhão, dos quais R$ 473 milhões estão associados à segurança pública;
+investimentos e inversões do Poder Executivo: manutenção em patamar relativamente estável, com aumento das despesas financiadas por recursos vinculados e redução daquelas custeadas com recursos livres;
+despesas dos demais Poderes: aumento de R$ 2,421 bilhões, dos quais R$ 800 milhões correspondem a pessoal e R$ 1,621 bilhão a custeio e capital;
+despesas de pessoal do Poder Executivo: aumento de R$ 2,572 bilhões, associado ao crescimento vegetativo da folha de pagamento.
+
+c) Resultado orçamentário projetado
+Consideradas as estimativas de receita total, de R$ 144,999 bilhões, e de despesa total, de R$ 155,502 bilhões, projeta-se para o exercício de 2027 um déficit orçamentário da ordem de R$ 10,503 bilhões.
+Monitoramento e Avaliação do PPAG e Elaboração do Balanço Social
+Nome do órgão/entidade: Secretaria de Estado de Planejamento e Gestão - SEPLAG
+Descrição da Política Pública: Coordenação do monitoramento e da avaliação do PPAG, com orientação técnica aos órgãos e entidades, acompanhamento da execução física e orçamentária, análise de indicadores e metas e consolidação das informações registradas nos sistemas de planejamento. Compreende a elaboração dos RIM, da Avaliação Anual do PPAG e do Balanço Social.
+Resultados alcançados: Produção e divulgação periódica dos Relatórios Institucionais de Monitoramento, com informações bimestrais sobre a execução e o desempenho dos programas e ações do PPAG; elaboração da Avaliação Anual do PPAG, com análise consolidada dos resultados alcançados, da execução física e orçamentária, dos indicadores e da regionalização do Plano; e elaboração do Balanço Social, como anexo da Prestação de Contas Anual do Governador, evidenciando a execução e os resultados dos programas sociais. Os produtos subsidiam a gestão e a revisão do planejamento governamental, a tomada de decisão, o controle institucional, as audiências públicas realizadas pela Assembleia Legislativa e a prestação de contas à sociedade.
+Valor executado: Não se aplica.
+Prejuízo de descontinuidade: Comprometimento do acompanhamento sistemático do PPAG e da identificação tempestiva de desvios entre as metas programadas e executadas, com prejuízos à avaliação dos resultados das políticas públicas, à revisão e ao aperfeiçoamento do planejamento governamental, à qualidade da alocação dos recursos e à tomada de decisão. A descontinuidade também comprometeria o cumprimento das obrigações legais de elaboração e divulgação dos Relatórios Institucionais de Monitoramento, da Avaliação Anual do PPAG e do Balanço Social, bem como a transparência, a prestação de contas e o exercício dos controles institucional e social.
+
+Aplicação da metodologia do Orçamento Base-Zero (OBZ)
+Nome do órgão/entidade: Secretaria de Estado de Planejamento e Gestão - SEPLAG
+Descrição da Política Pública: Utilização da metodologia do OBZ na elaboração da proposta orçamentária dos órgãos e entidades aplicáveis, constituindo etapa essencial da elaboração da Lei Orçamentária Anual (LOA). O OBZ é aplicado para a quase totalidade da despesa discricionária do Poder Executivo, constituindo parcela do orçamento onde há possibilidade de escolha dos gestores quanto à alocação dos recursos.
+Capacitações: Foram oferecidas capacitações sobre OBZ e sobre o Decreto de Programação Orçamentária (DPO) com o objetivo de garantir a correção e o alinhamento dos processos relativos à elaboração e execução do orçamento. 
+Ferramentas digitais criadas: (a) Estação Setorialista do OBZ: ferramenta de apoio à análise das propostas de OBZ dos órgãos, com informações consolidadas, possibilitando identificação de inconsistências e registro de pareceres e deliberações em ambiente único e (b) Estação OBZ (OBZ Digital) : plataforma que digitalizou e integrou o fluxo de solicitações entre os órgãos e a SPLOR/DCMEFO, automatizando a tramitação, execução e retorno das operações orçamentárias.
+
+
+
+
+Valor executado: Não se aplica. 
+Prejuízo de descontinuidade: Comprometimento da qualidade do planejamento orçamentário, com redução da capacidade de revisão crítica das despesas e da racionalização da alocação dos recursos públicos.
+Histórico de Implementação
+2019 (Projeto Piloto – LOA 2020): Implementação pioneira no setor de Segurança Pública e na SEPLAG, com suporte técnico e treinamento inicial providos pela consultoria externa Instituto Áquila. 
+2020 (Expansão para a Administração Direta – LOA 2021): Expansão da metodologia para mais 12 órgãos da Administração Direta, incluindo secretarias estratégicas como Fazenda, Educação, Meio Ambiente, Governo, Cultura e Turismo, e Infraestrutura e Mobilidade. 
+2021 (Inclusão da Administração Indireta – LOA 2022): Incorporação de 19 entidades da Administração Indireta, totalizando 38 órgãos e ajustando conceitos com base no aprendizado acumulado dos ciclos anteriores. 
+2022 em diante (Consolidação e Abrangência Plena – LOA 2023 em diante): Adoção da metodologia em escala plena por 64 Unidades Orçamentárias do Poder Executivo. A SEPLAG assumiu integralmente a governança, a emissão de diretrizes e o desenvolvimento de soluções tecnológicas próprias para operacionalização do processo. 
+
+
+
+Principais Etapas Executadas no Ciclo Orçamentário
+
+Mapeamento e Estruturação por Entregas: Alinhamento direto das entregas governamentais às ações do PPAG. 
+Detalhamento Analítico dos Itens de Custo: Aprofundamento do detalhamento da despesa até o nível de elemento-item e item de material/serviço, estabelecendo a volumetria e os preços unitários reais de cada insumo. 
+Análise Crítica de Eficiência: Investigação minuciosa de como se gasta, visando racionalizar contratos vigentes, redesenhar especificações técno-operacionais, adequar a oferta à demanda e eliminar desperdícios antes da precificação final. 
+Construção dos Cenários Orçamentários (Valor Agregado):
+Cenário Limiar: Identificação do nível de esforço e de custo mínimo aceitável para assegurar a continuidade da entrega ou o cumprimento de mandatos legais/regulatórios essenciais (cenário de sobrevivência). 
+Cenários Incrementais: Construção de camadas adicionais de despesa não obrigatórias que elevam o nível de serviço, a qualidade, a capacidade ou reduzem riscos da política pública. Cada pacote incremental deve trazer explicitados o benefício da realização e o risco do não financiamento. 
+Priorização e Montagem da Pilha Orçamentária (Rituais de Decisão): Ordenação dos pacotes incrementais através de três níveis decisórios hierárquicos (Nível 3 - Superintendentes, Nível 2 - Subsecretários e Nível 1 - Dirigente Máximo/Secretário), gerando uma lista ranqueada de prioridades que se adapta dinamicamente aos limites do teto orçamentário aprovado pelo Comitê de Orçamento e Finanças (COFIN). 
+Resultados Alcançados
+
+Eficiência e Alocação Racional do Gasto Discricionário: Foco na parcela discricionária do orçamento (custeio e investimentos de fontes gerenciáveis), permitindo a identificação de economias reais através da renegociação de contratos, revisão de SLAs e otimização de recursos. 
+Autonomia e Clareza Decisória: Garantia de autonomia às unidades para elencarem e justificarem suas reais necessidades e prioridades com base em premissas técnicas de custo-benefício, superando a mera aplicação de reajustes percentuais ou cortes lineares sobre anos anteriores. 
+Transparência e Governança: Proporcionamento de visibilidade detalhada dos custos das políticas públicas para o Comitê de Orçamento e Finanças (COFIN) e dirigentes estaduais, qualificando a deliberação alocativa. 
+Impacto na Qualidade do Gasto: Fortalecimento do accountability, previsibilidade diante de contingenciamentos e fim de distorções históricas de custos no orçamento estadual. 
+
+Perspectivas para os Próximos Períodos
+
+Integração Plena às Plataformas Digitais de Planejamento: Transição e integração contínua das rotinas do OBZ ao novo Portal PPO-MG, otimizando o fluxo e eliminando a dependência de planilhas locais. 
+Aprimoramento da Periodicidade de Revisão: Avaliação do emprego da metodologia em ciclos rotativos ou plurianuais para atividades continuadas estáveis, concentrando esforços intensivos de OBZ em momentos de reestruturação administrativa ou criação de novas políticas públicas. 
+Fortalecimento do Monitoramento de Desempenho: Conexão mais direta dos cenários priorizados no OBZ aos indicadores de desempenho físico e de entregas efetivas do PPAG durante a fase de execução. 
+Mitigação do Risco de Descontinuidade: Manutenção do compromisso institucional com a metodologia, evitando o retorno à orçamentação incremental passiva e assegurando a racionalidade e sustentabilidade fiscal de longo prazo das contas públicas estaduais. 
+
+Gestão das classificações orçamentárias da receita
+
+
+Nome do órgão/entidade: Secretaria de Estado de Planejamento e Gestão - SEPLAG
+
+Descrição da Política Pública: Gestão do ementário das classificações orçamentárias da receita e acompanhamento tempestivo de suas eventuais alterações e atualizações, baseada na padronização normativa da STN/MF. Análise das solicitações de previsão adicional de receita e respectiva classificação orçamentária para habilitação e vinculação de receita e fonte de recurso à unidade orçamentária durante a execução orçamentária. Gestão do ementário de fonte e destinação de recursos. 
+
+Resultados alcançados: Suporte técnico contínuo aos órgãos e entidades para a adequada classificação orçamentária da receita, incluindo código de natureza de receita e fonte de recurso. A atuação abrange desde os códigos de receitas integrantes da PLOA até as novas receitas que surjam durante a execução orçamentária. Essa atividade permite que as receitas orçamentárias estejam organizadas conforme padronização nacional para futura consolidação das contas públicas, bem como para organizar as receitas orçamentárias estaduais conforme o fato gerador de cada uma, propiciando organização e transparência na gestão das receitas do orçamento estadual.    
+
+Valor executado: Não se aplica. 
+
+Prejuízo de descontinuidade: as receitas do Estado necessitam estar habilitadas nos códigos orçamentários das receitas para seu registro orçamentário e futura utilização dos recursos no financiamento das políticas públicas. Além disso, as elaborações dos demonstrativos orçamentários necessitam da correta arrecadação orçamentária das receitas em seus respectivos códigos.  A descontinuidade dessa atividade resultaria em prejuízos à gestão fiscal, bem como em descumprimento das normas atinentes às finanças públicas brasileiras, tais como Portaria STN/SOF 163/2001, a Lei de Responsabilidade Fiscal – LRF (LC 101/2000) e à Lei 4.320/1964.
+
+
+
+Apoio Setorial à Execução Física e Orçamentária dos Órgãos e Entidades
+
+Nome do órgão/entidade: Secretaria de Estado de Planejamento e Gestão - SEPLAG
+Descrição da Política Pública: Orientação e assessoramento técnico aos órgãos e entidades nos processos de elaboração, revisão, execução e monitoramento do PPAG e da LOA. Abrange o acompanhamento da execução física e orçamentária, a gestão de cotas, a orientação sobre classificação e programação das despesas e a análise de alterações orçamentárias e créditos adicionais.
+
+Resultados alcançados: Suporte técnico contínuo aos órgãos e entidades para a adequada execução dos programas e ações governamentais; liberação e gestão das cotas orçamentárias de custeio e capital; aprimoramento da classificação e da programação das despesas; maior consistência das solicitações de alterações orçamentárias e produção de informações qualificadas para subsidiar a gestão orçamentária e a tomada de decisão. A atuação contribui para a regularidade da execução, o alcance dos objetivos e metas governamentais e a melhoria da qualidade do gasto público.
+
+Valor executado: Não se aplica.
+
+Prejuízo de descontinuidade: Comprometimento da capacidade dos órgãos e entidades de planejar e executar adequadamente suas despesas, com possibilidade de atrasos ou interrupções na liberação de cotas orçamentárias, inconsistências na classificação das despesas, inadequações na programação orçamentária e dificuldades no processamento de créditos adicionais e demais alterações do orçamento. A descontinuidade também reduziria a capacidade de acompanhamento das metas físicas e orçamentárias, podendo provocar atrasos na execução das políticas públicas, perda de qualidade das informações gerenciais e menor eficiência na alocação dos recursos públicos.
+
+
+
+
+
+
+
+
+
+
+Coordenação do Programa de Descentralização da Execução de Serviços para as Entidades do Terceiro Setor  
+Nome do órgão: Secretaria de Estado de Planejamento e Gestão (SEPLAG).
+Descrição da Política Pública: O Programa de Descentralização da Execução de Serviços constitui um modelo de gestão pública baseado na cooperação entre o Estado e entidades do Terceiro Setor, viabilizando a execução de políticas públicas por meio de parcerias com Organizações Sociais (OS) e Organizações da Sociedade Civil de Interesse Público (Oscip). Nesse contexto, a Secretaria de Estado de Planejamento e Gestão (SEPLAG), por meio da Superintendência Central de Parcerias com o Terceiro Setor (SCPTS), exerce o papel de órgão central do Programa, sendo responsável pela definição das diretrizes metodológicas, fluxos, modelos padrões, ferramentas de controle, orientação técnica e aprimoramento contínuo do Programa de Descentralização. Entre os processos e serviços permanentes, tem-se a análise dos requerimentos de qualificação como Oscip e OS; a avaliação da viabilidade da execução dos projetos no modelo descentralizado; o assessoramento técnico aos órgãos nas etapas de seleção pública de entidade parceira, celebração, execução, monitoramento, avaliação e aditamento dos instrumentos; o aprimoramento normativo e metodológico contínuo e a realização de capacitações para gestores públicos e entidades parceiras. O Programa permite a gestão continuada de equipamentos e serviços públicos, tais como hospitais, unidades prisionais e socioeducativas, além de espaços culturais como a Sala Minas Gerais e o Palácio da Liberdade. O principal diferencial do modelo de parceria com Organizações Sociais e Oscip em relação a outros instrumentos de fomento ou colaboração está na sua capacidade de viabilizar a gestão continuada de serviços públicos complexos, com foco em resultados e mecanismos robustos de monitoramento e avaliação. Diferentemente de instrumentos voltados predominantemente ao repasse de recursos para projetos específicos, os modelos OS/Oscip permitem a pactuação de metas e indicadores de desempenho, a adoção de maior flexibilidade administrativa para gestão de pessoas, aquisições e contratações, e a atuação integrada entre Estado e entidade parceira, preservando o controle público sobre os resultados alcançados. Essas características favorecem respostas mais ágeis às necessidades da sociedade, sem renunciar à transparência, à prestação de contas e à responsabilização dos gestores.
+Resultados alcançados: Nos últimos anos, observou-se expressiva expansão do Programa, com crescimento do volume de recursos executados e da quantidade de instrumentos celebrados, principalmente nas áreas da segurança pública, saúde e meio ambiente, incluindo novos projeto do Acordo de Reparação do Rio Doce. Os repasses passaram de aproximadamente R$ 165 milhões e 8 parcerias em 2023 para R$ 347 milhões e 22 parcerias vigentes até outubro de 2026, enquanto, em uma perspectiva de longo prazo, os recursos executados por meio dos modelos de OS e Oscip cresceram mais de 700% em relação a 2019. Os resultados apoiados pelo Programa abrangem diversas áreas estratégicas do Governo de Minas, incluindo saúde, segurança pública, esporte, cultura e meio ambiente. Entre os exemplos de políticas viabilizadas por esse modelo destacam-se a gestão de hospitais regionais, as ações dos programas de prevenção à criminalidade, os Jogos Escolares de Minas Gerais (JEMG), a execução de medidas socioeducativas e iniciativas de cogestão e capacitação profissionalizante no sistema prisional, além da gestão de equipamentos culturais de enorme relevância para o cenário, como o Palácio da Liberdade, a Orquestra Filarmônica de Minas Gerais, a Orquestra Sinfônica de Minas Gerais, a Cia de Dança Palácio das Artes, e o Coral Lírico de Minas Gerais, demonstrando a capilaridade e a relevância das parcerias para a prestação de serviços públicos à população. Como órgão central, a SEPLAG atuou diretamente na estruturação e no fortalecimento de todas as parcerias celebradas, alcançando, em 2026, o assessoramento de 22 instrumentos vigentes, a análise de 19 processos de qualificação e a qualificação de 6 entidades como OS ou Oscip, a elaboração de 5 estudos de viabilidade para descentralização de políticas públicas, a orientação de 8 processos de seleção pública para celebração de novas parcerias e a realização de 14 capacitações destinadas a gestores públicos e entidades parceiras.
+Valor executado: R$2.359.713.026,12.  
+Prejuízo de descontinuidade: A eventual interrupção dos processos relacionados ao Programa de Descentralização da Execução de Serviços comprometeria a estruturação, celebração, execução, monitoramento e avaliação das parcerias, elevando os riscos de descontinuidade de políticas públicas essenciais. Na área ambiental, poderiam ser prejudicadas ações voltadas à conservação da biodiversidade, à segurança hídrica e ao atendimento das obrigações assumidas pelo Estado no âmbito do Acordo Judicial de Reparação do Rio Doce, com impactos para produtores rurais, comunidades do entorno e usuários de recursos hídricos. Na segurança pública, haveria comprometimento de iniciativas relacionadas à prevenção da criminalidade, atendimento socioeducativo, políticas sobre drogas e ações voltadas às pessoas privadas de liberdade. Na saúde, a descontinuidade das parcerias impactaria diretamente a manutenção dos serviços prestados pelos hospitais regionais de Patos de Minas e de Juiz de Fora, com prejuízos ao atendimento da população. 
+
+
+
+
+3.2. Outras Políticas Públicas Relevantes 
+
+
+
+
+Pontos de Atenção no fechamento de Governo 
+
+
+
+
+Pontos de Atenção nos meses iniciais do novo Governo 
+
+
+
+Nome do órgão/entidade | Nome da entrega | Descrição da entrega | Status
+(concluída, em andamento)
+SEPLAG | Estruturação, Sistematização e Disponibilização dos Dados Orçamentários | Estruturação do fluxo de extração, tratamento, padronização e publicação dos dados orçamentários estaduais. Como resultado, foram disponibilizados, em formato aberto, estruturado e legível por máquina, os conjuntos de dados do SIAFI 2026 e do SISOR 2026, com atualização diária, ampliando a transparência e a reutilização das informações de planejamento e orçamento. | Concluída, com atualização diária dos dados e manutenção contínua dos códigos, critérios e rotinas de processamento.
+SEPLAG | Desenvolvimento dos Painéis de Reestimativa e de Execução Orçamentária | Desenvolvimento de painel gerencial no QlikView, com dados de projeção e dados históricos da execução orçamentária desde 2002, com atualização diária a partir do Armazém-SIAFI e tratamento da base de dados, permitindo consultas personalizadas por diferentes critérios orçamentários e facilitando o acompanhamento e a análise da execução orçamentária, auxiliando a tomada de decisão. Contempla a atualização, aprimoramento e manutenção das informações de receitas e despesas orçamentárias e de sua forma de apresentação. | Concluída
+SEPLAG | Soluções digitais de gestão orçamentária | Quatro ferramentas que digitalizam etapas do ciclo orçamentário e substituem planilhas e e-mails por ambientes integrados e rastreáveis. Análise: apoio à análise de pleitos orçamentários e de propostas de OBZ, com consolidação de informações, identificação de inconsistências e registro de pareceres e deliberações. Operação: o Portal Orçamentário automatiza a tramitação das solicitações entre órgãos e DCMEFO, e o OBZ Digital (em andamento) apoia a elaboração e o acompanhamento das propostas de OBZ. | 3 de 4 concluídas
+SEPLAG | Automação de procedimentos orçamentários | Automações que eliminam lançamentos manuais na execução orçamentária. Elas fazem validações prévias e registram os resultados, o que reduz o esforço operacional e os riscos. Créditos: geração das minutas de decreto de crédito adicional, com validação de saldos e excessos, e lançamento de remanejamentos no SIAFI. Cotas: aprovação, anulação e descentralização de cotas no SIAFI; a descentralização já está implantada em OGE, SEPLAG, PCMG e PMMG. Geração dos volumes da LOA/PPAG: geração automática dos volumes aprimorada, incluindo ferramentas atualizadas e modernas, como Inteligência Artificial, trazendo mais eficiência, rapidez e precisão na confecção dos instrumentos orçamentários. | Concluída
+Contratos de Gestão e Termos de Parceria vigentes | Contratos de Gestão e Termos de Parceria vigentes | Contratos de Gestão e Termos de Parceria vigentes | Contratos de Gestão e Termos de Parceria vigentes | Contratos de Gestão e Termos de Parceria vigentes | Contratos de Gestão e Termos de Parceria vigentes | Contratos de Gestão e Termos de Parceria vigentes | Contratos de Gestão e Termos de Parceria vigentes
+Nº do Instrumento | Área | Órgão Estatal Parceiro | Entidade Parceira | Objeto | Data de Início da Vigência | Data Fim da Vigência | Repasses Previstos até a Data Fim da Vigência
+CG-002/2019 | Segurança Pública | SEJUSP | Instituto Elo - IELO | Co-execução de ações da Política Estadual de Prevenção Social à Criminalidade, propiciando o desenvolvimento das atividades das Unidades e dos Programas de Prevenção Social à Criminalidade definidos pela SESP/SUPEC. | 12/02/2019 | 31/12/2026 | R$ 278.399.631,67
+CG-005/2019 | Cultura e Patrimônio | FCS | Associação Pró-Cultura e Promoção das Artes - APPA | Apoiar as áreas temáticas de Programação Artística, Produção Artística, Formação Artística e Tecnológica, realizar a gestão, operação, manutenção, desenvolvimento, implantação, realização e comercialização de serviços e atividades de formação cultural do Centro Técnico de Produção e Formação Raul Belém Machado – CTPF, e realizar Captação de Recursos para as áreas temáticas e para o CTPF. | 31/12/2019 | 31/12/2026 | R$ 56.106.829,90
+CG-006/2020 | Cultura e Patrimônio | SECULT | Instituto Cultural Filarmônica - ICF | Realizar a gestão operacional do Centro de Cultura Presidente Itamar Franco e de suas áreas vinculadas incluindo: 1) Desenvolvimento de atividades culturais para a sociedade, voltadas para a difusão da música sinfônica e da música de concerto, por meio da gestão, operação e manutenção da Orquestra Filarmônica de Minas Gerais, juntamente com a gestão, operação e manutenção da Sala Minas Gerais; e 2) A gestão, operação e manutenção das áreas comuns do Centro de Cultura e do estacionamento, bem como o desenvolvimento, implantação, realização e comercialização de serviços, eventos, e atividades de ocupação cultural do complexo. | 31/07/2020 | 31/12/2030 | R$ 220.750.000,00
+CG-008/2021 | Segurança Pública | SEJUSP | Instituto Elo - IELO | A cogestão de medida socioeducava de internação nos municípios de Araxá, Belo Horizonte, Ipatinga, Sete Lagoas, Tupaciguara, Uberaba e Unaí. | 12/07/2021 | 31/12/2028 | R$ 711.870.744,98
+CG-009/2023 | Segurança Pública | SEJUSP | Instituto Elo - IELO | A cogestão de medida socioeducativa de internação, internação provisória e internação-sanção nos municípios do estado de Minas Gerais. | 06/12/2023 | 05/12/2028 | R$ 130.402.873,27
+CG-010/2023 | Segurança Pública | SEJUSP | Polo de Evolução de Medidas Socioeducativas - PEMSE | A cogestão de medida socioeducativa de semiliberdade em municípios do estado de Minas Gerais. | 08/12/2023 | 07/12/2028 | R$ 326.557.865,87
+CG-011/2024 | Segurança Pública | SEJUSP | Instituto Jurídico para Efetivação da Cidadania e Saúde - AVANTE SOCIAL | Propiciar a prática de atividade física como suporte e orientação na formação dos adolescentes em acautelamento provisório e em cumprimento de medida socioeducativa de internação nas unidades socioeducativas do estado de Minas Gerais geridas pela Administração Direta. | 08/11/2024 | 07/11/2029 | R$ 4.218.426,58
+CG-012/2024 | Saúde | FHEMIG | Fundação de Assistência, Estudo e Pesquisa de Uberlândia - FAEPU | O gerenciamento, operacionalização e execução das ações e serviços de saúde, incluindo equipamentos, estrutura, maquinário, insumos e outros, no Hospital Regional Antônio Dias - HRAD, em regime de 24 horas/dia, que assegure assistência universal e gratuita à população, em consonância com as políticas de saúde do SUS e conforme diretrizes da Fundação Hospitalar do Estado de Minas Gerais. | 25/05/2024 | 24/05/2031 | R$ 257.404.079,13
+CG-013/2024 | Segurança Pública | SEJUSP | Polo de Evolução de Medidas Socioeducativas - PEMSE | A cogestão de medida socioeducativa de internação, internação provisória e internação-sanção nos municípios do estado de Minas Gerais. | 17/12/2024 | 16/12/2026 | R$ 27.164.320,00
+CG-014/2025 | Segurança Pública | SEJUSP | Instituto Jurídico para Efetivação da Cidadania e Saúde - AVANTE SOCIAL | A cogestão do programa de acompanhamento de adolescentes em processo de desligamento e pós-cumprimento das medidas socioeducativas de restrição e privação de liberdade, propiciando o desenvolvimento das atividades nas unidades definidas pela SEJUSP/SUASE no estado de Minas Gerais. | 28/02/2025 | 28/02/2027 | R$ 6.500.000,02
+CG-015/2025 | Agropecuária | IMA | Associação Brasileira dos Criadores de Cavalo Mangalarga Machador - ABCCMM | Fortalecer o serviço de Registro Genealógico de raças de interesse econômico, por meio da gestão e operação do Parque de Exposições Bolívar de Andrade, com realização de exposições agropecuárias, nos termos do Plano de Trabalho. | 06/05/2025 | 05/05/2027 | R$ 2.761.520,17
+CG-016/2026 | Segurança Pública | SEJUSP | Instituto Elo - IELO | Cogestão da Unidade Prisional da cidade de Iturama, Minas Gerais, com capacidade de atendimento inicial de 388 (trezentos e oitenta e oito) Pessoas Privadas de Liberdade - PPL. A Unidade será destinada à custódia de presos provisórios e presos sentenciados em cumprimento de pena privativa de liberdade. | 07/02/2026 | 06/02/2031 | R$ 69.241.193,84
+CG-017/2026 | Segurança Pública | SEJUSP | Instituto Jurídico para Efetivação da Cidadania e Saúde - AVANTE SOCIAL | Descentralização da Política Estadual sobre Drogas, propiciando a expansão e qualificação dos atendimentos realizados. | 02/04/2026 | 01/04/2029 | R$ 10.704.385,40
+CG-018/2026 | Meio Ambiente | IGAM | Associação Pró-Cultura e Promoção das Artes - APPA | Modernização e operacionalização da Sala de Situação de Recursos Hídricos, integrando dados e aprimorando a tecnologia, para criar um ambiente descentralizado e eficiente que suporte a tomada de decisões para prevenção e mitigação de crises hídricas e, assim, fortalecer a segurança hídrica e a resiliência do Estado de Minas Gerais em benefício de sua população, órgãos públicos e usuários de recursos hídricos. | 01/07/2026 | 30/06/2031 | R$ 116.677.176,49
+TP-051/2021 | Meio Ambiente | IEF | Instituto Ekos Brasil | Apoio às ações de consolidação da Unidade de Conservação do Parque Estadual do Rio Doce | 22/12/2021 | 22/12/2026 | R$ 25.057.924,00
+TP-052/2023 | Desporto | SEDESE | Federação de Esportes Estudantis de Minas Gerais | Apoio à realização dos Jogos Escolares de Minas Gerais – JEMG e o fomento ao desporto e paradesporto educacional. | 15/04/2023 | 31/12/2026 | R$ 28.704.924,38
+TP-053/2023 | Cultura e Patrimônio | FCS | Associação Pró-Cultura e Promoção das Artes - APPA | Apoio ao funcionamento e as atividades artísticas e culturais do Palácio da Liberdade. | 28/12/2023 | 27/12/2027 | R$ 7.267.555,84
+TP-054/2023 | Desporto | SEDESE | Associação Mineira do Paradesporto | Apoio à realização da política de promoção ao direito de acesso ao esporte educacional e paradesportivo em Minas Gerais. | 28/12/2023 | 28/12/2026 | R$ 2.207.342,44
+TP-055/2025 | Meio Ambiente | IEF | Instituto de Pesquisa Waitá | Apoio às atividades e à manutenção do Centro de Triagem e Reabilitação de Animais Silvestres (Cetras), localizado em Patos de Minas, Minas Gerais. | 06/06/2025 | 05/06/2027 | R$ 3.063.854,10
+TP-056/2025 | Meio Ambiente | IEF | Instituto de Pesquisa Waitá | Apoio às atividades e à manutenção do Centro de Triagem e Reabilitação de Animais Silvestres (Cetras), localizado em Divinópolis, Minas Gerais. | 12/06/2025 | 11/06/2027 | R$ 2.909.608,23
+TP-057/2025 | Segurança Pública | SEJUSP | Instituto Minas Pela Paz - IMPP | Apoio à política de promoção ao direito de acesso dos Indivíduos Privados de Liberdade (IPLs), no âmbito da capacitação técnica e formação profissional para o mundo do trabalho. | 22/10/2025 | 21/10/2030 | R$ 80.302.964,78
+TP-058/2025 | Saúde | FHEMIG | Instituto Nacional de Saúde, Inovação, Desenvolvimento e Educação | Gerenciar, operacionalizar e executar as ações e serviços necessários para a obtenção e manutenção de acreditação de qualidade no Hospital Regional de Barbacena Dr. José Américo, unidade assistencial do Complexo Hospitalar de Barbacena - CHB, da Fhemig, no âmbito do Projeto #AcreditaFhemig. | 06/12/2025 | 05/12/2029 | R$ 10.687.091,10
+Nome do órgão/entidade | Nome da Política Pública | Descrição da Política Pública | Resultados alcançados
+SEPLAG | Ciclo de Assessoramento no processo de revisão ou elaboração do PPAG | Oficinas de capacitação com o objetivo de subsidiar os órgãos no processo de formulação e o desenho de políticas públicas | 4 Ciclos de assessoramento efetivados
+SEPLAG | Reestimativa de Despesas de Pessoal e Comando da Folha de Pagamento | Elaboração mensal de reestimativas de despesas de pessoal ativo e inativo, com o respectivo comando de apropriação e definição de fontes da folha de pagamento. | Atualização mensal das estimativas de despesas de pessoal e definição de fontes, subsidiando o planejamento orçamentário e o acompanhamento da execução da folha de pagamento
+SEPLAG | Elaboração dos Relatórios Institucional de Monitoramento e dos Relatórios do Fundo de Erradicação da Miséria (FEM) | Relatórios bimestrais com as informações sobre o desempenho físico e orçamentário da programação contida no PPAG, no período de 01/2023 até 06/2026 e relatórios bimestrais em que se demonstra a execução física e orçamentária dos programas e ações vinculados ao FEM | 48 relatórios entregues, sendo 24 referentes aos programas gerais e 24 referentes aos programas sociais. 04 relatórios do FEM entregues
+SEPLAG | Reuniões do Grupo Coordenador do Fundo de Erradicação da Miséria (FEM) | Coordenar e organizar como membro e secretaria executiva as reuniões do Grupo Coordenador do FEM, de modo a viabilizar a aprovação da alocação de recursos e a elaboração do Plano Mineiro de Combate a Miséria | 19 reuniões ordinárias e extraordinárias realizadas entre 2026 e 2026. Aprovação do regimento interno, dos programas de trabalho nestes anos e inicio das discussões sobre o Plano Mineiro de Combate a Miséria
+SEPLAG | Análise de Proposições Legislativas, Atos Normativos, Atendimento às Demandas do TCEMG em Matéria de Planejamento e Orçamento e outras elaborações técnicas relativas a temática orçamentária. | Análise e elaboração de manifestações técnicas sobre projetos de lei e outros atos normativos relacionados ao planejamento e orçamento, subsidiando o posicionamento do Poder Executivo quanto à aprovação, rejeição, sanção ou veto ou em resposta a pedidos de esclarecimentos, recomendações e determinações do TCEMG relacionados às competências da SPLOR | Subsídios técnicos para a tomada de decisão, com identificação de impactos orçamentários e fiscais e proposição de ajustes para compatibilização com o PPAG, a LDO e a LOA; prestação tempestiva de informações ao controle externo, com esclarecimento dos apontamentos, apresentação de evidências e indicação das medidas adotadas ou em andamento.
+SEPLAG | Apuração dos Indicadores Orçamentários do Plano Estadual de Ação Climática - PLAC-MG | Coleta, análise e consolidação das informações necessárias ao cálculo dos indicadores do PLAC-MG relativos ao número de metas com previsão orçamentária e ao volume de recursos destinados à sua implementação. | Apuração periódica dos indicadores, permitindo acompanhar a incorporação das metas climáticas aos instrumentos de planejamento e orçamento e os recursos previstos e empenhados para sua execução. A 1ª apuração ocorreu em 2025, a 2ª no primeiro semestre de 2026 e no presente momento está sendo realizada a 3ª apuração.
+SEPLAG | Manutenção e Disponibilização do Painel de Planejamento e Orçamento | Desenvolvimento, atualização e disponibilização do Painel de Planejamento e Orçamento de Minas Gerais, ferramenta interativa que reúne dados do PPAG e da LOA, com informações sobre programas, ações, regionalização, receitas, despesas, órgãos e detalhamento orçamentário. | Ampliação da transparência e facilitação do acesso da sociedade às informações de planejamento e orçamento, por meio de gráficos, mapas e tabelas interativas que permitem consultar e analisar os dados públicos de forma prática e dinâmica.
+SEPLAG | Apoio na contratação de contratos de gestão para Prestação de serviços de saúde ao beneficiário SUS | Gerenciamento, operacionalização e execução das ações e serviços, incluindo equipamentos, estrutura, maquinário, insumos e outros, em regime de 24 horas/dia, que assegure assistência universal e gratuita à população. | Gestão do Hospital Regional Antônio Dias (HRAD), em Patos de Minas. Gestão do Hospital Regional João Penido (HRJP), em Juiz de Fora. Obtenção de certificações de qualidade hospitalar no Hospital Regional de Barbacena, Dr. José Américo, no âmbito do Projeto #AcreditaFhemig
+ |  |  | 
+Nome do órgão/ entidade | Nome da iniciativa | Descrição da iniciativa | Prazo máximo para implantação | Enquadramento no critério de urgência
+SEPLAG | Aprovação PLOA e projeto PPAG | Coordenação na 
+análise das emendas do legislativo pelo executivo e acompanhamento da tramitação dos referidos projetos; recebimento e conferência das cargas das emendas; elaboração e publicação dos volumes sancionados. 
+
+Caso as legislações não sejam aprovadas, a LDO 2027 traz o que deve ser feito:
+“Art. 61 – Caso o projeto da Lei Orçamentária Anual não seja sancionado até 31 de dezembro de 2026, a programação nele constante poderá ser executada para o atendimento de:
+I – despesas com pessoal e encargos sociais;
+II – despesas com benefícios previdenciários;
+III – despesas com transferências constitucionais e legais por repartição de receitas a municípios;
+IV – despesas com serviço da dívida;
+V – despesas com sentenças judiciais, inclusive relativas a precatórios ou consideradas de pequeno valor;
+VI – outras despesas correntes, à razão de 80% (oitenta por cento) de 1/12 (um doze avos) da despesa fixada no projeto da Lei Orçamentária Anual para o exercício de 2027, multiplicado pelo número de meses decorridos até a data de publicação da respectiva lei. | 31/12/2026 | Legal
+SEPLAG | Finalização do monitoramento do PPAG e elaboração do Relatório Institucional de Monitoramento (RIM) Geral, Social e do FEM relativos ao 4 º, 5° Bimestre de 2026. | Processo de coleta, consolidação e análise de informações sobre a execução das ações, metas e indicadores dos programas governamentais, com elaboração bimestral do Relatório Institucional de Monitoramento (RIM) Geral e Social, visando acompanhar o desempenho das políticas públicas, identificar desvios e subsidiar a tomada de decisões e o aprimoramento da gestão governamental.
+Caso a iniciativa não seja atendida, temos como impactos, a falta de transparência, enfraquecimento do controle social, descumprimento de prazos legais e consequente apontamentos dos órgãos de controle.Fundamenta-se no art. 12 da lei do PPAG vigente. | Novembro e Dezembro de 2026 | Legal
+SEPLAG | Apoio na contratação dos Jogos Escolares de Minas Gerais – JEMG | Conclusão do edital de seleção pública para celebração do novo Termo de Parceria. 
+Caso a iniciativa não seja realizada, temos como impacto, a descontinuidade dos Jogos Escolares de Minas Gerais e a interrupção da política esportiva da Sedese, tendo em vista o fim da vigência do Termo de Parceria vigente em 31/12/2026. | 31/12/2026 | Contratual
+SEPLAG | Contratação de Contrato de Gestão para Consolidação do Parque Estadual do Rio Doce – PERD | Celebração do novo Contrato de Gestão para consolidação do Parque. 
+Caso a iniciativa não seja realizada, temos como impacto, a descontinuidade das ações de consolidação do Parque Estadual do Rio Doce iniciadas com o Termo de Parceria que se encerra em 22/12/26 e a interrupção da política. | 31/12/2026 | Contratual
+SEPLAG | Apoio na celebração de termo aditivo ao Contrato de Gestão da Política Estadual de Prevenção Social à Criminalidade | Celebração do 12º Termo Aditivo ao Contrato de Gestão nº 02/2019. 
+Caso a iniciativa não seja realizada, temos como impacto, a descontinuidade da política pública de prevenção à criminalidade e interrupção dos programas. | 31/12/2026 | Contratual
+SEPLAG | Apoio na celebração de termo aditivo do Contrato de Gestão de Ações de Programação Artística, Produção Artística, Formação Artística e Tecnológica da Fundação Clóvis Salgado | Celebração do 11º Termo Aditivo ao Contrato de Gestão nº 05/2019.
+Caso a iniciativa não seja realizada, temos como impacto, a descontinuidade da política pública e a interrupção das atividades de gestão do Palácio das Artes e dos corpos artísticos. | 31/12/2026 | Contratual
+SEPLAG | Aprovação de cotas orçamentárias do 4° Trimestre | Visando encerramento de exercício, é liberado o restante do recurso orçamentário aprovado para o ano, para cada Órgão, dentro dos limites orçamentários autorizados, de modo que todos os órgãos do Poder Executivo, Judiciário, Legislativo, bem como o Ministério Público, a Defensoria Pública e o Tribunal de Contas possam finalizar sua execução orçamentária do ano de 2026. A não aprovação tempestiva das cotas pode impedir ou retardar empenhos e reforços indispensáveis ao encerramento, o pagamento de fornecedores e a execução de obrigações contratuais. Isso pode provocar paralisação de serviços, encargos por atraso,  perda de prazos e metas. Também compromete a compatibilização entre execução orçamentária, programação financeira e metas fiscais, podendo gerar concentração de atos no fim do exercício, queda de qualidade do gasto. | 31/12/2026 | Orçamentária
+SEPLAG | Apoio na implementação do GRP - Módulo de Programação Orçamentária | Considerando que todos os órgãos devem estar preparados para a entrada do GRP em janeiro/2027, o treinamento em curso tem sido fundamental, com apoio e reuniões periódicas da equipe junto aos pontos focais das áreas de planejamento e orçamento do Estado. Caso a iniciativa não seja realizada, temos como eventual impacto, o risco de o sistema entrar no ar com as equipes técnicas dos órgãos sem informação completa do funcionamento do sistema. | 31/12/2026 | Orçamentária
+SEPLAG | Apoio nas discussões da Comissão de Participação Popular (CPP) | Participação nas reuniões da Comissão de Participação Popular (CPP) para apoiar na análise de sugestões de projetos e de outras ações legislativas encaminhadas à ALMG. As discussões ocorrem anualmente. 
+Caso a iniciativa não seja realizada, temos como impacto, o risco de inviabilidade execução de alocação dos recursos da CPP no orçamento 2027 além de duplicidade de ações existentes. | Outubro e Novembro | Orçamentária
+SEPLAG | Envio de decretos de crédito suplementar ao Orçamento Fiscal e de Investimento | Ajustes de crédito orçamentário (suplementações e remanejamentos) para que os órgãos finalizem sua execução orçamentária do exercício corrente.  Caso a iniciativa não seja realizada, temos como eventual impacto, a impossibilidade de ajustes finais de exercício, para as últimas adequações do orçamento, visando encerramento das execuções orçamentária e financeiras. Assim, a não edição tempestiva dos créditos adicionais pode manter dotações insuficientes ou inadequadas e impedir empenhos necessários à continuidade de serviços, ao cumprimento de contratos e ao alcance de metas. | 31/12/2026 | Orçamentária
+Nome do órgão/ entidade | Nome da iniciativa | Descrição da iniciativa | Prazo máximo sugerido para decisão/implantação | Enquadramento no critério de urgência
+SEPLAG | Elaboração do Decreto de Programação Orçamentária (DPO) | Exigência da Lei de Responsabilidade Fiscal, o DPO é publicado em até 30 dias após a sanção da LOA, e contém, além de orientações orçamentárias gerais, a programação aprovada para cada órgão, com contingenciamentos caso seja esta a diretriz governamental. Caso a iniciativa não seja realizada, temos como impacto, o descumprimento de norma legal, além de omissão do Estado no que se refere ao estabelecimento de diretrizes básicas para execução orçamentária no exercício. Fundamenta-se principalmente no art. 8º da LRF, que determina ao Poder Executivo estabelecer, em até trinta dias após a publicação da LOA, a programação financeira e o cronograma mensal de desembolso, em conformidade com a LDO. Complementam essa base os arts. 9º e 13 da LRF, os arts. 47 a 50 da Lei nº 4.320/1964 e as disposições da LDO do exercício. | 31/03/2027 | Legal
+SEPLAG/IMA | Apoio na celebração do termo aditivo o Contrato de Gestão para Gestão e operação do Parque de Exposições Bolívar de Andrade (Gameleira) | Celebração do 1º Termo Aditivo ao Contrato de Gestão nº 15/2025 para fortalecer o serviço de Registro Genealógico de raças de interesse econômico, por meio da gestão e operação do Parque de Exposições Bolívar de Andrade, com realização de exposições agropecuárias.
+Caso a iniciativa não seja realizada, temos como impacto, a descontinuidade da política pública de Registro Genealógico de raças de interesse econômico e a interrupção das atividades de gestão do Parque de Exposições Bolívar de Andrade. | 30/04/2027 | Contratual
+SEPLAG/IEF | Publicação de edital de seleção pública para celebração de nova parceria | Publicação de edital para seleção da entidade parceira visando a celebração de nova parceria para continuidade do funcionamento dos 2 Centros de Triagem e Reabilitação de Animais Silvestres (Cetras), localizados em Divinópolis e Patos de Minas.
+Caso a iniciativa não seja realizada, temos como impacto, a paralisação das atividades dos 2 Cetras, a partir de junho de 2027, tendo em vista o fim da vigência dos 2 termos de parceria vigentes. | 31/01/2027 | Contratual
+SEPLAG | Entrega do módulo de monitoramento no novo sistema de Planejamento e Orçamento | Concluir o desenvolvimento e a implantação do Módulo de Monitoramento do PPO-MG, contemplando a finalização, pela SEPLAG, da especificação e redação das histórias de usuário, bem como o desenvolvimento e a entrega das funcionalidades pela PRODEMGE, de forma a finalizar a estruturação do novo módulo de monitoramento.
+
+O não cumprimento do prazo estabelecido representa um risco de alto impacto, pois a disponibilização dessa solução é essencial para garantir a continuidade e a confiabilidade do processo de monitoramento, considerando que o atual sistema SIGPLAN-Monitoramento vem apresentando recorrentes problemas de funcionamento, com risco de interrupção de suas operações a qualquer momento.
+A conclusão da entrega é, portanto, estratégica para assegurar a continuidade do monitoramento governamental, reduzir riscos operacionais e garantir a disponibilidade de uma ferramenta adequada para o acompanhamento da execução do PPAG 2027. | 28/02/2027 | Orçamentária
+SEPLAG | Liberação de cotas orçamentárias - 1° Trimestre | Após realizada a carga do Orçamento 2027, faz-se necessário aprovar cotas para início da execução orçamentária dos poderes Judiciário, Legislativo, Executivo, Ministério Público, Tribunal de Contas e Defensoria Pública. Caso a iniciativa não seja realizada, temos como eventuais impactos, a falta de previsibilidade para início ou continuidade da execução de despesas contratuais e demais compromissos já assumidos. No que se refere aos Outros Poderes, há norma constitucional de liberação de cotas orçamentárias e financeiras de forma duodecimal. | 31/03/2027 | Orçamentária
+SEPLAG | Elaboração  eda Mensagem do Governador | Relatório de Gestão e Atividades em que são apresentadas as principais ações e resultados alcançados ao longo do exercício anterior para a reunião inaugural da sessão legislativa ordinária.
+
+Se tal documento não for entregue, o governador descumpre o art. 90, inciso X, da Constituição do Estado de Minas Gerais. | 28/01/2027 | legal
+SEPLAG | Alinhamento com a alta gestão sobre as diretrizes orçamentárias iniciais | Ao iniciar o exercício, e levando em consideração o cenário fiscal e as diretrizes governamentais, é necessário repassar às áreas de planejamento, orçamento e finanças de todos os órgãos as regras e metodologias de liberação orçamentária. A ausência de diretrizes tempestivas e formalizadas pode gerar decisões descentralizadas incompatíveis com o cenário fiscal, tratamento sem parâmetro central entre órgãos, assunção de compromissos sem espaço orçamentário e financeiro e priorização de despesas sem aderência às metas do governo. Também dificulta o planejamento dos órgãos e entidades, que precisam ter clareza quanto a disponibilidade de recursos para o exercício. | 31/03/2027 | Orçamentária
+SEPLAG | Painel de indicadores que integra os programas do PPAG com as metas ODS | Desenvolvimento e implementação do painel interativo de indicadores que relaciona os programas e ações do PPAG às metas dos Objetivos de Desenvolvimento Sustentável (ODS), estabelecidos pela Agenda 2030 da ONU. A iniciativa contempla a sistematização e análise de dados, em parceria com a Fundação João Pinheiro (FJP), visando subsidiar o monitoramento das políticas públicas, o aprimoramento da programação governamental e a transparência dos resultados estaduais.
+
+Os impactos da não realização de tal demanda, é o não cumprimento da Determinação nº 6 e da Recomendação nº 3 do Parecer Prévio das Contas de 2020 (Processo TCE-MG nº 1.101.512), bem como às recomendações de monitoramento das metas ODS constantes dos Pareceres Prévios de exercícios anteriores. | 31/03/2027 | órgão de controle
+SEPLAG | Carga Orçamentária | Após a sanção da LOA, é necessário o envio das cargas orçamentárias para o sistema financeiro.
+
+Impacto: sistema financeiro sem orçamento para execução das obrigações. Fundamenta-se nas normas de direito orçamentário e financeiro, como a Lei 4.320/64 e a lei orçamentária vigente. | 31/01/2027 | legal

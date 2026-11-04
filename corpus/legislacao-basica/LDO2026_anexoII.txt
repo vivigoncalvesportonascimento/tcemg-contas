@@ -1,0 +1,4844 @@
+
+=== PÁGINA 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANEXO II 
+RISCOS FISCAIS 
+LDO – 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 2 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+2 
+ 
+ÍNDICE 
+ÍNDICE ..................................................................................................................................... 2 
+I. 
+INTRODUÇÃO................................................................................................................. 8 
+II. 
+RISCOS FISCAIS E PROVIDÊNCIAS ..................................................................... 9 
+III. 
+DEMONSTRATIVO DE RISCOS FISCAIS E PROVIDÊNCIAS ........................ 12 
+IV. 
+PASSIVOS CONTINGENTES .................................................................................. 13 
+V. DEMAIS RISCOS FISCAIS .......................................................................................... 20 
+1. 
+Frustração de Arrecadação Tributária ..................................................................... 20 
+1.1 Alteração de Variáveis Macroeconômicas ............................................................ 20 
+1.2 Alteração na Legislação Tributária ...................................................................... 27 
+2. 
+Despesas de Pessoal ..................................................................................................... 30 
+2.1 Piso Salarial do Magistério da Educação Básica .................................................. 31 
+2.2 Ação Direta de Inconstitucionalidade (ADI) – Lei nº 24.035/2022 ...................... 31 
+2.3 Piso Salarial dos Policiais Militares ...................................................................... 32 
+2.4 Valores de Verbas de Demandas Judiciais ............................................................ 32 
+3. 
+Despesas com a Dívida Pública .................................................................................. 34 
+3.1 Perfil da Dívida Pública Estadual ......................................................................... 35 
+3.2 Contexto Macroeconômico.................................................................................... 36 
+3.3 Modelagem das incertezas macroeconômicas que impactam a trajetória da 
+dívida ........................................................................................................................... 37 
+3.4 Cenário 1 – Adesão ao PROPAG com amortização extraordinária de 20% 
+(PROPAG 20%) .......................................................................................................... 38 
+3.5 Cenário 2 – Adesão ao PROPAG com amortização mínima de 10% (PROPAG 
+10%) ............................................................................................................................ 41 
+3.6 Cenário 3 – Adesão ao PROPAG sem amortização extraordinária (PROPAG 
+0%) .............................................................................................................................. 43 
+3.7 Cenário 4 – Manutenção do Estado no Regime de Recuperação Fiscal (RRF) .. 45 
+3.8 Análise comparativa entre cenários ...................................................................... 47 
+4. 
+Frustração de Receita de Dividendos e Juros sobre Capital Próprio (JCP) ......... 53 
+4.1 Efetividade da Receita Prevista na Lei Orçamentária Anual (LOA) .................. 54 
+4.2 Frustração do Pagamento de Dividendos e JCP pelas Empresas Estatais .......... 55 
+
+=== PÁGINA 3 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+3 
+ 
+5. 
+Aporte de Capital Emergencial em Empresas Estatais ........................................... 56 
+6. 
+Despesas com Parcerias Público-Privadas (PPPs) e Concessões ............................ 59 
+6.1 Rodoanel ................................................................................................................ 62 
+6.2 Metrô ..................................................................................................................... 64 
+6.3 Mineirão ................................................................................................................ 66 
+6.4 UAIs ....................................................................................................................... 67 
+6.5 Lote Rodoviário 2 (Sul de Minas) ......................................................................... 67 
+6.6 Rodovia MG-050 ................................................................................................... 68 
+6.7 Outras PPPs e Concessões .................................................................................... 69 
+7. 
+Riscos Ambientais ....................................................................................................... 70 
+VI. 
+MEDIDAS MITIGADORAS DOS RISCOS ............................................................ 76 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 4 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+4 
+ 
+ 
+LISTA DE GRÁFICOS 
+ 
+GRÁFICO 1 – NOTAS FISCAIS DE CONSUMIDOR ELETRÔNICAS 2024-2025 ........................... 25 
+GRÁFICO 2 – VALORES PAGOS COM DEMANDAS JUDICIAIS .................................................. 33 
+GRÁFICO 3 – PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 1 (PROPAG 20%) – 
+EXPECTATIVAS DE MERCADO E SIMULAÇÃO PARA O DÓLAR ......................................... 39 
+GRÁFICO 4 – PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 1 (PROPAG 20%) – 
+ESTRESSE NAS VARIÁVEIS................................................................................................. 40 
+GRÁFICO 5 – PROJEÇÕES DO SERVIÇO DA DÍVIDA, FEF E INVESTIMENTOS NO CENÁRIO 1 
+(PROPAG 20%) – EM R$ BILHÕES ................................................................................. 40 
+GRÁFICO 6 - PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 1 (PROPAG 20%) - 
+ESTOCÁSTICO (1200 SIMULAÇÕES) ................................................................................. 41 
+GRÁFICO 7 - PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 2 (PROPAG 10%) - 
+EXPECTATIVAS DE MERCADO E SIMULAÇÃO PARA O DÓLAR ......................................... 42 
+GRÁFICO 8 - PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 2 (PROPAG 10%) - 
+ESTRESSE NAS VARIÁVEIS................................................................................................. 42 
+GRÁFICO 9 - PROJEÇÕES DO SERVIÇO DA DÍVIDA, FEF E INVESTIMENTOS NO CENÁRIO 2 
+(PROPAG 10%) - EM R$ BILHÕES.................................................................................. 43 
+GRÁFICO 10 - PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 2 (PROPAG 10%) - 
+ESTOCÁSTICO (1200 SIMULAÇÕES) ................................................................................. 43 
+GRÁFICO 11 – PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 3 (PROPAG 0%) – 
+EXPECTATIVAS DE MERCADO E SIMULAÇÃO PARA O DÓLAR ......................................... 44 
+GRÁFICO 12 - PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 3 (PROPAG 0%) - 
+ESTRESSE NAS VARIÁVEIS................................................................................................. 44 
+GRÁFICO 13 - PROJEÇÕES DO SERVIÇO DA DÍVIDA, FEF E INVESTIMENTOS NO CENÁRIO 3 
+(PROPAG 0%) - EM R$ BILHÕES .................................................................................... 45 
+GRÁFICO 14 – PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 3 (PROPAG 0%) - 
+ESTOCÁSTICO (1200 SIMULAÇÕES) ................................................................................. 45 
+GRÁFICO 15 – PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 4 (RRF) – EXPECTATIVAS 
+DE MERCADO E SIMULAÇÃO PARA O DÓLAR .................................................................. 46 
+GRÁFICO 16 - PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 4 (RRF) - ESTRESSE NAS 
+VARIÁVEIS ......................................................................................................................... 47 
+
+=== PÁGINA 5 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+5 
+ 
+GRÁFICO 17 - PROJEÇÕES DO SERVIÇO DA DÍVIDA NO CENÁRIO 4 (RRF) - ESTOCÁSTICO 
+(1200 SIMULAÇÕES) .......................................................................................................... 47 
+GRÁFICO 18 - SERVIÇO DA DÍVIDA E FEF - COMPARAÇÃO ENTRE PROPAG E RRF - 
+VALORES NOMINAIS (MÁXIMOS DAS EXPECTATIVAS DE MERCADO) .............................. 50 
+GRÁFICO 19 - SERVIÇO DA DÍVIDA E FEF - COMPARAÇÃO ENTRE PROPAG E RRF - 
+VALORES DESCONTADOS (SELIC 14,25% A.A.) ............................................................... 50 
+GRÁFICO 20 - SERVIÇO DA DÍVIDA, FEF E INVESTIMENTOS - COMPARAÇÃO ENTRE 
+PROPAG E RRF - VALORES NOMINAIS (MÁXIMOS DAS EXPECTATIVAS DE MERCADO) 51 
+GRÁFICO 21 - SERVIÇO DA DÍVIDA, FEF E INVESTIMENTOS - COMPARAÇÃO ENTRE 
+PROPAG E RRF - VALORES DESCONTADOS (SELIC 14,25% A.A.) ............................... 52 
+GRÁFICO 22 - SALDO DA DÍVIDA - COMPARAÇÃO ENTRE PROPAG E RRF ......................... 52 
+GRÁFICO 24 – PREVISÃO DE RECEBIMENTO DE DIVIDENDOS E JCP..................................... 54 
+GRÁFICO 25 – RECEITA DE DIVIDENDOS E JCP PREVISTA X REALIZADA ............................ 55 
+GRÁFICO 26 – APORTES DE CAPITAL COM RECURSOS DO TESOURO .......................................... 57 
+GRÁFICO 27 – APORTES DE CAPITAL POR EMPRESA COM RECURSOS DO TESOURO ESTADUAL . 58 
+GRÁFICO 28 – PROJEÇÃO DE DESPESAS DO ESTADO COM PPPS – 2025 A 2034 .................... 61 
+GRÁFICO 29 – PREVISÃO ORÇAMENTÁRIA EM AÇÕES RELACIONADAS A RISCOS AMBIENTAIS
+ .......................................................................................................................................... 72 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 6 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+6 
+ 
+ 
+LISTA DE QUADROS 
+ 
+QUADRO 1 – CLASSIFICAÇÃO DA PROBABILIDADE DO RISCO................................................ 14 
+QUADRO 2 – CONTRATOS DE PPP E CONCESSÕES VIGENTES ............................................... 60 
+QUADRO 3 – MEDIDAS MITIGADORAS DOS RISCOS FISCAIS.................................................. 76 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== PÁGINA 7 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+7 
+ 
+LISTA DE TABELAS 
+ 
+TABELA 1 – CLASSIFICAÇÃO DO RISCO FISCAL DE PASSIVOS CONTINGENTES E FORMA DE 
+PAGAMENTO - 2026 .......................................................................................................... 18 
+TABELA 2 – VARIAÇÃO REAL (%) PRINCIPAIS AGREGADOS MACROECONÔMICOS – 4º 
+TRI/2024 ........................................................................................................................... 23 
+TABELA 3 – PROJEÇÃO DE RECEITA TRIBUTÁRIA - 2025-2030 .............................................. 24 
+TABELA 4 – RISCOS FISCAIS DAS DESPESAS DE PESSOAL 2026 .............................................. 31 
+TABELA 5 – VALORES PAGOS COM DEMANDAS JUDICIAIS .................................................... 33 
+TABELA 6 – ESTOQUE DA DÍVIDA FUNDADA ESTADO DE MINAS GERAIS (BILHÕES R$) ...... 35 
+TABELA 7 – DÍVIDA PÚBLICA POR INDEXADOR - VALORES NOMINAIS (R$ BILHÕES) .......... 36 
+TABELA 8 – EXPECTATIVAS DE MERCADO .............................................................................. 37 
+TABELA 9 – SIMULAÇÃO DÓLAR ............................................................................................. 38 
+TABELA 10 – COMPARATIVO ENTRE CENÁRIOS – SERVIÇO DA DÍVIDA (EXCLUSIVAMENTE) – 
+VALORES MÁXIMOS DAS EXPECTATIVAS DE MERCADO ................................................. 48 
+TABELA 11 – COMPARAÇÃO ENTRE PROPAG E RRF – SERVIÇO DA DÍVIDA 
+(EXCLUSIVAMENTE) .......................................................................................................... 48 
+TABELA 12 – COMPARATIVO ENTRE CENÁRIOS – SERVIÇO DA DÍVIDA COM FEF – VALORES 
+MÁXIMOS DAS EXPECTATIVAS DE MERCADO .................................................................. 49 
+TABELA 13 – COMPARAÇÃO ENTRE PROPAG E RRF – SERVIÇO DA DÍVIDA COM FEF ...... 49 
+TABELA 14 - COMPARATIVO ENTRE CENÁRIOS – SERVIÇO DA DÍVIDA COM FEF E 
+INVESTIMENTOS – VALORES MÁXIMOS DAS EXPECTATIVAS DE MERCADO .................. 51 
+TABELA 15 – EMPRESAS ESTATAIS INCLUÍDAS NA ANÁLISE DE RISCOS ...................................... 53 
+TABELA 16 – RISCO DE FRUSTRAÇÃO DE DIVIDENDOS E JCP PELAS EMPRESAS ESTATAIS . 56 
+TABELA 17 – RISCO DE APORTE DE CAPITAL EM EMPRESAS ESTATAIS ................................ 59 
+TABELA 18 – PRINCIPAIS RISCOS FISCAIS POR SETOR DE CONCESSÃO ................................ 70 
+TABELA 19 – FINALIDADE DAS PRINCIPAIS AÇÕES RELACIONADAS A RISCOS AMBIENTAIS 72 
+TABELA 20 – EXECUÇÃO DAS AÇÕES RELACIONADAS A RISCOS AMBIENTAIS ..................... 73 
+ 
+ 
+ 
+
+=== PÁGINA 8 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+8 
+ 
+I. INTRODUÇÃO 
+ 
+O fundamento legal para a elaboração do Anexo de Riscos Fiscais encontra-se na Lei 
+Complementar nº 101, de 04 de maio de 2000, conhecida como Lei de Responsabilidade Fiscal 
+(LRF), que aprimorou os mecanismos de controle por meio do estabelecimento de normas de 
+finanças públicas voltadas à responsabilidade na gestão fiscal. O artigo 1º, § 1º, da citada norma, 
+determina o entendimento acerca de responsabilidade na gestão fiscal. 
+ 
+Lei Complementar Federal nº 101/2000 
+Art. 1º Esta Lei Complementar estabelece normas de finanças públicas voltadas para a 
+responsabilidade na gestão fiscal, com amparo no Capítulo II do Título VI da 
+Constituição. 
+§ 1º A responsabilidade na gestão fiscal pressupõe a ação planejada e transparente, em 
+que se previnem riscos e corrigem desvios capazes de afetar o equilíbrio das contas 
+públicas, mediante o cumprimento de metas de resultados entre receitas e despesas e a 
+obediência a limites e condições no que tange a renúncia de receita, geração de despesas 
+com pessoal, da seguridade social e outras, dívidas consolidada e mobiliária, operações 
+de crédito, inclusive por antecipação de receita, concessão de garantia e inscrição em 
+Restos a Pagar. 
+ 
+A LRF define a necessidade de elaboração e publicação do Anexo de Riscos Fiscais e 
+do Anexo de Metas Fiscais. Especificamente quanto ao Anexo de Riscos Fiscais, a Lei 
+determina que nele deverão conter os riscos capazes de afetar o equilíbrio fiscal de cada ente, 
+além das providências a serem tomadas, caso se concretizem, constituindo uma ferramenta de 
+gerenciamento de riscos. 
+ 
+Lei Complementar Federal nº 101/2000 
+Art. 4º A lei de diretrizes orçamentárias atenderá o disposto no § 2o do art. 165 da 
+Constituição e: 
+[...] 
+§ 3º A lei de diretrizes orçamentárias conterá Anexo de Riscos Fiscais, onde serão 
+avaliados os passivos contingentes e outros riscos capazes de afetar as contas públicas, 
+informando as providências a serem tomadas, caso se concretizem. 
+ 
+A manutenção do equilíbrio fiscal é de fundamental importância para a devida alocação 
+dos recursos públicos. A saúde financeira governamental permite a operacionalização dos 
+programas de governo por meio de políticas públicas, elaboradas para promover o bem-estar da 
+sociedade. 
+A gestão de riscos fiscais auxilia o alcance e a manutenção do equilíbrio das contas 
+públicas, preparando o governo para executar ações em cenários adversos, sem comprometer 
+suas entregas à sociedade. Os riscos fiscais devem ser gerenciados para que as decisões sejam 
+mais eficientes, sobretudo em cenários desfavoráveis, viabilizando agilidade nas respostas do 
+
+=== PÁGINA 9 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+9 
+ 
+governo frente a ocorrências que impactam negativamente a sustentabilidade das contas 
+públicas. Dada a própria natureza do Anexo, este se apresenta como um instrumento 
+incentivador do equilíbrio das contas públicas, uma vez que identifica eventos, avalia-os e 
+indica as possíveis providências. 
+ 
+II. RISCOS FISCAIS E PROVIDÊNCIAS 
+ 
+Os riscos fiscais estão relacionados a eventos incertos, cuja ocorrência é capaz de causar 
+impacto negativo nas contas públicas, comprometendo o equilíbrio da execução orçamentária. 
+A incerteza do evento e impacto negativo são condições necessárias para a caracterização do 
+risco, de forma que eventos previsíveis devem compor o orçamento fiscal e não o Anexo de 
+Riscos Fiscais. 
+Segundo o Programa de Despesa Pública e Responsabilidade Financeira (PEFA), os 
+riscos fiscais podem surgir de situações macroeconômicas adversas, não cumprimento da dívida 
+sem garantias, passivos contingentes de programas e atividades próprias do governo, bem como 
+outros riscos implícitos e externos, como deficiências do mercado e catástrofes naturais. 
+A 14ª edição - Manual de Demonstrativos Fiscais (MDF), elaborado pela Secretaria do 
+Tesouro Nacional (STN), define os riscos fiscais a partir da classificação das obrigações 
+financeiras do governo quanto à transparência (explícitas e implícitas) e quanto à possibilidade 
+de ocorrência (diretas e contingentes).  
+As obrigações explicitas diretas são aquelas estabelecidas por lei ou contrato, de 
+ocorrência certa, previsíveis e baseadas em algum fator bem conhecido, e, portanto, não devem 
+ser entendidas como riscos fiscais, devendo obrigatoriamente serem previstas no orçamento 
+fiscal. Contudo, as obrigações explícitas diretas podem sofrer impactos negativos devido a 
+fatores, como receitas previstas não realizadas ou necessidade de execução de despesas 
+inicialmente não fixadas ou orçadas a menor, entre outras, constituindo-se como riscos 
+orçamentários.  
+As obrigações explícitas contingentes, por sua vez, também denominadas passivos 
+contingentes, estão relacionadas a compromissos firmados pelo governo em função de lei ou 
+contrato, e que dependem da ocorrência de um ou mais eventos futuros para gerar 
+compromissos de pagamento. 
+
+=== PÁGINA 10 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+10 
+ 
+Considerando as origens, conceitos e classificações dos riscos fiscais, apresentam-se 
+exemplos de riscos fiscais capazes de afetar as contas públicas: 
+a) frustração na arrecadação da receita tributária devido a alterações na atividade 
+econômica, alterações nas variáveis macroeconômicas e alterações na legislação 
+tributária; 
+b) frustração na arrecadação de receita patrimonial devido a alienações, perdas e alterações 
+na atividade econômica; 
+c) crescimento da despesa pública devido a alterações na atividade econômica, alterações 
+nas variáveis macroeconômicas e alterações legislativas; 
+d) crescimento do serviço da dívida pública devido a alterações nas variáveis 
+macroeconômicas e outros indicadores capazes de afetar as obrigações; 
+e) crescimento das obrigações com demandas judiciais contra a atividade reguladora do 
+Estado, em suas diversas áreas de atuação;  
+f) crescimento das obrigações oriundas de avais e garantias concedidas pelo Estado, bem 
+como compromissos assumidos com entidades privadas, entidades públicas, empresas 
+estatais, fundos de pensão, entre outros; 
+g) despesas com ações emergenciais decorrentes de epidemias, enchentes, abalos sísmicos, 
+guerras e outras situações de calamidade pública. 
+ 
+A informação acerca das providências a serem tomadas, caso o risco fiscal se concretize,  
+é informação obrigatória a ser prevista na Lei de Diretrizes Orçamentárias. A LRF apresenta 
+providências a serem tomadas em determinadas situações, e embora nem todas estejam 
+diretamente associadas aos riscos fiscais, deve-se considerar que um risco fiscal pode 
+desencadear desequilíbrios que exijam providências previstas na LRF. Nesse sentido, a LRF 
+prevê as seguintes providências: 
+a) utilização de reserva de contingência, prevista na Lei Orçamentária Anual, para o 
+atendimento de passivos contingentes e outros riscos e eventos fiscais imprevistos; 
+b) limitação de despesas que não constituam obrigações constitucionais e legais, caso a 
+realização da receita, bimestralmente, não comporte o cumprimento das metas de 
+resultado primário ou nominal estabelecidas no Anexo de Metas Fiscais; 
+c) redução da despesa com pessoal, nas formas previstas na CR/88 e LRF; e 
+d) limitação da ampliação das despesas com pessoal, nas formas previstas na LRF. 
+ 
+
+=== PÁGINA 11 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+11 
+ 
+Além das providências previstas na LRF, deve-se considerar que o Poder Público, dentro 
+das suas competências legais, possui autonomia administrativa para gerenciar suas despesas e 
+receitas. Nesse sentido, por meio de diversos atos de gestão, o Estado pode adotar providências 
+que contribuam para o crescimento das receitas e/ou redução das despesas, como por exemplo: 
+a) contingenciamento e/ou redução de despesas discricionárias, correntes e de capital, de 
+modo a causar o menor impacto possível na sociedade; 
+b) utilização de recursos originados de ativos contingentes; 
+c) aumento da receita por meio da implementação de programas de regularização de 
+dívidas tributárias e não tributárias; 
+d) aumento da receita não tributária por meio do aprimoramento da gestão e alienação de 
+ativos; 
+e) aumento da receita tributária por meio por meio do aprimoramento da legislação e a 
+redução de benefícios fiscais, observados os princípios do direito tributário e o interesse 
+público. 
+ 
+A eficiência na gestão de riscos e observância do interesse público pressupõem a 
+existência de providências, porém sem vinculação  a determinados riscos, de forma a permitir 
+ao gestor público, no âmbito de sua discricionariedade, a avaliação de cenários e variáveis que 
+melhor mitiguem os impactos financeiros resultantes de eventual materialização dos riscos. 
+Nesse sentido, diante da aleatoriedade e a incerteza da dimensão dos efeitos de cada risco, o 
+tratamento de cada evento materializado deve ocorrer oportunamente com medidas que 
+impliquem o menor ônus para as políticas públicas e sociedade, em consonância com o 
+princípio da eficiência da Administração Pública. 
+As informações apresentadas nesse documento têm como referência a metodologia 
+descrita na 14ª edição do MDF, com a utilização do Demonstrativo de Riscos Fiscais e 
+Providências e segmentação dos riscos fiscais recomendados pela STN. 
+ 
+ 
+ 
+
+=== PÁGINA 12 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+12 
+ 
+III. DEMONSTRATIVO DE RISCOS FISCAIS E PROVIDÊNCIAS 
+ 
+ESTADO DE MINAS GERAIS 
+LEI DE DIRETRIZES ORÇAMENTÁRIAS 
+ANEXO DE RISCOS FISCAIS 
+DEMONSTRATIVO DE RISCOS FISCAIS E PROVIDÊNCIAS 
+2026 
+ 
+ARF (LRF, art. 4º, § 3º) 
+Em reais 
+PASSIVOS CONTINGENTES 
+PROVIDÊNCIAS 
+DESCRIÇÃO 
+VALOR 
+DESCRIÇÃO 
+VALOR 
+Direitos do Servidor 
+13.408.684.859 
+ Utilização de reserva de contingência, prevista na LOA; 
+ Redução e limitação de despesas, nas formas previstas 
+na CR/88 e LRF; 
+ Contingenciamento e/ou redução de despesas 
+discricionárias; 
+ Utilização de recursos de ativos contingentes; 
+ Aumento de receita, por meio de programas de 
+regularização de dívidas, aprimoramento da gestão e 
+alienação de ativos, aperfeiçoamento da legislação e 
+redução de benefícios fiscais. 
+42.915.888.431 
+Tributário 
+11.277.527.751 
+Financiamento SUS 
+2.263.893.564 
+Contratos Administrativos 
+2.000.000.000 
+Outras Ações Judiciais 
+862.425.540 
+SUBTOTAL 
+29.812.531.714 
+DEMAIS RISCOS FISCAIS PASSIVOS 
+DESCRIÇÃO 
+VALOR 
+Despesa de Pessoal - Piso Salarial do Magistério da Educação Básica 
+784.279.562,36 
+Despesas Dívida Pública 
+5.208.161.944 
+Risco de Não Adesão ao PROPAG 20% 
+4.643.485.032 
+Risco Macroeconômico no PROPAG 
+564.676.912 
+Frustração de Receita de Dividendos/JCP 
+1.634.753.267 
+Aporte de Capital Emergencial em Empresas Estatais 
+268.000.000 
+SUBTOTAL 
+13.103.356.717 
+TOTAL 
+42.915.888.431 
+TOTAL 
+42.915.888.431 
+Fonte: DCGR/SCGOV/STE/SEF. 
+Notas: os valores incluídos como Passivos Contingentes correspondem às ações judiciais com desembolso classificado como imediato e Requisição de Pequeno Valor (RPV). 
+O risco da dívida pública em caso de não adesão ao PROPAG 20%, no valor de R$ 4.643.485.032, corresponde ao maior Serviço da Dívida caso a adesão ocorra no PROPAG 0%. 
+Caso a adesão ocorra no PROPAG 10%, o risco de não adesão ao PROPAG 20% corresponde a R$ 2.138.510.714. 
+O risco macroeconômico no PROPAG corresponde ao PROPAG 0%. Em caso de adesão ao PROPAG 10% e 20%, o risco macroeconômico corresponde respectivamente a R$ 
+538.774.199 e R$ 516.651.746, sendo esses valores não cumulativos.
+
+=== PÁGINA 13 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+13 
+ 
+IV. PASSIVOS CONTINGENTES 
+ 
+A busca do equilíbrio fiscal, almejada pelo Estado de Minas Gerais, é pressuposto para 
+a manutenção de serviços essenciais ao Estado. Essa premissa é consubstanciada no PMDI 
+2019-2030 pela diretriz estratégica “aperfeiçoar a gestão das contas públicas por meio do 
+incremento de ações de gerenciamento da dívida pública, com foco na sustentabilidade e 
+adoção de práticas de identificação, monitoramento e mitigação de riscos ao equilíbrio fiscal”. 
+Parte destes riscos é representada por passivos contingentes provenientes de ações 
+judiciais capazes de incrementar o estoque da dívida pública. Esse aumento, caso venha a 
+ocorrer, terá que ser compensado pelo incremento do esforço fiscal (aumento da receita/redução 
+das despesas), de modo a impedir o desequilíbrio nas contas. 
+Conforme MDF, elaborado pela STN, passivos contingentes são “possíveis novas 
+obrigações cuja confirmação depende da ocorrência ou não de um ou mais eventos futuros, ou 
+que a probabilidade de ocorrência e magnitude dependem de condições exógenas 
+imprevisíveis. São também consideradas contingentes as obrigações que surgem de eventos 
+passados, mas que ainda não são reconhecidas por ser improvável a necessidade de liquidação 
+ou porque o valor ainda não pode ser mensurado com suficiente segurança”.  
+Parte significativa das ações contrárias ao Estado está relacionada a algum tipo de 
+obrigação que poderá importar comprometimento dos recursos orçamentários e financeiros. 
+Dessa forma, em observância às diretrizes apresentadas pelo PMDI, e, no cumprimento de sua 
+missão institucional, a Advocacia Geral do Estado (AGE) provê as informações sobre o risco 
+fiscal dos passivos contingentes decorrentes de ações judiciais que possam impactar as contas 
+públicas. Assim, as demandas ajuizadas contra o Estado, suas autarquias e fundações, em que 
+ainda não há decisão definitiva, seja quanto ao mérito, seja quanto à fixação do valor devido e 
+que se enquadram na metodologia a seguir descrita, são passivos contingentes objeto deste 
+documento. 
+Previamente à elaboração do Anexo de Riscos Fiscais, os Procuradores, Procuradores-
+Chefes e Advogados Regionais monitoram as ações judiciais que representam um potencial 
+risco fiscal. Essas ações podem representar um risco fiscal sob duas óticas: 
+a) potencial de repetição da demanda: ações judiciais com fundamento em idêntica questão 
+de direito, que pelas suas características, a quantia devida é estimada por meio de 
+
+=== PÁGINA 14 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+14 
+ 
+modelos e previsões. São ações consideradas semelhantes e cujo valor individual não 
+seja relevante, mas que, somadas, podem representar grande impacto; e 
+b) elevado valor individual: processos individuais considerados de grande vulto, que 
+podem ter como pano de fundo questões coletivas ou individuais.  
+Ademais, a avaliação dos passivos contingentes utiliza uma estimativa do grau de 
+probabilidade de perda, classificado em possível, provável e remoto, nos termos a seguir: 
+Quadro 1 – Classificação da Probabilidade do Risco 
+PROBABILIDADE 
+DEFINIÇÃO 
+Provável 
+Situação em que existem grandes chances de perdas por parte 
+da entidade envolvida sobre fatos ocorridos até a data de 
+encerramento das demonstrações contábeis. 
+Possível 
+Situação na qual existe a possibilidade de perdas ocorrerem. 
+Remota 
+Situação em que as perdas contingentes possuem chances 
+pequenas de ocorrerem. 
+ Fonte: Advocacia Geral do Estado (AGE) 
+ 
+Neste relatório não foram informadas, salvo peculiaridade, como a existência de ações 
+rescisórias, que justifique o registro, ações já definitivamente julgadas, com precatórios ou 
+requisições de pequeno valor expedidos, uma vez que tratam de passivos certos, previstos no 
+orçamento para pagamento mediante a sistemática de precatórios e aquelas que devam ser pagas 
+no próprio exercício, decorrente de antecipação de tutela ou liminar, já que, neste caso, os 
+valores deixam de ser relevantes sob a ótica do risco fiscal e passam a ser objeto do 
+planejamento orçamentário. 
+No levantamento também não foram incluídas as demandas judiciais em que o risco de 
+derrota foi considerado remoto, devido à reduzida probabilidade de prejuízo ao erário. 
+Nesse sentido, da totalidade das demandas judiciais referentes ao Estado de Minas 
+Gerais, suas autarquias e fundações, são destacadas aquelas que, em razão de seu elevado valor 
+individual ou pela capacidade de repetição da demanda, causam preocupações quanto aos 
+impactos que possíveis condenações podem acarretar sobre o equilíbrio das contas públicas. 
+O relatório apresenta o consolidado de todas as ações judiciais que compõem o risco 
+fiscal agregados por categoria. As ações que implicam obrigação de fazer pela Administração 
+estão equiparadas àquelas que causam impacto imediato, seja por demandarem atuação direta 
+
+=== PÁGINA 15 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+15 
+ 
+das áreas competentes, seja por, e em caso de descumprimento das determinações, resultarem 
+na aplicação de astreintes. 
+Além disso, é preciso destacar que as demandas judiciais são passivos contingentes que 
+não são mensuráveis com suficiente segurança, seja pelo fato de não terem sido apuradas, 
+auditadas ou periciadas, seja por restarem dúvidas sobre sua exigibilidade total ou parcial ou, 
+ainda, por envolver análises e decisões que não se pode prever de antemão. 
+Por fim, cumpre salientar que a identificação e seleção das ações que podem constituir 
+riscos fiscais são efetuadas pelas Procuradorias e Advocacias Regionais responsáveis pela 
+defesa e acompanhamento das ações em que o Estado de Minas Gerais, suas autarquias e 
+fundações sejam parte. 
+Para a fixação do valor de R$ 123,6 bilhões, foram estimados os riscos máximos caso o 
+Estado, suas autarquias e fundações venham a sucumbir em todas as ações judiciais 
+identificadas e em que haja chance do risco se concretizar nos próximos 2 anos. Inexistem 
+condições seguras para afirmar a margem de probabilidade de perda e o tempo de duração dos 
+processos correspondentes. Os riscos classificados como prováveis somam a monta de R$ 120,5 
+bilhões e os possíveis R$ 3,1 bilhões. 
+Dentre os riscos, destacam-se: 
+a) Ações de desapropriação (R$ 84.351.644.663,22): referem-se a ações de 
+desapropriação de bens imóveis, nas quais se discute a diferença entre o valor acertado 
+pelo Estado, a título de indenização, e o valor fixado judicialmente como devido, a título 
+de justa indenização, com base no laudo pericial realizado nas respectivas ações e 
+homologado. Destaque a ser dado para a Desapropriação da Cidade Industrial de 
+Contagem, com ampliação do risco mensurado na LDO 2025 de R$ 16 bilhões para o 
+montante estimado de R$ 83.886.684.962,24; 
+b) Ações relacionadas ao direito constitucional à saúde (R$ 2.565.441.097,42): ações 
+de obrigação de fazer, pagar e custeio de ações que envolvem Direitos Constitucionais 
+relacionados à Saúde Pública; 
+c) Ações de Repetição de Indébito (R$ 6.398.073.512,65): trata-se de discussões de 
+ordem tributária, em que há risco de o Estado ter de devolver os tributos antes recebidos, 
+além do risco de perda de receita não estimado; 
+d) Direitos do servidor (R$ 15.397.218.814,28): Trata-se de pleitos diversos dos 
+sindicatos, associações e servidores do Estado, suas autarquias e fundações, ao longo 
+
+=== PÁGINA 16 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+16 
+ 
+dos anos, incluída a ADI do Piso da Educação, que teve o valor do risco demonstrado 
+na Nota técnica SEPLAG/AEI nº 04/2022; 
+e) Contribuições previdenciárias (R$ 10.883.083.615,59): se destaca o IRDR em que se 
+busca e interpretação do artigo 129 da Lei nº 7.109/1977, editado no ano de 1977, e que 
+combina o período de férias-propriamente-ditas dos professores com períodos de 
+recesso escolar, em linha com o calendário acadêmico, atualmente regido pela Lei 
+Federal nº 9.394/1996; e 
+f) Contratos administrativos (R$ 2.169.762.853,92): ações que discutem questões 
+decorrentes de contratos firmados pela Administração. 
+ 
+Há ainda riscos nos quais não foi indicado pela unidade responsável pelo 
+acompanhamento do processo o valor envolvido, com destaque para os abaixo listados: 
+g) declaração de inconstitucionalidade do Decreto Lei nº 48.886/24, que dispõe sobre a 
+limitação do crescimento anual das despesas primárias do Estado em decorrência de sua 
+adesão ao Regime de Recuperação Fiscal, nos termos do inciso V do § 1º do art. 2º da 
+Lei Complementar Federal nº 159, de 19 de maio de 2017. 
+h) discussão a respeito das limitações do RICMS para a transferência dos créditos de 
+ICMS, acumulados em virtude de exportação a terceiros estabelecidos em Minas Gerais. 
+i) discussão a respeito da inversão, para as transportadoras, do regime habitual de apuração 
+do ICMS pela sistemática de débito e crédito pela sistemática do crédito presumido. 
+j) diversas ações questionando a Taxa de Incêndio, notadamente após o julgamento pelo 
+STF do Tema 16 da Repercussão Geral, postulando declaração de não incidência e 
+restituição dos valores pagos nos últimos cinco anos (seja em ação com pedido de 
+repetição de indébito ou em ação de mandado de segurança com pedido de 
+compensação). 
+k) julgamento pelo STF do Tema 816 de Repercussão Geral (RE 882461) quanto ao seu 
+aspecto tangencial (relativo ao percentual máximo da multa moratória): será aplicada a 
+todos os demais casos semelhantes em tramitação na Justiça o entendimento vinculante 
+firmado segundo o qual as multas moratórias instituídas pela União, Estados, Distrito 
+Federal e municípios deverão observar o teto de 20% do débito tributário. 
+l) diversas ações em que os contribuintes alegam ter efetuado pagamento a maior de ICMS 
+ao adquirir mercadoria por um preço e revendê-la por preço inferior ao da base de 
+cálculo (presumida) utilizada na aquisição, no regime de “substituição tributária”, 
+
+=== PÁGINA 17 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+17 
+ 
+gerando pagamento a maior de ICMS, o que autorizaria a restituição, conforme o 
+entendimento do STF no julgamento do RE-593.849 e das ADI’s 2.675 e 2.777. 
+ 
+Dos riscos cujo horizonte temporal de concretização supera o horizonte da LDO 2026 
+e, portanto, não integram os valores totais do risco fiscal para o exercício, cabe citar: 
+a) ação em que se discute saída de minério de ferro com uso indevido do diferimento 
+previsto no item 29 c/c 29.1 do Anexo II do RICMS (R$ 4.718.000,00). 
+b) ações Civis Públicas com risco possível em que se discute o cumprimento do índice da 
+saúde para os exercícios de 2003 a 2011; 2017 a 2019 (R$ 11.562.915.271,93). 
+ 
+É preciso considerar que parte dos riscos fiscais apontados nas ações judiciais, se 
+efetivados, não se apresentará de imediato, quer em razão da tramitação dessas ações, quer 
+porque o Estado, na maioria dos casos, será obrigado aos pagamentos por meio de precatórios.  
+Por fim, importante ressaltar que as informações apresentadas nesta seção não implicam 
+qualquer reconhecimento quanto à efetiva sucumbência ou mesmo acerca das teses em debate, 
+mas apenas eventual risco que essas demandas possam oferecer ao orçamento estadual, em face 
+de seu elevado valor, caso o Estado, suas autarquias e fundações não saiam vencedores. 
+ 
+ 
+
+=== PÁGINA 18 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+18 
+ 
+ 
+Tabela 1 – Classificação do Risco Fiscal de Passivos Contingentes e Forma de Pagamento - 2026 
+ 
+MATÉRIA DAS AÇÕES 
+POSSÍVEL 
+PROVÁVEL 
+ 
+TOTAL 
+IMEDIATO 
+PRECATÓRIO 
+PRECATÓRIO 
+RPV 
+RPV 
+SUBTOTAL 
+IMEDIATO 
+PRECATÓRIO 
+PRECATÓRIO 
+RPV 
+RPV 
+SUBTOTAL 
+AÇÕES DE COBRANÇA ADVOGADOS DATIVOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 30.000.000,00  
+ 
+ 30.000.000,00  
+ 30.000.000,00  
+ANULAÇÃO DE CRÉDITO TRIBUTÁRIO 
+ 
+ 
+ 
+ 
+ 
+ 4.922.643,81  
+ 
+ 
+ 
+ 4.922.643,81  
+ 4.922.643,81  
+CONTRATOS ADMINISTRATIVO - PÁTIOS DE 
+VEÍCULOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4.000.000,00  
+ 
+ 
+ 4.000.000,00  
+ 4.000.000,00  
+CONTRATOS ADMINISTRATIVOS 
+ 
+ 30.018.012,23  
+ 
+ 
+ 30.018.012,23  
+ 
+ 127.050.005,21  
+ 
+ 
+ 127.050.005,21  
+ 157.068.017,44  
+CONTRATOS ADMINISTRATIVOS - FOLHA DE 
+PAGAMENTO E FUNDEB 
+ 
+ 
+ 
+ 
+ 
+ 2.000.000.000,00  
+ 
+ 
+ 
+ 2.000.000.000,00  
+ 2.000.000.000,00  
+CONTRATOS ADMINISTRATIVOS - PÁTIOS DE 
+VEÍCULOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8.694.836,48  
+ 
+ 
+ 8.694.836,48  
+ 8.694.836,48  
+CONTRIBUIÇÃO PREVIDENCIÁRIA - AJUDA DE 
+CUSTO 
+ 200.000.000,00  
+ 
+ 
+ 
+ 200.000.000,00  
+ 
+ 
+ 
+ 
+ 
+ 200.000.000,00  
+CONTRIBUIÇÕES PREVIDENCIÁRIAS - FÉRIAS E 
+RECESSO ESCOLAR 
+ 
+ 
+ 
+ 
+ 
+ 10.683.083.615,59  
+ 
+ 
+ 
+ 10.683.083.615,59  
+ 10.683.083.615,59  
+CREDITAMENTO DE ICMS 
+ 71.053.787,88  
+ 
+ 
+ 
+ 71.053.787,88  
+ 26.213.650,26  
+ 15.021.627,30  
+ 
+ 
+ 41.235.277,56  
+ 112.289.065,44  
+DEPÓSITOS JUDICIAIS 
+ 
+ 
+ 
+ 
+ 
+ 574.109.272,17  
+ 
+ 
+ 
+ 574.109.272,17  
+ 574.109.272,17  
+DESAPROPRIAÇÕES 
+ 
+ 
+ 
+ 42.800.453,26  
+ 42.800.453,26  
+ 
+ 
+ 
+ 101.877.394,14  
+ 101.877.394,14  
+ 144.677.847,40  
+DESAPROPRIAÇÕES - CIDADE INDUSTRIAL DE 
+CONTAGEM 
+ 
+ 
+ 
+ 
+ 
+ 
+ 83.886.684.962,24  
+ 
+ 
+ 83.886.684.962,24  
+ 83.886.684.962,24  
+DESAPROPRIAÇÕES – MPMG 
+ 
+ 
+ 
+ 5.106.934,62  
+ 5.106.934,62  
+ 
+ 
+ 
+ 
+ 
+ 5.106.934,62  
+DESAPROPRIAÇÕES – TJMG 
+ 
+ 
+ 
+ 25.834.117,13  
+ 25.834.117,13  
+ 
+ 
+ 
+ 210.000.000,00  
+ 210.000.000,00  
+ 235.834.117,13  
+DESAPROPRIAÇÕES INDIRETAS – CAMG 
+ 
+ 
+ 
+ 78.393.612,11  
+ 78.393.612,11  
+ 
+ 
+ 
+ 947.189,72  
+ 947.189,72  
+ 79.340.801,83  
+DIREITOS DO SERVIDOR - FÉRIAS PRÊMIO 
+POSTERIORES A 2004 
+ 
+ 
+ 24.381.090,40  
+ 
+ 24.381.090,40  
+ 
+ 
+ 
+ 
+ 
+ 24.381.090,40  
+DIREITOS DO SERVIDOR - 1/3 60 DIAS SEE 
+ 
+ 
+ 50.362.706,45  
+ 
+ 50.362.706,45  
+ 
+ 
+ 
+ 
+ 
+ 50.362.706,45  
+DIREITOS DO SERVIDOR - ADICIONAL NOTURNO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 17.438.858,14  
+ 
+ 
+ 17.438.858,14  
+ 17.438.858,14  
+DIREITOS DO SERVIDOR - AJUDA DE CUSTO  
+ 
+ 
+ 8.815.147,12  
+ 
+ 8.815.147,12  
+ 
+ 
+ 
+ 
+ 
+ 8.815.147,12  
+DIREITOS DO SERVIDOR - AJUDA DE CUSTO - 
+SEGURANÇA PÚBLICA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 127.222.740,83  
+ 
+ 127.222.740,83  
+ 127.222.740,83  
+DIREITOS DO SERVIDOR - CUMPRIMENTOS DE 
+SENTENÇA  
+ 
+ 
+ 
+ 
+ 
+ 
+ 800.000.000,00  
+ 
+ 
+ 800.000.000,00  
+ 800.000.000,00  
+DIREITOS DO SERVIDOR - HORAS EXTRAS 
+ 
+ 
+ 41.820.988,26  
+ 
+ 41.820.988,26  
+ 
+ 
+ 
+ 
+ 
+ 41.820.988,26  
+DIREITOS DO SERVIDOR - PISO SEE 
+ 
+ 
+ 51.128.847,68  
+ 
+ 51.128.847,68  
+ 
+ 
+ 
+ 
+ 
+ 51.128.847,68  
+DIREITOS DO SERVIDOR - PROMOÇÕES E 
+PROGRESSÕES 
+ 
+ 
+ 7.508.729,07  
+ 
+ 7.508.729,07  
+ 
+ 
+ 
+ 
+ 
+ 7.508.729,07  
+
+=== PÁGINA 19 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+19 
+ 
+DIREITOS DO SERVIDOR - SUBTETO 
+REMUNERATÓRIO 
+ 
+ 
+ 
+ 
+ 
+40.000.000,00  
+40.000.000,00  
+ 
+ 
+ 80.000.000,00  
+ 80.000.000,00  
+DIREITOS DO SERVIDOR – TJMG 
+ 
+ 
+ 
+ 
+ 
+ 
+500.000.000,00  
+ 
+ 
+ 500.000.000,00  
+ 500.000.000,00  
+DIREITOS DO SERVIDOR -PISO SEE – ADI 
+ 
+ 
+ 
+ 
+ 
+ 13.057.444.609,51  
+ 
+ 
+ 
+ 13.057.444.609,51  
+ 13.057.444.609,51  
+EXECUÇÃO FISCAL UNIÃO - FGTS LC 100 
+ 
+ 
+ 
+ 
+ 
+ 
+631.095.106,82  
+ 
+ 
+ 631.095.106,82  
+ 631.095.106,82  
+EXPURGOS INFLACIONÁRIOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+258.316.267,93  
+ 
+ 258.316.267,93  
+ 258.316.267,93  
+FORMA DE ATUALIZAÇÃO DE PRECATÓRIO 
+RECEBIDO PELO EMG 
+ 
+ 
+ 
+ 
+ 
+ 
+ 500.000.000,00  
+ 
+ 
+ 500.000.000,00  
+ 500.000.000,00  
+PENSÕES E PROVENTOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6.136.161,28  
+ 
+ 
+ 6.136.161,28  
+ 6.136.161,28  
+REPASSES- VAF 
+ 
+ 
+ 
+ 
+ 
+ 
+ 48.586.338,72  
+ 
+ 
+ 48.586.338,72  
+ 48.586.338,72  
+REPETIÇÃO DE INDÉBITO 
+ 
+40.000.000,00  
+ 
+ 
+ 40.000.000,00  
+ 
+6.076.277.366,93  
+ 
+ 
+ 6.076.277.366,93  
+ 6.116.277.366,93  
+REPETIÇÕES DE INDÉBITO - ITCD VGBL PGBL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 281.796.145,72  
+ 
+ 
+ 281.796.145,72  
+ 281.796.145,72  
+RESPONSABILIDADE CIVIL DO ESTADO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12.274.683,88  
+ 
+ 
+ 12.274.683,88  
+ 12.274.683,88  
+RESSARCIMENTO - OPERAÇÕES SOCIETÁRIAS 
+ 
+ 
+ 
+ 
+ 
+ 
+43.218.168,31  
+ 
+ 
+ 43.218.168,31  
+ 43.218.168,31  
+RISCO DE RECEITA - CRÉDITO EXPORTAÇÃO 
+ 
+ 
+ 
+ 
+ 
+ 256.082.896,72  
+ 
+ 
+ 
+ 256.082.896,72  
+ 256.082.896,72  
+RISCO DE RECEITA - ESCRITURAÇÃO DE CRÉDITO 
+FISCAL 
+ 
+ 
+ 
+ 
+ 
+ 36.171.156,29  
+ 
+ 
+ 
+ 36.171.156,29  
+ 36.171.156,29  
+SUS - CUMPRIMENTO DE INDICE - 2000 A 2002 
+739.188.387,00  
+ 
+ 
+ 
+739.188.387,00  
+ 
+ 
+ 
+ 
+ 
+ 739.188.387,00  
+SUS - CUMPRIMENTO DE INDICE – 2016 
+1.426.929.324,00  
+ 
+ 
+ 
+1.426.929.324,00  
+ 
+ 
+ 
+ 
+ 
+ 1.426.929.324,00  
+SUS - CUSTEIO HOSPITALAR 
+ 
+ 
+ 
+ 
+ 
+ 
+42.000.000,00  
+ 
+ 
+ 42.000.000,00  
+ 42.000.000,00  
+SUS – FINANCIAMENTO 
+ 25.000.000,00  
+ 6.000.000,00  
+ 
+ 
+31.000.000,00  
+ 
+ 
+ 
+ 
+ 
+ 31.000.000,00  
+SUS - FORNECIMENTO DE MEDICAMENTOS DE ALTO 
+CUSTO 
+ 28.849.861,10  
+ 
+ 
+ 
+28.849.861,10  
+36.500.000,00  
+ 
+ 
+ 
+ 36.500.000,00  
+ 65.349.861,10  
+SUS – REPASSES 
+ 7.425.992,24  
+ 247.882.042,22  
+ 
+ 
+ 255.308.034,46  
+ 
+5.665.490,86  
+ 
+ 
+ 5.665.490,86  
+ 260.973.525,32  
+TOTAL GERAL 
+2.498.447.352,22  323.900.054,45   184.017.508,98  152.135.117,12  3.158.500.032,77  26.714.527.844,35  93.045.939.751,89   415.539.008,76  312.824.583,86  120.488.831.188,86  123.647.331.221,63  
+   Fonte: Advocacia Geral do Estado (AGE)
+
+=== PÁGINA 20 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+20 
+ 
+V. DEMAIS RISCOS FISCAIS 
+ 
+1. Frustração de Arrecadação Tributária 
+1.1 Alteração de Variáveis Macroeconômicas 
+ 
+Em 2025, espera-se um crescimento global moderado de 3,3%, impulsionado por 
+economias emergentes (4,2%) e com crescimento mais lento nas economias avançadas (1,9%). 
+A economia dos EUA pode desacelerar devido à política monetária restritiva, enquanto Japão e 
+Zona do Euro devem se recuperar graças à redução das taxas de juros. O processo de desinflação 
+será mais rápido nas economias avançadas. 
+O protecionismo dos EUA representa um risco significativo, podendo elevar a aversão 
+ao risco e prejudicar as economias emergentes. A desaceleração da economia chinesa também 
+pode afetar o crescimento global com a China adotando políticas fiscais mais agressivas para 
+enfrentar esse cenário. 
+A pressão inflacionária das commodities deve ser menor devido ao aumento da oferta 
+de petróleo e gás nos EUA e à menor demanda por energia. A expectativa de uma colheita 
+recorde de grãos no Brasil e a redução de conflitos geopolíticos ajudarão a controlar os preços. 
+Os mercados financeiros podem enfrentar mais volatilidade devido à menor regulação 
+do setor financeiro nos EUA e ao aumento das taxas de juros, afetando a confiança dos 
+investidores e a estabilidade financeira. Setores cíclicos serão mais impactados pela 
+desaceleração, enquanto atividades não-cíclicas, como a agropecuária, devem continuar 
+crescendo. 
+A inflação global deverá permanecer elevada nas economias emergentes, enquanto 
+diminui mais acentuadamente nas economias avançadas. O impacto de tarifas comerciais dos 
+EUA e a desaceleração da economia chinesa também devem influenciar os preços das 
+commodities e as perspectivas econômicas globais. 
+Em 2025, espera-se uma desaceleração no crescimento econômico devido à política 
+monetária e fiscal contracionista. Setores cíclicos, dependentes de crédito e rendimento, serão 
+impactados pela alta das taxas de juros e redução dos estímulos fiscais. Por outro lado, setores 
+não-cíclicos como a agropecuária e a indústria extrativa, devem crescer de forma significativa, 
+contribuindo para manter o crescimento próximo ao potencial e gerando efeitos 
+desinflacionários. 
+
+=== PÁGINA 21 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+21 
+ 
+De acordo com a Secretaria de Política Econômica (SPE) do Ministério da Fazenda do 
+Governo Federal, a projeção do PIB para 2025 é de crescimento de 2,3%, abaixo da previsão 
+anterior de 2,5%, devido à alta da taxa de juros e ao cenário externo. A previsão é de que a 
+indústria e os serviços devam desacelerar, enquanto a agropecuária tenha crescimento de 6%. 
+A expectativa é de que o setor industrial tenha crescimento de 2,2%, impulsionado pela indústria 
+extrativa, enquanto os serviços tenham expansão de 1,9%, afetados pela desaceleração no 
+emprego e crédito. 
+Quanto à demanda, o consumo e os investimentos devem desacelerar, mas as 
+exportações crescerão, especialmente devido à produção agropecuária e extrativa. As tarifas de 
+importação dos EUA sobre ferro, aço e alumínio devem ter impacto limitado nas exportações 
+brasileiras. 
+No primeiro trimestre de 2025, a economia deve crescer marginalmente, com a 
+agropecuária apresentando forte desempenho. No segundo semestre, a atividade deve se 
+estabilizar devido à política monetária mais restritiva. 
+As tarifas de importação sobre ferro, aço e alumínio nos EUA devem ter impacto 
+limitado nas exportações brasileiras, caso sejam efetivamente implementadas. Em 2024, as 
+exportações brasileiras de ferro, aço e alumínio para os EUA representaram apenas 1,9% do 
+valor total exportado pelo Brasil, mas corresponderam a cerca de 40,8% do valor total exportado 
+desses produtos. Nesse contexto, tarifas de 25% sobre importações de ferro, aço e alumínio 
+terão impactos significativos na indústria metalúrgica, mas serão limitados no total das 
+exportações e no PIB brasileiro. 
+Em 2025, de acordo com a SPE, espera-se estabilidade na inflação com o IPCA 
+projetado para variar em 4,8%, semelhante a 2024. A inflação deve se manter ligeiramente 
+acima da meta devido a fatores como a depreciação cambial e o crescimento da economia. A 
+inflação de serviços deverá se estabilizar, enquanto os preços de alimentos e bens industriais 
+devem seguir trajetórias diferentes, com uma desaceleração nos preços dos alimentos e aumento 
+na inflação de monitorados e bens industriais. 
+Os preços dos alimentos devem cair, especialmente carnes e itens agrícolas, enquanto 
+trigo e derivados deverão ter alta. A inflação de serviços deve ser impactada pelo ciclo 
+monetário, com maior resiliência para os serviços mais inerciais. A inflação de itens 
+monitorados, como energia e transporte, deve aumentar, enquanto os preços de gasolina e gás 
+devem ser mais estáveis. 
+
+=== PÁGINA 22 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+22 
+ 
+O câmbio, com o dólar a R$ 6,00, e a evolução da atividade econômica podem afetar as 
+projeções de inflação. Caso haja desaceleração econômica e uma possível apreciação cambial, 
+a inflação pode ser menor. A dinâmica no mercado de trabalho também pode influenciar a 
+inflação de serviços, com uma desaceleração caso o número de vagas diminua e os salários 
+continuem baixos. 
+O PIB de Minas Gerais teve um crescimento de 3,1% em termos reais no acumulado de 
+2024, impulsionado principalmente pelos bons resultados das indústrias e dos serviços. No 
+quarto trimestre de 2024, o PIB estadual cresceu 0,4% em comparação com o trimestre anterior, 
+com destaque para os setores de indústrias de transformação, construção, comércio e 
+transportes. Em termos anuais, o PIB de Minas Gerais no quarto trimestre de 2024 foi 4,1% 
+superior ao registrado no mesmo período de 2023. 
+O setor agropecuário apresentou uma redução de 3,1% no quarto trimestre de 2024 em 
+relação ao trimestre anterior, mas obteve um aumento de 13,3% quando comparado ao mesmo 
+período de 2023, impulsionado pela maior produção de cana-de-açúcar e batata-inglesa. A 
+produção de leite e a demanda por insumos para a metalurgia também tiveram resultados 
+positivos, embora a produção florestal tenha registrado queda. 
+As indústrias extrativas sofreram uma queda de 5,6% no quarto trimestre de 2024 em 
+relação ao trimestre anterior e de 10,3% quando comparadas ao mesmo período de 2023. 
+As indústrias de transformação apresentaram um crescimento de 0,7% no trimestre, com 
+destaque para a produção de alimentos, derivados de petróleo, biocombustíveis, metalurgia e a 
+fabricação de máquinas e equipamentos. O setor da construção civil teve um avanço de 1,5% 
+no período, impulsionado pela forte criação de empregos, o que sinaliza uma recuperação do 
+setor. 
+O setor de serviços cresceu 0,2% no quarto trimestre de 2024, com ênfase no comércio, 
+que teve uma expansão de 1,0%, impulsionada pelas vendas em hipermercados, vestuário, 
+móveis e eletrodomésticos. O setor de transportes registrou um aumento de 0,3%, enquanto os 
+serviços de alojamento, alimentação, educação, saúde e cultura apresentaram melhorias na 
+ocupação. 
+O PIB nominal de Minas Gerais foi estimado em R$ 1,06 trilhão em 2024, representando 
+um crescimento de 9,2% em comparação a 2023, sendo 3,1% de aumento real e 5,9% de 
+
+=== PÁGINA 23 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+23 
+ 
+variação do deflator implícito do PIB. A participação de Minas Gerais no PIB nacional foi de 
+9,0% em 2024, ligeiramente superior aos 8,9% registrados em 2023. 
+Tabela 2 – Variação Real (%) Principais Agregados Macroeconômicos – 4º Tri/2024 
+ 
+ 
+A tabela abaixo apresenta os valores da previsão de receita tributária para a LDO 2026 
+referente ao período de 2025 a 2030. As projeções foram realizadas com base nos modelos 
+ARIMAX, ARIMA e Alisamento Exponencial. Foram usados dados correntes das séries 
+históricas em bases mensais, com os devidos tratamentos e consolidados em bases anuais. 
+ 
+
+=== PÁGINA 24 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+24 
+ 
+ 
+Tabela 3 – Projeção de Receita Tributária - 2025-2030 
+TRIBUTO 
+2024 
+2025 
+2026 
+2027 
+2028 
+2029 
+2030 
+ICMS 
+79.583.606.701,52 
+    88.159.486.708  
+    94.359.570.993  
+ 100.057.615.323  
+  106.131.797.760   112.077.124.119  
+  118.355.497.749  
+IPVA 
+10.829.055.656 
+    11.506.243.146  
+    12.539.751.142  
+   12.906.003.108  
+    13.634.580.719     14.389.948.829  
+    15.187.165.016  
+ITCD 
+  1.867.540.575  
+      2.039.031.406  
+      2.149.757.498  
+     2.264.623.545  
+      2.379.489.592       2.494.355.638  
+      2.614.766.659  
+TAXAS SEF 
+  1.168.912.488  
+      1.220.693.790  
+      1.305.700.347  
+     1.401.743.076  
+      1.477.030.725       1.551.134.219  
+      1.628.955.527  
+    TRLAV 
+412.515.864  
+439.626.114  
+484.466.521  
+531.766.991  
+558.264.336          583.534.800             609.949.159  
+    TFRM 
+       563.874.379  
+           582.904.774             611.178.353            649.768.315             688.365.222          726.962.059             767.723.032  
+    FLORESTAL 
+       149.275.873  
+           152.828.489             163.012.766            171.532.773             180.052.781          188.572.788             197.495.958  
+    EXPEDIENTE 
+         20.909.824  
+             21.762.654               22.405.504              23.052.307               23.700.788            24.351.069               25.019.192  
+    TFDR 
+           9.025.513  
+               9.524.624                 9.955.137              10.353.342               10.767.476            11.198.175               11.646.102  
+    MANUT. CONTOLE RET 
+         13.311.035  
+             14.047.135               14.682.066              15.269.348               15.880.122            16.515.327               17.175.940  
+MULTAS ISOL. ICMS 
+         47.394.237  
+             47.834.138  
+           51.198.219  
+          54.289.901  
+         57.585.669  
+        60.811.522  
+           64.218.083  
+MULTAS/JUROS ICMS 
+     759.192.817  
+         781.152.245  
+         836.089.155  
+        886.577.654  
+         940.398.989          993.078.572  
+      1.048.709.178  
+MULTAS/JUROS IPVA 
+     730.580.346  
+         534.568.618  
+         581.662.913  
+        615.613.775  
+         651.398.167          688.338.019  
+         727.372.677  
+MULTAS/JUROS ITCD 
+     165.578.940  
+         178.027.496  
+         184.527.730  
+        190.911.132  
+         197.294.535          203.677.939  
+         210.267.876  
+DÍVIDA ATIVA ICMS 
+  1.012.764.035  
+         688.641.928  
+         737.072.768  
+        781.582.014  
+         829.029.394          875.470.239  
+         924.512.622  
+DÍVIDA ATIVA IPVA 
+     371.787.746  
+         300.047.225  
+         326.997.917  
+        336.548.635  
+         355.547.685          375.245.348  
+         396.034.280  
+DÍVIDA ATIVA ITCD 
+       27.917.903  
+           23.936.766  
+           25.236.611  
+          26.585.056  
+           27.933.501            29.281.946  
+           30.695.485  
+TOTAL GERAL 
+96.564.331.444,11 
+  105.479.663.467  
+  113.097.565.294  
+ 119.522.093.217  
+  126.682.086.736   133.738.466.391  
+  141.188.195.152  
+Variação (R$) 
+  
+      8.915.332.023  
+      7.617.901.827  
+     6.424.527.924  
+      7.159.993.519       7.056.379.655  
+      7.449.728.761  
+Variação (%) 
+  
+9,23 
+7,22 
+5,68 
+5,99 
+5,57 
+5,57 
+Fonte: SAIF/SRE/SEF
+
+=== PÁGINA 25 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+25 
+ 
+ 
+A projeção da receita de ICMS para 2026 foi de R$ 94,36 bilhões, correspondendo a um 
+crescimento de 13,2% em relação a Lei Orçamentária Anual (LOA) de 2025. 
+Para a modelagem foram consideradas séries de dados para o período de janeiro de 2014 
+a fevereiro de 2025, a fim de se verificar variações na tendência histórica da arrecadação. Os 
+dados da série de ICMS foram tomados mensalmente em valores correntes e oferecidos na 
+modelagem 81 indicadores econômicos, visando à identificação da melhor aderência 
+explicativa. Foi procedido o saneamento direto de aleatoriedades na evolução de séries 
+específicas, a fim de se fortalecer a percepção da tendência histórica da série geral. 
+Outro ponto que reforça o desempenho arrecadatório do ICMS em 2025 e 2026, 
+especialmente, é uma análise objetiva das quantidades e valores das notas fiscais de consumidor 
+eletrônicas, que estão se consolidando cada vez mais no mercado de Minas Gerais. Conforme 
+o gráfico abaixo, observa-se um comportamento irregular, com altos e baixos tanto na 
+quantidade quanto no valor das NFCes em 2024. Com base no desempenho observado nos dois 
+primeiros meses de 2025, espera-se que essa mesma tendência se mantenha ao longo do ano. 
+Isso evidencia o alto grau de volatilidade esperado para a arrecadação neste ano, já antecipado 
+pelas condições macroeconômicas instáveis, tanto internas quanto externas, previamente 
+descritas. Para 2026, a elevada volatilidade econômica deverá persistir devido ao impacto das 
+eleições. 
+Gráfico 1 – Notas Fiscais de Consumidor Eletrônicas 2024-2025 
+ 
+Fonte: SRE/SEF 
+  3,0 Mi
+  3,1 Mi
+  3,2 Mi
+  3,3 Mi
+  3,4 Mi
+  3,5 Mi
+  3,6 Mi
+  3,7 Mi
+  3,8 Mi
+0,00
+5,00
+10,00
+15,00
+20,00
+25,00
+30,00
+35,00
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Quantidade
+Bilhões R$
+Meses
+2024 VLR_NFCE
+2025 VLR_NFCE
+2024 QTD_NFCE
+2025 QTD_NFCE
+
+=== PÁGINA 26 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+26 
+ 
+A arrecadação do IPVA (sem considerar multas, juros e dívida ativa) registrou uma 
+queda de 8,1% em valores correntes no acumulado de janeiro e fevereiro de 2025, em 
+comparação com o mesmo período de 2024. Essa redução ocorreu devido à mudança nas datas 
+de pagamento do imposto que, em 2025, foram transferidas para os meses de fevereiro, março 
+e abril, enquanto em 2024 ocorreram nos meses de janeiro, fevereiro e março. Espera-se que, 
+ao longo de 2025, a receita do imposto continue sendo impulsionada pelas ações de cobrança 
+por protesto e pelo envio de SMS aos contribuintes em atraso. 
+Além disso, verifica-se um aumento de 15% na quantidade de veículos 0 km emplacados 
+no Estado e um crescimento de 23% no IPVA emitido em janeiro e fevereiro de 2025, em 
+comparação com o mesmo período de 2024. O desempenho, porém, não foi ainda mais 
+expressivo devido à maior participação das vendas diretas (que pagam menos imposto), que 
+representam cerca de 50% do total nacional. 
+A previsão de arrecadação para o IPVA em 2026 é de R$12,54 bilhões, um crescimento 
+de 9,5% em relação à LOA 2025. 
+O desempenho da arrecadação do ITCD foi de variação positiva de 11,1% em valores 
+correntes e de 6,1% em valores constantes considerando os dois primeiros meses de 2025 em 
+relação a igual período de 2024. Dentre os fatores que explicam este desempenho, destacaram-
+se o expressivo aumento das demandas (novas Declaração de Bens e Direitos - DBDs 
+apresentadas pelos contribuintes) nos últimos 2 anos, devido à preocupação dos contribuintes 
+com um eventual aumento do imposto em decorrência da reforma tributária (EC 132/23), que 
+previu a obrigatoriedade de alíquotas progressivas para o ITCD, mas que ainda não foi 
+internalizada no ordenamento jurídico mineiro; maior capacidade de processamento 
+proporcionada pelo novo sistema e-ITCD, que otimizou o prazo médio de conclusão da análise 
+pela SEF, que em 2022 era de 31,1 dias úteis e passou para 14,5 em 2024. 
+No entanto, para 2025, é necessário adotar uma previsão mais conservadora, uma vez 
+que a arrecadação relacionada à previdência privada, cujo principal de ITCD arrecadado foi 
+cerca de R$ 86 milhões em 2024, não irá se concretizar no restante de 2025, devido ao parecer 
+normativo da AGE nº 16.724/20251. 
+                                               
+1 Determina que "não seja constituído ou seja cancelado crédito tributário relativo ao ITCD (e consectários) 
+incidente sobre os repasses, para os beneficiários, de valores e direitos relativos ao plano Vida Gerador de 
+Benefício Livre (VGBL) ou ao Plano Gerador de Benefício Livre (PGBL), quando da morte do titular do plano", 
+as entidades de previdência complementar, abertas e fechadas, as seguradoras e as instituições financeiras ficam 
+
+=== PÁGINA 27 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+27 
+ 
+A previsão de arrecadação do ITCD para 2026 apresentou um crescimento de 6,8% em 
+relação à LOA 2025. 
+Em relação às taxas administradas pela Secretaria de Estado da Fazenda de Minas 
+Gerais, nos dois primeiros meses de 2025, comparado ao mesmo período de 2024, o valor se 
+manteve praticamente estável, com uma leve queda corrente de 0,1%. Para 2025, espera-se um 
+crescimento médio de aproximadamente 4,76%, devido ao aumento de igual percentual no valor 
+da Unidade Fiscal do Estado de Minas Gerais (UFEMG), que é utilizada como base para o 
+reajuste das taxas. 
+ 
+1.2 Alteração na Legislação Tributária 
+ 
+Os riscos fiscais relativos a alterações legislativas devem ser gerenciados, para que as 
+decisões governamentais sejam mais assertivas, possibilitando, assim, agilidade nas respostas 
+do governo frente a ocorrências que impactam negativamente a sustentabilidade das contas 
+públicas. Para o período de 2026 a 2028, têm-se os seguintes apontamentos: 
+ 
+a) Projeto de Lei Complementar (PLP) nº 45/2015 (antigo PLS 201/2013). Acrescenta § 4º 
+ao art. 19 da Lei Complementar nº 123/2006, e altera a redação do caput do art. 10 da Lei 
+Complementar nº 87/1996, para dar às micro e pequenas empresas, nos casos de aquisição 
+de produtos sujeitos à substituição tributária, o direito de pagar ICMS pela alíquota máxima 
+a elas aplicável, tendo como base de cálculo o valor real da operação. 
+b) Projeto de Lei Complementar Federal nº 471/2018, da Câmara dos Deputados, que visa 
+alterar a Lei Complementar nº 123/2006, por meio da alteração da alínea “a” do inciso XIII 
+do § 1º do art. 13, para suprimir algumas mercadorias do rol das passíveis de instituição do 
+regime de substituição tributária em relação às operações promovidas pelas empresas 
+optantes pelo Simples Nacional, bem como excluir as operações de venda efetuadas no 
+sistema porta-a-porta. Encontra-se, desde 03/04/2018, apensada ao PLP nº 45/2015. 
+c) Projeto de Lei Complementar Federal nº 212/2012 (PLP 212/12) que visa alterar a Lei 
+Complementar nº 123/2006, por meio da inclusão de parágrafo único ao art. 12, para dispor 
+que as microempresas e empresas de pequeno porte optantes pelo regime do Simples 
+Nacional não poderão ser incluídas no regime de substituição tributária em seus respectivos 
+                                               
+dispensadas da retenção e do recolhimento do imposto, nos termos do art. 35-A do Decreto nº 43.981, de 3 de 
+março de 2005, que regulamenta o ITCD (RITCD). 
+
+=== PÁGINA 28 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+28 
+ 
+estados. Atualmente aguarda designação de Relator na Comissão de Finanças e Tributação 
+(CFT). 
+d) Creditamento de ICMS relativo à aquisição de energia elétrica por parte das 
+empresas de telefonia. O Superior Tribunal de Justiça, em 2008, uniformizou o 
+entendimento sobre o uso de créditos de ICMS gerados a partir do consumo de energia 
+elétrica e serviços de telecomunicações por estabelecimentos comerciais. De acordo com 
+o entendimento firmado, o contribuinte tem direito ao creditamento de ICMS, se comprovar 
+ter utilizado a energia elétrica "no processo de industrialização" ou ter utilizado serviços 
+de comunicação na "execução de serviços da mesma natureza". O Supremo Tribunal 
+Federal tem negado seguimento aos recursos extraordinários interpostos por 
+impossibilidade de reexame da legislação infraconstitucional. 
+e) Ação Direta de Inconstitucionalidade nº 5902, ajuizada pelo Estado do Amazonas, para 
+questionar a constitucionalidade de dispositivos da Lei Complementar nº 160/2017, e do 
+Convênio ICMS nº 190/2017, que, em síntese, remitem e anistiam créditos tributários 
+relacionados a benefícios fiscais concedidos diante de inobservância da alínea “g” do inciso 
+XII do § 2º do art. 155 da Constituição Federal de 1988, além de autorizar a sua 
+reinstituição. 
+f) Projeto de Lei Complementar Federal nº 125/2022 que institui o Código de Defesa dos 
+Contribuintes, com vistas a estabelecer normas gerais sobre os direitos, garantias, deveres 
+e procedimentos aplicáveis à relação jurídica do contribuinte com a Fazenda Pública da 
+União, dos Estados, do Distrito Federal e dos Municípios. 
+g) Tema de Repercussão Geral nº 816/STF em relação ao qual se discute a incidência do 
+ISSQN em operação de industrialização por encomenda, realizada em materiais fornecidos 
+pelo contratante, quando referida operação configura etapa intermediária do ciclo 
+produtivo de mercadoria. 
+h) Projeto de Lei Federal n° 2481/2022. Projeto de lei ordinária para a reforma da Lei nº 
+9.784/99 (Lei de Processo Administrativo), apresentado pelo Relatório Final da Comissão 
+de Juristas responsável pela elaboração de anteprojetos de proposições legislativas que 
+dinamizem, unifiquem e modernizem o processo administrativo e tributário nacional. 
+i) Projeto de Lei Federal n° 2483/2022. Projeto de lei ordinária do processo administrativo 
+tributário da União, apresentado pelo Relatório Final da Comissão de Juristas responsável 
+pela elaboração de anteprojetos de proposições legislativas que dinamizem, unifiquem e 
+modernizem o processo administrativo e tributário nacional. 
+
+=== PÁGINA 29 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+29 
+ 
+j) Projeto de Lei Federal n° 2484/2022. Anteprojeto de lei ordinária sobre o processo de 
+consulta tributária da União, apresentado pelo Relatório Final da Comissão de Juristas 
+responsável pela elaboração de anteprojetos de proposições legislativas que dinamizem, 
+unifiquem e modernizem o processo administrativo e tributário nacional. 
+k) Projeto de Lei Federal n° 2485/2022. Anteprojeto de lei de Mediação Tributária da União, 
+apresentado pelo Relatório Final da Comissão de Juristas responsável pela elaboração de 
+anteprojetos de proposições legislativas que dinamizem, unifiquem e modernizem o 
+processo administrativo e tributário nacional. 
+l) Projeto de Lei Federal n° 2486/2022. Anteprojeto de lei ordinária de arbitragem em 
+matéria tributária e aduaneira, apresentado pelo Relatório Final da Comissão de Juristas 
+responsável pela elaboração de anteprojetos de proposições legislativas que dinamizem, 
+unifiquem e modernizem o processo administrativo e tributário nacional. 
+m) Projeto de Lei Federal n° 2488/2022. Anteprojeto de lei ordinária de execução fiscal, 
+apresentado pelo Relatório Final da Comissão de Juristas responsável pela elaboração de 
+anteprojetos de proposições legislativas que dinamizem, unifiquem e modernizem o 
+processo administrativo e tributário nacional. 
+n) Projeto de Lei Complementar Federal nº 108/2021. Altera a Lei Complementar nº 
+123/2006, para permitir o enquadramento como Microempreendedor Individual (MEI) de 
+pessoa com receita bruta anual igual ou inferior a R$ 130.000,00 (cento e trinta mil reais), 
+bem como para permitir que o MEI contrate até 2 (dois) empregados. 
+o) Projeto de Lei Complementar Federal nº 21/2020. Dispõe sobre o patrimônio, a renda e 
+os serviços relacionados às finalidades essenciais dos templos de qualquer culto religioso 
+para gozo da imunidade tributária prevista no § 4º do art. 150 da Constituição Federal. 
+p) Projeto de Lei Complementar 17/2022. Estabelece normas gerais relativas a direitos, 
+garantias e deveres do contribuinte, principalmente quanto a sua interação perante a 
+Fazenda Pública e dispõe sobre critérios para a responsabilidade tributária. 
+q) Tema de Repercussão Geral nº 1108/STF. Supremo Tribunal Federal (STF) trata da 
+aplicabilidade do princípio da anterioridade geral (anual ou de exercício) em relação às 
+reduções de benefícios fiscais previstos no Regime Especial de Reintegração de Valores 
+Tributários para as Empresas Exportadoras (Reintegra). 
+r) Proposta de Emenda à Constituição n° 72/2023. Altera o art. 155 da Constituição Federal 
+para conceder imunidade do Imposto sobre a Propriedade de Veículos Automotores a 
+veículos terrestres de passageiros com vinte anos ou mais de fabricação. 
+
+=== PÁGINA 30 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+30 
+ 
+s) Recurso Extraordinário nº 1363013. O Supremo Tribunal Federal (STF) declarou 
+inconstitucional a cobrança do imposto sobre herança (ITCD) em planos de previdência 
+privada aberta dos tipos Vida Gerador de Benefício Livre (VGBL) e Plano Gerador de 
+Benefício Livre (PGBL). 
+t) Tema 1258/STF. Possibilidade de manutenção dos créditos de ICMS relativos às 
+operações internas anteriores à operação interestadual com combustíveis derivados de 
+petróleo imune ao imposto devido ao estado de origem. 
+u) Projeto de Resolução 066/2025 (ALEMG). Susta os efeitos do Decreto 48.555/2022, que 
+dispõe sobre a incorporação à legislação tributária do Estado de Minas Gerais das 
+disposições constantes do Convênio ICMS nº 199/2022, para efeitos do regime de 
+tributação monofásica do ICMS nas operações com combustíveis, e do Decreto 
+48619/2023, que dispõe sobre a incorporação à legislação tributária do Estado de Minas 
+Gerais das disposições constantes do Convênio ICMS nº 15/2023, para efeitos do regime 
+de tributação monofásica do ICMS nas operações com combustíveis. 
+v) Projeto de Lei 1.985/2024. Altera a Lei 14.937/2003, concedendo isenção de IPVA sobre 
+veículo automotor com mais de 10 anos de fabricação. 
+ 
+2. Despesas de Pessoal 
+ 
+Conforme publicado no Diário Oficial “Minas Gerais” de 30/01/2025, o Relatório de 
+Gestão Fiscal do Estado apontou o comprometimento de 48,80% da Receita Corrente Líquida 
+(RCL) com a despesa de pessoal, ultrapassando o limite prudencial de 46,55% estabelecido pela 
+Lei de Responsabilidade Fiscal (LRF). 
+A extrapolação do limite prudencial tem sido objeto de alertas emitidos pelo Tribunal 
+de Contas do Estado de Minas Gerais, evidenciados por meio de ofícios direcionados ao 
+Governo, que alertam para a continuidade do descumprimento dos limites legais relativos ao 
+gasto com pessoal. 
+Com o objetivo de reestabelecer o equilíbrio fiscal, o Estado encontra-se sob Regime de 
+Recuperação Fiscal (RRF), homologado pelo Governo Federal com vigência de 01/01/2025 a 
+31/12/2033. Todas as projeções devem, portanto, considerar as diretrizes e restrições 
+estabelecidas no plano de recuperação. 
+O cenário fiscal de Minas Gerais para o exercício de 2026 demanda atenção redobrada 
+à gestão da despesa de pessoal, tendo em vista os riscos legais e institucionais que podem 
+
+=== PÁGINA 31 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+31 
+ 
+pressionar significativamente a folha de pagamento. Esse contexto torna ainda mais relevante 
+a consolidação do Regime de Recuperação Fiscal, que exige a adoção de medidas de controle 
+rígidas e a revisão constante das projeções, assegurando assim a sustentabilidade financeira do 
+Estado. 
+Apresentam-se os seguintes valores para possíveis de incremento na folha em 2026: 
+Tabela 4 – Riscos Fiscais das Despesas de Pessoal 2026 
+DESCRIÇÃO 
+VALOR 
+Piso Salarial do Magistério da Educação Básica (6,88% - 3,50%) 
+784.279.562,35 
+Ação Direta de Inconstitucionalidade da Lei nº 24.035/2022 
+9.080.000.000,00 
+Piso Salarial dos Policiais Militares 
+7.203.738.400,68 
+Demandas judiciais (SISAP) 
+37.510.961,00 
+Total 
+17.105.528.924,04 
+Fonte: SEPLAG 
+ 
+2.1 Piso Salarial do Magistério da Educação Básica 
+ 
+A legislação federal determina a atualização anual do Piso Nacional do Magistério com 
+base no Valor Aluno Ano do Ensino Fundamental Urbano (VAAF). Embora o Estado de Minas 
+Gerais aplique o piso proporcional à carga horária de 24 horas semanais, os reajustes anuais 
+geram impacto significativo na folha de pagamento. 
+A projeção para a LDO considera um reajuste de 3,5%, com base nos parâmetros 
+macroeconômicos que constam na LDO 2026 da União. Caso o reajuste proporcional ultrapasse 
+os 3,50% projetados, haverá um acréscimo na despesa. Ao analisarmos a série histórica de 
+reajustes do piso da Educação Básica em Minas Gerais, observamos uma média histórica de 
+6,88% no período entre 2015 e 2025. Assim, caso em 2026 o percentual de reajuste do piso seja 
+equivalente à média de 6,88%, estima-se um impacto adicional de R$ 784.279.562,36. 
+2.2 Ação Direta de Inconstitucionalidade (ADI) – Lei nº 24.035/2022 
+ 
+Estão em análise, no Supremo Tribunal Federal (STF), dispositivos já impugnados 
+introduzidos por emenda parlamentar a projeto de lei de iniciativa do Governador que 
+originalmente tratava da revisão anual dos subsídios e do vencimento básico dos servidores. As 
+normas inseridas por emenda parlamentar tratam de matérias diversas daquela originalmente 
+prevista no projeto de lei (revisão geral de 10,06%). Embora o Governador tenha vetado, a 
+
+=== PÁGINA 32 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+32 
+ 
+ALMG derrubou o veto. A emenda parlamentar representa um impacto adicional de R$ 9,08 
+bilhões/ano, o que teria o condão de desequilibrar as contas do Estado, configurando, então, 
+risco para despesa de pessoal. De acordo com o site do STF, o processo encontra-se pronto para 
+julgamento, com última movimentação em 28/09/2023. A ADI 7145 foi considerada no 
+levantamento dos riscos fiscais pela AGE, sendo classificada a perda como remota. 
+  
+2.3 Piso Salarial dos Policiais Militares 
+ 
+A PEC 300/2008, apensada à PEC 446/2009, estabelece que a remuneração dos Policiais 
+Militares dos Estados não poderá ser inferior à da Polícia Militar do Distrito Federal, aplicando-
+se também aos integrantes do Corpo de Bombeiros Militar e aos inativos. O projeto tramita na 
+Câmara dos Deputados, com última movimentação em 18/02/2025. 
+A equiparação da remuneração dos policiais militares dos Estados à da Polícia Militar 
+do Distrito Federal poderá ter repercussão em todo o sistema de Segurança Pública, aplicando-
+se à Polícia Militar, Corpo de Bombeiros Militar, Polícia Civil e Secretaria de Estado de Justiça 
+e Segurança Pública, aos inativos e pensionistas, uma vez que o plano de carreiras dessas 
+instituições é baseado no vencimento do Soldado da PM. 
+Apesar de ser avaliada com baixa probabilidade de ser aprovada com impacto em 2026, 
+é relevante mencioná-la do ponto de vista fiscal. Destaca-se que sua aprovação representaria 
+um impacto anual estimado em R$ 7.203.738.400,68. 
+ 
+2.4 Valores de Verbas de Demandas Judiciais 
+ 
+Os pagamentos judiciais vinculados à folha de pessoal apresentaram valor de R$ 
+209.394.229,77 em 2024. Com base em crescimento médio histórico de 15,5% ao ano, foi 
+projetado contínuo crescimento dessa despesa, para além do crescimento vegetativo já previsto 
+na LDO. Apesar de ser uma despesa com representatividade pequena na folha, o monitoramento 
+é necessário para observar o crescimento e identificar eventos que podem exponencializar essa 
+despesa. O valor estimado está incluso na avaliação dos Passivos Contingentes realizada pela 
+AGE. 
+O impacto estimado em 2026 consiste em um aumento de R$ 37.510.961,00 em relação 
+a 2025. 
+ 
+ 
+ 
+
+=== PÁGINA 33 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+33 
+ 
+Tabela 5 – Valores Pagos com Demandas Judiciais 
+ANO 
+VALORES PAGOS 
+DEMANDAS JUDICIAIS 
+VARIAÇÃO 
+ANO (R$) 
+VARIAÇÃO 
+ANO (%) 
+2012 
+38.186.361,80 
+- 
+- 
+2013 
+44.168.712,91 
+5.982.351,11 
+15,7% 
+2014 
+51.912.264,11 
+7.743.551,20 
+17,5% 
+2015 
+58.233.744,36 
+6.321.480,25 
+12,2% 
+2016 
+62.575.547,74 
+4.341.803,38 
+7,5% 
+2017 
+65.390.892,08 
+2.815.344,34 
+4,5% 
+2018 
+71.709.818,94 
+6.318.926,86 
+9,7% 
+2019 
+90.017.764,81 
+18.307.945,87 
+25,5% 
+2020 
+115.139.298,72 
+25.121.533,91 
+27,9% 
+2021 
+136.896.222,79 
+21.756.924,07 
+18,9% 
+2022 
+175.589.534,79 
+38.693.312,00 
+28,3% 
+2023 
+185.806.222,68 
+10.216.687,89 
+5,8% 
+2024 
+209.394.229,77 
+23.588.007,09 
+12,7% 
+2025 
+241.868.776,14 
+32.474.546,37 
+15,5% 
+2026 
+279.379.737,14 
+37.510.961,00 
+15,5% 
+Fonte: SEPLAG. 
+Nota: A variação dos anos de 2025 e 2026 foi calculada a partir de estimativa com base na 
+média de crescimento histórico de 15,5%. 
+ 
+Gráfico 2 – Valores Pagos com Demandas Judiciais 
+ 
+Fonte: SEPLAG. 
+Nota: A variação dos anos de 2025 e 2026 foi calculada a partir de estimativa com base na média de crescimento 
+histórico de 15,5%. 
+ 
+ 
+ 
+ 
+ 
+38 mi
+44 mi
+52 mi
+58 mi
+63 mi
+65 mi
+72 mi
+90 mi
+115 mi
+137 mi
+176 mi 186 mi
+209 mi
+242 mi
+279 mi
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+
+=== PÁGINA 34 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+34 
+ 
+3. Despesas com a Dívida Pública 
+ 
+A presente seção tem como objetivo avaliar os riscos fiscais associados à dívida pública 
+do Estado de Minas Gerais, com base em diferentes cenários de gestão e seus impactos sobre o 
+equilíbrio fiscal e as finanças estaduais. A análise contempla os efeitos da adesão ao Programa 
+de Pleno Pagamento da Dívida dos Estados (PROPAG), instituído pela Lei Complementar nº 
+212/2025 e regulamentado pelo Decreto Federal nº 12.433/2025. São comparados distintos 
+níveis de amortização extraordinária, aportes ao Fundo de Equalização Federativa (FEF) e 
+volumes de investimentos locais. 
+A avaliação será conduzida sob duas perspectivas complementares: 
+a) Riscos estruturais, relacionados à trajetória futura da dívida, considerando quatro 
+cenários: (1) adesão ao PROPAG com 20% de amortização extraordinária 
+(PROPAG 20%); (2) adesão ao PROPAG com 10% de amortização extraordinária 
+(PROPAG 10%); (3) adesão ao PROPAG sem amortização extraordinária (PROPAG 
+0%); e (4) continuidade no Regime de Recuperação Fiscal (RRF). 
+b) Riscos macroeconômicos, decorrentes da volatilidade de variáveis econômicas que 
+impactam diretamente o Serviço da Dívida, como inflação (IPCA), taxa Selic e 
+câmbio (dólar). 
+Em relação aos riscos macroeconômicos, foram adotadas diferentes projeções com base 
+em cenários determinísticos — considerando os valores mínimo, médio e máximo das 
+expectativas de mercado, além de simulações para o dólar e cenários de estresse — e em 
+cenários estocásticos, utilizando simulações de Monte Carlo para capturar a incerteza associada 
+às variáveis econômicas. 
+A adesão ao PROPAG e seus benefícios dependem da homologação do encerramento 
+do RRF. As projeções aqui apresentadas consideram as obrigações financeiras vinculadas a 
+operações de crédito, refinanciamentos com a União, parcelamentos previdenciários e 
+recomposição de depósitos judiciais. 
+Na sequência, são apresentados: a composição atual da dívida pública; uma breve 
+contextualização do cenário macroeconômico, com ênfase nas principais variáveis que 
+impactam diretamente a dinâmica da dívida; e a descrição e as projeções do serviço da dívida 
+para cada um dos cenários analisados. 
+ 
+
+=== PÁGINA 35 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+35 
+ 
+3.1 Perfil da Dívida Pública Estadual 
+ 
+Em 2024 a dívida pública teve um crescimento de 10,52% no seu estoque em relação a 
+posição de dezembro de 2023, ao variar de R$ 170,83 bilhões para R$ 188,79 bilhões. Em 
+termos monetários, a dívida cresceu R$ 17,96 bilhões no período, conforme apresentado na 
+Tabela 6. 
+A dívida de Minas Gerais é composta, majoritariamente, pela dívida interna, que 
+representa 93,62% do estoque total, de acordo com a posição apurada em 31 de dezembro de 
+2024. Destaca-se, ainda, no perfil da dívida, o montante dos Refinanciamentos de Dívidas com 
+a União, que representa 84,68% do endividamento. 
+ 
+ 
+Tabela 6 – Estoque da Dívida Fundada Estado de Minas Gerais (Bilhões R$) 
+DISCRIMINAÇÃO 
+DEZ/23 DEZ/24 VARIAÇÃO (R$) 
+DEZ23-DEZ24 
+VARIAÇÃO (%) 
+DEZ23-DEZ24 
+DISTRIBUIÇÃO 
+DEZ24 
+I- Dívida Interna 
+160,18 176,75 
+16,57 
+10,35% 
+93,62% 
+Refinanciamento Dívida União 142,75 
+159,86 
+17,11 
+11,99% 
+84,68% 
+Indexada ao Câmbio 
+7,22 
+7,40 
+0,18 
+2,44% 
+3,92% 
+Outras Dívidas 
+10,21 
+9,49 
+-0,72 
+-7,04% 
+5,03% 
+II- Dívida Externa 
+10,65 
+12,04 
+1,39 
+13,06% 
+6,38% 
+III- Total 
+170,83 188,79 
+17,96 
+10,52% 
+100,00% 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+Outra questão relevante a ser observada nesse perfil de endividamento é a exposição ao 
+risco cambial. Contratos da dívida interna indexados ao câmbio apresentam saldo de R$ 7,40 
+bilhões, ou 3,92% do estoque total, e a dívida externa representa participação de 6,38%, o 
+equivalente a R$ 12,04 bilhões na posição de dezembro de 2024. 
+A Tabela 7 aborda o estoque da dívida sob a perspectiva dos indexadores, denotando a 
+predominância do Coeficiente de Atualização Monetária2, que corresponde a 84,68% do 
+                                               
+2 Coeficiente de atualização monetária relativo aos contratos de financiamento federal para Estados baseados na 
+Lei Complementar nº 148/2014, e no Decreto n° 8.616/2015.  Calculado a partir da comparação da variação mensal 
+
+=== PÁGINA 36 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+36 
+ 
+estoque total em dezembro/2024. Em seguida, os contratos sujeitos à variação cambial 
+respondem por 10,30% do estoque da dívida. 
+Tabela 7 – Dívida Pública Por Indexador - Valores Nominais (R$ bilhões) 
+INDEXADOR 
+2023 
+2024 
+(%) 
+Coeficiente de Atualização Monetária (CAM) 
+142,75 
+159,86 
+84,68% 
+Câmbio 
+17,88 
+19,44 
+10,30% 
+Taxa Fixa 
+1,03 
+1,06 
+0,56% 
+Taxa de Juros de Longo Prazo 
+1,14 
+1,09 
+0,58% 
+SELIC 
+1,77 
+1,56 
+0,83% 
+Unidade Padrão de Remuneração 
+0,15 
+0,16 
+0,08% 
+Outros 
+6,12 
+5,62 
+2,98% 
+TOTAL 
+170,83 
+188,79 
+100,00% 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+ 
+3.2 Contexto Macroeconômico 
+ 
+O Produto Interno Bruto (PIB) do Brasil cresceu 3,4% em 2024, mas as projeções de 
+mercado indicam uma desaceleração nos próximos anos, impulsionada, em parte, pelo aperto 
+monetário. Indicadores recentes — como os setores de serviços, indústria e mercado de trabalho 
+— já sinalizam uma moderação no ritmo de crescimento, após um período de relativa 
+resiliência. Ademais, o aumento das expectativas de inflação em todos os horizontes sugere um 
+processo de desancoragem, o que pode demandar a manutenção de uma política monetária mais 
+restritiva por um período prolongado. 
+Em março de 2025, a taxa Selic atingiu 14,25% ao ano, refletindo um ciclo de aperto 
+monetário mais intenso. Esse movimento teve início em setembro de 2024, com elevações 
+graduais ao longo de sete meses, partindo de 10,50% até alcançar 14,25% em abril de 2025. A 
+política monetária mais restritiva reforça o compromisso com a convergência da inflação à 
+meta, em um cenário em que os índices inflacionários vêm superando o objetivo estabelecido 
+desde 2021. Em fevereiro de 2025, a inflação acumulada foi de 5,06%, frente à meta de 3,00%. 
+Além disso, o câmbio também apresentou forte volatilidade no período que antecedeu 
+as projeções do Serviço da Dívida. Após uma valorização expressiva no final de 2024 e início 
+                                               
+do IPCA divulgado mais juros nominais de 4% a. a. e a variação mensal da taxa Selic, divulgado mensalmente, 
+em termos percentuais, pela Secretaria do Tesouro Nacional. 
+
+=== PÁGINA 37 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+37 
+ 
+de 2025, o Dólar atingiu seu maior valor histórico em janeiro de 2025, cotado a R$ 6,20. No 
+entanto, a moeda recuou para R$ 5,70 em abril, refletindo as incertezas geradas por mudanças 
+amplas e profundas na política dos Estados Unidos, incluindo tarifas comerciais. 
+ 
+3.3 Modelagem das incertezas macroeconômicas que impactam a trajetória da dívida 
+ 
+ 
+As projeções do serviço da dívida no período de 2026 a 2030 foram elaboradas com 
+base nas condições observadas até abril de 2025. As variáveis IPCA, Selic e câmbio constituem 
+os principais fatores macroeconômicos que influenciam diretamente o comportamento do 
+Serviço da Dívida, sendo, portanto, elementos centrais para a análise de Risco Fiscal e a 
+formulação de cenários projetivos. 
+Para cada cenário de adesão ao PROPAG ou continuidade no RRF, foi adotada a 
+seguinte modelagem: inicialmente, realizaram-se projeções baseadas nos valores mínimo, 
+médio e máximo das expectativas de mercado para IPCA e taxa Selic, além de simulações para 
+a taxa de câmbio (dólar). Em seguida, foram estimados cenários de estresse, incorporando 
+incertezas associadas ao contexto internacional e à maior dificuldade de convergência da 
+inflação à meta. Por fim, o Risco de Mercado foi avaliado por meio de simulações de Monte 
+Carlo, nas quais todas as variáveis macroeconômicas foram alteradas simultaneamente, 
+permitindo a construção de uma distribuição probabilística dos possíveis valores do Serviço da 
+Dívida. 
+As expectativas de mercado utilizadas referem-se ao IPCA e à taxa Selic, enquanto a 
+taxa de câmbio foi projetada com base em um Movimento Browniano. As premissas adotadas 
+encontram-se detalhadas nas Tabelas 8 e 9. 
+Tabela 8 – Expectativas de Mercado 
+Selic 
+ANO 
+MÍNIMA 
+MÉDIA 
+MÁXIMA 
+2025 
+13,75 
+15,00 
+15,75 
+2026 
+9,50 
+12,50 
+15,50 
+2027 
+7,50 
+10,50 
+15,00 
+2028 
+7,50 
+10,00 
+12,00 
+2029 
+7,50 
+9,75 
+12,00 
+2030 
+7,50 
+9,75 
+12,00 
+  Fonte: DCGD/SCGOV/STE/SEF. 
+IPCA 
+ANO 
+MÍNIMO MÉDIO MÁXIMO 
+2025 
+4,35 
+5,56 
+6,94 
+2026 
+3,18 
+4,50 
+6,91 
+2027 
+3,00 
+4,00 
+7,10 
+2028 
+3,00 
+3,80 
+7,20 
+2029 
+3,00 
+3,67 
+6,90 
+2030 
+3,00 
+3,67 
+6,90 
+ 
+ 
+ 
+
+=== PÁGINA 38 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+38 
+ 
+Tabela 9 – Simulação Dólar 
+ANO 
+MÍNIMO MÉDIO MÁXIMO ESTRESSE 
+2025 
+5,76 
+5,94 
+6,10 
+6,99 
+2026 
+5,50 
+5,94 
+6,19 
+6,99 
+2027 
+5,63 
+5,94 
+6,23 
+6,99 
+2028 
+5,51 
+5,94 
+6,28 
+6,99 
+2029 
+5,51 
+5,94 
+6,28 
+6,99 
+2030 
+5,51 
+5,94 
+6,28 
+6,99 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+3.4 Cenário 1 – Adesão ao PROPAG com amortização extraordinária de 20% (PROPAG 
+20%) 
+Neste cenário, o Estado opta por aderir ao PROPAG com o compromisso de realizar 
+uma amortização extraordinária equivalente a 20% do saldo devedor, por meio da entrega de 
+ativos à União. Essa medida permitirá a substituição dos atuais encargos da dívida – com juros 
+nominais de 4% a.a. – para juros reais de 0%, resultando em uma expressiva redução do custo 
+financeiro e limitando o crescimento da dívida em termos reais. 
+O saldo devedor remanescente será refinanciado em 360 meses, com correção pelo 
+Índice Nacional de Preços ao Consumidor Amplo (IPCA). A correção exclusivamente pelo 
+IPCA, sem juros reais adicionais, torna o custo da dívida mais estável e previsível ao longo do 
+tempo, facilitando o planejamento orçamentário de longo prazo. 
+Estima-se que o saldo devedor da dívida do Estado com a União em 31/12/2025 — data-
+limite para adesão ao programa — alcançará R$ 177,52 bilhões. Com isso, o Estado deverá 
+aportar aproximadamente R$ 35,5 bilhões em ativos para abatimento da dívida. 
+Além disso, o Estado estará obrigado a realizar um aporte anual de 1% do saldo devedor 
+ao Fundo de Equalização Federativa (FEF), com o objetivo de compensar os Estados em 
+situação fiscal mais equilibrada. O Estado também deverá destinar 1% do saldo devedor da 
+dívida para investimentos locais anuais. 
+Outro benefício considerado nas projeções é a previsão de aumento gradual das parcelas, 
+conforme o seguinte escalonamento: 20% no 1º ano, 40% no 2º, 60% no 3º, 80% no 4º e 100% 
+a partir do 5º ano do termo aditivo. A diferença entre os valores devidos e os efetivamente pagos 
+durante esse período será incorporada ao saldo devedor a partir do 5º ano, com atualização pelos 
+encargos financeiros contratuais. 
+
+=== PÁGINA 39 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+39 
+ 
+Em suma, este cenário proporciona uma gestão fiscal mais equilibrada no longo prazo, 
+com custos reduzidos de endividamento e um perfil de dívida mais sustentável. A entrega de 
+ativos ao credor representa uma ação de comprometimento do Estado para viabilizar a redução 
+da carga financeira sobre as finanças estaduais e possibilitar maior flexibilidade orçamentária, 
+ao mesmo tempo em que contribui para o equilíbrio fiscal do Estado. 
+Para este cenário, PROPAG 20%, com expectativas de mercado e simulação para o 
+dólar, o valor médio do serviço da dívida inicia-se em aproximadamente R$ 6,24 bilhões em 
+2026, alcançando R$ 9,86 bilhões em 2030 - Gráfico 3. 
+ 
+Gráfico 3 – Projeções do Serviço da Dívida no Cenário 1 (PROPAG 20%) – 
+Expectativas de Mercado e Simulação para o Dólar 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+Além das projeções acima, foram analisados três cenários de estresse nas variáveis. No 
+primeiro, aplicou-se um choque de estresse sobre a variável câmbio (Dólar), mantendo o IPCA 
+e a taxa Selic em seus valores médios conforme as expectativas de mercado. No segundo, o 
+estresse foi aplicado ao IPCA e à Selic, com o Dólar mantido em seu valor médio. Já no terceiro 
+cenário, foi considerado um estresse simultâneo nas três variáveis macroeconômicas: IPCA, 
+Selic e Dólar - Gráfico 4. 
+ 
+ 
+ 
+2026
+2027
+2028
+2029
+2030
+Mínimo
+5.968.378.234
+6.824.168.494
+7.671.579.697
+7.966.537.853
+9.437.735.028
+Médio
+6.239.584.310
+7.054.567.025
+8.010.752.566
+8.311.496.880
+9.864.316.460
+Máximo
+6.407.622.324
+7.312.438.363
+8.443.840.146
+8.935.919.369
+10.827.674.486
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+
+=== PÁGINA 40 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+40 
+ 
+Gráfico 4 – Projeções do Serviço da Dívida no Cenário 1 (PROPAG 20%) – Estresse nas 
+variáveis 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+Conforme mencionado, o Estado estará obrigado a realizar um aporte anual 
+correspondente a 1% do saldo devedor ao Fundo de Equalização Fiscal (FEF), com o objetivo 
+de compensar os Estados em situação fiscal mais equilibrada. Adicionalmente, deverá destinar 
+outros 1% do saldo devedor para investimentos locais, também em base anual. Considerando o 
+FEF e os investimentos previstos no PROPAG 20%, os valores máximos totalizam R$ 2,93 
+bilhões. O Gráfico 5 apresenta a distribuição desses valores máximos no cenário do PROPAG 
+20%, discriminados entre Serviço da Dívida, FEF e Investimentos. 
+ 
+Gráfico 5 – Projeções do Serviço da Dívida, FEF e Investimentos no 
+Cenário 1 (PROPAG 20%) – em R$ bilhões 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+2026
+2027
+2028
+2029
+2030
+Dólar
+6.863.925.194
+7.648.847.550
+8.576.809.512
+8.717.808.104
+10.248.275.762
+Ipca e Selic
+6.269.654.681
+7.193.909.861
+8.363.487.363
+8.995.886.939
+11.024.438.121
+Três variáveis
+6.894.031.981
+7.788.389.235
+8.930.078.478
+9.403.263.426
+11.410.226.204
+ 0 Mil
+  2,0 Bi
+  4,0 Bi
+  6,0 Bi
+  8,0 Bi
+  10,0 Bi
+  12,0 Bi
+6,41
+7,31
+8,44
+8,94
+10,83
+1,47
+1,55
+1,63
+1,69
+1,74
+1,47
+1,55
+1,63
+1,69
+1,74
+2026
+2027
+2028
+2029
+2030
+PROPAG 20% (SERVIÇO DA DÍVIDA)
+PROPAG 20% (FEF)
+PROPAG 20% (INVESTIMENTOS)
+
+=== PÁGINA 41 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+41 
+ 
+De modo complementar às projeções determinísticas anteriores, o Risco de Mercado foi 
+avaliado por meio de uma Simulação de Monte Carlo, contemplando 1.200 simulações com 
+variações simultâneas nas variáveis IPCA, Selic e taxa de câmbio (Dólar) – Gráfico 6. 
+ 
+Gráfico 6 - Projeções do Serviço da Dívida no Cenário 1 (PROPAG 20%) - 
+Estocástico (1200 simulações) 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+3.5 Cenário 2 – Adesão ao PROPAG com amortização mínima de 10% (PROPAG 10%) 
+Neste cenário, o Estado opta por aderir ao PROPAG com amortização extraordinária de 
+no mínimo 10% do saldo devedor, por meio da entrega de ativos à União — o que representa 
+aproximadamente R$ 17,75 bilhões. Além disso, o Estado deverá destinar, anualmente, 1,5% 
+do saldo devedor ao Fundo de Equalização Federativa (FEF) e outros 1,5% para investimentos 
+locais. 
+Este cenário também contempla o escalonamento das parcelas de pagamento da dívida, 
+com aumento gradual: 20% no 1º ano, 40% no 2º, 60% no 3º, 80% no 4º e 100% a partir do 5º 
+ano do termo aditivo. A diferença entre os valores devidos e os efetivamente pagos nesse 
+período será incorporada ao saldo devedor a partir do quinto ano, com atualização pelos 
+encargos contratuais de adimplência. 
+Embora este modelo mantenha os juros reais em 0%, como no cenário PROPAG 20%, 
+a menor amortização inicial, combinada com aportes mais elevados ao FEF e em investimentos, 
+pode gerar maior pressão sobre o fluxo de caixa estadual — especialmente em um contexto de 
+restrições orçamentárias. Assim, apesar de demandar menor esforço imediato, este cenário pode 
+implicar desafios fiscais adicionais no médio e longo prazo. 
+2026
+2027
+2028
+2029
+2030
+Mínimo
+6.143.295.070
+6.982.137.237
+7.971.457.957
+8.340.292.906
+9.960.768.162
+Médio
+6.241.940.602
+7.093.710.102
+8.131.734.498
+8.565.252.875
+10.310.580.424
+Máximo
+6.338.274.001
+7.206.820.240
+8.291.404.184
+8.789.961.024
+10.671.196.374
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+
+=== PÁGINA 42 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+42 
+ 
+Neste cenário, PROPAG com amortização extraordinária de 10%, as projeções do 
+Serviço da Dívida, construídas com base nas expectativas de mercado e em simulações 
+estocásticas da taxa de câmbio (dólar), apontam para um valor médio de aproximadamente R$ 
+6,36 bilhões em 2026, alcançando R$ 10,62 bilhões em 2030 – Gráfico 7. 
+Gráfico 7 - Projeções do Serviço da Dívida no Cenário 2 (PROPAG 10%) - Expectativas 
+de Mercado e Simulação para o Dólar 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+As projeções com estresse nas variáveis para o cenário PROPAG 10% são apresentadas 
+no Gráfico 8. No Gráfico 9, são apresentados os valores do FEF e Investimentos, enquanto no 
+Gráfico 10 constam as projeções estocásticas. 
+Gráfico 8 - Projeções do Serviço da Dívida no Cenário 2 (PROPAG 10%) - Estresse nas 
+variáveis 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+2026
+2027
+2028
+2029
+2030
+Mínimo
+6.087.873.518
+7.070.524.770
+8.052.200.145
+8.489.256.601
+10.159.597.619
+Médio
+6.360.600.784
+7.306.831.063
+8.403.871.960
+8.855.217.134
+10.618.234.863
+Máximo
+6.530.583.216
+7.575.608.059
+8.866.838.298
+9.539.598.106
+11.684.509.314
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+  14 Bi
+2026
+2027
+2028
+2029
+2030
+Dólar
+6.920.101.890
+6.985.140.034
+7.901.525.089
+8.970.573.291
+9.262.419.603
+Ipca e Selic
+6.393.743.671
+7.461.976.140
+8.798.377.199
+9.622.334.005
+11.919.948.740
+Três variáveis
+7.018.323.889
+8.056.893.872
+9.365.679.471
+10.030.734.894
+12.307.201.214
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+  14 Bi
+
+=== PÁGINA 43 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+43 
+ 
+Gráfico 9 - Projeções do Serviço da Dívida, FEF e Investimentos no Cenário 2 
+(PROPAG 10%) - em R$ bilhões 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+Gráfico 10 - Projeções do Serviço da Dívida no Cenário 2 (PROPAG 10%) - Estocástico 
+(1200 simulações) 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+3.6 Cenário 3 – Adesão ao PROPAG sem amortização extraordinária (PROPAG 0%) 
+Neste cenário, o Estado adere ao PROPAG sem realizar qualquer amortização 
+extraordinária, mantendo o saldo devedor inalterado. Em contrapartida, compromete-se a 
+aportar anualmente 2% do saldo devedor ao FEF e a destinar outros 2% para investimentos 
+locais. 
+Também se aplica a este cenário o escalonamento gradual das parcelas da dívida: 20% 
+no 1º ano, 40% no 2º, 60% no 3º, 80% no 4º e 100% a partir do 5º ano. A diferença entre os 
+valores devidos e os efetivamente pagos nesse período será incorporada ao saldo devedor a 
+partir do quinto ano, com atualização pelos encargos financeiros contratuais. 
+Embora esse modelo mantenha os juros reais em 0%, como nos demais cenários, a 
+ausência de amortização extraordinária impede a redução imediata do estoque da dívida, 
+6,53
+7,58
+8,87
+9,54
+11,68
+2,47
+2,61
+2,74
+2,85
+2,94
+2,47
+2,61
+2,74
+2,85
+2,94
+2026
+2027
+2028
+2029
+2030
+PROPAG 10%  (SERVIÇO DA DÍVIDA)
+PROPAG 10% (FEF)
+PROPAG 10% (INVESTIMENTOS)
+2026
+2027
+2028
+2029
+2030
+Mínimo
+6.265.098.248
+7.234.982.963
+8.367.385.607
+8.891.746.853
+10.728.153.934
+Médio
+6.362.645.826
+7.349.783.548
+8.538.039.291
+9.138.100.279
+11.116.913.829
+Máximo
+6.460.073.024
+7.467.834.311
+8.708.854.449
+9.387.603.958
+11.519.340.721
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+  14 Bi
+
+=== PÁGINA 44 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+44 
+ 
+perpetuando um nível elevado de risco fiscal no longo prazo. Além disso, o aumento substancial 
+dos aportes obrigatórios ao fundo e dos investimentos vinculados pode comprometer o fluxo de 
+caixa do Estado, restringindo a capacidade de alocação de recursos para outras áreas 
+prioritárias. 
+Neste cenário, PROPAG sem amortização extraordinária, as projeções do Serviço da 
+Dívida elaboradas com base nas expectativas de mercado e em simulações probabilísticas para 
+a taxa de câmbio indicam um valor médio de aproximadamente R$ 6,48 bilhões em 2026, 
+atingindo 11,37 bilhões em 2030 – Gráfico 11. 
+Gráfico 11 – Projeções do Serviço da Dívida no Cenário 3 (PROPAG 0%) – 
+Expectativas de Mercado e Simulação para o Dólar 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+As projeções com estresse nas variáveis para o cenário PROPAG 0% são apresentadas 
+no Gráfico 12. No Gráfico 13, são apresentados os valores do FEF e Investimentos, enquanto 
+no Gráfico 14 constam as projeções estocásticas. 
+Gráfico 12 - Projeções do Serviço da Dívida no Cenário 3 (PROPAG 0%) - Estresse nas 
+variáveis 
+ 
+2026
+2027
+2028
+2029
+2030
+Mínimo
+6.207.368.803
+7.316.881.047
+8.432.820.593
+9.011.975.349
+10.881.460.211
+Médio
+6.481.617.259
+7.559.095.102
+8.796.991.355
+9.398.937.389
+11.372.153.267
+Máximo
+6.653.544.107
+7.838.777.756
+9.289.836.450
+10.143.276.844
+12.541.344.142
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+  14 Bi
+2026
+2027
+2028
+2029
+2030
+Dólar
+7.106.354.874
+8.154.202.628
+9.364.337.071
+9.807.031.103
+11.758.584.155
+Ipca e Selic
+6.517.832.661
+7.730.042.418
+9.233.267.035
+10.248.781.071
+12.815.459.360
+Três variáveis
+7.142.615.797
+8.325.398.508
+9.801.280.464
+10.658.206.362
+13.204.176.223
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+  14 Bi
+
+=== PÁGINA 45 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+45 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+Gráfico 13 - Projeções do Serviço da Dívida, FEF e Investimentos no Cenário 3 
+(PROPAG 0%) - em R$ bilhões 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+Gráfico 14 – Projeções do Serviço da Dívida no Cenário 3 (PROPAG 0%) - Estocástico 
+(1200 simulações) 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+3.7 Cenário 4 – Manutenção do Estado no Regime de Recuperação Fiscal (RRF) 
+Neste cenário, o Estado não realiza a adesão ao PROPAG e permanece no Regime de 
+Recuperação Fiscal (RRF), criado para apoiar a reestruturação das finanças estaduais. Embora 
+proporcione alívio fiscal temporário com suporte da União, o RRF não altera a estrutura do 
+endividamento estadual, mantendo o risco fiscal elevado. 
+Os principais benefícios do RRF durante sua vigência são: 
+6,65
+7,84
+9,29
+10,14
+12,54
+3,66
+3,87
+4,06
+4,23
+4,36
+3,66
+3,87
+4,06
+4,23
+4,36
+2026
+2027
+2028
+2029
+2030
+PROPAG 0%
+PROPAG 0% / FEF
+PROPAG 0% / INVESTIMENTOS
+2026
+2027
+2028
+2029
+2030
+Mínimo
+6.386.901.426
+7.487.828.689
+8.763.313.258
+9.442.007.267
+11.495.539.707
+Médio
+6.485.199.589
+7.607.578.982
+8.945.891.199
+9.711.879.786
+11.923.909.969
+Máximo
+6.581.872.046
+7.728.848.382
+9.126.304.715
+9.985.246.892
+12.367.485.069
+ 0 Mil
+  2,0 Bi
+  4,0 Bi
+  6,0 Bi
+  8,0 Bi
+  10,0 Bi
+  12,0 Bi
+  14,0 Bi
+
+=== PÁGINA 46 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+46 
+ 
+a) redução temporária das prestações das dívidas administradas pela Secretaria do Tesouro 
+Nacional, contratadas antes do pedido de adesão ao regime; e 
+b) pagamento, pela União, das parcelas de operações de crédito garantidas, também 
+contratadas antes da adesão, sem execução imediata das contragarantias. 
+Esses benefícios são aplicados de forma regressiva. No primeiro ano, o Estado não paga 
+parcelas de dívida, mas essa isenção diminui gradualmente em 11,11 pontos percentuais por 
+ano até sua eliminação total. O mesmo percentual de redução progressiva aplica-se aos valores 
+pagos pela União em nome do Estado. 
+Apesar dessas vantagens iniciais, o RRF não enfrenta as causas estruturais da dívida. As 
+projeções indicam que, sem um ajuste fiscal mais robusto, o saldo devedor continuará 
+crescendo, impulsionado por encargos elevados. A principal fonte desse custo é a metodologia 
+do Coeficiente de Atualização Monetária (CAM), que utiliza a taxa Selic como referência — 
+com projeções de 15% em 2025, 12,5% em 2026 e 10,5% em 2027. 
+Como resultado, o cenário mantém encargos elevados e crescente comprometimento 
+orçamentário, sem garantir sustentabilidade fiscal no longo prazo. A permanência no RRF 
+representa, portanto, uma solução paliativa, que posterga ajustes necessários e pode agravar a 
+situação fiscal no futuro. 
+As projeções para o cenário de manutenção no RRF indicam um valor médio de R$ 8,98 
+bilhões para 2026 e R$ 16,91 bilhões para 2030 – Gráfico 15. 
+ 
+Gráfico 15 – Projeções do Serviço da Dívida no Cenário 4 (RRF) – Expectativas de 
+Mercado e Simulação para o Dólar 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+2026
+2027
+2028
+2029
+2030
+Mínimo
+8.797.060.984
+10.670.188.661
+12.475.527.802
+13.885.694.497
+15.601.703.811
+Médio
+8.985.225.651
+11.125.166.348
+13.310.165.424
+14.993.747.433
+16.912.178.151
+Máximo
+9.127.920.336
+11.602.654.351
+14.245.044.144
+16.426.293.006
+19.067.582.901
+ 0 Mil
+  5 Bi
+  10 Bi
+  15 Bi
+  20 Bi
+  25 Bi
+
+=== PÁGINA 47 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+47 
+ 
+As projeções com estresse nas variáveis para o cenário RRF são apresentadas no Gráfico 
+16, enquanto no Gráfico 17 constam as projeções estocásticas. 
+ 
+Gráfico 16 - Projeções do Serviço da Dívida no Cenário 4 (RRF) - Estresse nas variáveis 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+Gráfico 17 - Projeções do Serviço da Dívida no Cenário 4 
+(RRF) - Estocástico (1200 simulações) 
+ 
+Fonte: DCGD/SCGOV/STE/SEF. 
+ 
+3.8 Análise comparativa entre cenários 
+Ao comparar os cenários, é fundamental considerar as despesas adicionais com o FEF 
+e os investimentos previstos nos cenários do PROPAG. As Tabelas 10 e 11 expõem 
+exclusivamente o Serviço da Dívida. Nessa análise, observa-se uma redução significativa do 
+Serviço da Dívida nos cenários do PROPAG em relação ao RRF, especialmente no cenário com 
+amortização extraordinária de 20%, que apresenta uma redução de aproximadamente 30% em 
+2026
+2027
+2028
+2029
+2030
+Dólar
+9.162.212.810
+11.390.689.111
+13.654.267.655
+15.329.194.302
+17.289.555.336
+Ipca e Selic
+9.150.707.809
+11.693.649.278
+14.440.376.919
+16.807.774.302
+19.723.651.550
+Três variáveis
+9.328.328.737
+11.962.167.841
+14.791.100.678
+17.154.303.858
+20.118.786.180
+ 0 Mil
+  5 Bi
+  10 Bi
+  15 Bi
+  20 Bi
+  25 Bi
+2026
+2027
+2028
+2029
+2030
+Mínimo
+8.950.800.193
+11.239.944.604
+13.343.023.031
+15.004.621.442
+17.028.091.998
+Médio
+9.034.018.507
+11.400.288.941
+13.761.160.308
+15.641.177.791
+17.930.112.516
+Máximo
+9.106.347.564
+11.579.217.778
+14.156.742.077
+16.292.706.267
+18.863.651.477
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+  14 Bi
+  16 Bi
+  18 Bi
+  20 Bi
+
+=== PÁGINA 48 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+48 
+ 
+2026 em comparação ao RRF. Essa diferença se amplia ao longo do tempo, alcançando uma 
+redução de 43% em 2030. 
+Tabela 10 – Comparativo entre Cenários – Serviço da Dívida (exclusivamente) – 
+Valores Máximos das Expectativas de Mercado 
+ANO 
+PROPAG 20% 
+PROPAG 10% 
+PROPAG 0% 
+RRF 
+2026 
+6.407.622.324 
+6.530.583.216 
+6.653.544.107 
+9.127.920.336 
+2027 
+7.312.438.363 
+7.575.608.059 
+7.838.777.756 11.602.654.351 
+2028 
+8.443.840.146 
+8.866.838.298 
+9.289.836.450 14.245.044.144 
+2029 
+8.935.919.369 
+9.539.598.106 10.143.276.844 16.426.293.006 
+2030 
+10.827.674.486 
+11.684.509.314 12.541.344.142 19.067.582.901 
+Fonte: DCGD/SCGOV/STE/SEF 
+ 
+Tabela 11 – Comparação entre PROPAG e RRF – Serviço da Dívida (exclusivamente) 
+ANO PROPAG 20% PROPAG 10% PROPAG 0% 
+2026 
+-30% 
+-28% 
+-27% 
+2027 
+-37% 
+-35% 
+-32% 
+2028 
+-41% 
+-38% 
+-35% 
+2029 
+-46% 
+-42% 
+-38% 
+2030 
+-43% 
+-39% 
+-34% 
+Fonte: DCGD/SCGOV/STE/SEF 
+ 
+Entretanto, uma análise mais adequada da efetiva redução do Serviço da Dívida no caso 
+de adesão ao PROPAG deve considerar também as despesas com o FEF. As Tabela 12 e 13 
+apresentam a comparação entre o PROPAG e o RRF, somando o Serviço da Dívida às 
+obrigações com o FEF. Observa-se novamente uma expressiva redução no cenário do PROPAG 
+com amortização extraordinária de 20%, iniciando com uma diferença de -14% em relação ao 
+RRF em 2026 e ampliando-se para -34% em 2030. No cenário com amortização extraordinária 
+de 10%, a redução começa com -1% em 2026 e alcança -23% em 2030. Já no cenário do 
+PROPAG sem amortização extraordinária (PROPAG 0%), há um aumento de 13% em 2026 em 
+comparação ao RRF; entretanto, a trajetória é de melhoria progressiva, culminando em uma 
+redução de -11% em 2030, demonstrando que, mesmo sem amortização extraordinária, o 
+
+=== PÁGINA 49 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+49 
+ 
+PROPAG reduz consideravelmente o impacto fiscal no Serviço da Dívida no médio prazo e 
+longo prazo.  
+Tabela 12 – Comparativo entre Cenários – Serviço da Dívida com FEF – 
+Valores Máximos das Expectativas de Mercado 
+ANO 
+PROPAG 20% 
+PROPAG 10% 
+PROPAG 0% 
+RRF 
+2026 
+7.873.476.740 
+9.004.212.543 10.318.180.148 9.127.920.336 
+2027 
+8.861.833.794 
+10.190.212.848 11.712.266.331 11.602.654.351 
+2028 
+10.069.697.343 
+11.610.472.319 13.354.479.444 14.245.044.144 
+2029 
+10.626.617.553 
+12.392.651.292 14.370.022.305 16.426.293.006 
+2030 
+12.570.443.678 
+14.625.432.327 16.898.267.124 19.067.582.901 
+Fonte: DCGD/SCGOV/STE/SEF 
+ 
+Tabela 13 – Comparação entre PROPAG e RRF – Serviço da Dívida com FEF 
+ANO PROPAG 20% PROPAG 10% PROPAG 0% 
+2026 
+-14% 
+-1% 
+13% 
+2027 
+-24% 
+-12% 
+1% 
+2028 
+-29% 
+-18% 
+-6% 
+2029 
+-35% 
+-25% 
+-13% 
+2030 
+-34% 
+-23% 
+-11% 
+Fonte: DCGD/SCGOV/STE/SEF 
+ 
+O risco e o impacto fiscal decorrentes da não adesão ao PROPAG tornam-se ainda mais 
+evidentes quando se projeta o Serviço da Dívida no longo prazo. O Gráfico 18 ilustra essa 
+trajetória, evidenciando de forma clara o efeito cumulativo e significativo do risco fiscal 
+associado à permanência fora do PROPAG ao longo do tempo. 
+Complementarmente, o Gráfico 19 apresenta o mesmo fluxo de pagamentos descontado 
+pela taxa Selic atual de 14,25%. A diferença acumulada entre os fluxos descontados atinge uma 
+redução de -45% no cenário do PROPAG com amortização extraordinária de 20%, -36% no 
+cenário do PROPAG com 10% de amortização extraordinária e -25% no cenário do PROPAG 
+sem amortização extraordinária, em comparação ao RRF. 
+
+=== PÁGINA 50 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+50 
+ 
+Gráfico 18 - Serviço da Dívida e FEF - Comparação entre PROPAG e RRF - Valores 
+Nominais (máximos das expectativas de mercado) 
+ 
+Fonte: DCGD/SCGOV/STE/SEF 
+ 
+Gráfico 19 - Serviço da Dívida e FEF - Comparação entre PROPAG e RRF - Valores 
+Descontados (Selic 14,25% a.a.) 
+ 
+Fonte: DCGD/SCGOV/STE/SEF 
+As comparações anteriores desconsideram as despesas obrigatórias com investimentos 
+previstas no PROPAG, por se tratar de obrigações de natureza distinta do Serviço da Dívida, 
+ainda que vinculadas a um percentual do saldo devedor. A Tabela 14 apresenta os valores 
+projetados da despesa abrangendo o Serviço da Dívida, o FEF e os Investimentos obrigatórios 
+em caso de adesão ao PROPAG. Mesmo considerando essas despesas adicionais, o cenário do 
+PROPAG permanece vantajoso em relação ao RRF, não apenas pela significativa redução da 
+despesa no médio e longo prazo – Gráfico 20, mas também pelo mérito do esforço fiscal 
+direcionado à realização de investimentos, que contribuem para a sustentabilidade e o 
+crescimento econômico futuro. 
+ 0 Mil
+  10 Bi
+  20 Bi
+  30 Bi
+  40 Bi
+  50 Bi
+  60 Bi
+  70 Bi
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+2051
+2052
+2053
+2054
+2055
+2056
+RRF
+PROPAG 20%
+PROPAG 10%
+PROPAG 0%
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+2051
+2052
+2053
+2054
+2055
+2056
+RRF
+PROPAG 20%
+PROPAG 10%
+PROPAG 0%
+
+=== PÁGINA 51 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+51 
+ 
+No fluxo total com Serviço da Dívida, FEF e Investimentos descontado pela Selic atual 
+de 14,25%, a diferença acumulada atinge uma redução de -37% no cenário do PROPAG com 
+amortização extraordinária de 20%, -23% no cenário do PROPAG com 10% de amortização 
+extraordinária e -6% no cenário do PROPAG sem amortização extraordinária, em comparação 
+ao RRF – Gráfico 21. 
+ 
+Tabela 14 - Comparativo entre Cenários – Serviço da Dívida com FEF e Investimentos – 
+Valores Máximos das Expectativas de Mercado 
+ANO 
+PROPAG 20% 
+PROPAG 10% 
+PROPAG 0% 
+RRF 
+2026 
+9.339.331.157 
+11.477.841.871 13.982.816.189 9.127.920.336 
+2027 
+10.411.229.224 
+12.804.817.637 15.585.754.907 11.602.654.351 
+2028 
+11.695.554.541 
+14.354.106.340 17.419.122.439 14.245.044.144 
+2029 
+12.317.315.737 
+15.245.704.478 18.596.767.766 16.426.293.006 
+2030 
+14.313.212.871 
+17.566.355.340 21.255.190.106 19.067.582.901 
+Fonte: DCGD/SCGOV/STE/SEF 
+ 
+Gráfico 20 - Serviço da Dívida, FEF e Investimentos - Comparação entre PROPAG e 
+RRF - Valores Nominais (máximos das expectativas de mercado) 
+ 
+Fonte: DCGD/SCGOV/STE/SEF 
+ 
+ 0 Mil
+  10 Bi
+  20 Bi
+  30 Bi
+  40 Bi
+  50 Bi
+  60 Bi
+  70 Bi
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+2051
+2052
+2053
+2054
+2055
+2056
+RRF
+PROPAG 20%
+PROPAG 10%
+PROPAG 0%
+
+=== PÁGINA 52 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+52 
+ 
+Gráfico 21 - Serviço da Dívida, FEF e Investimentos - Comparação entre PROPAG e 
+RRF - Valores Descontados (Selic 14,25% a.a.) 
+ 
+Fonte: DCGD/SCGOV/STE/SEF 
+Além da análise do risco fiscal associado à não adesão ao PROPAG sob a perspectiva 
+do Serviço da Dívida, é fundamental avaliar a trajetória do saldo devedor nos cenários 
+comparativos entre o PROPAG e o RRF. O Gráfico 22 apresenta as projeções para o saldo da 
+dívida em cada cenário, evidenciando, mais uma vez, a capacidade do PROPAG de reduzir o 
+risco e o impacto fiscal em relação ao RRF. Observa-se uma mudança significativa na trajetória 
+do saldo, decorrente da reestruturação da dívida promovida no âmbito do PROPAG. Essa 
+inflexão na trajetória é crucial para a redução do risco fiscal ao longo do tempo e representa um 
+passo fundamental para a consolidação da sustentabilidade fiscal. 
+Gráfico 22 - Saldo da Dívida - Comparação entre PROPAG e RRF 
+ 
+Fonte: DCGD/SCGOV/STE/SEF 
+Diante dos cenários e projeções apresentados, passa-se à avaliação do Risco Fiscal 
+associado ao Serviço da Dívida. Considerando o comparativo sintetizado na Tabela 14 entre os 
+cenários projetados com valores máximos – devido às incertezas no contexto macroeconômico 
+ 0 Mil
+  2 Bi
+  4 Bi
+  6 Bi
+  8 Bi
+  10 Bi
+  12 Bi
+  14 Bi
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+2051
+2052
+2053
+2054
+2055
+2056
+RRF
+PROPAG 20%
+PROPAG 10%
+PROPAG 0%
+0
+50
+100
+150
+200
+250
+300
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+2051
+2052
+2053
+2054
+2055
+Bilhões
+RRF
+ PROPAG 0%
+PROPAG 10%
+PROPAG 20%
+
+=== PÁGINA 53 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+53 
+ 
+– e o planejamento do Estado no sentido da adesão ao PROPAG com esforço máximo de 
+amortização extraordinária (PROPAG 20%), têm-se como riscos fiscais associados ao Serviço 
+da Dívida, sob a ótica do planejamento, os montantes de R$ 2.138.510.714 (no caso de adesão 
+ao PROPAG com amortização mínima de 10% – PROPAG 10%) e de R$ 4.643.485.032 (no 
+caso de adesão ao PROPAG sem amortização extraordinária – PROPAG 0%).  
+Além destes, considera-se também o risco macroeconômico decorrente de choques de 
+estresse nas principais variáveis econômicas que afetam o Serviço da Dívida - inflação (IPCA), 
+taxa Selic e taxa de câmbio (dólar). O possível impacto fiscal, neste caso, seria de R$ 
+516.651.746 para o PROPAG 20%, R$ 538.774.199 para o PROPAG 10% e R$ 564.676.912 
+para o PROPAG 0%, não cumulativo. 
+4. Frustração de Receita de Dividendos e Juros sobre Capital Próprio (JCP) 
+ 
+O Estado de Minas Gerais possui 12 empresas controladas diretamente. Do total de 
+empresas estatais, apenas 3 são classificadas como dependentes do Tesouro Estadual, nos 
+termos do disposto no art. 2º, inciso III, da Lei de Responsabilidade Fiscal (LRF).  
+Os riscos fiscais avaliados nessa seção estão relacionados a 10 empresas estatais não 
+dependentes. 
+ 
+Tabela 15 – Empresas Estatais Incluídas na Análise de Riscos 
+Nº 
+EMPRESA 
+DENOMINAÇÃO 
+PARTICIPAÇÃO 
+ACIONÁRIA 1 
+1 
+BDMG 
+Banco de Desenvolvimento de Minas Gerais 
+99,20% 
+2 
+CEMIG 
+Companhia Energética de Minas Gerais 
+17,04% 
+3 
+CODEMGE 
+Companhia de Desenvolvimento de Minas Gerais 
+99,99% 
+4 
+CODEMIG 
+Companhia de Desenvolvimento Econômico de Minas Gerais 
+49,00% 
+5 
+COHAB 
+Companhia de Habitação do Estado de Minas Gerais 
+99,99% 
+6 
+COPASA 
+Companhia de Saneamento de Minas Gerais 
+50,04% 
+7 
+METROMINAS 
+ Trem Metropolitano de Belo Horizonte 
+68,13% 
+8 
+MGI 
+MGI - Minas Gerais Participações S.A. 
+99,96% 
+9 
+MGS 
+MGS - Minas Gerais Administração e Serviços S.A. 
+99,65% 
+10 
+PRODEMGE 
+Companhia Tecnologia da Informação do Estado de Minas Gerais 
+98,91% 
+Fonte: DCGR/SCGOV/STE/SEF.  
+1 Participação acionária em 31/12/2024. 
+ 
+
+=== PÁGINA 54 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+54 
+ 
+A receita de dividendos e Juros sobre o Capital Próprio (JCP) tem como origem a 
+distribuição de parcela do lucro apurado no exercício e de reservas de lucros, observadas as 
+regras estabelecidas em lei e na política de dividendos de cada empresa estatal, bem como o 
+percentual de participação acionária. 
+Ao compor o orçamento fiscal, a receita de dividendos e JCP, classificada como receita 
+patrimonial, contribui para a formação dos recursos disponíveis para a execução da despesa 
+pública. Eventual frustação dessa receita prevista poderá afetar as contas públicas e inviabilizar 
+a implementação de políticas públicas cujas despesas são fixadas anualmente na lei 
+orçamentária. Nem todas as empresas estatais realizam pagamento de dividendos e JCP aos 
+acionistas, motivo pelo qual a presente avaliação de risco está restrita às empresas estatais com 
+pagamento previsto para os exercícios de 2026 a 2028. 
+ 
+Gráfico 23 – Previsão de Recebimento de Dividendos e JCP 
+ 
+Fonte: DCGR/SCGOV/STE/SEF. Previsões apresentadas pelas empresas (março/2025) 
+ 
+A avaliação do risco fiscal de frustração de receita de dividendos e JCP considera os 
+seguintes critérios: efetividade da receita prevista na Lei Orçamentária Anual (LOA) e 
+avaliação de frustração do pagamento dividendos e JCP pelas empresas estatais. 
+ 
+4.1 Efetividade da Receita Prevista na Lei Orçamentária Anual (LOA) 
+ 
+Ao avaliar as receitas previstas na LOA, para os exercícios de 2019 a 2024, em 
+comparação com a receita realizada e registrada no Sistema Integrado de Administração 
+Financeira de Minas Gerais (SIAFI), observa-se que, em todos os exercícios, os valores 
+arrecadados foram superiores aos previstos. O percentual de arrecadação superior ao previsto 
+varia entre 21%, observado no exercício de 2021, até 269%, observado em 2019. Ao considerar 
+o acumulado do período de 2019 a 2024, os valores arrecadados foram 158% superiores aos 
+2,45 Bi
+2,57 Bi
+2,61 Bi
+2026
+2027
+2028
+
+=== PÁGINA 55 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+55 
+ 
+previstos na LOA. Em valores absolutos, a arrecadação superou a receita prevista no mínimo 
+em R$ 300 milhões, em 2022, e no máximo em R$ 953 milhões, em 2020. 
+A diferença entre a receita prevista e realizada pode ser explicada pelos seguintes 
+fatores: adoção de critérios conservadores nas estimativas, limitações técnicas inerentes às 
+estimativas de eventos futuros, distribuições de dividendos extraordinários e distribuição de 
+dividendos ordinários em percentual acima do previsto. 
+Gráfico 24 – Receita de Dividendos e JCP Prevista X Realizada 
+ 
+Fonte: DCGR/SCGOV/STE/SEF. 
+ 
+ 
+Considerando as informações acima, observa-se que historicamente não houve frustação 
+de receita de dividendos e JCP de empresas estatais em relação à receita prevista no orçamento 
+fiscal. 
+ 
+4.2 Frustração do Pagamento de Dividendos e JCP pelas Empresas Estatais 
+ 
+A previsão de recebimento de dividendos e JCP tem como origem as informações 
+apresentadas pelas empresas estatais. Além da previsão, as empresas estatais realizam a 
+classificação do risco de frustração de pagamento como remoto, possível ou provável, 
+mensurando eventual frustração se possível. Dessa forma, constituem-se, como base de análise, 
+as estimativas de frustração de receita de 7 empresas estatais que projetaram o pagamento de 
+dividendos e JCP entre 2026 e 2028. 
+ 
+ 
+225 Mi
+565 Mi
+811 Mi
+1,4 Bi
+1,7 Bi
+2,2 Bi
+830 Mi
+1,5 Bi
+1,6 Bi
+1,7 Bi
+2,1 Bi
+3,2 Bi
+269%
+169%
+92%
+21%
+24%
+46%
+2019
+2020
+2021
+2022
+2023
+2024
+Receita Prevista (LOA)
+Receita Realizada
+Receita Realizada acima da Prevista (%)
+
+=== PÁGINA 56 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+56 
+ 
+Tabela 16 – Risco de Frustração de Dividendos e JCP pelas Empresas Estatais 
+EXERCÍCIO 
+PREVISÃO 
+DIVIDENDOS/JCP 
+RISCO 
+PREDOMINANTE 
+FRUSTRAÇÃO ESTIMADA 
+MENSURÁVEL 
+2026 
+2.449.307.166,19 
+Possível 
+1.634.753.267,00 66,7% 
+2027 
+2.568.357.026,00 
+Possível 
+1.790.894.246,00 69,7% 
+2028 
+2.606.094.728,65 
+Possível 
+1.859.509.401,92 71,4% 
+ Fonte: DCGR/SCGOV/STE/SEF. 
+ 
+No consolidado das empresas estatais, predominou-se o risco possível para o exercício 
+de 2026, sendo a redução mensurável em relação aos valores previstos de 66% ou R$ 1,63 
+bilhão. A frustração pode ser atribuída principalmente (95%) aos dividendos e JCP previstos 
+para pagamento pela CODEMIG e CODEMGE, com risco classificado como possível, em 
+função da eventual federalização da CODEMIG, no âmbito do Programa de Pleno Pagamento 
+de Dívidas dos Estados (PROPAG). Para os exercícios de 2027 e 2028, também se observou a 
+predominância do risco possível, com redução mensurável atribuída também à eventual 
+federalização da CODEMIG. 
+Considerando a predominância do risco possível de pagamento de dividendos e JCP 
+inferior ao valor previsto, o risco fiscal de frustação de dividendos e JCP pelas empresas estatais 
+para 2026 é de R$ 1,63 bilhão. 
+ 
+5. Aporte de Capital Emergencial em Empresas Estatais 
+ 
+O aporte de capital emergencial corresponde à necessidade de recursos não previstos no 
+orçamento fiscal e destinados ao financiamento de investimentos ou à cobertura de despesas de 
+caráter pontual nas empresas estatais. A frequência do aporte de capital emergencial, bem como 
+o montante de recursos necessários do Tesouro Estadual, são fatores que podem afetar as contas 
+públicas. A avaliação histórica dos aportes de capital e a previsão de aporte de capital 
+apresentada pelas empresas estatais permitem avaliar o risco fiscal. 
+A avaliação das despesas com aporte de capital deve considerar apenas os recursos que 
+apresentam impacto no orçamento fiscal, excluindo-se os eventos que independem de execução 
+orçamentária. As despesas com aporte de capital que utilizam recursos provenientes do Tesouro 
+têm origem na necessidade de recursos elencados pela administração da empresa estatal, no 
+curso do exercício. Diante das incertezas de materialização do aporte de capital nas empresas 
+estatais, não se verifica a conveniência de fixar na lei orçamentária despesas oriundas dessa 
+
+=== PÁGINA 57 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+57 
+ 
+operação. Eventual previsão implicaria em elevação do orçamento sem perspectiva real de 
+execução. 
+Ao avaliar as despesas com aporte de capital, realizadas no período de 2019 a 2024, 
+observa-se a utilização das fontes orçamentárias, recursos ordinários provenientes do Tesouro 
+(Fonte 10) e recursos diretamente arrecadados por meio de legislação específica (Fonte 61).  
+O aporte de capital com a utilização de recursos diretamente arrecadados por meio de 
+legislação específica refere-se ao Fundo de Desenvolvimento Social e Econômico (FUNDESE). 
+A lei de criação estabeleceu que uma parcela dos financiamentos administrados pelo BDMG 
+seja retida, na forma de remuneração, e integralizada ao capital social. Nesse sentido, o aporte 
+de capital com recursos do FUNDESE, por possuírem recursos próprios e vinculados, não 
+apresenta potencial de risco fiscal. 
+O aporte de capital com a utilização de recursos ordinários provenientes do Tesouro, por 
+outro lado, pode se constituir como risco fiscal ao Estado. Ao avaliar o período de 2019 a 2024, 
+observa-se em todos os exercícios aportes de capital com recursos ordinários provenientes do 
+Tesouro, correspondendo a uma despesa média anual no valor de R$ 230 milhões. 
+Gráfico 25 – Aportes de Capital com Recursos do Tesouro 
+ 
+Fonte: DCGR/SCGOV/STE/SEF. Demonstrativos Contábeis - Contas Inversões Financeiras 
+ 
+No período de 2019 a 2024, BDMG, CODEMGE, COHAB, METROMINAS, MGI e 
+MGS receberam aportes de capital do Estado. Sob o aspecto da frequência dos aportes, BDMG, 
+COHAB e MGI são as empresas estatais que receberam recursos em 4 ou mais exercícios, nos 
+últimos 6 exercícios. 
+Relativamente ao BDMG, os recursos utilizados para aporte de capital têm como origem 
+os valores declarados na forma dividendos e JCP, não incluídos na previsão de pagamento de 
+150 Mi
+214 Mi
+47 Mi
+554 Mi
+79 Mi
+337 Mi
+2019
+2020
+2021
+2022
+2023
+2024
+
+=== PÁGINA 58 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+58 
+ 
+dividendos e JCP, motivo pelo qual os aportes de capital não apresentaram impacto no 
+orçamento fiscal. 
+A COHAB recebeu aportes de capital em 4 exercícios e apresenta uma situação 
+financeira deficitária recorrente. A MGI, por sua vez, recebeu aportes de capital nos últimos 6 
+exercícios, no valor médio de R$ 93 milhões ao ano. 
+Gráfico 26 – Aportes de Capital por Empresa com Recursos do Tesouro Estadual 
+ 
+ 
+Fonte: Demonstrativos Contábeis - Contas Inversões Financeiras 
+ 
+A análise histórica dos aportes de capital demonstra que COHAB e MGI necessitarão 
+provavelmente de recursos para aporte de capital nos próximos exercícios, devendo a análise 
+ser complementada com a avaliação das empresas estatais acerca do risco de aportes de capital 
+emergencial a serem realizados com recursos do Tesouro Estadual. Ressalta-se que para a 
+avaliação do risco, devem ser excluídos os aportes de capital cujos recursos têm origem em 
+dividendos/JCP, uma vez que embora sejam recursos do Tesouro Estadual, derivaram de 
+distribuição de lucros da própria estatal.  
+Nesse sentido, a MGI apresentou como risco provável de aporte de capital para 2026 o 
+valor de R$ 210 milhões, e provável a necessidade de aporte de capital para 2027 e 2028, sem 
+valor mensurável. A COHAB, por sua vez, apresentou como risco provável de aporte de capital 
+para o período de 2026 a 2028, nos valores de R$ 58 milhões, R$ 25 milhões e R$ 25 milhões, 
+respectivamente. 
+ 
+ 
+1 Mi
+210 Mil
+66 Mil
+15 Mi
+7 Mi
+4 Mi
+58 Mi
+82 Mi
+33 Mi
+40 Mi
+126 Mi
+75 Mi
+204 Mi
+67 Mi
+106 Mi
+107 Mi
+74 Mi
+321 Mi
+2019
+2020
+2021
+2022
+2023
+2024
+METROMINAS
+COHAB
+MGI
+BDMG
+CODEMGE
+
+=== PÁGINA 59 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+59 
+ 
+Tabela 17 – Risco de Aporte de Capital em Empresas Estatais 
+EXERCÍCIO 
+VALOR ESTIMADO 
+(TOTAL) 
+VALOR ESTIMADO  
+(RECURSOS DO TESOURO) 
+2026 
+ 367.527.956,92 
+ 268.000.000,00 
+2027 
+ 143.036.589,06 
+ 25.000.000,00  
+2028 
+ 169.770.599,50 
+ 25.000.000,00 
+Fonte: DCGR/SCGOV/STE/SEF. 
+Nota: O valor total estimado corresponde aos aportes de capital com a utilização de 
+recursos do Tesouro Estadual e de dividendos/JCP a serem declarados. 
+ 
+6. Despesas com Parcerias Público-Privadas (PPPs) e Concessões   
+ 
+As parcerias público-privadas (PPPs) e as concessões comuns têm se consolidado como 
+instrumentos estratégicos para a expansão e modernização da infraestrutura no Brasil. Esses 
+modelos vêm ganhando relevância ao viabilizarem a alocação de capital e expertise do setor 
+privado, incorporando inovação e eficiência na prestação de serviços públicos essenciais. 
+Diversos projetos têm sido estruturados em setores variados, como rodovias, aeroportos, portos, 
+hospitais, unidades prisionais, mobilidade urbana, iluminação pública, entre outros. 
+No âmbito desses contratos, o setor privado assume obrigações que abrangem o 
+financiamento, a execução das obras, a operação e a manutenção da infraestrutura. Em 
+contrapartida, cabe ao poder público garantir as condições contratuais adequadas, inclusive por 
+meio do pagamento regular das contraprestações devidas nas PPPs e da alocação eficiente dos 
+riscos nos contratos. 
+O cumprimento tempestivo dessas obrigações financeiras é fundamental não apenas 
+para preservar a credibilidade do poder concedente e a segurança jurídica dos contratos 
+vigentes, mas também para assegurar a continuidade dos investimentos já realizados e viabilizar 
+a expansão de novos projetos. A previsibilidade e a adimplência são fatores essenciais para 
+atrair investidores e garantir o bom funcionamento da modelagem contratual, contribuindo para 
+a sustentabilidade fiscal e a efetiva melhoria dos serviços prestados à população. 
+O Estado de Minas Gerais, alinhado à tendência nacional, tem adotado de forma 
+consistente os modelos de PPPs e concessões como instrumentos de política pública para 
+viabilizar investimentos em infraestrutura e ampliar a qualidade dos serviços prestados à 
+população. Essa estratégia tem permitido a mobilização de capital privado e o aproveitamento 
+da expertise técnica do setor, com projetos estruturados em diversas áreas como mobilidade, 
+segurança pública, meio ambiente e serviços ao cidadão. 
+
+=== PÁGINA 60 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+60 
+ 
+Importante destacar que Minas Gerais tem honrado seus compromissos contratuais, 
+mantendo regularidade nos pagamentos devidos e reforçando a previsibilidade necessária para 
+a sustentabilidade dos contratos. Essa postura institucional tem contribuído para preservar a 
+confiança dos investidores e garantir a continuidade dos investimentos em curso, além de 
+sustentar a ambição do Estado de ampliar sua carteira de projetos e consolidar um ambiente 
+propício à atração de novos investimentos privados. Segue abaixo histórico dos principais 
+contratos celebrados pelo Estado: 
+Quadro 2 – Contratos de PPP e Concessões Vigentes 
+Nº 
+NOME  
+MODALIDADE 
+DATA 
+ASSINATURA 
+1 
+Rodovia MG-050 
+Concessão Patrocinada 
+21/05/2007 
+2 
+Complexo Prisional 
+Concessão Administrativa 
+16/06/2009 
+3 
+Mineirão 
+Concessão Administrativa 
+21/12/2010 
+4 
+UAI Fase 1 
+Concessão Administrativa 
+23/12/2010 
+5 
+Sistema Produtor Rio Manso 
+Concessão Administrativa 
+20/12/2013 
+6 
+UAI Fase 3 
+Concessão Administrativa 
+10/12/2014 
+7 
+UAI Fase 2 
+Concessão Administrativa 
+19/12/2014 
+8 
+Aeroporto Regional Zona da Mata 
+Concessão Patrocinada 
+22/12/2014 
+9 
+Balsa Manga - Matias Cardoso 
+Concessão Comum 
+02/12/2015 
+10 
+Rodovia BR135 
+Concessão Comum 
+19/06/2018 
+11 
+Rota das Grutas Peter Lund 
+Concessão de uso 
+05/08/2021 
+12 
+Aeroporto da Pampulha 
+Concessão Comum 
+21/01/2022 
+13 
+TERGIP e Estações Metropolitanas 
+Concessão Comum 
+19/07/2022 
+14 
+Estádio Mineirinho 
+Concessão de uso 
+17/08/2022 
+15 
+Lote Rod. 1 (Triângulo Mineiro) 
+Concessão Comum 
+11/11/2022 
+16 
+Lote Rod.  2 (Sul de Minas) 
+Concessão Patrocinada 
+11/11/2022 
+17 
+Metrô 
+Concessão Comum com aporte 
+23/03/2023 
+18 
+Rodoanel  
+Concessão Patrocinada  
+30/03/2023 
+19 
+Parque Ibitipoca/Itacolomi 
+Concessão de uso 
+23/05/2023 
+20 
+Lote Rod. 3 (Varginha/Furnas) 
+Concessão Comum  
+12/08/2023 
+21 
+Serraria Souza Pinto 
+Concessão de uso 
+12/07/2024 
+  Fonte: SEINFRA. 
+Conforme estabelecido no art. 28 da Lei nº 11.079/2004, o limite das despesas de 
+natureza continuada decorrentes do conjunto de parcerias corresponde a 5% (cinco por cento) 
+
+=== PÁGINA 61 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+61 
+ 
+da Receita Corrente Líquida (RCL). É importante ressaltar que as projeções de despesas de PPP 
+do Estado de Minas Gerais têm se mantido bastante aquém deste limitador fiscal. 
+Gráfico 27 – Projeção de Despesas do Estado com PPPs – 2025 a 2034 
+Fonte: RREO 1º Bim. 2025. 
+Nota: apesar de o atingimento do limite de 5% estar ainda distante para o ano de 2026, registrou-se um aumento 
+expressivo nas despesas, o qual se justifica pelo planejado investimento em desapropriações no contrato do 
+Rodoanel, em conformidade com a solicitação encaminhada ao COFIN (cf. Ofício SEINFRA/SUBMOB nº. 
+123/2022: SEI 48624694). 
+ 
+Importa esclarecer que os valores acima considerados como despesas abrangem apenas 
+os valores referentes às contraprestações, não incluindo os montantes relacionados aos aportes, 
+em cumprimento às diretrizes da Portaria STN/MF nº 138, de 6 de abril de 2023. 
+O valor projetado para a RCL foi calculado com base nos dados da Lei Orçamentária 
+Anual de 2025 (LOA). Além disso, foram considerados dados fornecidos posteriormente pela 
+Secretaria Estadual de Fazenda (SEF), que projetou os exercícios subsequentes utilizando-se de 
+média geométrica, conforme indicado pelo Manual de Pleitos da Secretaria do Tesouro 
+Nacional (MIP). 
+Portanto, considerando o conjunto de contratos de PPP atualmente em vigor no Estado, 
+que hoje representa 0,59% da receita corrente líquida, é pouco provável que o limite fiscal 
+estabelecido pela Lei nº 11.079/2004 seja ultrapassado. Assim, a possibilidade de 
+enquadramento nas restrições relativas à concessão de garantias ou à realização de 
+transferências voluntárias pela União é considerada remota. 
+As obrigações financeiras explicitamente contingentes, quais sejam, aquelas cuja 
+exigibilidade está condicionada à ocorrência de eventos incertos, configuram potenciais riscos 
+0,59%
+1,05%
+0,57%
+0,63%
+0,67%
+0,69%
+0,62%
+0,60%
+0,60%
+0,54%
+ -
+ 200
+ 400
+ 600
+ 800
+ 1.000
+ 1.200
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+Milhões
+Total das Despesas
+Total das Despesas / RCL (%)
+
+=== PÁGINA 62 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+62 
+ 
+fiscais. A Lei Federal nº 11.079/2004 estabelece a distribuição de riscos entre o Poder 
+Concedente e o parceiro privado (artigos 4º e 5º, inciso III), inclusos os referentes a caso 
+fortuito, força maior, fato do príncipe e álea econômica extraordinária. 
+As PPPs diferem, portanto, dos demais contratos administrativos regidos pela Lei 
+Federal de Licitações e Contratos Administrativos (atual Lei nº 14.1343/2021), nos quais o 
+Poder Público arca integralmente com os potenciais ônus associados a eventual materialização 
+de diversos riscos, cabendo neste caso ao privado assumir apenas os riscos referentes à álea 
+ordinária. 
+De fato, nas PPPs, permite-se a divisão objetiva de riscos entre o Poder Público e a 
+iniciativa privada, não se aplicando unicamente a teoria dos fatos imprevisíveis ou áleas 
+administrativas. 
+Por sua vez, os contratos de concessão são contratos de longo prazo e, por isso, 
+reconhecidos como contratos imperfeitos. Também é prevista nesses contratos matriz de riscos 
+entre Poder Concedente e parceiro privado, com o intuito de disciplinar eventos futuros e 
+incertos cujas partes possuem melhor capacidade para gerenciá-los. 
+Os principais riscos inerentes aos contratos de PPPs e concessões concentram-se na 
+demanda, construção e disponibilidade do serviço prestado, a depender de cada projeto. 
+Em relação ao mapeamento da matriz de riscos e à identificação de eventuais eventos 
+de desequilíbrio que possam provocar passivos contingentes, a partir das informações prestadas 
+pelos gestores dos respectivos contratos, destacam-se abaixo os principais riscos de seis 
+contratos de concessão em vigor, em especial: Rodoanel, Metrô, Mineirão, UAIs, Lote 
+Rodoviário 2 (Sul de Minas) e Rodovia MG-050. A seleção recaiu sobre esses contratos por 
+apresentarem riscos já mapeados e com maior grau de quantificação e/ou por representarem 
+projetos de grande relevância e impacto potencial para as finanças estaduais.  
+ 
+6.1 Rodoanel 
+ 
+Para o Rodoanel, os principais riscos atribuídos ao Poder Concedente que podem 
+acarretar obrigação contingente são: 
+a) risco de variação excessiva no preço de insumo - possível: alterações extraordinárias 
+no cenário macroeconômico que impliquem variação global nos insumos das obras e 
+serviços que represente uma variação maior do que 20% (vinte por cento) em relação 
+
+=== PÁGINA 63 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+63 
+ 
+aos valores previstos no EVTE (orçamento base), devidamente corrigidos pelo INCC, 
+em comparação com o orçamento global realizado até a data de início das obras de 
+implantação – o qual deverá ser realizado utilizando-se as mesmas referências das 
+tabelas oficiais utilizadas para o orçamento-base constante na licitação; 
+b) risco de receita tarifária e evasão - possível: quedas de receita tarifária em virtude 
+de evasão de pedágio, inadimplemento ou inviabilidade de qualificar o evento de 
+cobrança, quer por ausência de elementos (como placa ilegível), quer por erros 
+cadastrais (impossibilidade de identificar o proprietário do veículo), conforme 
+estabelecido no Contrato, observadas ainda as regras de compartilhamento de risco 
+previstas na Cláusula 32ª do Contrato e o Anexo 9; 
+c) risco de variação no custo e risco de desapropriação – provável: trata-se de risco 
+que impacta no custo das indenizações e em atraso na implantação do projeto. Destaca-
+se que, conforme Cláusula 20.2. do Contrato, o pagamento das indenizações 
+relacionadas às desapropriações, desocupações, reassentamentos e servidões 
+administrativas será realizado diretamente pelo Poder Concedente, por meio do 
+mecanismo de conta definido no Contrato; 
+d) variação nas despesas com licenciamento ambiental – possível: trata-se de risco 
+alocado ao Poder Concedente impactando a variação das despesas relativas à execução 
+dos atos de licenciamento indicados na subcláusula 19.3 do Contrato. Destaca-se que, 
+conforme subcláusula 19.6.1., o excedente dos limites previstos pela Concessionária, 
+em sua proposta econômica, para execução das atividades vinculadas ao licenciamento 
+ambiental, atendimento das condicionantes e ações mitigantes exigidas pelos órgãos 
+de licenciamento ambiental, compensações ambientais e a execução dos programas 
+ambientais nos termos do Anexo 13, será ressarcido diretamente pelo Poder 
+Concedente, por meio do mecanismo de conta definido no Contrato; 
+e) risco de implantação do sistema Free-Flow - possível: o Contrato, em seu Anexo 9, 
+prevê que a Concessionária deverá implantar e operar sistema Free-Flow de 
+arrecadação com pistas automáticas em todas as entradas e saídas da rodovia, 
+observadas as disposições do Plano de Exploração Rodoviária (PER) e da Lei Federal 
+n.º 14.157/21, bem como de sua regulamentação. Ainda, conforme previsto na 
+Subcláusula 66.1.1, inciso VII, a impossibilidade de implantação do sistema é um risco 
+que demandaria ações do Poder Concedente para garantir a obtenção de receita tarifária 
+pela Concessionária. Ressalta-se também os riscos inerentes à utilização do sistema, 
+
+=== PÁGINA 64 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+64 
+ 
+especialmente o que está relacionado à evasão, que pode aumentar o risco relacionado 
+à perda de receitas, em conformidade com o item “b” supramencionado. 
+ 
+6.2 Metrô 
+ 
+No caso do Metrô, tem-se: 
+a) risco de descasamento de tarifa – provável: o risco de descasamento de tarifa decorre 
+do estabelecimento de sistemáticas diferentes para o cômputo da tarifa pública, cobrada 
+do usuário do serviço público, e o cômputo da tarifa de remuneração, que corresponde 
+à tarifa técnica devida à Concessionária. Isso pode ocorrer em projetos de transporte 
+público, como na prestação de serviço de transporte sob trilhos, conforme previsto pela 
+Lei de Mobilidade (Lei Federal n.12.587/2012). Este foi o caso do Contrato do Metrô 
+conforme previsto, em especial, nas Cláusulas 9.7, 9.14 e 9.15. 
+ 
+A eventual ocorrência desse descasamento tarifário poderá provocar desequilíbrio 
+econômico-financeiro do contrato e, nesses casos, seria possível avaliar estratégias para 
+sua recomposição, tais como, por exemplo, a prorrogação do prazo contratual ou a 
+eventual instituição de subsídio tarifário – alternativas que poderão ser adotadas como 
+mecanismo para reduzir o valor a pagar pelo usuário, podendo tais medidas serem 
+temporárias ou permanentes. 
+ 
+É importante sinalizar que, caso a alternativa para a recompor o equilíbrio do Contrato 
+seja a instituição de subsídio tarifário, será necessária a análise de espaço fiscal, o que 
+deverá ser avaliado oportunamente. 
+ 
+b) variações extraordinárias de demanda - provável: as variações podem oferecer 
+riscos significativos a um contrato, afetando a receita, capacidade, custos operacionais 
+e revisões de contrato, sendo necessários ajustes econômicos caso virem a surgir, para 
+a correta manutenção do contrato. Destaca-se que, conforme o contrato do metrô: 
+ 
+10.4. A CONCESSIONÁRIA não é responsável pelos seguintes riscos 
+relacionados à Concessão, atribuídos ao PODER CONCEDENTE: 
+(v) Variações Extraordinárias de Demanda, nos termos da Subcláusula 11.26; 
+11.25. Constituem Variações Extraordinárias de Demanda aquelas variações à 
+Demanda Referencial identificadas pela CONCESSIONÁRIA em níveis 
+
+=== PÁGINA 65 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+65 
+ 
+superiores a 20 % (vinte por cento), durante, ao menos, 12 (doze) meses 
+consecutivos, observados os Fatores de Sazonalidade, que resultem na efetiva 
+redução da Remuneração da CONCESSIONÁRIA. 
+ 
+Em relação a esse risco, é importante destacar que já houve, no passado, reconhecimento 
+de reequilíbrio econômico-financeiro em favor da Concessionária no montante de 
+aproximadamente R$ 38 milhões, no que diz respeito exclusivamente à demanda 
+decorrente da frustração observada em período anterior. Esse tipo de desequilíbrio 
+apenas pode ser quantificado com base nos dados efetivos de demanda observada, o que 
+reforça a necessidade de acompanhamento contínuo. 
+ 
+Além disso, ressalta-se que conforme o “RT08_CBTU-BH Aval_Econ-Financeira -
+revØ (1)” (pág. 29), elaborado pelos estruturadores do projeto de concessão da prestação 
+do serviço do transporte sob trilhos (BNDES), o cenário de demanda-base para o 
+desenvolvimento da modelagem econômico-financeira é o C2T, “no qual há 
+requalificação da Linha 1 com a construção da estação Novo Eldorado e expansão da 
+Linha 2 com Tarifa a R$ 4,50, com integração e seccionamento de todas as linhas de 
+transporte por ônibus consideradas concorrentes ao Metrô.” O estudo específico da 
+projeção, “CBTU-BH - RT05 - Estudo de Demanda” (pág. 72), destaca que este 
+seccionamento deverá atingir 48 linhas, além de prever “um serviço metropolitano que 
+faz o atendimento à Av. Amazonas partindo do Terminal Cidade Industrial, fazendo o 
+retorno na Av. do Contorno, de modo a não deixar esse trecho desatendido devido ao 
+seccionamento de linhas”. 
+ 
+A justificativa apontada para tal cenário está na premissa de maximização da eficiência 
+da mobilidade urbana e do sistema de transporte. Todavia, a não implementação ou 
+a implementação alongada deste cenário (seccionamento de linhas), seja por resistência 
+de stakeholders ou de determinados grupos de usuários atendidos por linhas específicas, 
+poderá afetar o cenário-base da concessão, o que poderá impactar a demanda do sistema. 
+Por fim, é importante ressaltar que também estão sendo estudados mecanismos para 
+mitigar esse risco, incluindo a possibilidade de redução do valor da tarifa pública com 
+o objetivo de estimular o aumento da demanda. Tais medidas podem ser implementadas 
+de forma temporária ou permanente. No entanto, é crucial considerar que, caso essas 
+medidas não resultem no aumento esperado da demanda, isso pode levar a um 
+
+=== PÁGINA 66 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+66 
+ 
+desequilíbrio econômico-financeiro do contrato devido à não concretização do intervalo 
+da demanda referencial. 
+ 
+c) risco decorrente de impossibilidade de execução do projeto de engenharia para a 
+implantação da Estação Barreiro da Linha 2 da Rede, em razão de sua interface 
+com a MRS – possível. 
+ 
+Cláusula 10.4 
+(vii) Impossibilidade de a CONCESSIONÁRIA executar o projeto de engenharia 
+para a implantação da Estação Barreiro da Linha 2 da Rede elaborado com 
+base na solução de engenharia avençada com a MRS amigavelmente ou 
+determinada pelo Comitê de Prevenção e Resolução de Divergências, nos 
+termos da Subcláusula 21.5, desde que tal impedimento não decorra de fato 
+imputável à CONCESSIONÁRIA ou para o qual ela tenha contribuído; 
+ 
+No caso específico deste projeto, optou-se por ir além da mera informação de possíveis 
+riscos a título de passivo contingente: contratualmente foi criado um colchão de liquidez 
+(a ser utilizado conforme necessidade) por parte do Estado para fazer frente a eventuais 
+desequilíbrios, no prazo de 1 (um) ano após a assinatura do Contrato.  É o que prevê a 
+Cláusula 9.15.1 do Contrato: 
+ 
+9.15.1 
+O 
+PODER 
+CONCEDENTE 
+providenciará, 
+em 
+favor 
+da 
+CONCESSIONÁRIA, em até 1 (um) ano contado da Data de Assunção, recursos 
+na ordem de R$ 153.572.938,14 (cento e cinquenta e três milhões, quinhentos e 
+setenta e dois mil, novecentos e trinta e oito reais e quatorze centavos), com o 
+objetivo de serem assegurados os valores eventualmente devidos à 
+CONCESSIONÁRIA em cumprimento das obrigações previstas neste Contrato, 
+inclusive a eventual necessidade de Subsídios. 
+ 
+6.3 Mineirão 
+ 
+Foi detectado um possível risco relativo ao Contrato que pode desembocar em 
+obrigações financeiras para o Poder Concedente: 
+ 
+a) processo de arbitragem – provável: há, em sede arbitral, um procedimento ainda em 
+trâmite no qual a Concessionária apresentou 4 (quatro) pleitos de reequilíbrio 
+econômico-financeiro, relativos a (i) intervenções realizadas no gramado a pedido da 
+FIFA, (ii) alteração dos materiais utilizados para a execução dos guarda-corpos das 
+arquibancadas do Estádio, (iii) montagem de estruturas temporárias durante a realização 
+
+=== PÁGINA 67 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+67 
+ 
+da Copa das Confederações, e (iv) concessão da Arena Independência, que teria 
+ocasionado uma perda de receitas para a Minas Arena. 
+Em sentença arbitral parcial os árbitros reconheceram e deram ganho de causa aos 
+pleitos apresentados pela Concessionária e, atualmente, o procedimento está em fase de 
+cálculo dos valores referentes ao alegado desequilíbrio - fase de liquidação esta que 
+ainda não possui um prazo estimado para conclusão. 
+Quanto ao possível impacto decorrente da arbitragem, informa-se que o pedido 
+apresentado pela Concessionária perfaz o total de R$ 55.612.099,35. Contudo, tais 
+valores foram impugnados e ainda não há decisão arbitral final. 
+b) pleito de pandemia: tramita em fase administrativa pedido de reequilíbrio econômico-
+financeiro apresentado pela Concessionária em razão dos impactos da pandemia de 
+COVID-19. O pleito ainda está em análise pela Administração Pública e, até o 
+momento, não resultou em reconhecimento de desequilíbrio e/ou obrigação de 
+pagamento. 
+ 
+6.4 UAIs 
+ 
+Relativamente às Unidades de Atendimento Integrado, foi mapeado que o principal 
+risco diz respeito à possibilidade de reconfiguração dos serviços no ambiente da concessão e, 
+consequentemente, necessidade de nova revisão dos contratos. 
+ 
+a) reconfiguração dos serviços - possível: o risco refere-se a possíveis mudanças 
+significativas no perfil dos serviços prestados pelas Unidades de Atendimento Integrado 
+(UAIs) por determinação do Poder Concedente e/ou eventos tecnológicos que 
+eventualmente possuam o potencial de afetar o fluxo de caixa das concessões, tornando 
+necessária uma revisão contratual. 
+Vale mencionar tal risco visto que, em fevereiro de 2024, foi assinado um termo aditivo 
+com a Concessionária fundado na ocorrência desses eventos – as mudanças na operação 
+dos serviços exigidas pela Nova Carteira de Identidade (Decreto Nº 10.977, de 23 de 
+fevereiro de 2022) e os novos serviços provenientes do DETRAN tiveram impactos nos 
+custos da concessão. 
+ 
+6.5 Lote Rodoviário 2 (Sul de Minas) 
+ 
+Para o Lote Rodoviário 2 foram identificados os seguintes riscos: 
+
+=== PÁGINA 68 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+68 
+ 
+ 
+a) riscos de obras e serviços emergenciais – provável: a Cláusula 28.1.12 estabelece: 
+"28.1.12. Investimentos e custos decorrentes de eventuais Obras Emergenciais, desde 
+que os eventos que lhe deram causa não estejam cobertos pelos seguros contratados 
+pela Concessionária e tenham sido reconhecidos pelo Ente Regulador como 
+emergencial." 
+ 
+A análise do pleito relativo às obras emergenciais na BR-459, apresentada na LDO 
+passada, foi desmembrada em três trechos distintos: km 66, km 68 e km 75. No exercício 
+anterior, foi concluída a avaliação e aprovada a recomposição contratual referente ao 
+trecho do km 68. Os demais trechos (km 66 e km 75) seguem em fase de análise pelo 
+Poder Concedente, tanto quanto à caracterização da emergência quanto à quantificação 
+dos custos elegíveis para eventual reequilíbrio econômico-financeiro. 
+ 
+Cabe destacar que a intervenção já aprovada (km 68) representava a parcela mais 
+significativa do conjunto de obras em questão, de modo que os trechos remanescentes 
+(km 66 e km 75), embora relevantes, possuem caráter técnico e financeiro mais limitado. 
+Ainda assim, permanecem sob monitoramento da SEINFRA-MG, por envolverem risco 
+com potencial impacto fiscal, ainda que residual.  
+ 
+b) pleito estabelecido pela Cláusula 28.1.15 - provável: "28.1.15. Investimentos 
+associados à inclusão, supressão ou remoção de praças de pedágio ou alteração da 
+localização de sua implantação além do limite de quilometragem indicado no PER, 
+desde que não motivados pela Concessionária". No caso da PP08, o referido risco 
+materializou-se em relação a alteração na previsão inicial da Praça de Pedágio PP08, 
+que anteriormente seria implantada no modelo tradicional (praça física) e, agora, está 
+em operação por meio de pórtico de pedágio eletrônico (free flow). 
+Quanto ao eventual reequilíbrio econômico-financeiro associado a essa mudança, o 
+pleito segue em fase de análise pelo Poder Concedente, de modo a avaliar os critérios 
+de admissibilidade, bem como a definição do marco regulatório aplicável e a eventual 
+compensação financeira, caso seja reconhecido o direito. 
+ 
+6.6 Rodovia MG-050 
+ 
+a) risco de novos investimentos – Retorno de São Sebastião do Paraíso - provável: 
+trata-se de risco relacionado aos gastos com a inclusão de obra adicional não prevista 
+
+=== PÁGINA 69 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+69 
+ 
+originalmente no contrato, correspondente à implantação de dispositivo que permitirá o 
+acesso ao bairro cidade industrial do município de São Sebastião do Paraíso, além de 
+ter a função de retorno operacional. 
+b) risco de passivos contratuais - provável: refere-se ao processo voltado à resolução de 
+passivos contratuais, que contempla pleitos apresentados tanto pela Concessionária 
+quanto pelo Poder Concedente, sendo conduzido de forma a apurar o saldo líquido 
+resultante entre as partes. A análise dos pleitos e a quantificação final ainda está em 
+andamento e permanece em monitoramento pela gestão do contrato. 
+ 
+6.7 Outras PPPs e Concessões 
+ 
+Além dos contratos abordados individualmente no tópico anterior – cuja análise de 
+riscos fiscais foi realizada de forma mais aprofundada –, o Estado de Minas Gerais conta com 
+um conjunto mais amplo de parcerias público-privadas (PPPs) e concessões em vigor, conforme 
+listado no Quadro 2 e, para além desses contratos já celebrados, há ainda projetos em fase de 
+estruturação que abrangem setores diversos, tais como transporte rodoviário, meio ambiente, 
+mobilidade urbana, socioeducativo, educação, saúde, e desenvolvimento urbano, entre outros, 
+ampliando o escopo das responsabilidades contratuais sob gestão do Estado. 
+No caso dos demais contratos assinados, embora os riscos tenham sido objeto de análise 
+interna, sua apresentação individualizada não se mostrou eficiente neste momento, por distintas 
+razões, como baixa probabilidade de materialização no horizonte da LDO, ausência de 
+quantificação dos riscos com precisão e existência de projetos em fase pré-operacional, nos 
+quais o levantamento de riscos fiscais com impacto orçamentário imediato permanece 
+incipiente. 
+Diante desse cenário, foi adotada uma abordagem transversal com a sistematização dos 
+principais riscos fiscais por setor, de modo a refletir tendências e vulnerabilidades recorrentes, 
+independentemente do contrato específico. Essa estrutura permite identificar os riscos com 
+maior potencial de impacto fiscal, apoiar o monitoramento contínuo e subsidiar a formulação 
+de estratégias de mitigação no âmbito da gestão orçamentária e da governança contratual. 
+Desse modo, a seguir apresenta-se a consolidação dos principais riscos fiscais 
+identificados nos contratos de concessão e PPPs sob responsabilidade do Estado, organizados 
+por setor. Essa sistematização contribui para uma visão integrada e preventiva da exposição 
+fiscal do Estado no âmbito desses instrumentos contratuais, em consonância com os objetivos 
+da Lei de Diretrizes Orçamentárias. 
+
+=== PÁGINA 70 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+70 
+ 
+Tabela 18 – Principais Riscos Fiscais por Setor de Concessão 
+SETOR 
+RISCO 
+DESCRIÇÃO DO RISCO 
+Concessões 
+Rodoviárias 
+Desapropriação 
+Risco 
+de 
+os 
+custos 
+com 
+desapropriações 
+ultrapassarem 
+os 
+valores 
+estimados 
+contratualmente, resultando em pedidos de 
+reequilíbrio econômico-financeiro. 
+Licenciamento 
+ambiental 
+Risco 
+associado 
+a 
+variações 
+nos 
+custos 
+relacionados 
+ao processo 
+de 
+licenciamento 
+ambiental, 
+incluindo 
+cumprimento 
+de 
+condicionantes, ações mitigadoras, compensações 
+e programas ambientais. 
+DUF 
+Risco de compensação ao parceiro privado 
+decorrente da aplicação do Desconto de Usuário 
+Frequente (DUF), nos casos em que a perda de 
+receita 
+anual 
+ultrapasse 
+o 
+limite 
+previsto 
+contratualmente. 
+Evasão (free flow) 
+Risco de inadimplência nas tarifas de pedágio em 
+sistema de livre passagem (free flow), quando os 
+valores não arrecadados superarem o montante 
+suportado pela concessionária. 
+Equipamentos 
+públicos (lazer, 
+esportes, parques) 
+Riscos Regulatórios 
+Risco de alterações legais ou normativas que 
+impactem 
+a 
+geração 
+de 
+receitas 
+pela 
+concessionária, 
+podendo 
+comprometer 
+a 
+viabilidade econômico-financeira do contrato e 
+demandar compensações públicas. 
+Riscos de 
+Investimentos 
+Risco de necessidade de investimentos adicionais 
+não 
+previstos 
+nos 
+encargos 
+originais 
+da 
+concessionária, ensejando pleitos de reequilíbrio 
+contratual. 
+Mobilidade 
+(Transporte coletivo) 
+Variações 
+extraordinárias de 
+demanda 
+Risco de redução significativa da demanda em 
+relação à demanda referencial, ultrapassando os 
+limites da banda contratual inferior e exigindo 
+complementações 
+financeiras 
+pelo 
+Poder 
+Concedente. 
+Riscos Regulatórios 
+Risco decorrente de determinações unilaterais do 
+Poder Concedente que impliquem alterações na 
+operação ou nas especificações contratuais do 
+serviço. 
+Risco de mercado 
+Risco de alterações nas condições de mercado, 
+como variações de demanda ou concorrência, que 
+comprometam a capacidade da concessionária de 
+gerar receitas suficientes e possam acarretar 
+reequilíbrio contratual, conforme a matriz de 
+riscos. 
+Fonte: SEINFRA. 
+ 
+ 
+7. Riscos Ambientais 
+ 
+De acordo com o conceito de desastre estipulado pelo Escritório da Organização das 
+Nações Unidas para Redução de Risco de Desastres (UNDRR), é possível entendê-lo como 
+
+=== PÁGINA 71 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+71 
+ 
+“uma grave interrupção do funcionamento de uma comunidade ou sociedade, em qualquer 
+escala, devido a eventos perigosos que interagem com condições de exposição, vulnerabilidade 
+e capacidade, levando a perdas e/ou impactos humanos, materiais, econômicos e ambientais”3. 
+A depender de sua magnitude, duração e imprevisibilidade de ocorrência, os desastres 
+ambientais podem causar grandes prejuízos, desestabilizar a fauna e a flora e ocasionar, 
+inclusive, danos irreparáveis, como as perdas humanas. Dada a dimensão significativa desses 
+eventos, eles carregam consigo considerável potencial de impacto nas finanças públicas, 
+constituindo-se um risco fiscal. Isto porque a materialização da possibilidade de ocorrência de 
+qualquer desastre natural (como ventos extremos, excesso de chuvas, enchentes, rompimento 
+de barragens, queda de estruturas de grande porte – pontes, viadutos etc., deslizamentos de 
+morros e pedras sobre áreas urbanas, secas, incêndios de grandes proporções, entre outros) 
+demanda grande esforço e atuação do poder público, que direciona expressivo volume de 
+recursos orçamentários para ações de mitigação dos impactos, como gastos e obras 
+emergenciais. 
+Embora alguns destes incidentes sejam mais presentes no território mineiro (tais como 
+incêndios florestais e excesso de chuvas, além das catástrofes ocorridas com o rompimento das 
+barragens em anos recentes, nos municípios de Mariana em 2015 e Brumadinho em 2019), 
+grande parte dos desastres está atrelada a um elevado grau de imprevisibilidade. Mesmo diante 
+do cenário de incertezas, o orçamento do Estado de Minas Gerais prevê programas e ações para 
+o enfrentamento à ocorrência de desastres naturais e seus impactos. 
+Tanto no orçamento do ano corrente quanto no PPAG que dispõe sobre  exercícios 
+seguintes, existem diversas ações orçamentárias em variados órgãos que objetivam, em alguma 
+dimensão, a prevenção aos desastres e/ou o enfrentamento aos efeitos decorrentes deles. De 
+acordo com a LOA de 2025, o conjunto dessas ações possui crédito inicial superior a R$ 1,25 
+bi, e no que se refere a 2026, há previsão no PPAG de montante ainda superior, de quase R$ 
+1,3 bi, conforme ações orçamentárias cuja finalidade tem relação com a mitigação e 
+providências concernentes aos riscos de desastres ambientais. 
+ 
+                                               
+3 Disponível em https://www.undrr.org/terminology/disaster 
+
+=== PÁGINA 72 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+72 
+ 
+Gráfico 28 – Previsão Orçamentária em Ações Relacionadas a Riscos Ambientais 
+ 
+Fonte: LOA 2025, PPAG 2024-2027. 
+Nota: As ações consideradas no levantamento são as dos seguintes códigos: 4381, 
+1089, 4155, 4356, 4390, 4266, 1036, 1039, 1041, 4280, 4284, 4053, 4054, 4200, 
+4142, 1098, 4113, 4114, 4115, 4138 e 2036. 
+ 
+As ações possuem finalidades multifacetadas, de forma que, a título exemplificativo, 
+citam-se abaixo as duas de maior montante na LOA 2025, ambas sob responsabilidade do Corpo 
+de Bombeiros Militar de Minas Gerais (CBMMG). 
+ 
+Tabela 19 – Finalidade das Principais Ações Relacionadas a Riscos Ambientais 
+AÇÃO 
+ORÇAMENTO 
+FINALIDADE 
+4114 - 
+Gestão da 
+prevenção, 
+mitigação e 
+preparação 
+de desastre  
+R$ 436 mi 
+Conscientizar, fomentar, divulgar e operacionalizar as ações de gestão do risco 
+de desastres através de ações sólidas do Corpo de Bombeiros Militar de Minas 
+Gerais junto aos municípios mineiros nas fases de prevenção, mitigação e 
+preparação aos desastres e emergências complexas e prover suporte técnico-
+administrativo necessário ao cumprimento das demais atribuições 
+institucionais, em consonância às competências constitucionais e legais da 
+corporação e às diretrizes internacionais acerca de proteção e defesa civil  
+4115 - 
+Gestão da 
+resposta a 
+desastres 
+R$ 622 mi 
+Realizar a gestão de resposta a desastres e emergências em todos os 
+municípios do Estado de Minas Gerais através de iniciativas de busca e 
+salvamento e combate a incêndios, além de intervenções que garantam a 
+preservação da vida e de bens, bem como a continuidade das ações de proteção 
+e defesa civil, completando o ciclo de defesa civil  
+Fonte: LOA 2025. 
+No que se refere aos últimos três exercícios, levantaram-se também, nas LOAs 
+anteriores as ações orçamentárias correspondentes relacionadas a riscos ambientais. Com 
+exceção de 2022, nota-se que, nos anos recentes, a despesa realizada no conjunto de ações 
+abordadas ficou aquém do crédito inicial, o que sugere que o valor global do conjunto dessas 
+ações tem sido suficiente para os enfrentamentos aos quais elas se propõem. 
+ 
+ 
+1,25 bi
+1,29 bi
+1,33 bi
+2025
+2026
+2027
+
+=== PÁGINA 73 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+73 
+ 
+Tabela 20 – Execução das Ações Relacionadas a Riscos Ambientais 
+  
+2022 
+2023 
+2024 
+Crédito inicial 
+R$ 1.074.775.836,00 
+R$ 1.187.474.764,00 
+R$ 1.270.914.922,00 
+Crédito autorizado 
+R$ 1.346.490.407,76 
+R$ 1.366.672.466,69 
+R$ 1.279.702.002,04 
+Despesa realizada 
+R$ 1.184.904.128,44 
+R$ 1.040.244.426,19 
+R$ 1.004.805.506,69 
+Fonte: SIAFI-MG, LOAs 2022 a 2024. 
+Nota: com relação ao conjunto de ações orçamentárias de 2025 utilizadas como base para o cálculo, não houve 
+correspondência a uma delas em 2024 (4155), a três delas em 2023 (4284, 4138 e 2036) e a nove delas em 
+2022 (4381, 4266, 4284, 4053, 4054, 4200, 4142, 4138 e 2036). Não obstante, os créditos iniciais das ações 
+correspondentes encontradas somam montantes relevantes, superando em todos os três anos o valor global de 
+R$ 1 bi, razão pela qual se entende que a não correspondência de algumas ações da LOA de 2025 com anos 
+anteriores não prejudicou a análise desenvolvida. 
+ 
+É necessário destacar que existem também despesas realizadas em outras ações 
+orçamentárias de forma transversal, de modo que outras despesas da LOA não englobadas no 
+cálculo realizado acima também são suporte para a finalidade do enfrentamento aos desastres. 
+Para o orçamento de 2026, a previsão orçamentária de recursos apresentada no PPAG, 
+nas ações em questão, será refinada e ajustada quando da elaboração da LOA do referido 
+exercício, de maneira a atualizar os montantes previstos nas ações e definir seus créditos 
+iniciais. Embora alguns dos riscos tratados nesta seção sejam recorrentes e já exista previsão 
+no orçamento estadual de recursos para enfrentá-los, as ocorrências de desastres ambientais 
+apresentam alta variabilidade e imprevisibilidade, de modo que situações adicionais podem ter 
+implicações significativas sobre o gasto público. Em caso de necessidade superior aos 
+montantes inicialmente previstos, é possível ao poder público viabilizar recursos via créditos 
+adicionais, inclusive os extraordinários, para situações que demandem ação célere e específica, 
+além da possibilidade de utilização da reserva de contingência e da redução de despesas 
+discricionárias para redirecionar recursos às ações governamentais necessárias. 
+Além do exposto, na temática da mitigação e das providências frente aos riscos 
+ambientais, algumas iniciativas merecem realce. No que se refere a medidas para mitigar riscos 
+frente a eventos de rompimento de barragens, destaca-se a Lei Estadual n.º 23.291/2019, que 
+institui a Política Estadual de Segurança de Barragens (PESB), e outros normativos que a 
+regulamentaram. A referida lei disciplina o licenciamento ambiental e a fiscalização de 
+barragens de rejeitos ou resíduos industriais ou de mineração no Estado, de forma articulada 
+com a Política Nacional de Segurança de Barragens (PNSB), exigindo, por exemplo, um Plano 
+
+=== PÁGINA 74 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+74 
+ 
+de Ação de Emergência (PAE) que objetiva a segurança das pessoas e dos animais, a 
+preservação do meio ambiente e a salvaguarda do patrimônio cultural. 
+De acordo com a Assembleia Legislativa de Minas Gerais (ALMG)4, os principais 
+avanços trazidos pela PESB foram a proibição de acumulação ou disposição de rejeitos e 
+resíduos industriais ou de mineração em barragem sempre que houver melhor técnica 
+disponível; a proibição de instalação ou ampliação de barragem em caso de identificação de 
+comunidade na região possivelmente afetada; a proibição de operação de barragem que utilize 
+o método de alteamento a montante, bem como a obrigação de descaracterização dessas 
+estruturas; a exigência de caução para o licenciamento ambiental de barragem; a exigência de 
+credenciamento dos profissionais responsáveis pelas auditorias técnicas de segurança de 
+barragens perante o órgão ambiental competente; e a destinação de 50% do valor das multas 
+aplicadas pelo Estado aos municípios atingidos, em caso de rompimento de barragem. 
+Nessa linha, destaca-se também uma série de providências implementadas pela 
+Fundação Estadual do Meio Ambiente (Feam), como o desenvolvimento e publicação do 
+Sistema de Informações de Gerenciamento de Barragens (Sigibar), para o cadastro e 
+classificação das estruturas e o acompanhamento das auditorias das barragens; a realização de 
+mais de 2.400 fiscalizações em barragens cadastradas dos setores de mineração e indústria, 
+desde 2019; o monitoramento do processo de descaracterização das barragens alteadas pelo 
+método a montante, cujo número foi reduzido de 54 estruturas em 2019 para 33 atualmente; a 
+aprovação de 13 Planos de Ação de Emergência para Barragens (PAEs) e 112 Estudos de 
+Ruptura Hipotética de Barragens (ERHBs); o credenciamento de 96 profissionais habilitados 
+para atuarem como auditores independentes; a aplicação de medidas cautelares de suspensão 
+das atividades em barragens em 32 estruturas no ano de 2024; e o acompanhamento das 
+situações de emergência dos PAEs, abrangendo 20 barragens atualmente. 
+Em paralelo a essas ações, cabe mencionar o Plano Mineiro de Segurança Hídrica 
+(PMSH)5, que envolve levantamento de dados e informações, estudos técnicos, mapeamento de 
+áreas prioritárias para ações de segurança hídrica e a criação de um banco de projetos para as 
+áreas mapeadas, contendo diretrizes, metas e ações. 
+O PMSH tem como um de seus subprodutos o Relatório Parcial 003 (RP003), que 
+aborda o Estudo de Vulnerabilidade Hídrica e da Exposição do Ambiente a Eventos Extremos 
+(com diagnóstico dos eventos extremos no Estado e suas probabilidades de ocorrência, 
+avaliação dos danos e consequências dos desastres; projeção de tendências de chuvas e vazões; 
+                                               
+4 Disponível em https://mediaserver.almg.gov.br/acervo/525/215/1525215.pdf 
+5 Disponível em https://www.pmsh.com.br/ 
+
+=== PÁGINA 75 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+75 
+ 
+e avaliação do risco e vulnerabilidade à eventos extremos), o Estudo das Implicações 
+Econômicas dos Eventos Extremos (com mensuração dos impactos e prejuízos associados a 
+eventos extremos e estimativa de custos causados por eles) e o Estudo de Vulnerabilidade 
+Hídrica e da Exposição do Ambiente ao Rompimento de Barragens (com um inventário de 
+reservatórios e barragens do Estado, a avaliação de risco e vulnerabilidade ao rompimento de 
+barragens e a identificação de reservatórios que podem colocar em risco a segurança hídrica 
+por risco associado às barragens a montante). Esses estudos são importantes instrumentos para 
+auxiliar na mitigação dos riscos de novos desastres, na medida em que realizam diagnósticos, 
+projeções e avaliações de riscos envolvidos e colaboram para a identificação de áreas territoriais 
+mais vulneráveis. 
+Elaborado de forma conjunta pela Secretaria de Estado de Saúde (SES-MG) e pelo 
+CBMMG, o Plano de Preparação e Resposta ao Rompimento de Barragens6 é outra importante 
+iniciativa frente às emergências e aos desastres ocasionados por rompimento de barragens. O 
+referido plano aborda a legislação pertinente às barragens, definições e conceitos relacionados 
+à temática e ações de preparação e resposta de cada área da saúde por eixo de atuação, 
+considerando a existência de dois eixos: ações de gestão do risco de desastre (preparação) e 
+ações de gestão do desastre (resposta), no caso de um possível rompimento. Outros documentos 
+relevantes no contexto dos riscos ambientais elaborados conjuntamente pela SES-MG e pelo 
+CBMMG nos últimos anos são o Plano de Preparação e Resposta ao Período de Seca e 
+Estiagem7 e o Plano de Preparação e Resposta ao Período Chuvoso8, que objetivam consolidar 
+e estimular o fortalecimento da capacidade de preparação e resposta do Sistema Único de Saúde 
+frente às emergências e aos desastres ocasionados pela seca e estiagem e por processos 
+hidrológicos e geológicos relacionados ao período chuvoso em Minas Gerais, além de orientar, 
+definir e organizar as ações de saúde a serem executadas pela SES-MG e demais órgãos nos 
+eixos de atuação de preparação e de resposta desses desastres. 
+ 
+ 
+ 
+ 
+ 
+                                               
+6 Disponível em https://www.saude.mg.gov.br/wp-content/uploads/2023/12/04-12_Plano-de-Preparacao-e-
+Resposta-ao-Rompimento-de-Barragem-7ff.pdf 
+7 Disponível em https://www.saude.mg.gov.br/wp-content/uploads/2022/08/18-07-2024-Plano-de-Preparacao-e-
+Resposta-de-Seca-e-Estiagem-Atualizacao-2025_compressed-4df.pdf 
+8 Disponível em https://www.saude.mg.gov.br/wp-content/uploads/2023/01/Plano-de-Preparacao-e-Resposta-ao-
+Periodo-Chuvoso-670.pdf 
+
+=== PÁGINA 76 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+76 
+ 
+VI. MEDIDAS MITIGADORAS DOS RISCOS 
+O Quadro 3 sintetiza algumas medidas mitigadoras ou de monitoramento dos riscos 
+fiscais apresentados no presente Anexo de Riscos Fiscais. 
+ 
+Quadro 3 – Medidas Mitigadoras dos Riscos Fiscais 
+RISCO 
+MEDIDAS 
+Passivos 
+Contingentes 
+ Especialização temática da Advocacia Geral do Estado, 
+independentemente da competência territorial das comarcas, 
+qualificando o acompanhamento das teses judiciais; 
+ Existência de unidade especializada responsável pela defesa em 
+processos estratégicos e respectivas diligências junto aos Tribunais; 
+ Construção de estratégias jurídicas articuladas com as unidades da 
+AGE, consultivas e contenciosas, e com os órgãos e entidades 
+buscando decisões favoráveis ou prevenindo litígios; 
+ Acompanhamento permanente das decisões judiciais relevantes 
+proferidas pelo STF, STJ e TJMG para fins tanto de divulgação 
+quanto de propositura de medidas judiciais estratégicas; 
+ Divulgação e orientação aos Procuradores do Estado e Advogados 
+Autárquicos das decisões institucionais em matérias jurídicas; 
+ Promoção da desjudicialização por meio da indicação dos casos e 
+dos limites de dispensa de interposição de recursos judiciais com o 
+fim de mitigar a condenação do erário estadual aos ônus da 
+sucumbência; 
+ Uniformização do entendimento em questões jurídicas a serem 
+seguidas nos casos de dúvida e/ou discordância de atuação dos 
+Tribunais; 
+ Utilização dos dados de movimentação de processos judiciais a fim 
+de identificar eventuais teses repetitivas passíveis de tratamento 
+inteligente, reduzindo os riscos. 
+Frustração de 
+Arrecadação 
+Tributária 
+ Encaminhamento de projeções conservadoras para as receitas, para 
+compor o PLOA; 
+ Revisão periódica das estimativas de receita e aderência de 
+indicadores utilizados; 
+ Acompanhamento periódico do cumprimento do programa de 
+Metas de Arrecadação; 
+ Avaliação de implementação de programas de regularização de 
+dívidas; 
+ Aperfeiçoamento da legislação tributária; 
+ Avaliação da eficácia de benefícios fiscais; 
+ Acompanhamento dos processos legislativos em curso; 
+
+=== PÁGINA 77 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+77 
+ 
+ Aperfeiçoamento da legislação tributária. 
+Despesas de 
+Pessoal 
+ Concessão de reajuste salarial somente nas situações excepcionais 
+admitidas pelo art. 22, parágrafo único, da LRF; 
+ Envio tempestivo de manifestações técnicas para subsidiar a defesa 
+do Estado em ações judiciais afetas a matérias de pessoal; 
+ Nomeação em cargos comissionados e funções gratificadas 
+respeitando os limites impostos pela LRF; 
+ Criação de cargos efetivos somente mediante extinção de cargos 
+que compense o impacto financeiro; 
+ Acompanhamento de propostas normativas em tramitação na 
+Assembleia Legislativa e análise técnica de projetos de lei e 
+propostas de emenda à Constituição cuja aprovação pode gerar 
+aumento de despesas com pessoal, para subsidiar manifestação do 
+Poder Executivo; 
+ Dimensionamento de força de trabalho como forma de identificar 
+real necessidade de mão de obra das instituições para aprovação de 
+pleitos de reposição de pessoal; 
+ Autorizações de concursos públicos, contratações temporárias e 
+nomeações de cargos efetivos respeitando os limites impostos pela 
+LRF e pelo Regime de Recuperação Fiscal junto ao Comitê de 
+Orçamento e Finanças (Cofin); 
+ Acompanhamento Estratégico da Despesa de Pessoal da Educação; 
+ Monitoramento do crescimento vegetativo da Despesa de Pessoal. 
+Despesas com a 
+Dívida Pública 
+ Interlocução com o Governo Federal e outros agentes envolvidos; 
+ Acompanhamento dos processos legislativos em curso; 
+ Sugestões/Aperfeiçoamento da legislação regulamentar; 
+ Realização de estudos e análises sobre os requisitos legais para 
+viabilizar a adesão ao PROPAG; 
+ Mapeamento e precificação de ativos elegíveis para abatimento no 
+saldo da dívida, nos termos da Lei Complementar n° 212/2025; 
+ Revisão periódica das estimativas e aderência de indicadores 
+utilizados; 
+ Aperfeiçoamento dos modelos de projeção fiscal com cenários 
+alternativos e simulações de estresse; 
+ Implementação de modelos econométricos e de aprendizagem de 
+máquina na gestão da dívida; 
+ Avaliação e implementação de estratégias para renegociação e 
+reestruturação da dívida pública, visando melhorar o perfil do 
+endividamento. 
+
+=== PÁGINA 78 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+78 
+ 
+Frustração de 
+Receita de 
+Dividendos e JCP 
+ Política Estadual de Governança Corporativa; 
+ Deliberações por meio de órgãos colegiados compostos por 
+Secretários de Estado de áreas afins; 
+ Análise técnica das propostas de distribuição de lucros como 
+subsídio aos órgãos colegiados do Estado, previamente à 
+deliberação da empresa estatal; 
+ Monitoramento mensal da receita, com revisão da receita pelas 
+empresas estatais e controle das receitas realizadas; 
+ Encaminhamento de projeções conservadoras para as receitas na 
+elaboração do PLOA. 
+Aporte de Capital 
+Emergencial em 
+Empresas 
+ Política Estadual de Governança Corporativa; 
+ Deliberações por meio de órgãos colegiados compostos por 
+Secretários de Estado de áreas afins; 
+ Análise técnica das solicitações de aporte de capital como subsídio 
+aos órgãos colegiados do Estado, previamente à deliberação da 
+empresa estatal; 
+ Monitoramento mensal da despesa prevista e realizada e novas 
+solicitações de aporte de capital. 
+Despesas com 
+PPPs e Concessões 
+ Criação e atuação da Comissão de Regulação de Transportes 
+(CRT), instância técnica responsável pela análise de pleitos de 
+reequilíbrio econômico-financeiro, deliberação sobre questões 
+regulatórias e expedição de normas orientadoras, além da edição de 
+resoluções específicas que disciplinam os procedimentos para 
+pedidos de reequilíbrio, estabelecendo metodologias de cálculo, 
+parâmetros técnicos e prazos processuais; 
+ Realização de revisões ordinárias e extraordinárias nos contratos, 
+com base em parâmetros contratuais, estudos técnicos e premissas 
+atualizadas, garantindo a recomposição do equilíbrio econômico-
+financeiro sempre que necessário; 
+ Monitoramento das garantias ofertadas pelo Poder Concedente aos 
+parceiros privados; 
+ Acompanhamento proativo por parte dos fiscais e gestores públicos 
+com foco na análise de desempenho da concessão e formulação de 
+medidas para mitigar riscos associados à demanda, tais como 
+readequação do modelo operacional, implementação de políticas de 
+estímulo à demanda e revisão e recálculo periódico da demanda; 
+ Emprego de ferramentas estatísticas, simulações e modelagens 
+econômico-financeiras, com o objetivo de qualificar a estimativa 
+de impactos fiscais e subsidiar decisões técnicas e estratégicas. 
+
+=== PÁGINA 79 ===
+LEI DE DIRETRIZES ORÇAMENTÁRIAS – 2026 
+ANEXO II - RISCOS FISCAIS 
+79 
+ 
+Riscos Ambientais 
+ Previsão orçamentária em ações relacionadas ao enfrentamento à 
+ocorrência de desastres naturais e seus impactos; 
+ Aprimoramento da legislação ambiental, com destaque para as 
+normativas atinentes ao licenciamento ambiental e fiscalização de 
+barragens; 
+ Desenvolvimento do Sistema de Informações de Gerenciamento de 
+Barragens (Sigibar), destinado ao cadastro e à classificação das 
+estruturas, bem como à gestão e ao acompanhamento das auditorias 
+das barragens; 
+ Fiscalização de barragens e monitoramento do processo de 
+descaracterização de barragens alteadas “a montante”; 
+ Levantamento de dados e informações, realização de diagnósticos, 
+elaboração de estudos técnicos com projeções e avaliações de riscos 
+e mapeamento de áreas prioritárias (como o Plano Mineiro de 
+Segurança Hídrica, o Estudo de Vulnerabilidade Hídrica e da 
+Exposição do Ambiente a Eventos Extremos e o Estudo de 
+Vulnerabilidade Hídrica e da Exposição do Ambiente ao 
+Rompimento de Barragens); 
+ Elaboração de planos de preparação e resposta frente às 
+emergências e aos desastres (como o Plano de Preparação e 
+Resposta ao Rompimento de Barragens, o Plano de Preparação e 
+Resposta ao Período de Seca e Estiagem e o Plano de Preparação e 
+Resposta ao Período Chuvoso). 
+ 

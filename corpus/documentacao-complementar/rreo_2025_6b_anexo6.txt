@@ -1,0 +1,291 @@
+
+=== PÁGINA 1 ===
+RREO - ANEXO 6 (LRF, art 53, inciso III)
+ Em Reais 
+RECEITAS PRIMÁRIAS
+RECEITAS CORRENTES (I)
+                    114.203.863.363,00 
+                119.704.628.363,34 
+    Impostos, Taxas e Contribuições de Melhoria
+                      70.447.446.779,00 
+                  73.428.958.984,06 
+         ICMS
+                      50.997.654.444,00 
+                  52.843.986.110,07 
+                                                  -   
+                                              -   
+         IPVA
+                        4.926.341.073,00 
+                    5.180.921.285,41 
+         ITCD
+                        1.690.298.199,00 
+                    1.807.133.554,12 
+         IRRF
+                        7.790.417.687,00 
+                    8.328.974.794,32 
+         Outros Impostos, Taxas e Contribuições de Melhoria
+                        5.042.735.376,00 
+                    5.267.943.240,14 
+    Contribuições
+                        5.557.750.700,00 
+                    5.886.755.282,49 
+    Receita Patrimonial 
+                        5.440.722.034,00 
+                    8.290.714.569,95 
+        Aplicações Financeiras (II)
+                        2.804.815.981,00 
+                    4.860.810.288,62 
+        Outras Receitas Patrimoniais
+                        2.635.906.053,00 
+                    3.429.904.281,33 
+    Transferências Correntes
+                      28.670.581.142,00 
+                  27.711.537.443,90 
+         Cota-Parte do FPE
+                        7.424.276.193,00 
+                    7.301.170.192,06 
+         Transferências da LC 61/1989
+                           588.440.369,00 
+                       680.855.647,42 
+         Transferências do FUNDEB
+                      12.919.276.301,00 
+                  12.609.358.775,83 
+         Outras Transferências Correntes
+                        7.738.588.279,00 
+                    7.120.152.828,59 
+    Demais Receitas Correntes
+                        4.087.362.708,00 
+                    4.386.662.082,94 
+        Outras Receitas Financeiras (III)
+                               5.713.044,00 
+                           4.998.834,97 
+        Receitas Correntes Restantes
+                        4.081.649.664,00 
+                    4.381.663.247,97 
+RECEITAS PRIMÁRIAS CORRENTES (EXCETO FONTES RPPS) (IV) = [I - (II + III)]
+                    111.393.334.338,00 
+                114.838.819.239,75 
+RECEITAS PRIMÁRIAS CORRENTES (COM FONTES RPPS) (V)
+                      10.910.443.429,00 
+                  10.790.441.426,06 
+RECEITAS NÃO PRIMÁRIAS CORRENTES (COM FONTES RPPS) (VI)
+                             52.369.759,00 
+                         52.870.562,98 
+RECEITAS DE CAPITAL (EXCETO FONTES RPPS) (VII)
+                        4.781.001.051,00 
+                    2.124.382.266,99 
+    Operações de Crédito (VIII)
+                             72.635.073,00 
+                         36.332.445,72 
+    Amortização de Empréstimos (IX)
+                             82.766.378,00 
+                         88.733.544,31 
+    Alienação de Bens
+                             34.199.853,00 
+                         26.508.074,53 
+         Receitas de Alienação de Investimentos Temporários (X)
+         Receitas de Alienação de Investimentos Permanentes (XI)
+                                       1.000,00 
+                                   8.818,19 
+2211020104000 ALIEN. TITULOS VALORES MOBIL. APLIC. CONGEN. PERMANENTES - PRINC. - MINAS CAIXA
+                                                  -   
+                                              -   
+2211020105000 ALIEN. TITULOS VALORES MOBIL. APLIC. CONGEN. PERMANENTES - PRINC. - SANEAMENTO DO 
+SISTEMA FINANCEIRO - CREDIREAL/BEMGE
+                                                  -   
+                                              -   
+        Outras Alienações de Bens
+                             34.198.853,00 
+                         26.499.256,34 
+    Transferências de Capital
+                        2.695.051.618,00 
+                       218.378.789,28 
+        Convênios
+                        2.212.666.814,00 
+                       118.467.581,17 
+        Outras Transferências de Capital
+                           482.384.804,00 
+                         99.911.208,11 
+    Outras Receitas de Capital
+                        1.896.348.129,00 
+                    1.754.429.413,15 
+        Outras Receitas de Capital Não Primárias (XII)
+        Outras Receitas de Capital Primárias
+                        1.896.348.129,00 
+                    1.754.429.413,15 
+RECEITAS PRIMÁRIAS DE CAPITAL (EXCETO FONTES RPPS) (XIII) = [VII - (VIII + IX + X + XI + XII)]
+                        4.625.598.600,00 
+                    1.999.307.458,77 
+RECEITAS PRIMÁRIAS DE CAPITAL (COM FONTES RPPS) (XIV)
+RECEITAS NÃO PRIMÁRIAS DE CAPITAL (COM FONTES RPPS) (XV)
+RECEITA PRIMÁRIA TOTAL (XVI) = (IV + V + XIII + XIV)
+                    126.929.376.367,00 
+                127.628.568.124,58 
+RECEITA PRIMÁRIA TOTAL (EXCETO FONTES RPPS) (XVII) = (IV + XIII)
+                    116.018.932.938,00 
+                116.838.126.698,52 
+ LIQUIDADOS 
+ PAGOS                     (c)  
+DESPESAS CORRENTES (EXCETO FONTES RPPS) (XVIII)
+                    115.681.585.715,62                          108.469.222.261,53               105.849.917.095,71                 100.951.012.147,72                4.207.926.441,86                1.855.718.637,71                     1.852.773.784,20 
+     Pessoal e Encargos Sociais 
+                      75.185.171.051,40                            72.158.524.885,35                  72.152.993.988,85                   67.873.509.292,13                3.192.694.838,19                        8.191.512,12                            8.191.512,12 
+     Juros e Encargos da Dívida (XIX) 
+                        3.763.378.515,00                              3.420.656.597,48                    3.420.656.597,48                     3.363.040.337,87                   260.833.467,16 
+                                         -                                                 -  
+    Outras Despesas Correntes
+                      36.733.036.149,22                            32.890.040.778,70                  30.276.266.509,38                   29.714.462.517,72                   754.398.136,51                1.847.527.125,59                     1.844.582.272,08 
+ Transferências Constitucionais e Legais 
+                                                  -                                                          -                                                -                                                 -                                            -                                            -                                                 -  
+Demais Despesas Correntes
+                      36.733.036.149,22                            32.890.040.778,70                  30.276.266.509,38                   29.714.462.517,72                   754.398.136,51                1.847.527.125,59                     1.844.582.272,08 
+ DESPESAS PRIMÁRIAS CORRENTES (EXCETO FONTES RPPS) (XX) = (XVIII - XIX) 
+                    111.918.207.200,62                          105.048.565.664,05               102.429.260.498,23                   97.587.971.809,85                3.947.092.974,70                1.855.718.637,71                     1.852.773.784,20 
+DESPESAS PRIMÁRIAS CORRENTES (COM FONTES RPPS) (XXI)
+                      11.188.434.712,68                            10.896.577.402,03                  10.896.577.402,03                   10.026.359.289,16                   796.446.652,33 
+                                         -                                                 -  
+DESPESAS NÃO PRIMÁRIAS CORRENTES (COM FONTES RPPS) (XXII)
+                                                  -   
+DESPESAS DE CAPITAL (EXCETO FONTES RPPS) (XXIII)
+                      18.890.828.940,27                            12.198.176.164,48                  10.366.097.682,65                     9.980.898.830,23                   369.484.012,20                1.494.594.156,21                     1.476.658.320,64 
+     Investimentos 
+                      13.346.723.525,47                              8.342.695.185,89                    6.563.089.695,22                     6.271.330.884,25                   366.724.556,64                1.470.274.684,11                     1.452.338.848,54 
+     Inversões Financeiras 
+                        2.239.099.663,18                                 705.415.945,01                       652.942.953,85                        574.745.952,03                       2.759.455,56                     24.319.472,10                          24.319.472,10 
+         Concessão de Empréstimos e Financiamentos (XXIV) 
+                                     7.461.545,44                           5.846.301,44                            5.846.301,44 
+                                         -                             765.520,00                                765.520,00 
+         Aquisição de Título de Capital já Integralizado (XXV) 
+                                        402.748,84                              402.748,84                                402.748,84 
+                                         -                                            -                                                 -  
+         Aquisição de Título de Crédito (XXVI) 
+         Demais Inversões Financeiras 
+                        2.239.099.663,18                                 697.551.650,73                       646.693.903,57                        568.496.901,75                       2.759.455,56                     23.553.952,10                          23.553.952,10 
+     Amortização da Dívida (XXVII) 
+                        3.305.005.751,62                              3.150.065.033,58                    3.150.065.033,58                     3.134.821.993,95 
+                                         -                                            -                                                 -  
+ DESPESAS PRIMÁRIAS DE CAPITAL (EXCETO FONTES RPPS) (XXVIII) = [XXIII - (XXIV + XXV + XXVI + XXVII)] 
+                      15.585.823.188,65                              9.040.246.836,62                    7.209.783.598,79                     6.839.827.786,00                   369.484.012,20                1.493.828.636,21                     1.475.892.800,64 
+RESERVA DE CONTINGÊNCIA (XXIX)
+                           510.303.934,21 
+DESPESAS PRIMÁRIAS DE CAPITAL (COM FONTES RPPS) (XXX)
+ DESPESAS NÃO PRIMÁRIAS DE CAPITAL (COM FONTES RPPS) (XXXI) 
+DESPESA PRIMÁRIA TOTAL (XXXII) = (XX + XXI + XXVIII + XXIX + XXX)
+                    139.202.769.036,16                          124.985.389.902,70               120.535.621.499,05                 114.454.158.885,01                5.113.023.639,23                3.349.547.273,92                     3.328.666.584,84 
+DESPESA PRIMÁRIA TOTAL (EXCETO FONTES RPPS) (XXXIII) = (XX + XXVIII + XXIX)
+                    128.014.334.323,48                          114.088.812.500,67               109.639.044.097,02                 104.427.799.595,85                4.316.576.986,90                3.349.547.273,92                     3.328.666.584,84 
+RESULTADO PRIMÁRIO (COM RPPS) - Acima da Linha (XXXIV) = [XVIa - (XXXIIa +XXXIIb + XXXIIc)]
+RESULTADO PRIMÁRIO (SEM RPPS) - Acima da Linha (XXXV) = [XVIIa - (XXXIIIa +XXXIIIb + XXXIIIc)]
+                    4.765.083.530,93 
+Meta fixada no Anexo de Metas Fiscais da LDO para o exercício de referência
+JUROS NOMINAIS
+Juros, Encargos e Variações Monetárias Ativos (Exceto RPPS) (XXXVI)
+                    4.862.739.325,18 
+Juros, Encargos e Variações Monetárias Passivos (Exceto RPPS) (XXXVII)
+                  20.209.158.119,94 
+RESULTADO NOMINAL (SEM RPPS) - Acima da Linha (XXXVIII) =  XXXV + (XXXVI - XXXVII)
+CÁLCULO DO RESULTADO NOMINAL
+DÍVIDA CONSOLIDADA (XXXIX)
+                191.713.500.465,53 
+                213.515.242.948,53 
+228910199 - DEMAIS OBRIGACOES A LONGO PRAZO
+228910103 - DEPOSITOS E CAUCOES
+DEDUÇÕES (XL)
+                  23.467.291.924,06 
+                  26.413.745.448,25 
+    Disponibilidade de Caixa
+                  19.485.567.654,71 
+                  21.671.876.418,52 
+           Disponibilidade de Caixa Bruta
+                  30.772.856.366,30 
+                  33.657.274.087,69 
+           (-) Restos a Pagar Processados (XLI)  
+                    8.744.627.334,06 
+                    9.088.588.440,40 
+           (-) Depósitos Restituíveis e Valores Vinculados
+                    2.542.661.377,53 
+                    2.896.809.228,77 
+    Demais Haveres Financeiros
+                    3.981.724.269,35 
+                    4.741.869.029,73 
+DÍVIDA CONSOLIDADA LÍQUIDA (XLII) = (XXXIX - XL)
+                168.246.208.541,47 
+                187.101.497.500,28 
+RESULTADO NOMINAL (SEM RPPS) - Abaixo da Linha (XLIII) = (XLIIa - XLIIb)
+                (18.855.288.958,81)
+Meta fixada no Anexo de Metas Fiscais da LDO para o exercício de referência
+AJUSTE METODOLÓGICO
+VARIAÇÃO DO SALDO DE RPP (XLIV) = (XLIb - XLIa)
+                       343.961.106,34 
+RECEITA DE ALIENAÇÃO DE INVESTIMENTOS PERMANENTES (XLV) = (XI)
+                                   8.818,19 
+VARIAÇÃO CAMBIAL (XLVI)
+                    1.601.309.629,92 
+VARIAÇÃO DO SALDO DE PRECATÓRIOS INTEGRANTES DA DC (XLVII)
+                    4.168.222.839,72 
+VARIAÇÃO DO SALDO DAS DEMAIS OBRIGAÇÕES INTEGRANTES DA DC (XLVIII)
+                      (656.051.086,59)
+OUTROS AJUSTES (XLIX) (²)
+                    6.019.139.283,62 
+RESULTADO NOMINAL (SEM RPPS) AJUSTADO - Abaixo da Linha (L) = [XLIII + (XLIV - XLV - XLVI + XLVII + XLVIII) +/- 
+(XLIX)]
+                (10.581.335.263,83)
+RESULTADO PRIMÁRIO (SEM RPPS) - Abaixo da Linha (LI) =  (L) - (XXXVI - XXXVII)
+                    4.765.083.530,93 
+SALDO DE EXERCÍCIOS ANTERIORES
+    Recursos Arrecadados em Exercícios Anteriores - RPPS
+   Superávit Financeiro Utilizado para Abertura e Reabertura de Créditos Adicionais
+RESERVA ORÇAMENTÁRIA DO RPPS
+ACIMA DA LINHA
+ PREVISÃO 
+ATUALIZADA 
+Até o Bimestre
+Publicado no Diário Eletrônico da Secretaria de Estado de Fazenda de Minas Gerais de 30/01/2026, edição nº XXXX/2026
+                                                                                                                                                                                                                                            (10.581.335.263,83)
+Até o Bimestre
+VALOR INCORRIDO
+META FISCAL PARA O RESULTADO PRIMÁRIO
+VALOR CORRENTE
+                                                                                                                                                                                                                                              4.463.220.313,00 
+SALDO
+Em 31/Dezembro/2024 (¹)
+ Em 31/Dezembro/2025 
+(a)
+ (b) (¹) 
+sccgdcicf@fazenda.mg.gov.br
+ESTADO DE MINAS GERAIS
+RELATÓRIO RESUMIDO DA EXECUÇÃO ORÇAMENTÁRIA
+DEMONSTRATIVO DOS RESULTADOS PRIMÁRIO E NOMINAL
+ORÇAMENTOS FISCAL 
+JANEIRO A DEZEMBRO 2025/BIMESTRE NOVEMBRO-DEZEMBRO
+                                                                                                                                                                                                                                            (10.921.622.090,00)
+ Até o Bimestre 
+INFORMAÇÕES ADICIONAIS
+PREVISÃO ORÇAMENTÁRIA
+                                                                                                                                                                                                                                              7.303.599.878,22 
+                                                                                                                                                                                                                                              7.303.599.878,22 
+Fonte: Siafi/MG, SEF/STE/SCCG/DCICF, 23/janeiro/2026 13:47
+DESPESAS PRIMÁRIAS
+  (¹)   Não inclui dados das Empresas Dependentes (Emater, Epamig e EMC).
+RECEITAS REALIZADAS  
+(a)
+Superintendência Central de Contadoria Geral - SCCG
+Subsecretaria do Tesouro Estadual - STE
+DOTAÇÃO 
+ATUALIZADA
+Até o Bimestre
+DESPESAS 
+EMPENHADAS
+ DESPESAS LIQUIDADAS 
+ DESPESAS 
+PAGAS                  (a) 
+ RESTOS A PAGAR 
+PROCESSADOS PAGOS   
+(b) 
+ RESTOS A PAGAR 
+NÃO PROCESSADOS 
+                                                                                                                                                                                                                                              4.732.719.015,50 
+META FISCAL PARA O RESULTADO NOMINAL
+VALOR CORRENTE
+ABAIXO DA LINHA
+1/1

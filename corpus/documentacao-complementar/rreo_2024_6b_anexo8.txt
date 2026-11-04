@@ -1,0 +1,979 @@
+
+=== PÁGINA 1 ===
+RREO - ANEXO 8 (LDB, art. 72)
+ Em Reais 
+1- RECEITA DE IMPOSTOS
+99.716.328.166,00
+      
+103.387.476.707,58
+        
+    1.1- Receita Resultante do Imposto sobre a Circulação de Mercadorias e Serviços de Transporte Interestadual e 
+Intermunicipal e de Comunicação – ICMS
+79.952.255.520,00
+      
+81.531.899.639,02
+          
+       1.1.1- ICMS - Principal e Encargos (Multas, Juros de Mora, Divida Ativa e Outros Encargos do ICMS)
+79.052.251.520,00
+      
+80.562.667.364,45
+          
+       1.1.2- Adicional de até 2% do ICMS destinado ao Fundo de Combate à Pobreza (ADCT, art. 82, §1º)
+900.004.000,00
+           
+969.232.274,57
+               
+    1.2- Receita Resultante do Imposto de Transmissão Causa Mortis e Doação de Bens e Direitos – ITCD
+1.646.775.090,00
+        
+2.133.480.660,69
+            
+    1.3- Receita Resultante do Imposto sobre a Propriedade de Veículos Automotores – IPVA
+11.043.463.253,00
+      
+11.923.410.919,41
+          
+    1.4- Receita Resultante do Imposto sobre a Renda e Proventos de Qualquer Natureza Retido na Fonte – IRRF
+7.073.834.303,00
+        
+7.798.685.488,46
+            
+2- RECEITA DE TRANSFERÊNCIAS CONSTITUCIONAIS E LEGAIS 
+8.628.780.633,00
+        
+9.883.521.974,31
+            
+    2.1- Cota-Parte FPE 
+7.860.097.396,00
+        
+8.857.735.134,31
+            
+    2.2- Cota-Parte IPI-Exportação 
+768.545.444,00
+           
+1.025.766.965,71
+            
+    2.3- Cota-Parte IOF-Ouro 
+137.793,00
+                  
+19.874,29
+                        
+    2.4- Outras transferências ou Compensações Financeiras Provenientes de Impostos e Transferências 
+-
+-
+3- DEDUÇÕES DE TRANSFERÊNCIAS CONSTITUCIONAIS AOS MUNICÍPIOS
+25.474.408.369,00
+      
+26.358.814.041,71
+          
+    3.1- PARCELA DO ICMS REPASSADA AOS MUNICÍPIOS (equivalente a 25% de 1.1.1)
+19.760.540.381,00
+      
+20.140.666.841,11
+          
+    3.2- PARCELA DO IPVA REPASSADA AOS MUNICÍPIOS (equivalente a 50% de 1.3)
+5.521.731.627,00
+        
+5.961.705.459,70
+            
+    3.3- PARCELA DA COTA-PARTE DO IPI-EXPORTAÇÃO REPASSADA AOS MUNICÍPIOS (equivalente a 25% de 
+2.2)
+192.136.361,00
+           
+256.441.740,90
+               
+4- TOTAL DA RECEITA LÍQUIDA RESULTANTE DE IMPOSTOS (1 + 2 - 3)
+82.870.700.430,00
+      
+86.912.184.640,18
+          
+5- TOTAL DESTINADO AO FUNDEB - equivalente a 20% DE ((1.1 - 3.1) + (1.2) + (1.3 - 3.2) + (2.1) + (2.2 - 3.3) + 
+(2.5 -3.4)) 1 4
+       14.977.326.866,00 
+           15.858.929.675,26 
+6- VALOR MÍNIMO A SER APLICADO ALÉM DO VALOR DESTINADO AO FUNDEB - 5% DE ((1.1 - 3.1) + (1.2) + (1.3 
+- 3.2) + (2.1) + (2.2 - 3.3)+(2.5-3.4)) + 25% DE (1.4 + 2.3+2.4)
+         5.558.329.440,70 
+             5.905.350.304,56 
+7- RECEITAS DO FUNDEB RECEBIDAS
+       12.224.929.023,00 
+12.582.898.940,52
+          
+    7.1- FUNDEB - Impostos e Transferências de Impostos
+       12.082.550.022,00 
+12.461.876.789,78
+          
+       7.1.1- Principal
+       11.945.254.418,00 
+12.148.475.549,38
+          
+       7.1.2- Rendimentos de Aplicação Financeira
+              13.695.604,00 
+167.855.479,16
+               
+       7.1.3- Ressarcimento de recursos do Fundeb
+            123.600.000,00 
+145.545.761,24
+               
+    7.2- FUNDEB - Complementação da União - VAAF
+ - 
+-
+       7.2.1- Principal
+ - 
+-
+       7.2.2- Rendimentos de Aplicação Financeira
+ - 
+-
+       7.2.3- Ressarcimento de recursos do Fundeb
+ - 
+-
+    7.3- FUNDEB - Complementação da União - VAAT
+ - 
+-
+       7.3.1- Principal
+ - 
+-
+       7.3.2- Rendimentos de Aplicação Financeira
+ - 
+-
+       7.3.3- Ressarcimento de recursos do Fundeb
+ - 
+-
+    7.4- FUNDEB - Complementação da União - VAAR
+            142.379.001,00 
+121.022.150,74
+               
+       7.4.1- Principal
+            142.379.001,00 
+121.022.150,74
+               
+       7.4.2- Rendimentos de Aplicação Financeira
+ - 
+-
+       7.4.3- Ressarcimento de recursos do Fundeb
+ - 
+-
+8- RESULTADO LÍQUIDO DAS TRANSFERÊNCIAS DO FUNDEB (7.1.1 – 5)
+       (3.032.072.448,00)
+(3.710.454.125,88)
+           
+RECURSOS RECEBIDOS EM EXERCÍCIOS ANTERIORES E NÃO UTILIZADOS (SUPERÁVIT)
+9- TOTAL DOS RECURSOS DE SUPERÁVIT
+355.658.379,16
+               
+9.1- SUPERÁVIT DO EXERCÍCIO IMEDIATAMENTE ANTERIOR 2
+94.513.550,29
+                 
+  9.2- SUPERÁVIT RESIDUAL DE OUTROS EXERCÍCIOS
+261.144.828,87
+               
+10- TOTAL DOS RECURSOS DO FUNDEB DISPONÍVEIS PARA UTILIZAÇÃO (7 + 9)
+12.938.557.319,68
+11- TOTAL DAS DESPESAS COM RECURSOS DO FUNDEB
+61.548.107,32
+                 
+   11.1- PROFISSIONAIS DA EDUCAÇÃO BÁSICA
+ - 
+      11.1.1- Ensino Fundamental 
+ - 
+      11.1.2- Ensino Médio 
+ - 
+      11.1.3- Educação de Jovens e Adultos
+               367.537.068,00 
+ - 
+      11.1.4- Educação Especial
+            1.483.464.896,00 
+ - 
+      11.1.5- Administração Geral
+               531.035.133,48 
+ - 
+   11.2- OUTRAS DESPESAS
+      11.2.1- Ensino Fundamental 
+      11.2.2- Ensino Médio
+      11.2.3- Educação de Jovens e Adultos
+      11.2.4- Educação Especial
+      11.2.5- Administração Geral
+      11.2.6- Transporte (Escolar)
+      11.2.7- Outras
+(h)
+(i)
+12- TOTAL DAS DESPESAS CUSTEADAS COM RECURSOS DO FUNDEB RECEBIDAS NO EXERCÍCIO
+-
+-
+   12.1- Total das Despesas custeadas com FUNDEB - Impostos e Transferências de Impostos
+-
+-
+   12.2- Total das Despesas custeadas com FUNDEB - Complementação da União - VAAF
+-
+-
+   12.3- Total das Despesas custeadas com FUNDEB - Complementação da União - VAAT
+-
+-
+   12.4- Total das Despesas custeadas com FUNDEB - Complementação da União - VAAR
+-
+-
+13- TOTAL DAS DESPESAS DO FUNDEB COM PROFISSIONAIS DA EDUCAÇÃO BÁSICA
+ - 
+14- TOTAL DAS DESPESAS CUSTEADAS COM FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAT APLICADAS EM 
+DESPESA DE CAPITAL
+ - 
+INDICADORES - Art. 212-A, inciso XI e § 3º - Constituição Federal
+15- Mínimo de 70% do FUNDEB na Remuneração dos Profissionais da Educação Básica
+16- Mínimo de 15% da Complementação da União ao FUNDEB - VAAT em Despesas de Capital
+INDICADOR - Art.25, § 3º - Lei nº 14.113, de 2020 - (Máximo de 10% de Superávit)
+17- Total da Receita Recebida e não Aplicada no Exercício 
+VALOR TOTAL DE 
+SUPERÁVIT NÃO 
+APLICADO ATÉ O 
+FINAL DO 
+EXERCÍCIO
+VALOR DE SUPERÁVIT 
+PERMITIDO NO 
+EXERCÍCIO ANTERIOR 
+NÃO APLICADO ATÉ O 
+PRIMEIRO 
+QUADRIMESTRE DO  
+EXERCÍCIO ATUAL
+(w)
+(x)
+18- Total das Despesas custeadas com Superávit do FUNDEB
+-
+-
+   18.1- Total das Despesas custeadas com FUNDEB - Impostos e Transferências de Impostos
+-
+-
+   18.2- Total das Despesas custeadas com FUNDEB - Complementação da União (VAAF + VAAT + VAAR)
+-
+-
+19- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE CUSTEADAS COM RECEITAS DE IMPOSTOS
+   19.1- EDUCAÇÃO INFANTIL
+   19.2- ENSINO FUNDAMENTAL 
+   19.3- ENSINO MÉDIO 
+                    4.367.979.802,39 
+                       367.537.065,87 
+                    1.482.999.622,40 
+                       530.791.806,50 
+Publicado no Diário Eletrônico da Secretaria de Estado de Fazenda de Minas Gerais de 30/01/2025, edição nº 2527/2025
+ESTADO DE MINAS GERAIS
+RELATÓRIO RESUMIDO DA EXECUÇÃO ORÇAMENTÁRIA
+DEMONSTRATIVO DAS RECEITAS E DESPESAS COM MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO - MDE
+ORÇAMENTO FISCAL
+JANEIRO A DEZEMBRO 2024/BIMESTRE NOVEMBRO-DEZEMBRO
+12.235.751.784,39
+                 
+                  11.225.912.725,99 
+                    4.476.604.428,83 
+RECEITA RESULTANTE DE IMPOSTOS (Arts. 212 e 212-A da Constituição Federal)
+RECEITA RESULTANTE DE IMPOSTOS
+PREVISÃO
+RECEITAS REALIZADAS
+ATUALIZADA
+Até o Bimestre
+(a)
+(b)
+FUNDEB
+RECEITAS DO FUNDEB RECEBIDAS NO EXERCÍCIO
+PREVISÃO
+RECEITAS REALIZADAS
+ATUALIZADA
+Até o Bimestre
+(a)
+(b)
+DESPESAS COM RECUROS DO FUNDEB                                                             
+(Por Subfunção)
+DOTAÇÃO
+DESPESAS EMPENHADAS
+DESPESAS LIQUIDADAS
+DESPESAS PAGAS
+INSCRITAS EM RESTOS A PAGAR NÃO 
+PROCESSADOS 
+ATUALIZADA
+Até o Bimestre
+Até o Bimestre
+Até o Bimestre
+(c)
+(d)
+(e)
+(f)
+(g)
+13.006.758.595,16
+                 
+12.877.756.748,03
+                     
+                  11.868.963.331,00 
+                     11.841.706.251,72 
+                    5.111.225.411,52 
+                       5.092.397.954,56 
+                    4.375.700.822,00 
+                       4.367.979.802,39 
+                          367.537.065,87 
+                       1.482.999.622,40 
+                          530.791.806,50 
+                    1.137.795.264,16                  1.097.598.603,63                        1.036.050.496,31                     1.009.839.058,40 
+                                                     61.548.107,32 
+                       142.541.947,89                     140.822.490,17                           120.822.760,17                          98.207.233,59 
+                                                     19.999.730,00 
+                         69.998.668,00                       69.985.338,71                             69.985.338,71                          69.985.338,71 
+ - 
+                           5.476.102,00                         5.325.680,17                               5.325.680,17                            5.325.680,17 
+ - 
+                         20.378.065,00                       20.288.838,82                             20.288.838,82                          20.288.838,82 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+                       211.685.954,32                     211.640.431,71                           211.640.431,71                        211.640.431,71 
+ - 
+                       687.714.526,95                     649.535.824,05                           607.987.446,73                        604.391.535,40                                                      41.548.377,32 
+INDICADORES DO FUNDEB
+DESPESAS CUSTEADAS COM RECEITAS DO FUNDEB RECEBIDAS NO EXERCÍCIO
+DESPESAS 
+EMPENHADAS
+DESPESAS 
+LIQUIDADAS
+DESPESAS 
+PAGAS
+INSCRITAS EM RESTOS A 
+PAGAR NÃO PROCESSADOS 
+INSCRITAS EM 
+RESTOS A PAGAR 
+NÃO 
+PROCESSADOS 
+(SEM 
+DISPONIBILIDADE 
+DE CAIXA)
+DESPESAS 
+EMPENHADAS EM 
+VALOR SUPERIOR AO 
+TOTAL DAS RECEITAS 
+RECEBIDAS NO 
+EXERCÍCIO9
+Até o Bimestre
+Até o Bimestre
+Até o Bimestre
+(d)
+(e)
+(f)
+(g)
+12.583.646.476,19
+                 
+12.522.098.368,87
+               
+11.880.093.405,23
+                     
+61.548.107,32
+                        
+12.583.646.476,19
+                 
+12.522.098.368,87
+               
+11.880.093.405,23
+                     
+61.548.107,32
+                        
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+11.531.507.638,80
+                 
+11.531.507.638,80
+               
+10.915.714.113,07
+                     
+-
+-
+-
+-
+-
+VALOR EXIGIDO
+VALOR APLICADO
+VALOR CONSIDERADO 
+APÓS DEDUÇÕES
+% APLICADO10
+(j)
+(k)
+(l)
+(m)
+8.723.313.752,85
+                   
+11.531.507.638,80
+                                                                     
+-
+                                                                   92,53 
+-
+-
+-
+ - 
+VALOR MÁXIMO PERMITIDO
+VALOR NÃO APLICADO
+VALOR NÃO APLICADO APÓS 
+AJUSTE
+VALOR NÃO APLICADO 
+EXCEDENTE AO MÁXIMO 
+% NÃO APLICADO
+(n)
+(o)
+(p)
+(q)
+(r)
+                    1.258.289.894,05                           (747.535,67)
+ - 
+ - 
+ - 
+INDICADOR - Art.25, § 3º - Lei nº 14.113, de 2020 - (Aplicação do Superávit de Exercício Anterior)
+VALOR DE SUPERÁVIT 
+PERMITIDO 
+NO EXERCÍCIO ANTERIOR
+VALOR NÃO APLICADO NO 
+EXERCÍCIO ANTERIOR
+VALOR DE SUPERÁVIT 
+APLICADO 
+ATÉ O PRIMEIRO 
+QUADRIMESTRE 
+VALOR APLICADO APÓS O 
+PRIMEIRO QUADRIMESTRE
+(s)
+(t)
+ (u) 
+(v)
+1.162.271.119,81
+                   
+94.513.550,29
+                      
+94.513.550,29
+                            
+-
+1.162.271.119,81
+                   
+94.513.550,29
+                      
+94.513.550,29
+                            
+-
+-
+-
+-
+-
+DESPESAS COM MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO – MDE -  CUSTEADAS COM RECEITA DE IMPOSTOS (EXCETO FUNDEB)
+ DESPESAS COM AÇÕES TÍPICAS DE MDE - RECEITAS DE IMPOSTOS - EXCETO FUNDEB                    
+(Por Subfunção)
+DOTAÇÃO ATUALIZADA
+DESPESAS EMPENHADAS
+DESPESAS LIQUIDADAS
+DESPESAS PAGAS
+INSCRITAS EM RESTOS A PAGAR NÃO 
+PROCESSADOS 
+Até o Bimestre
+Até o Bimestre
+Até o Bimestre
+(c)
+(d)
+(e)
+(f)
+(g)
+6.286.684.264,55
+                   
+6.336.446.912,17
+                 
+6.191.359.812,38
+                       
+6.069.383.380,47
+                   
+145.087.099,79
+                                                   
+                           6.366.179,00                         5.720.720,04                               5.720.720,04                            5.720.720,04 
+ - 
+                    2.151.881.776,18                  2.071.745.806,81                        2.069.184.672,73                     1.994.585.885,48                                                        2.561.134,08 
+                       366.226.130,74                     360.149.894,84                           359.740.137,01                        359.614.107,45                                                           409.757,83 
+VALOR
+12.939.304.855,35
+               
+               11.841.706.251,72 
+                 5.092.397.954,56 
+                 4.367.979.802,39 
+                    367.537.065,87 
+                 1.482.999.622,40 
+                    530.791.806,50 
+1/2
+
+=== PÁGINA 2 ===
+   19.4- ENSINO SUPERIOR
+   19.5- ENSINO PROFISSIONAL
+   19.6- EDUCAÇÃO DE JOVENS E ADULTOS
+   19.7- EDUCAÇÃO ESPECIAL
+   19.8- ADMINISTRAÇÃO GERAL
+   19.9- TRANSPORTE (Escolar)
+   19.10- OUTRAS
+ DESPESAS COM AÇÕES TÍPICAS DE MDE - RECEITAS DE IMPOSTOS E RECURSOS DO FUNDEB             
+(Por Área de Atuação)
+20- TOTAL DAS DESPESAS COM AÇÕES TÍPICAS DE MDE CUSTEADAS COM RECEITAS DE IMPOSTOS E 
+FUNDEB
+   20.1- EDUCAÇÃO INFANTIL
+      20.1.1- Creche
+      20.1.2- Pré-escola
+   20.2- ENSINO FUNDAMENTAL 
+   20.3- ENSINO MÉDIO 
+   20.4- ENSINO SUPERIOR
+   20.5- ENSINO PROFISSIONAL NÃO INTEGRADO AO ENSINO REGULAR
+ - 
+ - 
+ - 
+28- APLICAÇÃO EM MDE SOBRE A RECEITA LÍQUIDA RESULTANTE DE IMPOSTOS
+ - 
+ - 
+ - 
+ - 
+28- APLICAÇÃO EM MDE SOBRE A RECEITA LÍQUIDA RESULTANTE DE IMPOSTOS
+29- RESTOS A PAGAR DE DESPESAS COM MDE
+   29.1 - Executadas com Recursos de Impostos e Transferências de Impostos
+   29.2 - Executadas com Recursos do FUNDEB - Impostos
+   29.3 - Executadas com Recursos do FUNDEB - Complementação da União (VAAT + VAAF + VAAR)
+30- TOTAL DAS RECEITAS ADICIONAIS PARA FINANCIAMENTO DO ENSINO
+   30.1- RECEITA DE TRANSFERÊNCIAS DO FNDE (INCLUINDO RENDIMENTOS DE APLICAÇÃO FINANCEIRA)
+       30.1.1- Salário-Educação
+       30.1.2- PDDE
+       30.1.3- PNAE
+       30.1.4 - PNATE
+       30.1.5- Outras Transferências do FNDE
+   30.2- RECEITA DE TRANSFERÊNCIAS DE CONVÊNIOS
+   30.3- RECEITA DE ROYALTIES DESTINADOS À EDUCAÇÃO
+   30.4- RECEITA DE OPERAÇÕES DE CRÉDITO VINCULADAS À EDUCAÇÃO
+   30.5- OUTRAS RECEITAS PARA FINANCIAMENTO DO ENSINO
+31- TOTAL DAS OUTRAS DESPESAS COM EDUCAÇÃO
+   31.1 EDUCAÇÃO INFANTIL
+   31.2- ENSINO FUNDAMENTAL 
+   31.3- ENSINO MÉDIO 
+   31.4- ENSINO SUPERIOR
+   31.5- ENSINO PROFISSIONAL
+   31.6- EDUCAÇÃO DE JOVENS E ADULTOS
+   31.7- EDUCAÇÃO ESPECIAL
+   31.8- OUTRAS
+32- TOTAL GERAL DAS DESPESAS COM EDUCAÇÃO (11 + 19 + 31)
+   32.1- Despesas Correntes
+      32.1.1- Pessoal Ativo
+      32.1.2- Pessoal Inativo
+      32.1.3- Transferências às instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos
+      32.1.4 -Outras Despesas Correntes
+  32.2- Despesas de Capital
+      32.2.1 -Transferências às instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos
+      32.2.2 -Outras Despesas de Capital
+1 Valores efetivamente repassados ao FUNDEB.                  
+                       693.148.164,03                     686.801.110,68                           665.164.339,92                        649.044.584,48                                                      21.636.770,76 
+                       597.211.021,74                     593.926.736,03                           550.065.391,71                        548.279.488,25                                                      43.861.344,32 
+                           3.444.649,42                         3.424.552,63                               3.424.552,63                            3.424.552,63 
+ - 
+                       142.596.692,11                     142.496.231,57                           142.496.231,57                        142.496.231,57 
+ - 
+                         54.516.328,79                       53.605.231,58                             44.923.550,31                          42.305.940,69                                                        8.681.681,27 
+                       516.528.279,57                     516.528.279,55                           516.157.001,59                        516.157.001,56                                                           371.277,96 
+                    1.754.765.042,97                  1.902.048.348,44                        1.834.483.214,87                     1.807.754.868,32                                                      67.565.133,57 
+DESPESAS COM MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO – MDE -  CUSTEADAS COM RECEITA DE IMPOSTOS E COM RECURSOS DO FUNDEB
+DOTAÇÃO 
+ATUALIZADA
+DESPESAS EMPENHADAS
+DESPESAS LIQUIDADAS
+DESPESAS PAGAS
+INSCRITAS EM RESTOS A PAGAR NÃO 
+PROCESSADOS 
+Até o Bimestre
+Até o Bimestre
+Até o Bimestre
+(c)
+(d)
+(e)
+(f)
+(g)
+                  19.293.442.859,71                19.275.751.767,52                      19.069.116.560,41                   18.305.135.164,86                                                    206.635.207,11 
+                           6.366.179,00                         5.720.720,04                               5.720.720,04                            5.720.720,04 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+                           6.366.179,00                         5.720.720,04                               5.720.720,04                            5.720.720,04 
+ - 
+                  11.284.279.177,72                11.340.655.373,76                      11.248.111.856,40                   10.522.449.589,35                                                      92.543.517,36 
+                    6.525.381.113,28                  6.472.250.650,23                        6.430.271.440,65                     6.426.549.499,76                                                      41.979.209,58 
+                       886.379.264,03                     879.205.928,53                           834.015.212,22                        801.203.928,07                                                      45.190.716,31 
+                       591.037.125,68                     577.919.094,96                           550.997.331,10                        549.211.427,64                                                      26.921.763,86 
+APURAÇÃO DAS DESPESAS PARA FINS DE LIMITE MÍNIMO CONSTITUCIONAL (METODOLOGIA STN)
+VALOR
+21- TOTAL DAS DESPESAS DE MDE CUSTEADAS COM RECURSOS DE IMPOSTOS  = L19(d ou e)
+                                                6.336.446.912,17 
+22- TOTAL DAS RECEITAS TRANSFERIDAS AO FUNDEB = (L5)
+                                              15.858.929.675,26 
+23- (-) RECEITAS DO FUNDEB NÃO UTILIZADAS NO EXERCÍCIO, EM VALOR SUPERIOR A 10% = (L17q)
+24- (-) SUPERÁVIT PERMITIDO NO EXERCÍCIO IMEDIATAMENTE ANTERIOR NÃO APLICADO ATÉ O PRIMEIRO QUADRIMESTRE DO EXERCÍCIO ATUAL = (L18(x))
+25 (-) RESTOS A PAGAR NÃO PROCESSADOS INSCRITOS NO EXERCÍCIO SEM DISPONIBILIDADE FINANCEIRA DE RECURSOS DE IMPOSTOS
+26 (-) CANCELAMENTO, NO EXERCÍCIO, DE RESTOS A PAGAR INSCRITOS COM DISPONIBILIDADE FINANCEIRA DE RECURSOS DE IMPOSTOS VINCULADOS AO ENSINO = (L29.1(af) + L29.2(af)) 2
+                                                   217.394.718,36 
+27- TOTAL DAS DESPESAS PARA FINS DE LIMITE  ((21 + 22) - (23 + 24+ 25 + 26))
+                                              21.977.981.869,07 
+APURAÇÃO DO LIMITE MÍNIMO CONSTITUCIONAL (METODOLOGIA STN)
+VALOR EXIGIDO
+VALOR APLICADO
+% APLICADO
+(z)
+(aa)
+(ab)
+21.728.046.160,05
+21.977.981.869,07
+25,29
+APURAÇÃO DAS DESPESAS PARA FINS DE LIMITE MÍNIMO CONSTITUCIONAL (METODOLOGIA TCEMG)
+VALOR
+ TOTAL DAS DESPESAS DE MDE CUSTEADAS COM RECURSOS DE IMPOSTOS  = L19(d ou e)
+                                                6.069.383.380,47 
+ TOTAL DAS RECEITAS TRANSFERIDAS AO FUNDEB = (L5)
+                                              15.858.929.675,26 
+ (-) RECEITAS DO FUNDEB NÃO UTILIZADAS NO EXERCÍCIO, EM VALOR SUPERIOR A 10% = (L17q)
+ (-) SUPERÁVIT PERMITIDO NO EXERCÍCIO IMEDIATAMENTE ANTERIOR NÃO APLICADO ATÉ O PRIMEIRO QUADRIMESTRE DO EXERCÍCIO ATUAL = (L18(x))
+ (-) RESTOS A PAGAR NÃO PROCESSADOS INSCRITOS NO EXERCÍCIO SEM DISPONIBILIDADE FINANCEIRA DE RECURSOS DE IMPOSTOS
+ (-) CANCELAMENTO, NO EXERCÍCIO, DE RESTOS A PAGAR INSCRITOS COM DISPONIBILIDADE FINANCEIRA DE RECURSOS DE IMPOSTOS VINCULADOS AO ENSINO = (L29.1(af) + L29.2(af)) 2
+ (-) CANCELAMENTO, NO EXERCÍCIO, DE RESTOS A PAGAR INSCRITOS SEM DISPONIBILIDADE FINANCEIRA DE RECURSOS DE IMPOSTOS
+                                                   277.023.277,70 
+ PAGAMENTOS DE RESTOS A PAGAR PROCESSADOS (2022 E 2023) E NÃO PROCESSADOS (2019 A 2023)
+                                                   748.424.279,50 
+ ESTORNO DE CANCELAMENTO DE RESTOS A PAGAR PROCESSADOS (2022 E 2023) E NÃO PROCESSADOS(2019 A 2023)
+                                                     76.054.037,96 
+PAGAMENTOS DE RESTOS A PAGAR PROCESSADOS DE ORIGEM NÃO PROCESSADOS REALIZADOS NO EXERCÍCIO
+                                                            48.857,66 
+27- TOTAL DAS DESPESAS PARA FINS DE LIMITE 
+                                              22.475.816.953,15 
+APURAÇÃO DO LIMITE MÍNIMO CONSTITUCIONAL (METODOLOGIA TCEMG)
+VALOR EXIGIDO
+VALOR APLICADO
+% APLICADO
+(z)
+(aa)
+(ab)
+21.728.046.160,05
+22.475.816.953,15
+25,86
+RESTOS A PAGAR INSCRITOS EM EXERCÍCIOS ANTERIORES DE DESPESAS CONSIDERADAS PARA 
+CUMPRIMENTO DO LIMITE
+SALDO INICIAL
+RP LIQUIDADOS
+RP PAGOS
+RP CANCELADOS
+SALDO FINAL
+(ac)
+(ad)
+(ae)
+(af) 
+(ag) = (ac) - (ae + af)
+3.311.620.591,24
+                   
+355.142.867,58
+                    
+1.268.832.318,13
+                       
+277.023.277,70
+                      
+1.765.764.995,41
+                                                
+2.433.246.920,79
+                   
+333.979.174,22
+                    
+753.721.115,10
+                          
+204.739.723,55
+                      
+1.474.786.082,14
+                                                
+878.373.670,45
+                      
+21.163.693,36
+                      
+515.111.203,03
+                          
+72.283.554,15
+                        
+290.978.913,27
+                                                   
+-
+-
+-
+-
+-
+OUTRAS INFORMAÇÕES PARA CONTROLE
+RECEITAS ADICIONAIS PARA FINANCIAMENTO DO ENSINO
+PREVISÃO
+RECEITAS REALIZADAS
+ATUALIZADA
+Até o Bimestre
+(a)
+(b)
+3.822.530.100,00
+                                                                                                            
+1.288.471.968,88
+                                                                                                                 
+3.789.233.130,00
+                                                                                                            
+1.254.156.882,06
+                                                                                                                 
+833.500.000,00
+                                                                                                               
+878.571.383,18
+                                                                                                                    
+2.000.000,00
+                                                                                                                   
+-
+262.000.000,00
+                                                                                                               
+237.631.908,51
+                                                                                                                    
+2.000.000,00
+                                                                                                                   
+-
+2.689.733.130,00
+                                                                                                            
+137.953.590,37
+                                                                                                                    
+16.142.875,00
+                                                                                                                 
+19.808.024,96
+                                                                                                                      
+-
+-
+-
+-
+17.154.095,00
+                                                                                                                 
+14.507.061,86
+                                                                                                                      
+ OUTRAS DESPESAS COM EDUCAÇÃO                                                              
+(Por Subfunção)
+DOTAÇÃO ATUALIZADA
+DESPESAS EMPENHADAS
+DESPESAS LIQUIDADAS
+DESPESAS PAGAS
+INSCRITAS EM RESTOS A PAGAR NÃO 
+PROCESSADOS 
+Até o Bimestre
+Até o Bimestre
+Até o Bimestre
+(c)
+(d)
+(e)
+(f)
+(g)
+1.925.146.081,67
+                   
+1.461.087.133,35
+                 
+1.142.476.516,55
+                       
+1.121.025.963,94
+                   
+318.610.616,80
+                                                   
+-
+-
+-
+-
+-
+                         12.342.492,77                       30.421.226,38                             29.129.731,74                          28.418.539,75                                                        1.291.494,64 
+                                80.000,00                              80.823,85                                    80.823,85                                 80.823,85 
+ - 
+                         43.646.742,98                       22.377.678,94                             19.823.813,49                          19.778.909,99                                                        2.553.865,45 
+                         80.921.964,18                       15.017.541,80                             12.737.973,73                          12.696.337,25                                                        2.279.568,07 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+                    1.788.154.881,74                  1.393.189.862,38                        1.080.704.173,74                     1.060.051.353,10                                                    312.485.688,64 
+TOTAL GERAL DAS DESPESAS COM EDUCAÇÃO
+DOTAÇÃO ATUALIZADA
+DESPESAS EMPENHADAS
+DESPESAS LIQUIDADAS
+DESPESAS PAGAS
+INSCRITAS EM RESTOS A PAGAR NÃO 
+PROCESSADOS 
+Até o Bimestre
+Até o Bimestre
+Até o Bimestre
+(c)
+(d)
+(e)
+(f)
+(g)
+21.218.588.941,38
+                 
+20.736.838.900,87
+               
+20.211.593.076,96
+                     
+19.426.161.128,80
+                 
+525.245.823,91
+                                                   
+19.699.044.587,71
+                 
+19.383.305.541,36
+               
+19.177.289.721,68
+                     
+18.436.321.306,87
+                 
+206.015.819,68
+                                                   
+14.426.426.885,15
+                 
+14.332.145.021,14
+               
+14.330.136.711,00
+                     
+13.631.438.353,65
+                 
+                                                       2.008.310,14 
+-
+-
+-
+-
+ - 
+2.406.722.638,66
+                   
+2.365.845.882,89
+                 
+2.362.792.346,31
+                       
+2.358.573.484,83
+                   
+                                                       3.053.536,58 
+2.865.895.063,90
+                   
+2.685.314.637,33
+                 
+2.484.360.664,37
+                       
+2.446.309.468,39
+                   
+                                                   200.953.972,96 
+1.519.544.353,67
+                   
+1.353.533.359,51
+                 
+1.034.303.355,28
+                       
+989.839.821,93
+                      
+                                                   319.230.004,23 
+845.412.354,57
+                      
+810.894.600,81
+                    
+602.187.353,88
+                          
+581.522.134,64
+                      
+                                                   208.707.246,93 
+674.131.999,10
+                      
+542.638.758,70
+                    
+432.116.001,40
+                          
+408.317.687,29
+                      
+                                                   110.522.757,30 
+CONTROLE DA DISPONIBILIDADE FINANCEIRA E CONCILIAÇÃO BANCÁRIA ³
+FUNDEB
+SALÁRIO EDUCAÇÃO
+(ah)
+(ai)
+33- DISPONIBILIDADE FINANCEIRA EM 31 DE DEZEMBRO DE 2023
+1.555.642.891,09
+                                                                       
+                                                       3.125.236.887,01 
+     33.1 Saldo Folha de Pagamento - UO 9801 - SEF 
+2.375.765,62
+                                                                              
+ - 
+     33.2 Saldo - UO 1261 - SEE - Fonte 13, 21  e 23
+1.553.267.125,47
+                                                                       
+                                                       3.125.236.887,01 
+34 - (+) INGRESSO DE RECURSOS ATÉ O BIMESTRE
+12.461.876.789,78
+                                                                     
+                                                          878.571.383,18 
+      34.1 Receitas Efetivadas - Fontes 13 e 23 
+(1751500101000;1751500102001;1751500103001;1751500103002;1751500103003;1751500104001;1751500105001;1751500106001;1751500107
+12.148.475.549,38
+                                                                     
+                                                          836.225.795,92 
+      34.2  Receitas Diversas - Fontes 13,21,23 - (1922510101000;1922990199000;1922990104000)
+145.545.761,24
+                                                                          
+                                                              7.372.988,23 
+      34.3 Receitas de Aplicação Financeira dos Recursos - Fontes 21 e 23 (1321010101000)
+167.855.479,16
+                                                                          
+                                                            34.972.599,03 
+35 - (-) PAGAMENTOS EFETUADOS ATÉ O BIMESTRE
+12.750.862.987,42
+                                                                     
+                                                          877.896.792,97 
+     35.1 Orçamento do Exercício - Fontes 13, 21 e 23                                           
+12.235.751.784,39
+                                                                     
+                                                          786.524.781,72 
+     35.2 Restos a Pagar - Fontes 13, 21 e 23                                    
+515.111.203,03
+                                                                          
+                                                            91.372.011,25 
+36- (=) *DISPONIBILIDADE FINANCEIRA ATÉ O BIMESTRE
+1.266.656.693,45
+                                                                       
+                                                       3.125.911.477,22 
+37-  (+) AJUSTES POSITIVOS (RETENÇÕES E OUTROS VALORES EXTRAORÇAMENTÁRIOS)
+135.852.945,28
+                                                                          
+ - 
+     37.1  (+) Apropriação da folha fonte 23. Os pagamentos serão efetuados no mês de janeiro                                                                                            
+135.852.945,28
+                                                                          
+ - 
+     37.2  (+) Pagtos pessoal no Bankiline/BB que ainda serão registrados por OP Cheque no SIAFI                                                                                      
+-
+ - 
+     37.3  (+)  Registros de OPs no SIAFI, fonte 21, pendentes de pagamento
+-
+ - 
+Superintendência Central de Contadoria Geral - SCCG
+Subsecretaria do Tesouro Estadual - STE
+sccgdcicf@fazenda.mg.gov.br
+Fonte: Siafi/MG, SEF/STE/SCCG/DCICF, Emissão 30/01/2025 e informações da Secretaria de Estado de Educação (SEE) em 29/01/2025
+2 O valor de cancelamentos considerados refere-se apenas aos cancelamentos que impactaram o cômputo do índice em seu respectivo exercício, conforme preconiza o MDF 14ª edição.
+3 Valores informados pela Secretaria de Estado de Educação
+4 Inclui valores repassados ao FUNDEB para regularização de repasses do Fundo de Erradicação da Miséria, registrados no elemento de despesa 81 item de despesa 6.
+38 - (-) AJUSTES NEGATIVOS (OUTROS VALORES EXTRAORÇAMENTÁRIOS)
+-
+                                                                   47.778,75 
+38.1 (-) receitas efetivadas e não contabilizadas no bimestre
+-
+                                                                   47.778,75 
+39- (=) SALDO FINANCEIRO CONCILIADO (Saldo Bancário) 
+1.402.509.638,73
+                                                                       
+                                                       3.125.863.698,47 
+2/2

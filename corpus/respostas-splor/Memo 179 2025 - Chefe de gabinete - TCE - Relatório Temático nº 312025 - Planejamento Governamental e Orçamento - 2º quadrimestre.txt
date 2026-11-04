@@ -1,0 +1,190 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Planejamento e Gestão​
+Subsecretaria de Planejamento e Orçamento
+Memorando SEPLAG/SPLOR nº. 179/2025
+Belo Horizonte, 24 de novembro de 2025.
+Para: Sarah Cristina de Sales Mourão
+          Chefe de Gabinete 
+  
+  Assunto: TCE - Relatório Temático nº 31/2025 - Planejamento Governamental e Orçamento - 2º
+quadrimestre
+  Referência: [Caso responda este documento, indicar expressamente o Processo nº 25.0.000010078-4].
+  
+Senhora Chefe de Gabinete, 
+ 
+Com meus cordiais cumprimentos e em atenção ao Despacho nº 525/2025/SEPLAG/CHEFE
+GAB (127565522), apresenta-se a seguir esclarecimentos acerca dos apontamentos abaixo relacionados. 
+ 
+a) Apresentação de esclarecimento sobre a possibilidade de alterar, no próximo
+ciclo de planejamento orçamentário, a classificação por tipo da Ação 1081 – Invista
+em Minas – Promoção de Investimentos, que tem previsão orçamentária de
+recursos simbólica para a sua execução (janela orçamentária de R$ 1 mil), e apesar
+disso, tem registrado execução física, independentemente da realização de despesas,
+o que, aparentemente, se amolda ao conceito de ação “não orçamentária”, prevista
+no Manual de Elaboração e Revisão do PPAG 2024–2027 e a LOA 202636;
+Em atenção ao questionamento apresentado, informamos que a Secretaria de Estado de Planejamento e
+Gestão realizou consulta à Secretaria de Estado de Desenvolvimento Econômico de Minas Gerais (SEDE),
+a fim de obter esclarecimentos adicionais acerca da natureza e da execução da Ação 1081 – Invista em
+Minas – Promoção de Investimentos.
+A SEDE esclareceu que a referida ação tem como finalidade o acompanhamento das iniciativas de atração
+de investimentos para o Estado de Minas Gerais. Em razão dessa natureza, a ação possui previsão
+orçamentária meramente simbólica (janela orçamentária de R$ 1 mil) e não registra execução
+orçamentária, independentemente da realização de despesas. Isto posto, tal configuração é compatível com
+o conceito de ação “não orçamentária”, conforme previsto no Manual de Elaboração e Revisão do Plano
+Plurianual de Ação Governamental (PPAG) 2024–2027 e Lei Orçamentária Anual (LOA) 2026.
+Destarte, considerando o encerramento do prazo legal para a realização de ajustes no ciclo de
+planejamento orçamentário referente ao próximo exercício, e após avaliação técnica da matéria, a SEDE
+informou que adotará as providências necessárias para a alteração da classificação por tipo da Ação 1081,
+a partir do exercício de 2027. Assim, a ação passará a ser formalmente registrada como ação “não
+orçamentária”, em conformidade com as diretrizes estabelecidas no Manual de Elaboração e Revisão do
+PPAG 2024–2027 e com a natureza das atividades desenvolvidas no âmbito da ação.
+Dessa forma, a alteração da classificação por tipo de ação para “não orçamentária”, visa conferir maior
+aderência entre a tipologia da ação, a execução física observada e o seu caráter institucional, assegurando,
+Memorando 179 (127911822)         SEI 25.0.000010078-4 / pg. 1
+
+=== PÁGINA 2 ===
+portanto, maior precisão, coerência e transparência na representação das políticas públicas no processo de
+planejamento e orçamento estadual.
+ 
+ 
+b) Apresentação de esclarecimento sobre a previsão de conclusão da implementação
+de cada medida indicada pelo Estado no Ofício SEPLAG/SPLOR nº. 19/2025, de
+10/7/25, para assegurar o cumprimento do art. 12 da Lei 24.677/2024, a fim de
+garantir maior regularidade e tempestividade na publicação dos próximos
+relatórios do PPAG;
+Em cumprimento ao disposto no art. 12 da Lei nº 24.677/2024, a Administração Estadual reconhece a
+publicidade dos dados de monitoramento do Plano Plurianual de Ação Governamental (PPAG) como
+instrumento indispensável à transparência governamental e à governança pública.
+Entretanto, conforme reportado em exercícios anteriores, a consolidação do monitoramento do PPAG
+reveste-se de complexidade intrínseca, dada a natureza transversal e a capilaridade da estrutura
+administrativa estadual. A fragmentação das fontes de dados e a necessidade de validação descentralizada
+constituem óbices técnicos que impactam a celeridade necessária ao cumprimento rigoroso dos marcos
+temporais legais.
+Adicionalmente, os esforços do órgão atualmente se voltam para a migração do sistema SIGPLAN, em
+seu módulo de planejamento, para que no próximo ciclo de elaboração e revisão do PPAG 2024-2027,
+exercício de 2027, já tenhamos um novo portal em pleno funcionamento.
+Com o intuito de mitigar os riscos identificados, assegurar a integridade, disponibilidade e tempestividade
+das informações, o Estado de Minas Gerais executa um plano de ação com o seguinte cronograma de
+implementação, estruturado, cujas etapas possuem previsão de conclusão ao longo do exercício de 2026 e
+2027.
+Ressalta-se que tais entregas estão condicionadas à evolução tecnológica do novo ambiente sistêmico em
+desenvolvimento, bem como à articulação contínua com as unidades setoriais envolvidas, fatores que
+podem impactar diretamente o ritmo de implementação. Nesse contexto, destacam-se as seguintes
+implementações e suas previsões de finalização até o momento, as quais poderão ser ajustadas em função
+dos fatores já mencionados, especialmente aqueles relacionados à evolução tecnológica do novo sistema:
+1. Modernização da Infraestrutura de TI: Migração do sistema SIGPLAN (legado em ASP) para
+tecnologias de ponta, garantindo aderência aos protocolos atuais de segurança da informação e
+escalabilidade, com conclusão prevista para o primeiro semestre de 2027;
+2. Automação de Processos (ETL): Redesenho dos processos de Extração, Transformação e Carga de
+dados, visando a eliminação de intervenções manuais suscetíveis a falhas e a otimização do lead time de
+consolidação, com a entrega do novo portal o marco de entrega estipulado também primeiro semestre de
+2027;
+3. Gestão de Competências: Investimento na capacitação das equipes setoriais e na estruturação de uma
+rede de suporte técnico ágil e eficaz, com ciclo de treinamentos a ser finalizado ao longo de 2027;
+4. Governança de Dados e Prazos: Instituição de fluxos de trabalho rígidos entre as setoriais, com
+definição clara de SLA (Service Level Agreement) para a inserção e validação das informações, com
+implementação integral programada para o final do exercício de 2027;
+5. Compatibilização Regulatória: Ajuste dos instrumentos normativos para assegurar a coerência entre as
+exigências legais de prazos e a viabilidade técnica operacional das unidades executoras, medida a ser
+concluída ao término de 2027.
+O Estado reitera seu alinhamento aos preceitos da legalidade e eficiência administrativa, sublinhando que
+tais medidas estruturantes têm por finalidade última assegurar a compliance legal e a excelência na
+prestação de contas à sociedade e às instâncias de controle externo.
+ 
+ 
+Memorando 179 (127911822)         SEI 25.0.000010078-4 / pg. 2
+
+=== PÁGINA 3 ===
+d) Apresentação de esclarecimento sobre a possibilidade de, na próxima LOA,
+apresentar de maneira detalhada e transparente a alocação de recursos nos 50
+municípios com pior desempenho no IMRS, explicitando a metodologia de
+proporcionalidade populacional mencionada no Ofício SEPLAG/SPLOR 19/2025,
+10/7/25, e disponibilizando estimativas por município, que permitam acompanhar
+efetivamente a aplicação dessa metodologia, atualmente não perceptível no
+demonstrativo.
+O processo de elaboração e revisão do Plano Plurianual de Ação Governamental (PPAG) é estruturado em
+diversas etapas. A primeira consiste no trabalho interno dos órgãos e entidades estaduais para conceber,
+identificar e selecionar os desafios, compromissos e prioridades que nortearão o Plano, refletidos em seus
+programas e ações governamentais. Nessa fase, é definida a estrutura programática de cada órgão. Como
+resultado, ao final dessa etapa, estabelece-se o conjunto de programas, indicadores e ações que comporão
+o planejamento da unidade para os quatro anos subsequentes, constituindo a carteira de programas e ações
+que orientarão a execução orçamentária.
+Cada programa é composto por ações que detalham as estratégias de enfrentamento dos desafios
+identificados. As ações orçamentárias possuem funções, indicadores (IAG) e demais características
+orçamentárias e qualitativas que definem sua forma de atuação. Além disso, cada ação deve ser
+regionalizada, ou seja, seus recursos devem ser alocados aos municípios ou às regiões intermediárias onde
+se pretende executá-la ao longo do exercício. Ressalta-se que o planejamento não implica garantia de
+execução exatamente no local previsto, podendo haver ajustes conforme as necessidades vigentes.
+Também é necessário considerar que determinados programas geram benefícios indivisíveis para uma ou
+mais regiões ou para todo o Estado de Minas Gerais, situações em que não se aplica a municipalização das
+metas.
+Dessa forma, a alocação espacial da programação e da execução das metas físicas e orçamentárias do
+PPAG pode ocorrer em três níveis: municipal, regional ou estadual. Para fins de construção do
+Demonstrativo em análise, são selecionados os programas que possuem ações planejadas e,
+posteriormente, executadas em municípios classificados entre as cinquenta últimas posições no relatório
+do IMRS. Importa mencionar que os recursos programados no localizador “Diversos Municípios –
+Estadual” e nas “Regiões Geográficas Intermediárias” são distribuídos proporcionalmente à população de
+cada município. Assim, a opção do Poder Executivo pela proporcionalização das metas planejadas e
+executadas em localizadores genéricos constitui uma forma de tornar divisível uma entrega originalmente
+prevista para um âmbito mais amplo.
+A partir da Lei Orçamentária de 2025, foi adotada nova metodologia para aprimorar as informações
+apresentadas. Com o objetivo de evidenciar, no demonstrativo relativo aos municípios em pior posição no
+IMRS, projetos que efetivamente contribuam para seu desenvolvimento e para a redução das
+desigualdades regionais, a Seplag alterou a forma de cálculo do demonstrativo, excluindo, a partir de
+2025, despesas obrigatórias decorrentes de comandos constitucionais ou legais, tais como pagamento da
+dívida e aumento de capital social de empresas. Dessa forma, foram suprimidas as ações das Unidades
+Orçamentárias 1915 e 1916 (Participação no Aumento do Capital Social de Empresas e Gestão da Dívida
+Pública Estadual). Além disso, continuaram excluídas as funções 28 – Encargos Especiais e 99 – Reserva
+de Contingência.
+Em síntese, os critérios aplicados na elaboração do “Demonstrativo dos recursos a serem aplicados no
+desenvolvimento social dos municípios classificados nas cinquenta últimas posições no relatório do
+IMRS” são:
+1. Seleção das despesas municipalizadas nos municípios classificados entre as cinquenta últimas posições
+no IMRS;
+2. Seleção das ações e programas com despesas nos localizadores genéricos, cujos valores são
+proporcionalizados conforme a população de cada município, incidindo também sobre os municípios da
+faixa mencionada;
+3. Exclusão, do conjunto resultante dos itens 1 e 2, de:
+ 3.1. Ações das UOs 1915 e 1916 (Participação no Aumento do Capital Social de Empresas e Gestão da
+Dívida Pública Estadual);
+ 3.2. Ações vinculadas às funções 28 – Encargos Especiais e 99 – Reserva de Contingência.
+Memorando 179 (127911822)         SEI 25.0.000010078-4 / pg. 3
+
+=== PÁGINA 4 ===
+O Estado vem empreendendo esforços contínuos para aprimorar a metodologia do demonstrativo, de modo
+a ampliar a clareza das informações e fortalecer o controle social sobre a efetividade das ações
+governamentais voltadas à redução das desigualdades regionais.
+A Secretaria de Estado de Planejamento e Gestão reconhece a importância de aprimorar a transparência e
+o nível de detalhamento das informações sobre a alocação de recursos públicos, especialmente no que se
+refere aos municípios em maior vulnerabilidade socioeconômica. No entanto, durante o planejamento
+orçamentário, nem todas as despesas conseguem ser regionalizadas com o grau de precisão desejado. Isso
+ocorre especialmente em ações e programas que, por sua natureza ou pela fase de formulação, são
+inicialmente alocados em localizadores genéricos, como “Diversos Municípios – Estadual” ou “Diversos
+da Região Geográfica Intermediária”. Esses localizadores representam ações cuja distribuição geográfica
+será definida durante a execução orçamentária, com base em critérios técnicos e operacionais.
+Para mitigar tal limitação e permitir a mensuração dos recursos destinados aos 50 municípios de pior
+desempenho no IMRS, o Poder Executivo adotou a metodologia de proporcionalização, utilizando a
+participação populacional de cada município. Essa metodologia permite estimar, de forma técnica e
+razoável, o potencial impacto das políticas públicas mesmo quando a ação não está originalmente
+detalhada no nível municipal.
+Importante destacar que essa metodologia não substitui a regionalização efetiva informada pelos órgãos
+setoriais, mas funciona como critério complementar para assegurar maior transparência e avaliação
+equitativa dos recursos públicos. Trata-se de estratégia que torna divisível uma ação planejada
+originalmente em âmbito mais amplo, permitindo sua visualização na escala municipal.
+Assim, a estimativa municipal é diretamente influenciada pela população de cada município, conforme
+dados atualizados anualmente pelo Instituto Brasileiro de Geografia e Estatística (IBGE).
+ 
+ 
+Atenciosamente,
+Documento assinado eletronicamente por Felipe Magno Parreiras de Sousa, Subsecretário (a), em
+25/11/2025, às 17:15, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto
+nº 47.222, de 26 de julho de 2017.
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 127911822 e
+o código CRC C3931D35.
+Referência: Processo nº 25.0.000010078-4
+SEI nº 127911822
+Memorando 179 (127911822)         SEI 25.0.000010078-4 / pg. 4

@@ -1,0 +1,276 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Planejamento e Gestão​
+Subsecretaria de Planejamento e Orçamento
+ 
+Ofício SEPLAG/SPLOR nº. 33/2024
+Belo Horizonte, 24 de maio de 2024.
+Ilmo. Sr. 
+Fábio Rodrigo Amaral de Assunção
+Subsecretário do Tesouro Estadual
+Secretaria de Estado de Fazenda - SEF
+ 
+  
+Assunto: TCE - Balanço Geral do Estado nº 1.167.016 - Exercício de 2023 - Abertura de Vistas
+Referência: [Caso responda este Ofício, indicar expressamente o Processo nº 1190.01.0008513/2024-58].
+  
+Senhor Subsecretário, 
+ 
+Em atenção ao Ofício SEF/STE nº. 94/2024, encaminhamos as respostas aos
+apontamentos direcionados à SEPLAG. Ressalta-se que os apontamentos de numero 39 e 40
+referem-se à execução de órgãos finalísticos, portanto foram respondidos pelas unidades e
+consolidados a seguir. Para maior detalhamento recomenda-se o direcionamento da demanda
+diretamente aos mesmos.
+ 
+E10. Em relação às inconsistências verificadas nos Decretos nºs 683, 690 e
+385, em atenção aos princípios da publicidade, transparência e efetividade,
+indicando as medidas adotadas para sanar os apontamentos, bem como o
+prazo de sua efetiva implementação e, por fim, a previsibilidade de
+publicação dos instrumentos jurídicos necessários.
+ 
+No Decreto 385 (minuta SIAFI 76), de 08/08/23, a fonte a ser utilizada para abertura
+de crédito adicional não foi informada no decreto.
+Houve erro material na redação do ato, tendo sido omitido o termo “do excesso de
+arrecadação” no inciso II. Será providenciada a retificação do ato ainda no exercício de 2024,
+acrescentando o termo. Ressalta-se que o registro do crédito no Siafi/Mg ocorreu de forma
+correta, tendo sido contabilizado o recurso como excesso de arrecadação.
+ 
+No Decreto 683 (minuta SIAFI 144), de 26/12/23, foram abertos créditos adicionais
+no valor total de R$ 17.326.008,00 e indicados R$ 17.206.008,00 em recursos disponíveis.
+Assim, verifica-se diferença de R$ 120.000,00.
+Verificou-se que a publicação do ato no Diário Oficial Minas Gerais do Poder Executivo
+de 27/12/2023 está correto, corresponde exatamente às operações orçamentárias do Decreto,
+registrado no Siafi/MG sob o número 144, em 27/12/2023. A publicação no Diário Oficial está
+disponível 
+no 
+link: https://www.jornalminasgerais.mg.gov.br/index.php?dataJornal=2023-12-27,
+Ofício 33 (89046626)         SEI 1190.01.0008513/2024-58 / pg. 1
+
+=== PÁGINA 2 ===
+páginas 04 e 05.
+No entanto, a inconsistência verificada pela TCE faz referência à publicação disponível
+no site da ALMG, link: https://www.almg.gov.br/legislacao-mineira/texto/DNE/681/2023/, que ao
+transcrever o texto do Decreto nº 683, apresentou um erro material ao informar as dotações
+orçamentárias detalhadas a seguir, transcreveu os valores faltando o número 1 inicial ao valor.
+- Dotações orçamentárias - transcrição no Diário Oficial
+1501 .04122041-4.099-0001-3191-0-10.1 19.131,00
+1501.04122161-4.482-0001-3390-0-10.7 11.064,00
+2101.18542104-4.274-0001-3191-0-26.1 118.556,00
+ 
+- Dotações orçamentárias - transcrição no site da ALMG
+         1501.04122041-4.099-0001-3191-0-10.1 9.131,00
+         1501.04122161-4.482-0001-3390-0-10.7 1.064,00
+         2101.18542104-4.274-0001-3191-0-26.1 18.556,00
+ 
+Tal inconsistência será informada à ALMG.
+ 
+No Decreto 690 (minuta SIAFI 152), de 28/12/23, foram abertos créditos adicionais
+no valor total de R$ 187.966.733,99 e indicados R$ 187.966.743,99 em recursos disponíveis.
+Assim, verifica-se diferença de R$ 10,00.
+Verificou-se que a publicação do ato no Diário Oficial Minas Gerais do Poder Executivo
+de 29/12/2023 está correto, corresponde exatamente às operações orçamentárias do Decreto,
+registrado no Siafi/MG sob o número 152, em 29/12/2023. A publicação no Diário Oficial está
+disponível 
+no 
+link: https://www.jornalminasgerais.mg.gov.br/index.php?dataJornal=2023-12-29,
+página 12 e 13.
+No entanto, a inconsistência verificada pela TCE faz referência à publicação disponível
+no site da ALMG, link: https://www.almg.gov.br/legislacao-mineira/texto/DNE/690/2023/, que ao
+transcrever o texto do Decreto nº 690, apresentou um erro material ao informar a dotação
+orçamentária detalhada a seguir, transcreveu os valores faltando o número 1 inicial ao valor.
+- Dotações orçamentárias - transcrição no Diário Oficial
+         1511.06122705-2 .500-0001-3191-0-10.1 15,00
+- Dotações orçamentárias - transcrição no site da ALMG
+         1511.06122705-2.500-0001-3191-0-10.1 1 5,00
+ 
+Tal inconsistência será informada à ALMG.
+ 
+E11. Acerca da utilização do instituto da “transposição”, em substituição ao
+“remanejamento”.
+ 
+De fato, a Decisão Normativa nº 02/23 do TCEMG, publicada em 03 de outubro de
+2023, antecedeu a operacionalização de 4 dos 9 atos publicados: “Decreto de Transposição 497,
+de 17/10/23 – Secretaria de Estado de Infraestrutura, Mobilidade e Parcerias”; “Decreto de
+Transposição 510, de 26/10/23 – Secretaria de Estado de Justiça e Segurança Pública”; “Decreto
+de Transposição 538, de 10/11/23 – Encargos Gerais do Estado – Instrumentos de Entrada de
+Recursos”; e “Decreto de Transposição 559, de 16/11/23 – Secretaria de Estado de
+Desenvolvimento Econômico”. Estes terão seus textos retificados, com publicação no diário oficial
+do Estado ainda no exercício de 2024.
+ 
+E12. Acerca da ausência de previsão de oneração do limite legal de
+suplementação no Decreto nº 455 (registrado sob o nº 96 no Siafi).
+ 
+Houve erro material na redação do ato, tendo sido omitido o termo “onerando no
+mesmo valor o limite estabelecido no art. 9º da Lei nº 24.272, de 20 de janeiro de 2023” no caput
+do art. 1º. Será providenciada a retificação do ato ainda no exercício de 2024, acrescentando o
+Ofício 33 (89046626)         SEI 1190.01.0008513/2024-58 / pg. 2
+
+=== PÁGINA 3 ===
+termo. Ressalta-se que, apesar da omissão no texto, a movimentação orçamentária em questão
+computou nos cálculos do Poder Executivo para fins de controle do limite previsto no art. 9º da Lei
+nº 24.272, de 20 de janeiro de 2023.
+ 
+ 
+E13. Relativamente ao descumprimento do limite imposto no § 5º, inc. XIV,
+do art. 161 da Constituição Estadual, uma vez que, como demonstrado, não
+obstante a edição de leis específicas, a abertura de crédito adicional que
+teve como fonte o excesso de arrecadação, ultrapassou o limite imposto
+pela EC 107/20. Por meio da edição de variados decretos701, o Poder
+Executivo abriu créditos suplementares autorizados pela Lei 24.272/2023
+(LOA 2023) e com recursos provenientes de excesso de arrecadação, no
+montante de R$ 1,079 bilhão.
+ 
+O controle do limite estabelecido pela EC 107/20 foi acompanhado pelo Poder
+Executivo durante todo o exercício de 2023. Através da codificação dos créditos adicionais
+utilizada no Siafi/MG, pode-se verificar em consulta ao Armazém de Informações do Siafi MG - por
+meio das variáveis “Crédito Adicional - Código” e “Crédito Adicional - Descrição” - que as
+operações de suplementação por excesso de arrecadação totalizaram R$1.045.511.629,94 (um
+bilhão quarenta e cinco milhões quinhentos e onze mil seiscentos e vinte e nove reais e noventa e
+quatro centavos), abaixo, portanto, do valor de R$1.061.039.561,89 previsto de teto de
+suplementações. Desse valor total suplementado, R$37.300.000 (trinta e sete milhões e trezentos
+mil reais) foi aberto em favor da ALMG, e o restante em favor de unidades do Poder Executivo.
+ 
+ 
+ 
+E14. Quanto às medidas adotadas para aprimorar a aderência da execução
+orçamentária às leis planejadoras, discriminando o que espera dessas
+medidas e em qual prazo, considerando a importância do planejamento (e
+de seu controle) para a implementação das políticas públicas. 
+ 
+O Estado de Minas Gerais tem há anos se preocupado com o processo de elaboração
+do planejamento e orçamento. Além de garantir o completo alinhamento entre os instrumentos
+(PPAG e LOA), trabalha-se com o monitoramento do planejamento bimestralmente, com a
+obrigatoriedade de que seja justificada para cada ação as discrepâncias entre o planejado e
+executado, acima ou abaixo de 30% das metas físicas e das metas financeiras. Soma-se a isso a
+avaliação do PPAG ao final de cada exercício. 
+Ademais, o momento de elaboração da Lei Orçamentária Anual é feito com muita
+cautela e envolve todos os setores do Estado, tanto no âmbito da Seplag – secretaria que
+coordena o processo de elaboração dos instrumentos de planejamento – quanto, e
+principalmente, os setores dos órgãos que executam a politica pública. 
+Atualmente, a elaboração do orçamento e planejamento estadual é feito a partir da
+metodologia do Orçamento Base Zero, metodologia esta que gera informações detalhadas sobre o
+recurso necessário para cada política pública, se baseando na reavaliação periódica de todas as
+ações, com despesas estruturadas em atividades ou operações e com a justificativa detalhada
+dos custos, propósito, benefícios e outros dados relevantes. Este processo envolve todos os
+setores do Estado, a unidade responsável pelo planejamento e orçamento no órgão, em conjunto
+com as unidades executoras das políticas públicas, levantam as demandas do setor conforme os
+graus de necessidade, e elaboram a proposta orçamentária do órgão a partir das prioridades
+definida por seu representante máximo.
+Contudo, é importante destacar que trata-se de um instrumento de planejamento e que
+é esperado que sejam realizados ajustes ao longo do ano, seja por necessidade de repriorizar
+alguma demanda, ou surgimento de algo novo que se tornou urgente ou mesmo ajuste de
+quantitativo que no momento da elaboração ficou aquém ou acima da realidade. Porém, entende-
+Ofício 33 (89046626)         SEI 1190.01.0008513/2024-58 / pg. 3
+
+=== PÁGINA 4 ===
+se a pratica reiterada de elaboração do planejamento e do seu monitoramento e avaliação faz
+com que esses “desvios”de planejamento sejam a cada vez menores e mais condizentes com o
+que de fato não é possível antecipar.
+Já quanto à execução dos projetos estratégicos, reiteramos a justificativa encaminhada
+no ano passado, transcrito a seguir: “as ações de acompanhamento intensivo (identificadas no
+PPAG com o IAG 1) recebem essa denominação atualmente com o objetivo de ter aplicada
+metodologia diferenciada de acompanhamento de projetos. Atribuir a uma ação orçamentária o
+IAG 1 significa que a ação foi determinada como estratégica pelo Governo. No entanto, apesar da
+ação ser considerada estratégica, não quer dizer que seja necessária a destinação de recursos
+para a ação. Como exemplo, temos que algumas ações consideradas estratégicas no PPAG
+2020-2023 que sequer tem orçamento para execução pela natureza de objeto.”
+ 
+E39. Quanto à Ação 2036 – Desenvolvimento das Ações de Saúde no
+Âmbito do Corpo de Bombeiros Militar do Estado de MG, do Programa 099 –
+Execução Descentralizada e Autônoma das Ações e Serviços de Saúde,
+pois apresentou Desempenho Financeiro subestimado, com um percentual
+de realização financeira de 385,14% em relação à previsão inicial e não
+constou no Sigplan justificativa para elevada execução financeira.
+De acordo com a SES e o CBMMG, verifica-se que tal ação trata-se de uma ação que
+espelha a execução do CBMMG. Dessa forma, o CBMMG explica que a Ação 2036 -
+Desenvolvimento das Ações de Saúde no Âmbito do Corpo de Bombeiros Militar do Estado de
+MG, do Programa 099 – Execução Descentralizada e Autônoma das Ações e Serviços de Saúde
+apresentou desempenho financeiro subestimado em virtude da destinação de Emendas
+Parlamentares Estaduais ao CBMMG, que atenderam ao planejamento institucional, mas que
+superaram o planejamento orçamentário.
+Portanto, por se tratar de destinação com caráter discricionário do parlamentar, houve a
+superação do que foi planejado investir em Unidades de Resgate para Atendimento Pré-
+Hospitalar, contudo sem extrapolar a real carência deste recurso.
+Foram destinados cerca 3,5 milhões de reais ao CBMMG em Emendas Parlamentares
+destinadas a Ações e Serviços Públicos de Saúde.
+ 
+E40. Quanto à Ação 1007– Combate Epidemiológico ao Coronavírus, do
+Programa 026 – Enfrentamento dos Efeitos da Pandemia de Covid-19, pois
+apresentou desempenho financeiro crítico, superando em mais de 130% a
+previsão inicial (190,62%) e execução física crítica, inferior a 70% da meta
+física definida (0%), o que configura Desequilíbrio Crítico de Execução da
+Ação. A justificativa para o desequilíbrio ocorrido é insuficiente, pois a
+única informação que consta no Sigplan é de que os resultados
+apresentados decorrem dos surtos de pandemia de Covid-19, que não são
+passíveis de previsão, sendo a mesma justificativa do exercício anterior, a
+qual se mostra capaz de explicar a situação relatada.
+De acordo com a FHEMIG, os resultados apresentados decorrem dos surtos de
+pandemia de Covid-19, que não são passíveis de previsão, motivo pelo qual a meta física foi
+estabelecida em 1 (uma) assistência prestada ao paciente. Em 2023, no mês de maio, houve
+execução financeira nesta ação referente a devolução de saldo ao Fundo Municipal de Saúde, do
+convênio de gases medicinais (SIAFI nº 9283548,) que teve término da vigência em 23/12/2022.
+Dessa forma, não houve execução orçamentária no âmbito da ação 1007 - Combate
+Epidemiológico.
+ 
+D1. Considerando que o Estado não estabeleceu, durante a vigência do art.
+Ofício 33 (89046626)         SEI 1190.01.0008513/2024-58 / pg. 4
+
+=== PÁGINA 5 ===
+155, § 5º, da CE/89, percentual não inferior a 1% da receita orçamentária
+corrente ordinária para o atendimento das propostas priorizadas nas
+audiências públicas regionais, determinação para que, no próximo projeto
+de LOA, seja destinada parte da receita orçamentária corrente ordinária
+para o atendimento retroativo dessas propostas.
+ 
+Esse item está sendo discutido entre Poder Executivo e Tribunal de Contas, motivo pelo qual a
+área técnica não tem subsídios para direcionar resposta efetiva.
+ 
+ 
+ 
+D14. (ALMG) Observe as previsões legais para alterações nos créditos
+iniciais da LOA, evitando a utilização de termos genéricos.
+ 
+A ALMG, no uso de sua autonomia administrativa, edita e publica seus atos de
+movimentação orçamentária de forma independente, cabendo ao Poder Executivo apenas sua
+operacionalização no Siafi/MG.  
+ 
+ 
+ 
+Adicionalmente, encaminha-se resposta ao esclarecimento 2 - transcrito a seguir que, a despeito
+não ter sido direcionado no oficio SEF/STE nº 94, entende-se que a SPLOR tem como contribuir na resposta.
+ 
+ 
+ 
+E2. Quanto à receita financeira auferida sobre os recursos alocados na Fonte 57,
+tendo em vista a determinação legal para que os rendimentos auferidos sobre os
+recursos recebidos em função da LC 195 sejam voltados à consecução do mesmo
+objeto do valor principal.
+ 
+A parcela dos recursos referentes à Lei Paulo Gustavo (LC 195) arrecadados na fonte 57 foi
+registrada em uma única unidade orçamentária (1271 - Secretaria de Estado da Cultura), a qual, por sua
+vez, não registrou receitas referentes a outros instrumentos na fonte 57. Dessa forma, a totalidade das
+receitas de fonte 57 na UO 1271 refere-se às transferências da LC 195. Assim toda a receita de
+remuneração de depósitos bancários na mesma UO, na fonte 57, decorre dos recursos da LC 195. O total
+arrecadado em 2023 referente às remunerações foi de R$ 2.098.497
+ 
+ 
+ 
+ 
+Atenciosamente, 
+ 
+  
+Documento assinado eletronicamente por Felipe Magno Parreiras de Sousa, Subsecretário(a), em
+10/06/2024, às 10:08, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto
+nº 47.222, de 26 de julho de 2017.
+Ofício 33 (89046626)         SEI 1190.01.0008513/2024-58 / pg. 5
+
+=== PÁGINA 6 ===
+A autenticidade deste documento pode ser conferida no site
+http://sei.mg.gov.br/sei/controlador_externo.php?
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 89046626 e o
+código CRC 2B263582.
+Referência: Processo nº 1190.01.0008513/2024-58
+SEI nº 89046626
+Rodovia Papa João Paulo II, nº 4001  - Bairro Serra Verde - Belo Horizonte - CEP 31630-901​
+Ofício 33 (89046626)         SEI 1190.01.0008513/2024-58 / pg. 6

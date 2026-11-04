@@ -1,0 +1,817 @@
+
+=== PÁGINA 1 ===
+GOVERNO DO ESTADO DE MINAS GERAIS
+Secretaria de Estado de Planejamento e Gestão​
+Subsecretaria de Planejamento e Orçamento
+ 
+Nota Técnica GTFR 01/2023 - SEF/STE - SEPLAG/SPLOR                                                                         
+                                   
+      Belo Horizonte, 30 de janeiro de 2023.
+1. Introdução
+A presente Nota Técnica tem como objetivo apresentar a matriz de correspondências a ser utilizada pelo
+Estado de Minas Gerais para realizar a prestação de contas, à União, de seu planejamento e execução
+financeiros e orçamentários, nos termos das Portarias federais que uniformizaram a estrutura de
+classificação das fontes de recurso para os entes da federação.
+Inicialmente, serão apresentadas as principais normas relacionadas à temática. Na sequência, o contexto de
+implementação será discutido, com breve apresentação dos principais sistemas orçamentários e financeiros
+estaduais e do ementário de fontes de recurso até então utilizado, apontando as dificuldades e limitações
+de implementação, no orçamento estadual, das determinações da Secretaria do Tesouro Nacional (STN).
+Finalmente, será explicada a alternativa encontrada pelo Estado para proceder à prestação de contas da
+execução orçamentária e financeira na estrutura padronizada, isto é, a utilização provisória e excepcional,
+durante os exercícios financeiros de 2023 e 2024, da matriz de correspondências entre as classificações
+orçamentárias vigentes no Estado de Minas Gerais e a nova estrutura padronizada pela STN.
+ 
+2. Normatização Federal
+O Governo Federal, por meio da Secretaria do Tesouro Nacional (STN) e da Secretaria de Orçamento
+Federal (SOF), publicou, em 24 de fevereiro de 2021, a Portaria STN/SOF Nº 20 (23/02/21), a qual
+estabeleceu a padronização das fontes de recursos, a ser observada no âmbito da União, dos Estados, do
+Distrito Federal e dos Municípios, que até então dispunham de estruturas próprias e desarmonizadas. Na
+sequência, com a publicação da Portaria Nº 710 (26/02/21), foi divulgada a classificação de fontes a ser
+utilizada pelos entes, posteriormente modificada (e complementada) por outras portarias.
+A referida normatização padroniza a fonte de recurso como um campo de três dígitos, sendo que, para os
+entes federados, foram reservados os espaços das fontes 500 até a 999, ao passo que os espaços 001 até
+499 são de utilização exclusiva da União. Além disso, foram criados campos complementares às fontes de
+recurso, como o dígito Identificador do Exercício (que informa se os recursos são do exercício corrente, de
+exercícios anteriores ou condicionados) e o código de acompanhamento da execução orçamentária (CO -
+um marcador de quatro dígitos que identifica informações complementares relativas a determinadas
+receitas e despesas, como a aplicação dos mínimos constitucionais, benefícios previdenciários,
+transferências decorrentes de emendas parlamentares federais, dentre outros).
+As Portarias trouxeram, ainda, a determinação de que a nova estrutura fosse utilizada, obrigatoriamente, a
+partir do exercício financeiro de 2023, desde a elaboração das leis orçamentárias. Também permitiram aos
+entes a criação/manutenção de campos gerenciais de detalhamento à estrutura padronizada de fontes, caso
+pertinente, não sendo necessário o envio desses detalhamentos à STN.
+ 
+3.Contextualização
+A estrutura de fonte de recursos utilizada atualmente pelo Estado de Minas Gerais possui apenas um
+campo de dois dígitos, sendo, portanto, incompatível com o padrão estabelecido pela União. Devido a
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 1
+
+=== PÁGINA 2 ===
+restrições do principal sistema atualmente em uso e ao processo de migração de sistemas em curso no
+Estado, a plena implementação das determinações da União se mostrou inviável para o exercício de 2023.
+Apresentação dos Sistemas Orçamentários e Financeiros Estaduais
+O Sistema Integrado de Administração Financeira (Siafi-MG) é o sistema atualmente utilizado pela
+administração pública estadual para a execução financeira e orçamentária. Implementado em 1994, sua
+gestão é realizada sobretudo pela Secretaria de Estado da Fazenda – SEF, em parceria com a Companhia
+de Tecnologia da Informação do Estado de Minas Gerais (Prodemge-MG), sendo essa a responsável por
+operacionalizar as alterações do sistema.
+Por se tratar de um sistema implementado originalmente há quase trinta anos, constatam-se dificuldades
+que tornam melhorias e integrações junto a novos sistemas onerosas.
+Diante dessas limitações, vem sendo desenvolvido pelo Estado um novo sistema, o GRP Minas, que traz
+como proposta a integração de diversos sistemas estaduais, com previsão de estar disponível para a
+realização do planejamento e da execução orçamentários relativos ao exercício de 2024. Assim, a
+execução financeira do exercício 2023 ocorrerá ainda no Siafi-MG.
+Estrutura de fontes de recurso vigente em Minas Gerais e impacto da padronização promovida pela União
+Como já mencionado, o ementário de fontes de recurso atualmente utilizado no Estado consiste em um
+campo orçamentário de dois dígitos, sendo incompatível com a padronização promovida pela União, seja
+no número de dígitos destinado às fontes, seja na própria lógica de estruturação dos campos
+complementares que compõem a informação relativa às fontes.
+Considerando a obrigatoriedade de utilização do novo ementário a partir de exercício de 2023, foi
+discutida e analisada a possibilidade de implementação das alterações diretamente no Siafi-MG. Contudo,
+considerando a magnitude das alterações na estrutura de fontes; a defasagem tecnológica do Siafi-MG; o
+fato de outro sistema já estar sendo desenvolvido, em estágio avançado, para substituí-lo; e os prazos,
+custos e riscos envolvidos para a implementação das melhorias[1], a adaptação do Siafi-MG se mostrou
+inviável.
+Dessa forma, as alterações decorrentes da Portaria STN Nº 710/2021 serão implementadas diretamente no
+GRP Minas a partir do exercício de 2025.
+Como consequência, o planejamento/execução dos orçamentos estaduais referentes aos exercícios
+financeiros de 2023 e 2024 não serão realizados na estrutura padronizada, mas sim, na estrutura gerencial
+de fontes do Estado. Portanto, será necessário o uso de uma matriz de correspondências entre os dois
+ementários (mecanismo DE-PARA) para a prestação de contas à União na estrutura de fontes padronizada,
+matriz esta que será apresentada na próxima seção desta Nota Técnica.
+ 
+4.Solução provisória para 2023 e 2024: matriz de correspondências
+O ponto de partida para a elaboração da matriz de correspondências entre o ementário padronizado e o
+ementário de fontes utilizado no orçamento estadual foi, justamente, a análise pormenorizada de cada
+fonte de recurso do ementário estadual e a verificação, junto ao ementário padronizado, de sua fonte
+correspondente.
+Devido à diferença entre os ementários, foram mapeados três tipos de possibilidades durante a análise das
+correspondências:
+Relação “um para um”: a fonte do ementário estadual se associa total e diretamente à fonte do
+ementário padronizado. Ex.: a fonte 21 do ementário estadual (“Cota estadual do salário educação –
+QESE”) corresponde integralmente à fonte 550 do ementário padronizado pela STN
+(“Transferências do Salário-Educação);
+Relação “muitos para um”: diferentes fontes do ementário estadual correspondem a uma mesma
+fonte do ementário padronizado. Ex.: arrecadação de taxas estaduais, que possuem fontes
+específicas e exclusivas no ementário estadual e são registradas em fonte única no padronizado;
+Relação “um para muitos”: recursos que são registrados em uma única fonte estadual, mas que, no
+ementário padronizado, se separam em duas ou mais fontes diferentes. Ex.: convênios, que foram
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 2
+
+=== PÁGINA 3 ===
+divididos por áreas no ementário padronizado (saúde, educação, assistência social e demais).
+Merecem melhor esclarecimento os casos em que a relação é de “um para muitos”. Nestes casos, a criação
+de novas fontes no ementário estadual poderia resolver o problema de identificação dos recursos, pois os
+separaria em fontes específicas e exclusivas. Entretanto, devido às limitações já apontadas do Siafi-MG, o
+Estado não dispõe de espaços suficientes no ementário de fontes para contemplar todas as
+correspondências que demandariam a criação de novas fontes. Assim, foi necessário identificar os
+recursos de outro modo, utilizando outras informações orçamentárias.
+Nesses casos, foram delineados critérios para apontar, dentro de cada fonte do ementário estadual, qual
+parcela dos recursos nela arrecadados se referia a cada fonte do ementário padronizado. Por exemplo, na
+fonte 57 – “Transferências de Recursos da União por meio de Portaria” – são arrecadadas diferentes
+transferências “fundo a fundo”, provenientes do Fundo Penitenciário Nacional (FUNPEN), do Fundo de
+Segurança Pública (FSP) e do Fundo de Amparo ao Trabalhador (FAT), dentre outras. Como existem
+fontes específicas no ementário padronizado para cada uma dessas transferências, é necessário o uso de
+informações complementares à fonte de recurso para realizar a associação entre os ementários – no caso
+em questão, o campo utilizado foi a unidade orçamentária (UO). A imagem a seguir busca sintetizar a
+lógica utilizada na realização dessa correspondência entre os ementários.
+Imagem 1: Exemplo de conversão dos recursos registrados na fonte estadual 57 para as fontes do ementário
+padronizado
+ 
+                                                                                                                                              Fonte: elaboração própria.
+ 
+Assim, do total registrado na fonte 57, para fins de prestação de contas a parcela arrecadada e executada
+na UO estadual 4141 (Fundo Penitenciário Estadual) se associará à fonte 712 do ementário padronizado, a
+parcela da UO 4691 (Fundo de Segurança Pública) à 713, e assim sucessivamente. Para cada um dos
+relacionamentos “um para muitos” identificados nas associações entre os ementários, foram criados
+critérios específicos, para conseguir proceder à correta correspondência.
+Além da informação da UO, outros campos orçamentários foram utilizados, quando necessário, para
+identificar corretamente o recurso correspondente do ementário padronizado. Assim, até o momento foram
+utilizados, na parte da receita, os campos de código de natureza, fonte e UO; e, na parte da despesa, além
+da UO e da própria fonte, a ação orçamentária (projeto-atividade) e o grupo de natureza da despesa
+(GND). Destaca-se que estes são os critérios utilizados atualmente, podendo ser necessária, futuramente, a
+inserção de outros campos orçamentários, conforme novas necessidades surjam.
+Cabe apontar, ainda, que a matriz de correspondências descrita anteriormente é fruto de um trabalho
+conjunto desenvolvido entre a Secretaria de Estado de Planejamento e Gestão (SEPLAG) e a Secretaria de
+Estado da Fazenda (SEF), por meio de encontros semanais desenvolvidos no âmbito do Grupo de
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 3
+
+=== PÁGINA 4 ===
+Trabalho das Fontes de Recurso (GTFR), instituído exclusivamente para essa finalidade.
+Assim, como resultado deste trabalho, obteve-se a matriz de correspondências entre o ementário estadual e
+o ementário padronizado, definido nas Portarias da STN. Essa matriz será a referência para a realização da
+prestação de contas do planejamento e da execução do orçamento de Minas Gerais à União dos exercícios
+de 2023 e 2024, e está apresentada, de forma detalhada, no Anexo A desta Nota Técnica.
+ 
+5.Conclusão
+Ao longo desta Nota Técnica buscou-se apresentar e discutir os impactos da implementação da nova
+estrutura de fontes de recurso, padronizada pelas Portarias da Secretaria do Tesouro Nacional (STN), no
+âmbito da gestão financeira e orçamentária do Estado de Minas Gerais. Conforme demonstrado, houve
+limitações de sistemas que impediram a adoção das determinações da União no planejamento dos
+orçamentos de 2023, as quais se manterão durante a execução deste exercício, bem como o planejamento e
+a execução do exercício de 2024.
+Como alternativa para a devida prestação de contas à STN, foi elaborada uma matriz de correspondências
+entre o ementário de fontes estadual e o ementário de fontes padronizado, validada pelas equipes das
+Secretarias de Estado diretamente envolvidas na temática (SEF e SEPLAG), a partir da qual será possível
+informar os dados financeiros e orçamentários do Estado na estrutura padronizada.
+A matriz de correspondências é apresentada no Anexo A desta Nota Técnica.
+ 
+Anexo A – Matriz de Correspondências entre os ementários estadual e padronizado
+ 
+CÓD.
+FONTE
+UNIAO
+DESC. FONTE UNIÃO
+CRITÉRIOS PARA CORRESPONDÊNCIA DO
+EMENTÁRIO ESTADUAL
+500
+Recursos 
+não 
+vinculados 
+de
+Impostos
+Recursos registrados na Fonte 10. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+501
+Outros Recursos não Vinculados
+Recursos registrados nas Fontes 11, 12 e 15. Como,
+neste caso, a associação ao ementário padronizado é "um
+para um", não há necessidade de se utilizar critérios
+complementares
+Recursos registrados na Fonte 60, excetuada a parcela
+associada à fonte 799 do ementário padronizado
+502
+Recursos 
+não 
+vinculados 
+da
+compensação de impostos
+Recursos registrados na Fonte 19. Como, neste caso, a
+associação ao ementário padronizado é “um para um”,
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+540
+Transferências do FUNDEB –
+Impostos 
+e 
+Transferências 
+de
+Recursos registrados na Fonte 13. Como, neste caso, a
+associação ao ementário padronizado é “um para um”,
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 4
+
+=== PÁGINA 5 ===
+Impostos
+Despesa: associação “um para um” com a Fonte 23
+Receita:  Fonte 23; código de receita 175150.
+Obs.: Além dessa matriz de receita, associam-se à fonte
+540 as receitas de remunerações e restituições (matrizes
+1321 e 1922) na fonte 23.
+550
+Transferência do Salário-Educação
+Recursos registrados na Fonte 21. Como, neste caso, a
+associação ao ementário padronizado é “um para um”,
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+551
+Transferências de Recursos do
+FNDE Referentes ao Programa
+Dinheiro Direto na Escola (PDDE)
+Despesa: Fontes 3, 4 e 36; ações 4297 e 4304
+Receita: Fontes 3, 4 e 36; códigos de receita 171451,
+1922990108, 1922990208, 1922990308 e 1922990408
+552
+Transferências de Recursos do
+FNDE Referentes ao Programa
+Nacional de Alimentação Escolar
+(PNAE)
+Despesa: Fonte 3, 4 e 36; ações 4300, 4307, 4315, 4397,
+4398 e 4399
+Receita: Fonte 3, 4 e 36; códigos de receita 171452,
+1922990102, 1922990202, 1922990302 e 1922990402.
+Obs.: além disso, registra-se também na 552 as receitas
+de remuneração (1321) arrecadadas na SEE (UO 1261)
+nas fontes 3, 4 e 36, pois os recursos referentes ao
+PNAE são os mais representativos do total.
+553
+Transferências de Recursos do
+FNDE Referentes ao Programa
+Nacional de Apoio ao Transporte
+Escolar (PNATE)
+Despesa: Fonte 3, 4 e 36; ação 4249
+Receita: Fonte 3, 4 e 36; códigos de receita 171453,
+1922990103, 1922990203, 1922990303 e 1922990403
+569
+Outras Transferências de Recursos
+do FNDE
+Recursos registrados na Fonte 3, 4 e 36, excetuadas as
+parcelas associadas às fontes 551, 552 e 553 do
+ementário padronizado
+570
+Transferências 
+do 
+Governo
+Federal referentes a Convênios e
+outros 
+Repasses 
+vinculados 
+à
+Educação
+Despesa e receita: Fontes 1, 2, 24, 73; UOs 1261, 2151,
+2311 e 2351
+571
+Transferências 
+do 
+Estado
+referentes a Convênios e outros
+Repasses vinculados à Educação
+Despesa e receita: Fontes 66 e 69; UOs 1261, 2151,
+2311 e 2351
+572
+Transferências 
+de 
+Municípios
+referentes a Convênios e outros
+Repasses vinculados à Educação
+Despesa e receita: Fontes 67 e 70; UOs 1261, 2151,
+2311 e 2351
+575
+Outras 
+Transferências 
+de
+Convênios 
+e 
+Instrumentos
+Congêneres 
+vinculados 
+à
+Educação
+Despesa e receita: Fontes 68 e 74; UOs 1261, 2151,
+2311 e 2351
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 5
+
+=== PÁGINA 6 ===
+599
+Outros Recursos Vinculados à
+Educação
+Despesa e receita:  Fontes 9, 45 e 46; UOs 1261, 2151,
+2311 e 2351
+600
+Transferências Fundo a Fundo de
+Recursos do SUS provenientes do
+Governo Federal - Bloco de
+Manutenção das Ações e Serviços
+Públicos de Saúde
+Despesa: Fonte 37; grupos 1 e 3
+Receita: Fonte 37; categoria 1
+Recursos registrados nas Fontes 62, 63 e 92. Como,
+neste caso, a associação ao ementário padronizado é "um
+para um", não há necessidade de se utilizar critérios
+complementares
+Despesa: Fontes 22, 84, 85, 86 e 88; grupo 1 e 3;
+Receita: não há que se elencar critérios, pois a fonte não
+arrecada mais recursos. Apenas possui restos a pagar
+associados a ela.
+601
+Transferências Fundo a Fundo de
+Recursos do SUS provenientes do
+Governo Federal - Bloco de
+Estruturação da Rede de Serviços
+Públicos de Saúde
+Despesa: Fonte 37; grupos 4 e 5
+Receita: Fonte 37; categoria 2
+Recursos registrados na Fonte 64, 65 e 93. Como, neste
+caso, a associação ao ementário padronizado é "um para
+um", não há necessidade de se utilizar critérios
+complementares
+Despesa: Fonte 22, 84. 86, 86 e 88; grupos 4 e 5;
+Receita: não há que se elencar critérios, pois a fonte não
+arrecada mais recursos. Apenas possui restos a pagar
+associados a ela.
+631
+Transferências 
+do 
+Governo
+Federal referentes a Convênios e
+outros 
+Repasses 
+vinculados 
+à
+Saúde
+Despesa e Receita: Fontes 1, 2, 24 e 73; UOs 1541,
+2261, 2271, 2321 e 4291
+632
+Transferências 
+do 
+Estado
+referentes a Convênios e outros
+Repasses vinculados à Saúde
+Despesa e Receita: Fontes 66 e 69; UOs 1541, 2261,
+2271, 2321 e 4291
+633
+Transferências 
+de 
+Municípios
+referentes a Convênios e outros
+Repasses vinculados à Saúde
+Despesa e Receita: Fontes 67 e 70; UOs 1541, 2261,
+2271, 2321 e 4291
+636
+Outras 
+Transferências 
+de
+Convênios 
+e 
+Instrumentos
+Congêneres vinculados à Saúde
+Despesa e Receita: Fontes 68 e 74; UOs 1541, 2261,
+2271, 2321 e 4291
+659
+Outros Recursos Vinculados à
+Saúde
+Despesa e Receita:  Fontes 9, 45 e 46; UOs 1541, 2261,
+2271, 2321 e 4291
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 6
+
+=== PÁGINA 7 ===
+Recursos registrados na Fonte 55. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+660
+Transferência de Recursos do
+Fundo Nacional de Assistência
+Social - FNAS
+Recursos registrados nas Fontes 5, 6 e 56. Como, neste
+caso, a associação ao ementário padronizado é "um para
+um", não há necessidade de se utilizar critérios
+complementares
+665
+Transferências de Convênios e
+outros 
+Repasses 
+vinculados 
+à
+Assistência Social
+Despesa e Receita: Fontes 1, 2, 24, 66, 67, 68, 69, 70,
+73 e 74; UO 4251
+669
+Outros Recursos Vinculados à
+Assistência Social
+Despesa e Receita:  Fonte 9, 45 e 46; UO 4251
+700
+Outras 
+Transferências 
+de
+Convênios ou Repasses da União
+Recursos registrados nas Fontes 1, 2, 7, 8, 24, 57 e 73,
+excetuadas as parcelas associadas às fontes 570, 631,
+665, 712, 713, 714 e 717 do ementário padronizado
+701
+Outras 
+Transferências 
+de
+Convênios 
+ou 
+Repasses 
+dos
+Estados
+Recursos registrados nas Fontes 66 e 69, excetuadas as
+parcelas associadas às fontes 571, 632 e 665 do
+ementário padronizado
+702
+Outras 
+Transferências 
+de
+Convênios 
+ou 
+Repasses 
+dos
+Municípios
+Recursos registrados nas Fontes 67 e 70, excetuadas as
+parcelas associadas às fontes 572, 633 e 665 do
+ementário padronizado
+703
+Outras 
+Transferências 
+de
+Convênios 
+ou 
+Contratos 
+de
+Repasse de outras Entidades
+Recursos registrados nas Fontes 68 e 74, excetuadas as
+parcelas associadas às fontes 575, 636 e 665 do
+ementário padronizado
+704
+Transferência da União Referente
+a Royalties do Petróleo e Gás
+Natural
+Recursos registrados nas Fontes 33 e 96. Como, neste
+caso, a associação ao ementário padronizado é "um para
+um", não há necessidade de se utilizar critérios
+complementares
+706
+Transferência Especial da União
+Recursos registrados na Fonte 97. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+707
+Transferências da União – inciso I
+do art. 5º da Lei Complementar
+173/2020
+Recursos registrados na Fonte 99. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+708
+Transferência da União Referente
+à Compensação Financeira de
+Recursos Minerais
+Recursos registrados na Fonte 32. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 7
+
+=== PÁGINA 8 ===
+709
+Transferência da União referente à
+Compensação 
+Financeira 
+de
+Recursos Hídricos
+Recursos registrados na Fonte 31. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+711
+Demais 
+Transferências
+Obrigatórias não Decorrentes de
+Repartições de Receitas.
+Recursos registrados na Fonte 38. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+Despesa e receita: Fonte 59; UO 1271
+712
+Transferências Fundo a Fundo de
+Recursos do Fundo Penitenciário -
+FUNPEN
+Despesa e receita: Fonte 57; UO 4141
+713
+Transferências Fundo a Fundo de
+Recursos do Fundo de Segurança
+Pública - FSP
+Despesa e receita: Fontes 7, 8 e 57; UO 4691
+714
+Transferências Fundo a Fundo de
+Recursos do Fundo de Amparo ao
+Trabalhador - FAT
+Despesa e receita:  Fontes 7, 8 e 57; UO 4701
+717
+Assistência Financeira Transporte
+Coletivo – Art. 5º, Inciso IV, EC
+nº 123/2022
+Despesa e receita: Fonte 57; UO 1301
+718
+Auxílio Financeiro – Outorga
+Crédito Tributário ICMS – Art. 5º,
+Inciso V, EC nº 123/2022
+Recursos registrados na Fonte 18. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+749
+Outras 
+vinculações 
+de
+transferências
+Recursos registrados nas Fontes 9, 45 e 46, excetuadas
+as parcelas associadas às fontes 599, 659 e 669 do
+ementário padronizado
+750
+Recursos 
+da 
+Contribuição 
+de
+Intervenção 
+no 
+Domínio
+Econômico - CIDE
+Recursos registrados na Fonte 51. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+752
+Recursos Vinculados ao Trânsito
+Recursos registrados na Fontes 34, 82, 83. Como, neste
+caso, a associação ao ementário padronizado é "um para
+um", não há necessidade de se utilizar critérios
+complementares
+753
+Recursos provenientes de taxas e
+contribuições
+Recursos registrados nas Fontes 26, 27, 29, 52, 53, 72,
+91 e 94. Como, neste caso, a associação ao ementário
+padronizado é "um para um", não há necessidade de se
+utilizar critérios complementares
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 8
+
+=== PÁGINA 9 ===
+Despesa e receita: Fonte 59; UO 2441
+Obs.: além disso, as despesas realizadas na unidade
+orçamentária 1501 (Seplag) com IPU 2, Fonte 59,
+também serão associadas à 753. São recursos repassados
+pela Arsae, referentes à sua fonte 59, à Seplag, para que
+ela realize a despesa.
+754
+Recursos de Operações de Crédito
+Recursos registrados na Fonte 25. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+755
+Recursos 
+de 
+Alienação 
+de
+Bens/Ativos 
+- 
+Administração
+Direta
+Recursos registrados na Fonte 48. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+756
+Recursos 
+de 
+Alienação 
+de
+Bens/Ativos 
+- 
+Administração
+Indireta
+Recursos registrados na Fonte 47. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+757
+Recursos de depósitos judiciais –
+Lides das quais o ente faz parte
+Recursos registrados na Fonte 14. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+758
+Recursos de Depósitos Judiciais –
+Lides das quais o Ente não faz
+parte
+Recursos registrados na Fonte 81. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+759
+Recursos Vinculados a Fundos
+Recursos registrados nas Fontes 35, 39, 54 e 71. Como,
+neste caso, a associação ao ementário padronizado é "um
+para um", não há necessidade de se utilizar critérios
+complementares
+Despesa e receita: Fonte 59; UOs 4331 e 4491
+Despesa e receita: Fonte 61; UOs 4031 e 4341
+760
+Recursos de Emolumentos e Taxas
+judiciais
+Recursos registrados na Fonte 77. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+799
+Outras vinculações legais
+Recursos registrados nas Fontes 20, 40, 49, 50. Como,
+neste caso, a associação ao ementário padronizado é "um
+para um", não há necessidade de se utilizar critérios
+complementares
+Recursos registrados nas Fontes 59 e 61, excetuadas as
+parcelas associadas às fontes 711, 753, 759, 801 e 899.
+Despesa e receita: Fonte 60; UO 2361
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 9
+
+=== PÁGINA 10 ===
+801
+Recursos vinculados ao RPPS -
+Fundo 
+em 
+Repartição 
+(Plano
+Financeiro)
+Recursos registrados na Fonte 42, 43, 44 e 58. Como,
+neste caso, a associação ao ementário padronizado é "um
+para um", não há necessidade de se utilizar critérios
+complementares
+Despesa e receita: Fonte 61; UO 4711
+803
+Recursos vinculados ao Sistema de
+Proteção Social dos Militares
+(SPSM)
+Recursos registrados na Fonte 78. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+899
+Outros Recursos Vinculados
+Recursos registrados na Fonte 95. Como, neste caso, a
+associação ao ementário padronizado é "um para um",
+não 
+há 
+necessidade 
+de 
+se 
+utilizar 
+critérios
+complementares
+Despesa e receita: Fonte 59; UO 1301
+ 
+ 
+Felipe Magno Parreiras de Sousa
+Subsecretário de Planejamento e Orçamento - SPLOR/SEPLAG
+ 
+Fábio Rodrigo Amaral de Assunção
+Subsecretário do Tesouro Estadual - STE/SEF
+ 
+Túlio De Souza Gonzaga
+Superintendente Central de Planejamento e Orçamento - SCPO/SPLOR/SEPLAG
+ 
+Felipe Afonso Costa
+Superintendente Central de Administração Financeira - SCAF/STE/SEF
+ 
+Maria da Conceição Barros de Rezende Ladeira
+Superintendente Central de Contadoria-Geral - SCCG/STE/SEF
+ 
+[1] Conforme discutido entre as equipes técnicas da Seplag, SEF e Prodemge, a opção por implementar as
+alterações no Siafi-MG poderia inclusive afetar os módulos de execução orçamentária já em
+funcionamento, colocando em risco a execução do orçamento durante o exercício financeiro de 2023.
+Referência: Processo nº 1500.01.0018313/2023-95
+SEI nº 59987286
+Nota Técnica GTFR 01/2023 - SEF/STE (59987286)         SEI 1500.01.0018313/2023-95 / pg. 10
