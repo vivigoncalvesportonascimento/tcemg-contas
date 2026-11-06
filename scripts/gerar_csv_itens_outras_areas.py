@@ -21,6 +21,7 @@ LINHAS = [
      "SUGER",
      "Competência: Decreto 48.636/2023, art. 69, II e III (diretrizes e monitoramento dos projetos estratégicos). "
      "Precedentes da SPLOR: Memo SPLOR 109/2024, reiterado pelo Memo 127/2024, enviou o item à Subsecretaria de Inovação e Gestão Estratégica (NT 38/2024); "
+     "o Memo SPLOR 50/2025 (12/05/2025) voltou a enviar o D32 à Subsecretaria de Inovação e Gestão Estratégica, para conhecimento e providências, com resposta direta à SEF; "
      "OF SPLOR 13/2025 e Memo SPLOR 198/2025 registram 'Encaminhado para manifestação da SUGER'; "
      "os Memos SPLOR 07/2024 e 196/2024 já haviam indicado a área de gestão estratégica para pedidos do TCE sobre a execução dos Projetos Estratégicos; "
      "NT 21/2026 indica a SUGER. A SPLOR pode fornecer os dados de crédito inicial, autorizado e empenhado."],
@@ -30,6 +31,7 @@ LINHAS = [
      "SUGER (com articulação com Comitê Pró-Brumadinho, FEAM/CMRR e SES)",
      "Competência: Decreto 48.636/2023, art. 69, VII e VIII (acordos judiciais de reparação e fontes 95 e 80); a execução envolve FEAM/CMRR e SES, fora do orçamento. "
      "Precedentes da SPLOR: Memo SPLOR 107/2024 pediu a manifestação do Secretário Adjunto; na NT 38/2024 a resposta foi transcrita do Comitê Pró-Brumadinho (Memo SEPLAG/RAM-CB 42/2024); "
+     "o Memo SPLOR 50/2025 (12/05/2025) enviou o D36 à Subsecretaria de Inovação e Gestão Estratégica, para conhecimento e providências, com resposta direta à SEF; "
      "OF SPLOR 13/2025 e Memo 198/2025 registram 'Encaminhado para manifestação da SUGER'. "
      "Em caso análogo, o Memo SPLOR 65/2026 (execução dos Acordos, fontes 80 e 95) indicou a SUGER por não haver demanda a ser atendida pela SPLOR."],
     [P, "2019", "R20",
@@ -46,6 +48,7 @@ LINHAS = [
      "SUGER",
      "Competência: Decreto 48.636/2023, art. 69, I (elaboração e revisão do PMDI). "
      "Precedentes da SPLOR: Memo SPLOR 109/2024 (D17) enviou à Subsecretaria de Inovação e Gestão Estratégica, com reiteração pelo Memo 127/2024; "
+     "o Memo SPLOR 50/2025 (12/05/2025) enviou novamente o R1/D17/D1 à Subsecretaria de Inovação e Gestão Estratégica, com resposta direta à SEF; "
      "OF SPLOR 13/2025 e Memo SPLOR 198/2025 registram 'Encaminhado para manifestação da SUGER'; "
      "NT 21/2026 indica a Subsecretaria de Gestão Estratégica e Reparação como competente para o PMDI."],
     [P, "2020", "R28",
@@ -54,7 +57,7 @@ LINHAS = [
      "SUGESP/SEPLAG (medidas corretivas) e SEF (procedimento de inclusão no RGF)",
      "Competência compartilhada: o RGF é elaborado e publicado pela SEF/STE; as medidas de gestão de pessoas são da SUGESP (Decreto 48.636/2023, art. 77). "
      "Precedentes da SPLOR: OF SPLOR 13/2025 e Memo SPLOR 198/2025 indicam a SEF; "
-     "o Memo SPLOR 200/2025 (C12), reportando o Memo SPLOR 82/2025, indica a SUGESP para as medidas corretivas de recondução ao limite. "
+     "o Memo SPLOR 82/2025 (09/07/2025, item C12 do Relatório Técnico Preliminar do BGE 2024, que pedia as medidas corretivas de recondução ao limite) recomendou que o apontamento fosse respondido pela SUGESP, já em cópia no processo SEI, e o Memo SPLOR 200/2025 (C12) repetiu essa indicação. "
      "Os dois precedentes se completam, e a recomendação consolida o encaminhamento às duas áreas. A SPLOR não elabora o RGF nem define medidas de pessoal."],
     [P, "2020, 2021", "R30, R11",
      "Observar com rigor os limites máximos de gastos com pessoal, atentando para as vedações estabelecidas no parágrafo único do art. 22 da Lei de Responsabilidade Fiscal, caso extrapolado o limite prudencial, ressaltando-se, todavia, que a vedação prevista no inciso I do mencionado dispositivo legal não alcança o pagamento e a atualização anual do piso nacional do magistério, assegurados pela Lei nº 11.738, de 2008",
@@ -86,7 +89,7 @@ LINHAS = [
      "Apuração, pelo controle interno, da legalidade do empenho de R$ 50 milhões (Fonte 95) em contrato do DER-MG e acompanhamento da compatibilidade entre o cronograma da obra e a programação orçamentária.",
      "SUGER, com envolvimento do DER-MG e da CGE/Controladoria Setorial",
      "Competência: apuração de legalidade é do controle interno (CGE e Controladoria Setorial); o acompanhamento do contrato é do DER-MG, executor; a gestão da Fonte 95 é da SUGER (Decreto 48.636/2023, art. 69, VII e VIII). "
-     "Precedentes da SPLOR: OF SPLOR 13/2025 registra 'Encaminhado à Subsecretaria de Inovação e Gestão Estratégica, através do Memorando SEPLAG/SPLOR 50/2025'; "
+     "Precedentes da SPLOR: o Memo SPLOR 50/2025 (12/05/2025) enviou o R34 à Subsecretaria de Inovação e Gestão Estratégica, para conhecimento e providências, com manifestação direta à SEF até 16/05/2025, e o OF SPLOR 13/2025 registra esse encaminhamento; "
      "o Memo SPLOR 170/2024 (monitoramento das contas de 2022 e 2023) informa que o Memo SPLOR 151/2024 pediu à unidade competente que se manifestasse diretamente ao Gabinete da SEPLAG; "
      "o Memo SPLOR 65/2026 indicou a SUGER para as despesas com recursos dos Acordos."],
     ["Relatório da Análise", "2025", "R46",

@@ -155,7 +155,8 @@ ITENS = [
             "e avaliação, em nível central, da política de recursos humanos', inclusive a 'administração e "
             "pagamento de pessoal'.",
             "Histórico: o Memo SPLOR 200/2025 (BGE 2024 – C12) remeteu à SUGESP o pedido de informar as medidas "
-            "corretivas, conforme o Memo SPLOR 82/2025. O OF SPLOR 13/2025 e o Memo SPLOR 198/2025 indicaram "
+            "corretivas, conforme o Memo SPLOR 82/2025 (09/07/2025, item C12 do Relatório Técnico Preliminar do BGE 2024), "
+            "que recomendou a resposta pela SUGESP, já em cópia no processo SEI. O OF SPLOR 13/2025 e o Memo SPLOR 198/2025 indicaram "
             "tratar-se de matéria de competência da SEF. A própria SEF declarou ao TCE que as medidas são da "
             "SEPLAG, o que reforça a necessidade de fluxo conjunto SUGESP–SEF.",
         ],
