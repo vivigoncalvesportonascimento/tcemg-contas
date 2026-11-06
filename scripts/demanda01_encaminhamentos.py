@@ -128,6 +128,106 @@ ITENS = [
                  "alinhamento PMDI × PPAG, a critério da SUGER.",
     },
     {
+        "ref": "R28 (2020)",
+        "tema": "Notas explicativas no RGF sobre medidas de recondução da despesa com pessoal",
+        "texto": "Recomendar que inclua notas explicativas nos RGF para informar as medidas corretivas, adotadas ou "
+                 "a adotar, de recondução ao limite de despesa com pessoal, visando conferir maior transparência "
+                 "em relação à situação fiscal do Poder ou órgão, tanto à sociedade como aos Tribunais de Contas, "
+                 "que têm a atribuição de fiscalizar o cumprimento da LRF.",
+        "visao": "Não Atendida",
+        "direcionamento_csv": "Verificar antes de responder se deve ser recomendado a SUGESP/SEPLAG e SEF",
+        "paginas": "BGE 2025, p. 712 (R13/2021) · BGE 2024, p. 620",
+        "demanda": [
+            "O TCEMG quer que o Relatório de Gestão Fiscal (RGF) traga notas explicativas com as medidas "
+            "corretivas, adotadas ou a adotar, para reconduzir a despesa com pessoal ao limite.",
+            "No BGE 2024 (p. 620), a SEF/SCAF informou que o RGF publica apenas a trajetória de retorno ao "
+            "limite, não as medidas corretivas. Comprometeu-se a inserir as notas e ressalvou que as medidas são "
+            "de competência da SEPLAG e do Governo. No BGE 2025 (p. 712), a CGE registrou que, ao longo de 2026, "
+            "SEF e SEPLAG promoveriam os ajustes para incluir as notas. A Cfamge manteve o item como Não "
+            "Atendido.",
+            "Constatação no repositório: no RGF do 2º quadrimestre de 2026, a DTP do Executivo foi de 47,36% da "
+            "RCL, acima do limite prudencial de 46,55%, e o campo 'Medidas Corretivas' continua em branco.",
+        ],
+        "fundamento": [
+            "Competência compartilhada, sem atribuição da SPLOR. A elaboração e a publicação do RGF são da "
+            "SEF/STE. A definição e o acompanhamento das medidas de contenção da despesa com pessoal são da "
+            "SUGESP: Decreto 48.636/2023, art. 77, compete à SUGESP 'planejar e coordenar a formulação, execução "
+            "e avaliação, em nível central, da política de recursos humanos', inclusive a 'administração e "
+            "pagamento de pessoal'.",
+            "Histórico: o Memo SPLOR 200/2025 (BGE 2024 – C12) remeteu à SUGESP o pedido de informar as medidas "
+            "corretivas, conforme o Memo SPLOR 82/2025. O OF SPLOR 13/2025 e o Memo SPLOR 198/2025 indicaram "
+            "tratar-se de matéria de competência da SEF. A própria SEF declarou ao TCE que as medidas são da "
+            "SEPLAG, o que reforça a necessidade de fluxo conjunto SUGESP–SEF.",
+        ],
+        "destino": "SUGESP/SEPLAG e SEF",
+        "apoio": "Dessa forma, a SPLOR recomenda que a SUGESP/SEPLAG se manifeste sobre as medidas corretivas "
+                 "adotadas ou previstas no âmbito da gestão de pessoas e que a SEF informe os procedimentos para "
+                 "inclusão dessas informações nas notas explicativas do RGF. A SPLOR poderá fornecer, quando "
+                 "necessário, subsídios relativos às projeções orçamentárias da despesa de pessoal e ao "
+                 "acompanhamento dos limites fiscais.",
+    },
+    {
+        "ref": "R30 (2020) · R11 (2021)",
+        "tema": "Limites de despesa com pessoal e vedações do art. 22 da LRF",
+        "texto": "Observar com rigor os limites máximos de gastos com pessoal, atentando para as vedações "
+                 "estabelecidas no parágrafo único do art. 22 da Lei de Responsabilidade Fiscal, caso extrapolado "
+                 "o limite prudencial, ressaltando-se, todavia, que a vedação prevista no inciso I do mencionado "
+                 "dispositivo legal não alcança o pagamento e a atualização anual do piso nacional do magistério, "
+                 "assegurados pela Lei nº 11.738, de 2008.",
+        "visao": "Não Atendida",
+        "direcionamento_csv": "Responder (a SPLOR entende que a competência é da SUGESP)",
+        "paginas": "BGE 2025, p. 712 · Defesa 2025, p. 19 (medidas de pessoal)",
+        "demanda": [
+            "O TCEMG quer que o Poder Executivo observe os limites de despesa com pessoal e as vedações do "
+            "parágrafo único do art. 22 da LRF enquanto estiver acima do limite prudencial, ressalvados o "
+            "pagamento e a atualização do piso nacional do magistério.",
+            "No BGE 2025 (p. 712), a Cfamge ratificou o não atendimento porque o Poder Executivo continuou acima "
+            "do limite prudencial durante 2025. No RGF do 2º quadrimestre de 2026, a DTP do Executivo foi de "
+            "R$ 55,757 bilhões, ou 47,36% da RCL ajustada (limite prudencial de 46,55% e máximo de 49,00%). Na "
+            "defesa do BGE 2025 (p. 19), o Estado listou as medidas de contenção adotadas.",
+        ],
+        "fundamento": [
+            "Razões similares às do item R28/2020: a observância das vedações do art. 22 da LRF (reajustes, "
+            "nomeações, criação de cargos, horas extras etc.) decorre da política de gestão de pessoas, de "
+            "competência da SUGESP (Decreto 48.636/2023, art. 77).",
+            "Histórico: o OF SPLOR 13/2025 indicou a SUGESP para o R30, e a NT 21/2026 indicou a SUGESP para o "
+            "R11. O R11 foi respondido pela AEI/SEPLAG na NT 38/2024. A SPLOR já prestou informações "
+            "orçamentárias sobre a DTP nos Memos SPLOR 64/2026 e 133/2026 (alertas do TCE).",
+        ],
+        "destino": "SUGESP",
+        "apoio": "A SPLOR poderá fornecer, quando necessário, subsídios relativos às projeções orçamentárias da "
+                 "despesa de pessoal e ao acompanhamento dos limites fiscais (DTP/RCL), com base nos Memos SPLOR "
+                 "64/2026 e 133/2026.",
+    },
+    {
+        "ref": "R12 (2021)",
+        "tema": "Redução estrutural das despesas com pessoal",
+        "texto": "Manter-se pertinaz nos esforços para redução das despesas com pessoal, adotando medidas "
+                 "estruturantes, com vistas ao equilíbrio dos dispêndios dessa natureza.",
+        "visao": "Não Atendida",
+        "direcionamento_csv": "Responder (a SPLOR entende que a competência é da SUGESP)",
+        "paginas": "BGE 2025, p. 712 · Defesa 2025, p. 19",
+        "demanda": [
+            "O TCEMG quer que o Estado mantenha esforços para reduzir a despesa com pessoal, com medidas "
+            "estruturantes que levem ao equilíbrio desse gasto.",
+            "No BGE 2025 (p. 712), a Cfamge registrou que a CGE considerou a recomendação implementada, diante "
+            "das medidas de contenção informadas pela SEPLAG. A Cfamge, porém, ratificou o não atendimento: a "
+            "despesa com pessoal segue crescendo e o Executivo continuou acima do limite prudencial.",
+        ],
+        "fundamento": [
+            "Razões similares às dos itens R28/2020 e R30/2020 · R11/2021: medidas estruturantes de redução da "
+            "despesa com pessoal decorrem da política de gestão de pessoas, de competência da SUGESP "
+            "(Decreto 48.636/2023, art. 77).",
+            "Histórico: a NT 21/2026 indicou a SUGESP para o R12, e a NT 38/2024 transcreveu a resposta da "
+            "AEI/SEPLAG. Nos Memos SPLOR 133/2026 e 135/2026, a SPLOR informou a trajetória da DTP/RCL e sugeriu "
+            "o encaminhamento à SUGESP e à SEF.",
+        ],
+        "destino": "SUGESP",
+        "apoio": "A SPLOR poderá fornecer, quando necessário, subsídios relativos às projeções orçamentárias da "
+                 "despesa de pessoal (no PLOA 2027, aumento de R$ 2,572 bilhões no Executivo, associado ao "
+                 "crescimento vegetativo) e ao acompanhamento dos limites fiscais.",
+    },
+    {
         "ref": "D28 (2021)",
         "tema": "Baixo comprometimento com o planejamento das ações de Projetos Estratégicos",
         "texto": "Atentar para o baixo comprometimento com o planejamento das ações de Projetos Estratégicos.",
